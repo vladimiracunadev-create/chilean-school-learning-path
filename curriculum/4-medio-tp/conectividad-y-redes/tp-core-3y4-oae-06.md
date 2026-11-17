@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14939) · [Clase 2](#cl-14940) · [Clase 3](#cl-14941) · [Clase 4](#cl-14942)
+**Clases de este OA:** [Clase 1](#cl-15124) · [Clase 2](#cl-15125) · [Clase 3](#cl-15126) · [Clase 4](#cl-15127)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-14939}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-15124}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los a través de situar el contexto laboral, la norma y el riesgo: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Perder servidor y copia en el mismo siniestro
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-05.md#cl-14938) · [Clase siguiente →](#cl-14940)
+[← Última clase del OA anterior](tp-core-3y4-oae-05.md#cl-15123) · [Clase siguiente →](#cl-15125)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-14940}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-15125}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los a través de reconocer conceptos, documentos y roles del oficio: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 3 respaldos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14939) · [Clase siguiente →](#cl-14941)
+[← Clase anterior](#cl-15124) · [Clase siguiente →](#cl-15126)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-14941}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-15126}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los a través de analizar un caso de trabajo en papel: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 4 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14940) · [Clase siguiente →](#cl-14942)
+[← Clase anterior](#cl-15125) · [Clase siguiente →](#cl-15127)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-14942}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los {#cl-15127}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los a través de aplicar un criterio técnico con datos de ejemplo: Aplicar procedimientos de recuperación de fallas y realizar copias de respaldo de los, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 5 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14941) · [Primera clase del OA siguiente →](tp-core-3y4-oae-07.md#cl-14943)
+[← Clase anterior](#cl-15126) · [Primera clase del OA siguiente →](tp-core-3y4-oae-07.md#cl-15128)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -1,6 +1,6 @@
 # Conectividad y Redes · formación técnico-profesional (3° y 4° medio)
 
-[⬅️ Índice de especialidades](README.md) · [← Servicios de Turismo](servicios-de-turismo.md) · [Programación →](programacion.md)
+[⬅️ Índice de especialidades](README.md) · [← Atención de Párvulos](atencion-de-parvulos.md) · [Programación →](programacion.md)
 
 **11 objetivos de aprendizaje · 88 clases en total · cuaderno del estudiante en cada clase · revisión humana pendiente**
 
@@ -38,10 +38,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es una red LAN, qué documentos tiene un proyecto de conectividad, quién participa y qué riesgos hay al leerlo y compartirlo. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14584) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14919) |
-| 2 | Aprenderé los modelos OSI y TCP/IP, qué hace cada capa y quiénes usan estos modelos al leer un proyecto de red. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14585) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14920) |
-| 3 | Aprenderás a leer un diagrama de una red LAN: equipos, puertos, direcciones y camino de un mensaje, y a detectar errores simples. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14586) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14921) |
-| 4 | Aprenderás a comparar propuestas de un proyecto de red con criterios técnicos y datos, y a escribir una recomendación con sus límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14587) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14922) |
+| 1 | Aprenderé qué es una red LAN, qué documentos tiene un proyecto de conectividad, quién participa y qué riesgos hay al leerlo y compartirlo. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14627) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-15104) |
+| 2 | Aprenderé los modelos OSI y TCP/IP, qué hace cada capa y quiénes usan estos modelos al leer un proyecto de red. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14628) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-15105) |
+| 3 | Aprenderás a leer un diagrama de una red LAN: equipos, puertos, direcciones y camino de un mensaje, y a detectar errores simples. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14629) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-15106) |
+| 4 | Aprenderás a comparar propuestas de un proyecto de red con criterios técnicos y datos, y a escribir una recomendación con sus límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-14630) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-01.md#cl-15107) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -53,10 +53,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un sistema operativo, por qué se instala y configura con autorización, y qué riesgos y estándares hay que respetar. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14588) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14923) |
-| 2 | Aprenderé los conceptos básicos de la instalación y configuración de un sistema operativo (cuentas, particiones, controladores, actualizaciones) y los documentos que dejan constancia. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14589) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14924) |
-| 3 | Aprenderás a analizar un caso: decidir qué equipos cumplen los requisitos y cómo se incorporan a una LAN con direcciones del servicio DHCP. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14590) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14925) |
-| 4 | Aprenderás a elegir y justificar un sistema operativo con criterios técnicos y de seguridad, y a ordenar las etapas de una configuración responsable. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14591) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14926) |
+| 1 | Aprenderé qué es un sistema operativo, por qué se instala y configura con autorización, y qué riesgos y estándares hay que respetar. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14631) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-15108) |
+| 2 | Aprenderé los conceptos básicos de la instalación y configuración de un sistema operativo (cuentas, particiones, controladores, actualizaciones) y los documentos que dejan constancia. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14632) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-15109) |
+| 3 | Aprenderás a analizar un caso: decidir qué equipos cumplen los requisitos y cómo se incorporan a una LAN con direcciones del servicio DHCP. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14633) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-15110) |
+| 4 | Aprenderás a elegir y justificar un sistema operativo con criterios técnicos y de seguridad, y a ordenar las etapas de una configuración responsable. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-14634) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-02.md#cl-15111) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -68,10 +68,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un cableado estructurado, cuáles son sus partes, quiénes participan y qué riesgos tiene el trabajo en terreno (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14592) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14927) |
-| 2 | Aprenderé el vocabulario del cableado estructurado (medios, elementos, rotulado) y los documentos con que se lee y se verifica (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14593) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14928) |
-| 3 | Aprenderás a analizar una planilla de puntos: calcular el cable necesario, detectar puntos fuera del límite y decidir qué corregir (solo en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14594) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14929) |
-| 4 | Aprenderás a elegir el medio de un enlace con datos de distancia y pérdida de señal, y a escribir una recomendación con sus límites (solo en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14595) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14930) |
+| 1 | Aprenderé qué es un cableado estructurado, cuáles son sus partes, quiénes participan y qué riesgos tiene el trabajo en terreno (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14635) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-15112) |
+| 2 | Aprenderé el vocabulario del cableado estructurado (medios, elementos, rotulado) y los documentos con que se lee y se verifica (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14636) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-15113) |
+| 3 | Aprenderás a analizar una planilla de puntos: calcular el cable necesario, detectar puntos fuera del límite y decidir qué corregir (solo en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14637) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-15114) |
+| 4 | Aprenderás a elegir el medio de un enlace con datos de distancia y pérdida de señal, y a escribir una recomendación con sus límites (solo en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-14638) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-03.md#cl-15115) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -83,10 +83,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué sirven las pruebas de conexión y señal, quién participa, qué documentos dejan y qué riesgos tienen. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14596) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14931) |
-| 2 | Aprenderé el vocabulario de las mediciones de una red (latencia, pérdida, Mbps), los instrumentos y los documentos donde se registran. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14597) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14932) |
-| 3 | Aprenderás a analizar un informe de pruebas: decidir qué puntos pasan, por qué falla cada uno y qué hacer sin alterar los resultados. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14598) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14933) |
-| 4 | Aprenderás a encontrar un cuello de botella con mediciones y a recomendar una mejora de rendimiento con datos, costo y límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14599) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14934) |
+| 1 | Aprenderé para qué sirven las pruebas de conexión y señal, quién participa, qué documentos dejan y qué riesgos tienen. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14639) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-15116) |
+| 2 | Aprenderé el vocabulario de las mediciones de una red (latencia, pérdida, Mbps), los instrumentos y los documentos donde se registran. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14640) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-15117) |
+| 3 | Aprenderás a analizar un informe de pruebas: decidir qué puntos pasan, por qué falla cada uno y qué hacer sin alterar los resultados. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14641) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-15118) |
+| 4 | Aprenderás a encontrar un cuello de botella con mediciones y a recomendar una mejora de rendimiento con datos, costo y límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-14642) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-04.md#cl-15119) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -98,10 +98,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué amenazas tiene una red LAN, qué principios la protegen, quién tiene qué rol y qué límites éticos y legales hay. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14600) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14935) |
-| 2 | Aprenderé el vocabulario de los métodos de seguridad (firewall, ACL, segmentación, mínimo privilegio) y los documentos y roles que los acompañan. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14601) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14936) |
-| 3 | Aprenderás a evaluar paquetes de ejemplo contra una ACL, a ver cómo el orden cambia el resultado y a registrar la decisión. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14602) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14937) |
-| 4 | Aprenderás a priorizar riesgos de una red LAN con una matriz, elegir medidas con presupuesto y recomendar con datos y límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14603) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14938) |
+| 1 | Aprenderé qué amenazas tiene una red LAN, qué principios la protegen, quién tiene qué rol y qué límites éticos y legales hay. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14643) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-15120) |
+| 2 | Aprenderé el vocabulario de los métodos de seguridad (firewall, ACL, segmentación, mínimo privilegio) y los documentos y roles que los acompañan. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14644) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-15121) |
+| 3 | Aprenderás a evaluar paquetes de ejemplo contra una ACL, a ver cómo el orden cambia el resultado y a registrar la decisión. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14645) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-15122) |
+| 4 | Aprenderás a priorizar riesgos de una red LAN con una matriz, elegir medidas con presupuesto y recomendar con datos y límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-14646) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-05.md#cl-15123) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -113,10 +113,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué se hacen copias de respaldo, qué fallas existen, quién participa y cuáles son los riesgos de la recuperación (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14604) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14939) |
-| 2 | Aprenderé los tipos de respaldo, la regla 3-2-1, el RPO y el RTO, la comprobación de integridad y los documentos del respaldo. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14605) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14940) |
-| 3 | Aprenderás a analizar un caso de respaldos: espacio por semana, cadena de restauración y qué pasa si una copia se daña (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14606) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14941) |
-| 4 | Aprenderás a elegir y justificar un esquema de respaldo con datos de espacio, RPO y RTO, y a decir qué falta para darlo por bueno (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14607) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14942) |
+| 1 | Aprenderé por qué se hacen copias de respaldo, qué fallas existen, quién participa y cuáles son los riesgos de la recuperación (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14647) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-15124) |
+| 2 | Aprenderé los tipos de respaldo, la regla 3-2-1, el RPO y el RTO, la comprobación de integridad y los documentos del respaldo. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14648) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-15125) |
+| 3 | Aprenderás a analizar un caso de respaldos: espacio por semana, cadena de restauración y qué pasa si una copia se daña (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14649) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-15126) |
+| 4 | Aprenderás a elegir y justificar un esquema de respaldo con datos de espacio, RPO y RTO, y a decir qué falta para darlo por bueno (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-14650) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-06.md#cl-15127) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -128,10 +128,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es una red inalámbrica, qué documentos y roles tiene su proyecto y qué riesgos de seguridad, privacidad y trabajo en terreno hay (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14608) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14943) |
-| 2 | Aprenderé el vocabulario de las redes inalámbricas (SSID, bandas, canales, cifrado, dBm) y los documentos del proyecto. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14609) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14944) |
-| 3 | Aprenderás a analizar un caso de cobertura y capacidad: qué zonas cumplen la meta, dónde hay sobrecarga y qué canales evitan interferencia. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14610) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14945) |
-| 4 | Aprenderás a comparar propuestas de red inalámbrica con criterios de capacidad y seguridad, y a escribir una recomendación con límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14611) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14946) |
+| 1 | Aprenderé qué es una red inalámbrica, qué documentos y roles tiene su proyecto y qué riesgos de seguridad, privacidad y trabajo en terreno hay (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14651) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-15128) |
+| 2 | Aprenderé el vocabulario de las redes inalámbricas (SSID, bandas, canales, cifrado, dBm) y los documentos del proyecto. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14652) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-15129) |
+| 3 | Aprenderás a analizar un caso de cobertura y capacidad: qué zonas cumplen la meta, dónde hay sobrecarga y qué canales evitan interferencia. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14653) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-15130) |
+| 4 | Aprenderás a comparar propuestas de red inalámbrica con criterios de capacidad y seguridad, y a escribir una recomendación con límites. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-14654) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-07.md#cl-15131) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -143,10 +143,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son los servicios de intranet e internet, qué reglas de uso responsable existen y qué riesgos hay al usarlos. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14612) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14947) |
-| 2 | Aprenderé el vocabulario de los servicios de intranet e internet (URL, DNS, HTTPS, VPN, nube) y las herramientas con que se usan. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14613) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14948) |
-| 3 | Aprenderás a analizar un caso y elegir herramientas de intranet e internet que ahorren capacidad de red y cumplan las reglas. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14614) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14949) |
-| 4 | Aprenderás a elegir un servicio de intranet o internet con criterios técnicos, de seguridad y de eficiencia, y a justificar la decisión. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14615) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14950) |
+| 1 | Aprenderé qué son los servicios de intranet e internet, qué reglas de uso responsable existen y qué riesgos hay al usarlos. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14655) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-15132) |
+| 2 | Aprenderé el vocabulario de los servicios de intranet e internet (URL, DNS, HTTPS, VPN, nube) y las herramientas con que se usan. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14656) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-15133) |
+| 3 | Aprenderás a analizar un caso y elegir herramientas de intranet e internet que ahorren capacidad de red y cumplan las reglas. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14657) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-15134) |
+| 4 | Aprenderás a elegir un servicio de intranet o internet con criterios técnicos, de seguridad y de eficiencia, y a justificar la decisión. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-14658) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-08.md#cl-15135) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -158,10 +158,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el mantenimiento de hardware, qué tipos hay, quién participa y qué riesgos y normas existen (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14616) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14951) |
-| 2 | Aprenderé las partes principales de un computador, la compatibilidad de piezas y los documentos del mantenimiento (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14617) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14952) |
-| 3 | Aprenderás a analizar un cronograma de mantenimiento: cuántas jornadas se necesitan, cuánto dura cada una y cuándo termina (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14618) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14953) |
-| 4 | Aprenderás a decidir una actualización de hardware con criterios de compatibilidad, requerimientos y costo, y a justificarla (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14619) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14954) |
+| 1 | Aprenderé qué es el mantenimiento de hardware, qué tipos hay, quién participa y qué riesgos y normas existen (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14659) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-15136) |
+| 2 | Aprenderé las partes principales de un computador, la compatibilidad de piezas y los documentos del mantenimiento (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14660) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-15137) |
+| 3 | Aprenderás a analizar un cronograma de mantenimiento: cuántas jornadas se necesitan, cuánto dura cada una y cuándo termina (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14661) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-15138) |
+| 4 | Aprenderás a decidir una actualización de hardware con criterios de compatibilidad, requerimientos y costo, y a justificarla (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-14662) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-09.md#cl-15139) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -173,10 +173,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué se mantienen actualizados el software de productividad y los programas utilitarios, quién decide, qué riesgos hay y qué reglas se siguen. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14620) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14955) |
-| 2 | Aprenderé el vocabulario del mantenimiento del software (versión, parche, inventario, compatibilidad, reversión) y los documentos que se usan. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14621) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14956) |
-| 3 | Aprenderás a analizar un inventario: qué equipos cumplen las versiones mínimas, qué programas hay que actualizar y en qué orden (solo en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14622) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14957) |
-| 4 | Aprenderás a decidir qué actualizar y cuándo, equilibrando seguridad, requerimientos de las personas usuarias y tiempo disponible. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14623) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14958) |
+| 1 | Aprenderé por qué se mantienen actualizados el software de productividad y los programas utilitarios, quién decide, qué riesgos hay y qué reglas se siguen. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14663) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-15140) |
+| 2 | Aprenderé el vocabulario del mantenimiento del software (versión, parche, inventario, compatibilidad, reversión) y los documentos que se usan. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14664) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-15141) |
+| 3 | Aprenderás a analizar un inventario: qué equipos cumplen las versiones mínimas, qué programas hay que actualizar y en qué orden (solo en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14665) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-15142) |
+| 4 | Aprenderás a decidir qué actualizar y cuándo, equilibrando seguridad, requerimientos de las personas usuarias y tiempo disponible. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-14666) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-10.md#cl-15143) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -188,10 +188,10 @@ Reúne 11 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué significa armar y configurar un equipo, qué documentos y roles intervienen y qué riesgos y normas de seguridad existen (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14624) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14959) |
-| 2 | Aprenderé las piezas de un equipo, cómo se comprueba su compatibilidad y qué documentos acompañan el armado (solo lectura de documentos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14625) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14960) |
-| 3 | Aprenderás a analizar un caso de armado en papel: elegir piezas compatibles y calcular la fuente de poder con un margen de seguridad. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14626) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14961) |
-| 4 | Aprenderás a decidir una configuración de equipo con requisitos y presupuesto, y a escribir una recomendación con límites (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14627) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14962) |
+| 1 | Aprenderé qué significa armar y configurar un equipo, qué documentos y roles intervienen y qué riesgos y normas de seguridad existen (solo conceptos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14667) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-15144) |
+| 2 | Aprenderé las piezas de un equipo, cómo se comprueba su compatibilidad y qué documentos acompañan el armado (solo lectura de documentos). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14668) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-15145) |
+| 3 | Aprenderás a analizar un caso de armado en papel: elegir piezas compatibles y calcular la fuente de poder con un margen de seguridad. | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14669) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-15146) |
+| 4 | Aprenderás a decidir una configuración de equipo con requisitos y presupuesto, y a escribir una recomendación con límites (solo cálculos en papel). | [3° medio](../../curriculum/3-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-14670) · [4° medio](../../curriculum/4-medio-tp/conectividad-y-redes/tp-core-3y4-oae-11.md#cl-15147) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

@@ -52,21 +52,21 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(validate_licensing(), [])
 
     def test_catalog_truth(self):
-        self.assertEqual(self.catalog["class_count"], 15217)
-        self.assertEqual(self.catalog["objective_count"], 3308)
+        self.assertEqual(self.catalog["class_count"], 15524)
+        self.assertEqual(self.catalog["objective_count"], 3382)
         self.assertEqual(self.catalog["course_count"], 12)
-        self.assertEqual(self.catalog["subject_count"], 73)
-        self.assertEqual(len(self.catalog["classes"]), 15217)
+        self.assertEqual(self.catalog["subject_count"], 79)
+        self.assertEqual(len(self.catalog["classes"]), 15524)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 11061)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 11368)
         self.assertEqual(self.catalog["editorial_counts"]["integrada"], 4156)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
         curriculum_index = (ROOT / "CURRICULUM.md").read_text(encoding="utf-8")
-        self.assertIn("11.061 clases", curriculum_index)
+        self.assertIn("11.368 clases", curriculum_index)
         self.assertIn("4.156 experiencias integradas", curriculum_index)
-        self.assertIn("15.217 registros pedagógicos", curriculum_index)
-        self.assertNotIn("15.217 clases", curriculum_index)
+        self.assertIn("15.524 registros pedagógicos", curriculum_index)
+        self.assertNotIn("15.524 clases", curriculum_index)
 
     def test_current_surfaces_agree_on_complete_levels_through_fourth_middle(self):
         plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
@@ -77,9 +77,9 @@ class SchoolProgramTests(unittest.TestCase):
             "control_interno_completo_hasta_4_medio",
         )
         current_surfaces = {
-            "README.md": ("1° básico a 4° medio", "8° básico completo", "1° medio completo", "2° medio completo", "3° medio completo", "4° medio completo", "11.061"),
+            "README.md": ("1° básico a 4° medio", "8° básico completo", "1° medio completo", "2° medio completo", "3° medio completo", "4° medio completo", "11.368"),
             "docs/PLAN_DESARROLLO.md": ("4° medio — desarrollo interno completo", "Definición y orden editorial de 1° básico a 4° medio", "MA2M OA 12", "LE2M OA 24", "FG-MATE-4M-OAC-04", "FG-LELI-4M-OAC-08", "FG-CIAS-3y4-OAC-01", "Gates del desarrollo interno", "- [x] Todos los OA disciplinares"),
-            "site/index.html": ("Doce niveles completos", "4° medio", "11.061 clases", "4.156 experiencias integradas"),
+            "site/index.html": ("Doce niveles completos", "4° medio", "11.368 clases", "4.156 experiencias integradas"),
         }
         stale_tokens = (
             "Siete asignaturas de 7°",
@@ -97,9 +97,9 @@ class SchoolProgramTests(unittest.TestCase):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         positive_section = readme.split("### ✅ Sí es", 1)[1].split("### ❌ No es", 1)[0]
         negative_section = readme.split("### ❌ No es", 1)[1].split("## 💡 Idea fuerza", 1)[0]
-        self.assertIn("11.061 clases disciplinares", positive_section)
+        self.assertIn("11.368 clases disciplinares", positive_section)
         self.assertIn("4.156 experiencias de integración transversal", positive_section)
-        self.assertNotIn("11.061 clases disciplinares", negative_section)
+        self.assertNotIn("11.368 clases disciplinares", negative_section)
         self.assertNotIn("4.156 experiencias", negative_section)
         self.assertNotIn("sirve hoy para cuatro cosas", readme)
         for token in (
@@ -112,7 +112,7 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertIn(token, readme)
 
         syllabus = (ROOT / "docs/SYLLABUS.md").read_text(encoding="utf-8")
-        for token in ("3.308 OA", "15.217 registros pedagógicos", "11.061 clases disciplinares", "4.156 experiencias"):
+        for token in ("3.382 OA", "15.524 registros pedagógicos", "11.368 clases disciplinares", "4.156 experiencias"):
             self.assertIn(token, syllabus)
         level_folders = (
             "1-basico", "2-basico", "3-basico", "4-basico", "5-basico", "6-basico",
@@ -129,7 +129,7 @@ class SchoolProgramTests(unittest.TestCase):
             "EDITORIAL_STATUS.md", "VALIDATION_REPORT.md",
         ):
             surface = (ROOT / relative_path).read_text(encoding="utf-8")
-            for token in ("3.308", "15.217", "11.061", "4.156"):
+            for token in ("3.382", "15.524", "11.368", "4.156"):
                 self.assertIn(token, surface, f"{relative_path} omite la cifra canónica {token}")
 
         complete_readme_sections = {
@@ -177,7 +177,7 @@ class SchoolProgramTests(unittest.TestCase):
             "Una mejora de 1°, 2°, 3°, 4° o 5° básico",
             "Docente de 1°, 2° o 3° básico",
             "6.383 clases desarrolladas",
-            "3.308 experiencias integradas",
+            "3.382 experiencias integradas",
             "3.370 propuestas",
         )
         for stale_claim in stale_claims:
@@ -198,7 +198,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 11061)
+        self.assertEqual(len(developed), 11368)
 
     def test_first_middle_mathematics_and_language_are_complete_and_specific(self):
         first_middle = [item for item in self.catalog["classes"] if item["course_order"] == 9]
@@ -1442,8 +1442,8 @@ class SchoolProgramTests(unittest.TestCase):
 
     def test_class_ids_and_codes_are_unique(self):
         classes = self.catalog["classes"]
-        self.assertEqual([item["id"] for item in classes], list(range(1, 15218)))
-        self.assertEqual(len({item["class_code"] for item in classes}), 15217)
+        self.assertEqual([item["id"] for item in classes], list(range(1, 15525)))
+        self.assertEqual(len({item["class_code"] for item in classes}), 15524)
 
     def test_every_class_has_public_page_and_anchor(self):
         cache = {}

@@ -27,7 +27,7 @@ Las columnas de plantillas consideran sólo las clases **sin** cuaderno; una pla
 | 3.º medio | 495 | 495 | 0 | 0 |
 | 4.º medio | 466 | 466 | 0 | 0 |
 
-**Total:** 11061 clases con consigna exacta; 10825 con cuaderno del estudiante.
+**Total:** 11368 clases con consigna exacta; 11132 con cuaderno del estudiante.
 
 ## Qué se corrige y en qué orden
 

@@ -38,10 +38,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es una orden de trabajo gráfica, qué fases tiene el proceso y qué reglas de derechos de autor, privacidad y ergonomía debo respetar al diagramar y editar. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14698) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15033) |
-| 2 | Aprenderé los conceptos técnicos de un archivo gráfico: formato, sangrado, márgenes, resolución, modo de color, tipo de imagen y medidas de tipografía. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14699) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15034) |
-| 3 | Aprenderás a revisar un archivo contra la orden de trabajo, detectar incumplimientos con una revisión previa y registrar lo que hay que corregir. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14700) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15035) |
-| 4 | Aprenderás a elegir entre alternativas de composición con criterios técnicos verificables (jerarquía, contraste, legibilidad) y a revisar los textos antes de aprobar. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14701) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15036) |
+| 1 | Aprenderé qué es una orden de trabajo gráfica, qué fases tiene el proceso y qué reglas de derechos de autor, privacidad y ergonomía debo respetar al diagramar y editar. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14792) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15292) |
+| 2 | Aprenderé los conceptos técnicos de un archivo gráfico: formato, sangrado, márgenes, resolución, modo de color, tipo de imagen y medidas de tipografía. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14793) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15293) |
+| 3 | Aprenderás a revisar un archivo contra la orden de trabajo, detectar incumplimientos con una revisión previa y registrar lo que hay que corregir. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14794) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15294) |
+| 4 | Aprenderás a elegir entre alternativas de composición con criterios técnicos verificables (jerarquía, contraste, legibilidad) y a revisar los textos antes de aprobar. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-14795) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-01.md#cl-15295) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -53,10 +53,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué sirve una prueba de color, qué tipos hay, quién la aprueba y qué riesgos tiene aprobar sin registro. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14702) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15037) |
-| 2 | Aprenderé qué son la prueba de color, la película, la matriz de impresión y el impreso digital, en qué se diferencian y cómo se compara su costo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14703) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15038) |
-| 3 | Aprenderás a analizar una tira de control: comparar lo medido con el valor objetivo y la tolerancia, decidir si cumple y registrar la decisión. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14704) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15039) |
-| 4 | Aprenderás a aplicar un criterio de aceptación con porcentajes y costos, a decidir si un lote se acepta y a dejar la decisión registrada. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14705) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15040) |
+| 1 | Aprenderé para qué sirve una prueba de color, qué tipos hay, quién la aprueba y qué riesgos tiene aprobar sin registro. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14796) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15296) |
+| 2 | Aprenderé qué son la prueba de color, la película, la matriz de impresión y el impreso digital, en qué se diferencian y cómo se compara su costo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14797) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15297) |
+| 3 | Aprenderás a analizar una tira de control: comparar lo medido con el valor objetivo y la tolerancia, decidir si cumple y registrar la decisión. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14798) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15298) |
+| 4 | Aprenderás a aplicar un criterio de aceptación con porcentajes y costos, a decidir si un lote se acepta y a dejar la decisión registrada. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-14799) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-02.md#cl-15299) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -68,10 +68,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son las materias primas e insumos de un trabajo gráfico, qué documentos los respaldan y qué cuidados de seguridad, registro y ambiente exigen. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14706) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15041) |
-| 2 | Aprenderás a leer un catálogo de sustratos y tintas: gramaje, tipos de papel, tintas según el material y datos que se declaran en una orden de trabajo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14707) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15042) |
-| 3 | Aprenderás a calcular cantidades de papel y tinta para un pedido, a comparar con el stock de bodega y a registrar qué falta y qué sobra. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14708) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15043) |
-| 4 | Aprenderás a elegir un sustrato con criterios verificables de la OT y a decidir qué lote de insumo usar primero, dejando la decisión registrada. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14709) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15044) |
+| 1 | Aprenderé qué son las materias primas e insumos de un trabajo gráfico, qué documentos los respaldan y qué cuidados de seguridad, registro y ambiente exigen. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14800) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15300) |
+| 2 | Aprenderás a leer un catálogo de sustratos y tintas: gramaje, tipos de papel, tintas según el material y datos que se declaran en una orden de trabajo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14801) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15301) |
+| 3 | Aprenderás a calcular cantidades de papel y tinta para un pedido, a comparar con el stock de bodega y a registrar qué falta y qué sobra. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14802) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15302) |
+| 4 | Aprenderás a elegir un sustrato con criterios verificables de la OT y a decidir qué lote de insumo usar primero, dejando la decisión registrada. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-14803) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-03.md#cl-15303) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -83,10 +83,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es regular una máquina de impresión, qué documentos manda a leer, qué peligros hay en términos generales y por qué solo opera quien está autorizado. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14710) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15045) |
-| 2 | Aprenderé en qué se diferencian los sistemas de impresión tipográfico, offset, flexográfico y serigráfico, y qué términos de máquina aparecen en una orden de trabajo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14711) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15046) |
-| 3 | Aprenderás a analizar un pedido con reglas de selección y a decidir qué sistema de impresión corresponde, con una razón y un registro. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14712) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15047) |
-| 4 | Aprenderás a comparar una hoja de ajuste con la orden de trabajo, detectar diferencias y calcular cuánto pesa la preparación en el tiempo total, sin ajustar ninguna máquina. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14713) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15048) |
+| 1 | Aprenderé qué es regular una máquina de impresión, qué documentos manda a leer, qué peligros hay en términos generales y por qué solo opera quien está autorizado. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14804) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15304) |
+| 2 | Aprenderé en qué se diferencian los sistemas de impresión tipográfico, offset, flexográfico y serigráfico, y qué términos de máquina aparecen en una orden de trabajo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14805) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15305) |
+| 3 | Aprenderás a analizar un pedido con reglas de selección y a decidir qué sistema de impresión corresponde, con una razón y un registro. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14806) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15306) |
+| 4 | Aprenderás a comparar una hoja de ajuste con la orden de trabajo, detectar diferencias y calcular cuánto pesa la preparación en el tiempo total, sin ajustar ninguna máquina. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-14807) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-04.md#cl-15307) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -98,11 +98,11 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé quiénes participan en la impresión de un producto, qué estándares y normas de seguridad rodean el trabajo y qué cuidados de limpieza, ambiente y ergonomía corresponden. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14714) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15049) |
-| 2 | Aprenderé el vocabulario del control de calidad durante la impresión: arranque, merma, planilla de control, calce, densidad y tipos de defectos. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14715) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15050) |
-| 3 | Aprenderás a leer una planilla de control, detectar revisiones fuera de tolerancia y decidir qué pliegos se separan y a quién se avisa. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14716) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15051) |
-| 4 | Aprenderás a calcular cuántos pliegos hay que imprimir, cuánto dura una tirada y cuánto cuesta, para planificar el trabajo con datos. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14717) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15052) |
-| 5 | Aprenderás a comparar alternativas ante un problema de calidad en la impresión, a calcular costos y a verificar si un lote cumple el criterio de aceptación. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14718) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15053) |
+| 1 | Aprenderé quiénes participan en la impresión de un producto, qué estándares y normas de seguridad rodean el trabajo y qué cuidados de limpieza, ambiente y ergonomía corresponden. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14808) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15308) |
+| 2 | Aprenderé el vocabulario del control de calidad durante la impresión: arranque, merma, planilla de control, calce, densidad y tipos de defectos. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14809) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15309) |
+| 3 | Aprenderás a leer una planilla de control, detectar revisiones fuera de tolerancia y decidir qué pliegos se separan y a quién se avisa. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14810) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15310) |
+| 4 | Aprenderás a calcular cuántos pliegos hay que imprimir, cuánto dura una tirada y cuánto cuesta, para planificar el trabajo con datos. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14811) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15311) |
+| 5 | Aprenderás a comparar alternativas ante un problema de calidad en la impresión, a calcular costos y a verificar si un lote cumple el criterio de aceptación. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-14812) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-05.md#cl-15312) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -114,10 +114,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué operaciones forman la postimpresión, qué documentos las guían y qué riesgos, ergonomía y cuidados ambientales las rodean, sin operar ninguna máquina. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14719) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15054) |
-| 2 | Aprenderé el vocabulario de las terminaciones: refilado, plegado, laminado, barniz, troquelado y tipos de encuadernación, y para qué sirve cada una. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14720) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15055) |
-| 3 | Aprenderás a calcular cuadernillos, hojas y grosor del lomo de un libro, y a decidir cómo completar los cuadernillos cuando las páginas no calzan. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14721) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15056) |
-| 4 | Aprenderás a calcular cuántos productos salen de un pliego y cuánto papel sobra, y a revisar medidas de corte contra una tolerancia. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14722) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15057) |
+| 1 | Aprenderé qué operaciones forman la postimpresión, qué documentos las guían y qué riesgos, ergonomía y cuidados ambientales las rodean, sin operar ninguna máquina. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14813) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15313) |
+| 2 | Aprenderé el vocabulario de las terminaciones: refilado, plegado, laminado, barniz, troquelado y tipos de encuadernación, y para qué sirve cada una. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14814) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15314) |
+| 3 | Aprenderás a calcular cuadernillos, hojas y grosor del lomo de un libro, y a decidir cómo completar los cuadernillos cuando las páginas no calzan. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14815) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15315) |
+| 4 | Aprenderás a calcular cuántos productos salen de un pliego y cuánto papel sobra, y a revisar medidas de corte contra una tolerancia. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-14816) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-06.md#cl-15316) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -129,11 +129,11 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el mantenimiento básico de equipos gráficos, quién puede hacerlo, qué normas lo rodean y por qué se registra, sin hacer ninguna intervención. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14723) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15058) |
-| 2 | Aprenderé la diferencia entre mantenimiento preventivo y correctivo, a leer un plan con intervalos de horas y a calcular cuándo corresponde cada tarea. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14724) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15059) |
-| 3 | Aprenderás a leer una bitácora, detectar qué tareas del plan están vencidas y proponer qué se programa, sin hacer ninguna intervención. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14725) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15060) |
-| 4 | Aprenderás a comparar el costo del mantenimiento preventivo con el de una falla y a planificar los repuestos que se necesitan, con datos y registro. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14726) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15061) |
-| 5 | Aprenderás a comparar alternativas ante un mantenimiento vencido, a calcular el cumplimiento del plan y a verificar que la bitácora respalde lo que se hizo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14727) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15062) |
+| 1 | Aprenderé qué es el mantenimiento básico de equipos gráficos, quién puede hacerlo, qué normas lo rodean y por qué se registra, sin hacer ninguna intervención. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14817) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15317) |
+| 2 | Aprenderé la diferencia entre mantenimiento preventivo y correctivo, a leer un plan con intervalos de horas y a calcular cuándo corresponde cada tarea. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14818) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15318) |
+| 3 | Aprenderás a leer una bitácora, detectar qué tareas del plan están vencidas y proponer qué se programa, sin hacer ninguna intervención. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14819) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15319) |
+| 4 | Aprenderás a comparar el costo del mantenimiento preventivo con el de una falla y a planificar los repuestos que se necesitan, con datos y registro. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14820) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15320) |
+| 5 | Aprenderás a comparar alternativas ante un mantenimiento vencido, a calcular el cumplimiento del plan y a verificar que la bitácora respalde lo que se hizo. | [3° medio](../../curriculum/3-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-14821) · [4° medio](../../curriculum/4-medio-tp/grafica/tp-graf-3y4-oae-07.md#cl-15321) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

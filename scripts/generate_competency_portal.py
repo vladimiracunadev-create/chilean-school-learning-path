@@ -86,7 +86,7 @@ IMPLEMENTATION_AREAS = [
         "state": "Implementación inicial",
         "purpose": "Hacer visible cómo una habilidad se construye, consolida y transfiere entre niveles.",
         "available": "Taxonomía versionada, cinco progresiones demostrativas y rutas PAES que recorren varios niveles.",
-        "limit": "No existe todavía un mapeo revisado de todas las habilidades para los 3.308 OA.",
+        "limit": "No existe todavía un mapeo revisado de todas las habilidades para los 3.382 OA.",
         "path": "docs/COMPETENCY_SYSTEM.md",
     },
     {
@@ -714,7 +714,7 @@ def exams_index_page() -> str:
 CURRENT_GAP_ROWS = [
     ("Comprensión lectora", "EXISTE Y SE CONECTÓ", "PAES, SIMCE, DIA, PISA, PIRLS y ERCE tienen entradas visibles, variantes, OA y clases de referencia.", "Conservar los OA; ampliar revisión y pilotaje."),
     ("Evaluación formativa", "EXISTE Y SE AMPLIÓ", "Ciclo de evidencia, banco, muestras, intervención y reevaluación enlazados.", "Pilotar y registrar revisión humana."),
-    ("Competencias", "EXISTE PARCIALMENTE", "86 habilidades en 7 dominios y cinco progresiones demostrativas.", "Mapear de manera revisada el resto de los 3.308 OA."),
+    ("Competencias", "EXISTE PARCIALMENTE", "86 habilidades en 7 dominios y cinco progresiones demostrativas.", "Mapear de manera revisada el resto de los 3.382 OA."),
     ("Diagnóstico", "PROTOTIPO DISPONIBLE", "Estados separados y DIA explicado como instrumento externo de referencia.", "Crear una aplicación local autorizada antes de usar datos reales."),
     ("Banco de ítems", "EXISTE PARCIALMENTE", "6 tareas extensas y 45 muestras breves para las variantes documentadas.", "Construir matrices completas, ampliar, revisar por disciplina y pilotar."),
     ("PAES", "EXISTE PARCIALMENTE", "Página propia, 5 áreas, documentos, trayectoria multinivel, una tarea extensa y muestras breves.", "Falta cubrir todos los contenidos de cada temario; no existe banco oficial, predictor ni conversión propia."),

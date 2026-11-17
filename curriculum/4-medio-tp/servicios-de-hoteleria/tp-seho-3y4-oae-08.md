@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15136) · [Clase 2](#cl-15137) · [Clase 3](#cl-15138) · [Clase 4](#cl-15139)
+**Clases de este OA:** [Clase 1](#cl-15443) · [Clase 2](#cl-15444) · [Clase 3](#cl-15445) · [Clase 4](#cl-15446)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar montaje de eventos y servicios {#cl-15136}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar montaje de eventos y servicios {#cl-15443}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar montaje de eventos y servicios a través de situar el contexto laboral, la norma y el riesgo: Realizar montaje de eventos y servicios, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No hacerlo: la salida debe quedar libre
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-seho-3y4-oae-07.md#cl-15135) · [Clase siguiente →](#cl-15137)
+[← Última clase del OA anterior](tp-seho-3y4-oae-07.md#cl-15442) · [Clase siguiente →](#cl-15444)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar montaje de eventos y servicios {#cl-15137}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar montaje de eventos y servicios {#cl-15444}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar montaje de eventos y servicios a través de reconocer conceptos, documentos y roles del oficio: Realizar montaje de eventos y servicios, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 60 sillas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15136) · [Clase siguiente →](#cl-15138)
+[← Clase anterior](#cl-15443) · [Clase siguiente →](#cl-15445)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar montaje de eventos y servicios {#cl-15138}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar montaje de eventos y servicios {#cl-15445}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar montaje de eventos y servicios a través de analizar un caso de trabajo en papel: Realizar montaje de eventos y servicios, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Informar el límite y ofrecer una alternativa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15137) · [Clase siguiente →](#cl-15139)
+[← Clase anterior](#cl-15444) · [Clase siguiente →](#cl-15446)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar montaje de eventos y servicios {#cl-15139}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar montaje de eventos y servicios {#cl-15446}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar montaje de eventos y servicios a través de aplicar un criterio técnico con datos de ejemplo: Realizar montaje de eventos y servicios, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 20 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15138) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-09.md#cl-15140)
+[← Clase anterior](#cl-15445) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-09.md#cl-15447)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

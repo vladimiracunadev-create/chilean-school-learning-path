@@ -249,7 +249,7 @@ build(
     ctx=("abc", "{F} Tras el mes, el coordinador pregunta qué mejorarías para cumplir la meta de aviso. ¿Qué propones?", "Revisar el proceso de aviso y asegurar teléfonos con carga y contactos a mano", "Pedir al guía que viaje sin teléfono", "Eliminar la meta de 5 minutos", "Mejorar el proceso es una causa concreta; eliminar la meta no resuelve el problema."),
     sc=[
         ("En Servicios de Turismo: ¿cómo se calcula el promedio del tiempo de aviso?", "Se suman los tiempos y se divide por la cantidad de incidentes", "Se compara con la meta de ejemplo."),
-        ("¿Qué se hace si no se cumple una meta?", "Se busca la causa en el proceso y se mejora el plan", "Culpar a una persona no corrige el proceso."),
+        ("En turismo: ¿qué se hace si no se cumple una meta?", "Se busca la causa en el proceso y se mejora el plan", "Culpar a una persona no corrige el proceso."),
         ("¿Qué criterio protege la privacidad del turista?", "Proteger los datos del turista", "No se publican ni se comentan sus documentos."),
     ],
     op=("Dos guías de ejemplo atienden a una turista que perdió su monedero. Ambos cuidan la seguridad. Guía M: la calma, avisa al coordinador a los 2 minutos, registra con iniciales y la acompaña a denunciar. Guía N: le dice «qué lástima, para eso hay que tener cuidado», avisa al coordinador a los 9 minutos y comenta el caso con el grupo. Aplica la lista de cotejo de la ficha, da el puntaje de cada guía, calcula la diferencia de tiempos de aviso y escribe una propuesta de mejora.",

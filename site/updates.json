@@ -5,6 +5,14 @@
   "updates": [
     {
       "date": "2026-11-17",
+      "title": "Fase B (lote): sector Alimentación (Gastronomía con sus menciones y Elaboración Industrial de Alimentos), Atención de Párvulos y objetivos genéricos A-L",
+      "summary": [
+        "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 15.524 registros (11.368 clases y 4.156 integradas) y 3.382 OA. Total TP publicado: 967 clases en 12 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
+        "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
+      ]
+    },
+    {
+      "date": "2026-11-17",
       "title": "Fase B (lote): sectores Gráfico (Dibujo Técnico y Gráfica) y Hotelería y Turismo (Servicios de Hotelería y Servicios de Turismo)",
       "summary": [
         "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 15.217 registros (11.061 clases y 4.156 integradas) y 3.308 OA. Total TP publicado: 660 clases en 9 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
@@ -16,14 +24,6 @@
       "title": "Fase B (lote): sector Tecnología y Comunicaciones (Programación, Conectividad y Redes y Telecomunicaciones)",
       "summary": [
         "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.927 registros (10.521 clases y 4.156 integradas) y 3.244 OA. Total TP publicado: 370 clases en 5 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
-        "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "title": "Fase B (lote): sector Administración (Administración con sus menciones Logística y Recursos Humanos, y Contabilidad)",
-      "summary": [
-        "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.677 registros (10.521 clases y 4.156 integradas) y 3.182 OA. Total TP publicado: 120 clases en 2 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
         "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
       ]
     }

@@ -13,18 +13,25 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Administración** | | | | |
 | Administración | bajo | 15 | 62 | [📘 Leer guía](administracion.md) |
 | Contabilidad | bajo | 7 | 58 | [📘 Leer guía](contabilidad.md) |
+| **Alimentación** | | | | |
+| Elaboración Industrial de Alimentos | medio | 8 | 68 | [📘 Leer guía](elaboracion-industrial-de-alimentos.md) |
+| Gastronomía | medio | 14 | 57 | [📘 Leer guía](gastronomia.md) |
 | **Gráfico** | | | | |
 | Dibujo Técnico | bajo | 9 | 82 | [📘 Leer guía](dibujo-tecnico.md) |
 | Gráfica | bajo | 7 | 60 | [📘 Leer guía](grafica.md) |
 | **Hotelería y Turismo** | | | | |
 | Servicios de Hotelería | bajo | 9 | 82 | [📘 Leer guía](servicios-de-hoteleria.md) |
 | Servicios de Turismo | bajo | 7 | 66 | [📘 Leer guía](servicios-de-turismo.md) |
+| **Salud y Educación** | | | | |
+| Atención de Párvulos | medio | 10 | 86 | [📘 Leer guía](atencion-de-parvulos.md) |
 | **Tecnología y Comunicaciones** | | | | |
 | Conectividad y Redes | bajo | 11 | 88 | [📘 Leer guía](conectividad-y-redes.md) |
 | Programación | bajo | 10 | 80 | [📘 Leer guía](programacion.md) |
 | Telecomunicaciones | bajo | 10 | 82 | [📘 Leer guía](telecomunicaciones.md) |
+| **Transversal** | | | | |
+| Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **85** | **660** | |
+| **Total publicado** | | **129** | **967** | |
 
 ## Lo que no cubren
 

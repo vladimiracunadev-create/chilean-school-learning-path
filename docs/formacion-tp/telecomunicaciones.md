@@ -1,6 +1,6 @@
 # Telecomunicaciones · formación técnico-profesional (3° y 4° medio)
 
-[⬅️ Índice de especialidades](README.md) · [← Programación](programacion.md)
+[⬅️ Índice de especialidades](README.md) · [← Programación](programacion.md) · [Objetivos genéricos A-L →](objetivos-genericos-tp.md)
 
 **10 objetivos de aprendizaje · 82 clases en total · cuaderno del estudiante en cada clase · revisión humana pendiente**
 
@@ -38,10 +38,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué sirven los esquemas y los proyectos en el trabajo de telecomunicaciones, qué norma y qué riesgos hay que considerar y qué no puedo hacer solo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14842) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15177) |
-| 2 | Aprenderás a leer una leyenda, una escala y los documentos de un proyecto de red, y qué hace cada persona del equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14843) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15178) |
-| 3 | Aprenderás a analizar en papel un esquema y su lista de materiales, para comprobar que coinciden y detectar lo que falta. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14844) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15179) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular materiales, verificar límites y justificar la decisión por escrito. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14845) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15180) |
+| 1 | Aprenderé para qué sirven los esquemas y los proyectos en el trabajo de telecomunicaciones, qué norma y qué riesgos hay que considerar y qué no puedo hacer solo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14984) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15484) |
+| 2 | Aprenderás a leer una leyenda, una escala y los documentos de un proyecto de red, y qué hace cada persona del equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14985) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15485) |
+| 3 | Aprenderás a analizar en papel un esquema y su lista de materiales, para comprobar que coinciden y detectar lo que falta. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14986) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15486) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular materiales, verificar límites y justificar la decisión por escrito. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-14987) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-01.md#cl-15487) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -53,10 +53,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé la cadena de una comunicación (generar, transmitir, repetir, amplificar, recibir, distribuir) y por qué instalar estos equipos exige personal autorizado. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14846) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15181) |
-| 2 | Aprenderé el vocabulario de señales (frecuencia, ancho de banda, dB), los documentos y los roles del trabajo con equipos de señal. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14847) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15182) |
-| 3 | Aprenderás a analizar en papel un presupuesto de enlace: sumar ganancias y pérdidas en dB para ver si la señal llega con nivel suficiente. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14848) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15183) |
-| 4 | Aprenderás a decidir en papel si una distribución de señal necesita amplificación, calculando niveles con datos de ejemplo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14849) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15184) |
+| 1 | Aprenderé la cadena de una comunicación (generar, transmitir, repetir, amplificar, recibir, distribuir) y por qué instalar estos equipos exige personal autorizado. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14988) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15488) |
+| 2 | Aprenderé el vocabulario de señales (frecuencia, ancho de banda, dB), los documentos y los roles del trabajo con equipos de señal. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14989) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15489) |
+| 3 | Aprenderás a analizar en papel un presupuesto de enlace: sumar ganancias y pérdidas en dB para ver si la señal llega con nivel suficiente. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14990) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15490) |
+| 4 | Aprenderás a decidir en papel si una distribución de señal necesita amplificación, calculando niveles con datos de ejemplo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-14991) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-02.md#cl-15491) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -68,10 +68,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un sistema operativo, qué es una red LAN y qué cuidados de calidad y seguridad exige incorporar un equipo a una red. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14850) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15185) |
-| 2 | Aprenderé el vocabulario de la configuración de una red: dirección IP, máscara, puerta de enlace, DNS y DHCP, y los documentos y roles que se usan. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14851) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15186) |
-| 3 | Aprenderás a analizar en papel una configuración de red y a detectar errores de dirección, de seguridad y de cuentas. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14852) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15187) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: planificar direcciones, repartir las fijas y las automáticas y verificar que alcanzan. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14853) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15188) |
+| 1 | Aprenderé qué es un sistema operativo, qué es una red LAN y qué cuidados de calidad y seguridad exige incorporar un equipo a una red. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14992) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15492) |
+| 2 | Aprenderé el vocabulario de la configuración de una red: dirección IP, máscara, puerta de enlace, DNS y DHCP, y los documentos y roles que se usan. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14993) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15493) |
+| 3 | Aprenderás a analizar en papel una configuración de red y a detectar errores de dirección, de seguridad y de cuentas. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14994) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15494) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: planificar direcciones, repartir las fijas y las automáticas y verificar que alcanzan. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-14995) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-03.md#cl-15495) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -83,11 +83,11 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué se miden las conexiones y la continuidad de una señal, qué instrumentos se usan y qué riesgos y normas hay que respetar. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14854) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15189) |
-| 2 | Aprenderé el vocabulario de las pruebas (continuidad, resistencia, mapa de cableado), los tipos de falla y los documentos y roles de una certificación. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14855) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15190) |
-| 3 | Aprenderás a analizar en papel un informe de pruebas y a decidir qué enlaces pasan, cuáles fallan y por qué. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14856) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15191) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular el presupuesto de pérdida de un enlace de fibra y compararlo con la medición. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14857) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15192) |
-| 5 | Aprenderás a comparar resultados de dos mediciones, a elegir la más confiable y a verificar la calidad antes de entregar. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14858) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15193) |
+| 1 | Aprenderé por qué se miden las conexiones y la continuidad de una señal, qué instrumentos se usan y qué riesgos y normas hay que respetar. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14996) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15496) |
+| 2 | Aprenderé el vocabulario de las pruebas (continuidad, resistencia, mapa de cableado), los tipos de falla y los documentos y roles de una certificación. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14997) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15497) |
+| 3 | Aprenderás a analizar en papel un informe de pruebas y a decidir qué enlaces pasan, cuáles fallan y por qué. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14998) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15498) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular el presupuesto de pérdida de un enlace de fibra y compararlo con la medición. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-14999) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15499) |
+| 5 | Aprenderás a comparar resultados de dos mediciones, a elegir la más confiable y a verificar la calidad antes de entregar. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15000) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-04.md#cl-15500) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -99,10 +99,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es una red de telefonía (tradicional o IP) de una organización, qué normas, riesgos y cuidados de privacidad hay que considerar. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-14859) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15194) |
-| 2 | Aprenderé el vocabulario de la telefonía IP (códec, latencia, jitter, VLAN de voz, PoE), los documentos y los roles del equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-14860) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15195) |
-| 3 | Aprenderás a analizar en papel el plan de numeración y la capacidad de una red de telefonía y a detectar errores. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-14861) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15196) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular las troncales y el ancho de banda de voz y comprobar el margen. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-14862) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15197) |
+| 1 | Aprenderé qué es una red de telefonía (tradicional o IP) de una organización, qué normas, riesgos y cuidados de privacidad hay que considerar. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15001) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15501) |
+| 2 | Aprenderé el vocabulario de la telefonía IP (códec, latencia, jitter, VLAN de voz, PoE), los documentos y los roles del equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15002) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15502) |
+| 3 | Aprenderás a analizar en papel el plan de numeración y la capacidad de una red de telefonía y a detectar errores. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15003) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15503) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular las troncales y el ancho de banda de voz y comprobar el margen. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15004) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-05.md#cl-15504) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -114,10 +114,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé los tipos de mantenimiento, por qué se siguen las pautas del fabricante y qué reparaciones menores pueden hacerse y cuáles no. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-14863) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15198) |
-| 2 | Aprenderé el vocabulario del mantenimiento (hoja de vida, repuesto, MTBF, disponibilidad), los documentos y los roles. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-14864) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15199) |
-| 3 | Aprenderás a analizar en papel una planilla de mantenimiento, detectar atrasos y decidir qué hacer con cada equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-14865) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15200) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo para decidir entre reparar, derivar o reemplazar un equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-14866) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15201) |
+| 1 | Aprenderé los tipos de mantenimiento, por qué se siguen las pautas del fabricante y qué reparaciones menores pueden hacerse y cuáles no. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15005) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15505) |
+| 2 | Aprenderé el vocabulario del mantenimiento (hoja de vida, repuesto, MTBF, disponibilidad), los documentos y los roles. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15006) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15506) |
+| 3 | Aprenderás a analizar en papel una planilla de mantenimiento, detectar atrasos y decidir qué hacer con cada equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15007) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15507) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo para decidir entre reparar, derivar o reemplazar un equipo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15008) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-06.md#cl-15508) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -129,10 +129,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé la diferencia entre peligro y riesgo, qué normas orientan la seguridad en telecomunicaciones y por qué hay tareas que solo hace personal autorizado. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-14867) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15202) |
-| 2 | Aprenderé el vocabulario de la seguridad (EPP, señalética, matriz de riesgo, permiso de trabajo) y los roles que participan. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-14868) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15203) |
-| 3 | Aprenderás a analizar en papel un caso de trabajo, detectar las condiciones inseguras y decidir que la tarea no se hace hasta cumplir las condiciones. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-14869) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15204) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: clasificar medidas por la jerarquía de controles y planificar el manejo de residuos. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-14870) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15205) |
+| 1 | Aprenderé la diferencia entre peligro y riesgo, qué normas orientan la seguridad en telecomunicaciones y por qué hay tareas que solo hace personal autorizado. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15009) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15509) |
+| 2 | Aprenderé el vocabulario de la seguridad (EPP, señalética, matriz de riesgo, permiso de trabajo) y los roles que participan. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15010) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15510) |
+| 3 | Aprenderás a analizar en papel un caso de trabajo, detectar las condiciones inseguras y decidir que la tarea no se hace hasta cumplir las condiciones. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15011) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15511) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: clasificar medidas por la jerarquía de controles y planificar el manejo de residuos. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15012) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-07.md#cl-15512) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -144,10 +144,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es una red inalámbrica, qué normas y riesgos hay que considerar, y por qué las instalaciones en altura exigen personal autorizado. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-14871) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15206) |
-| 2 | Aprenderé el vocabulario de las redes inalámbricas (banda, canal, interferencia, cobertura, roaming) y los documentos y roles del trabajo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-14872) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15207) |
-| 3 | Aprenderás a analizar en papel la configuración de una red inalámbrica, detectar interferencias y fallas de seguridad y proponer correcciones. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-14873) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15208) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular cuántos puntos de acceso hacen falta por cobertura y por capacidad. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-14874) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15209) |
+| 1 | Aprenderé qué es una red inalámbrica, qué normas y riesgos hay que considerar, y por qué las instalaciones en altura exigen personal autorizado. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15013) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15513) |
+| 2 | Aprenderé el vocabulario de las redes inalámbricas (banda, canal, interferencia, cobertura, roaming) y los documentos y roles del trabajo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15014) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15514) |
+| 3 | Aprenderás a analizar en papel la configuración de una red inalámbrica, detectar interferencias y fallas de seguridad y proponer correcciones. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15015) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15515) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular cuántos puntos de acceso hacen falta por cobertura y por capacidad. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15016) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-08.md#cl-15516) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -159,10 +159,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la corriente continua, dónde aparece en telecomunicaciones, qué normas y riesgos hay y por qué solo personal autorizado interviene. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-14875) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15210) |
-| 2 | Aprenderé la ley de Ohm, la potencia, los símbolos de un circuito de corriente continua y los documentos y roles del trabajo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-14876) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15211) |
-| 3 | Aprenderás a interpretar en papel lecturas de un circuito de corriente continua para encontrar el elemento con falla, sin hacer mediciones. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-14877) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15212) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: elegir un fusible, estimar la autonomía de las baterías y calcular la caída de tensión en un cable. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-14878) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15213) |
+| 1 | Aprenderé qué es la corriente continua, dónde aparece en telecomunicaciones, qué normas y riesgos hay y por qué solo personal autorizado interviene. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15017) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15517) |
+| 2 | Aprenderé la ley de Ohm, la potencia, los símbolos de un circuito de corriente continua y los documentos y roles del trabajo. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15018) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15518) |
+| 3 | Aprenderás a interpretar en papel lecturas de un circuito de corriente continua para encontrar el elemento con falla, sin hacer mediciones. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15019) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15519) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: elegir un fusible, estimar la autonomía de las baterías y calcular la caída de tensión en un cable. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15020) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-09.md#cl-15520) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -174,10 +174,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a entender la necesidad de un cliente, a distinguir lo que necesita de lo que desea y a cuidar la ética y la privacidad al proponer equipos. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-14879) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15214) |
-| 2 | Aprenderé el vocabulario para dimensionar una red (ancho de banda, disponibilidad, redundancia, escalabilidad) y los documentos y roles de una propuesta. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-14880) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15215) |
-| 3 | Aprenderás a analizar en papel los requerimientos de una oficina y a calcular el ancho de banda y los puertos que necesita. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-14881) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15216) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: comparar opciones con los requisitos del cliente y justificar la elección. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-14882) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15217) |
+| 1 | Aprenderás a entender la necesidad de un cliente, a distinguir lo que necesita de lo que desea y a cuidar la ética y la privacidad al proponer equipos. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15021) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15521) |
+| 2 | Aprenderé el vocabulario para dimensionar una red (ancho de banda, disponibilidad, redundancia, escalabilidad) y los documentos y roles de una propuesta. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15022) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15522) |
+| 3 | Aprenderás a analizar en papel los requerimientos de una oficina y a calcular el ancho de banda y los puertos que necesita. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15023) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15523) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: comparar opciones con los requisitos del cliente y justificar la elección. | [3° medio](../../curriculum/3-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15024) · [4° medio](../../curriculum/4-medio-tp/telecomunicaciones/tp-tele-3y4-oae-10.md#cl-15524) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

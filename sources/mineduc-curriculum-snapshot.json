@@ -28140,6 +28140,90 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Atención de Párvulos",
+      "subject_slug": "atencion-de-parvulos",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ATPA-3y4-OAE-01",
+          "description": "Realizar y evaluar actividades educativas con párvulos de los distintos niveles, creando ambientes pedagógicos adecuados a sus necesidades y a su desarrollo cognitivo, emocional, social y psicomotor, de acuerdo a las Bases Curriculares de la Educación Parvularia y a las orientaciones e instrumentos recibidos de las educadoras.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-02",
+          "description": "Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el apoyo a las actividades con los párvulos, aplicando criterios pedagógicos, estéticos y de equidad en materia de género, etnia y cultura.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-03",
+          "description": "Comunicarse en forma efectiva y afectiva con los niños y niñas, con sus familias o adultos responsables, de manera individual y colectiva, creando ambientes cordiales y de preocupación por el bienestar del párvulo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-04",
+          "description": "Alimentar a niños y niñas menores de seis años, de acuerdo a su edad, a sus requerimientos dietéticos y a los horarios convenidos, favoreciendo una alimentación saludable y la autonomía en la ingesta de alimentos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-05",
+          "description": "Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma autónoma a mayores de dos años, resguardando principios de salud, seguridad e higiene de los párvulos y aplicando principios ergonométricos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-06",
+          "description": "Promover hábitos de salud, higiene y autocuidado en niños y niñas menores de seis años, utilizando las técnicas señaladas en el manual de salud y en el programa de prevención de riesgos y evacuación de la institución.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-07",
+          "description": "Controlar peso y talla de los niños y niñas, de acuerdo al manual de salud, informando a los educadores para que éstos efectúen las acciones correctivas en caso de que se requiera.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-08",
+          "description": "Detectar síntomas de enfermedades más comunes, maltratos y abusos, atender en situación de accidente menor y suministrar medicamentos a niños y niñas menores de seis años, según el manual de salud, primeros auxilios y prescripción médica, informando oportunamente a educadoras y personal especializado sobre los hechos acontecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-09",
+          "description": "Atender a niños y niñas menores de seis años en las horas de descanso y de recreación, generando alternativas de uso del tiempo libre, propiciando el descanso de cada uno, de acuerdo a las necesidades de cada niño y niña.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-10",
+          "description": "Registrar, archivar y mantener actualizados antecedentes de los niños y niñas, sus familias o adultos responsables, de manera manual y digital, cumpliendo con los requerimientos institucionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Conectividad y Redes",
       "subject_slug": "conectividad-y-redes",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -28371,6 +28455,118 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Elaboración Industrial de Alimentos",
+      "subject_slug": "elaboracion-industrial-de-alimentos",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-EIAL-3y4-OAE-01",
+          "description": "Recepcionar, pesar, clasificar, almacenar y seleccionar materias primas, insumos y materiales abastecidos por proveedores, de acuerdo a sus características y naturaleza, utilizando eficientemente sistemas informáticos y manuales de inventarios.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-02",
+          "description": "Elaborar, conservar y envasar alimentos, aplicando los tratamientos y procedimientos de control de calidad que correspondan, utilizando los equipos pertinentes a los procesos de acuerdo con el producto a obtener.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-03",
+          "description": "Monitorear el estado de materias primas, insumos y productos intermedios y finales, apoyándose en análisis físico-químicos, microbiológicos y sensoriales básicos de los mismos, y aplicando técnicas y procedimientos de aseguramiento de calidad que permitan cumplir con los estándares de calidad e inocuidad establecidos, conforme a la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-04",
+          "description": "Mantener las condiciones de higiene personal, de infraestructura, maquinaria y utensilios, de acuerdo a la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-05",
+          "description": "Verificar el funcionamiento de máquinas, equipos, instrumentos y utensilios utilizados en la industria alimentaria, asegurando la continuidad del proceso de acuerdo a procedimientos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-06",
+          "description": "Controlar y registrar variables de los procesos productivos de acuerdo a las características propias del producto y de acuerdo a la reglamentación vigente (BPM, POE, POES y HACCP5).",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-07",
+          "description": "Rotular y etiquetar las materias primas, insumos, productos intermedios y finales, registrando el proceso, utilizando los envases y embalajes requeridos por la industria alimentaria y operando los equipos correspondientes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-08",
+          "description": "Manejar residuos sólidos, líquidos y gaseosos, aplicando procedimientos de prevención y de emergencia acordes a las disposiciones de la normativa de seguridad y medioambiental. 5 BMP = Buenas Prácticas de Manufactura; POE = Procedimientos Operativos Estandarizados; POES = Procedimientos Operativos Estandarizados de Saneamiento; HACCP = Hazard Analysis and Critical Points (Análisis de Peligro y Punto Crítico).",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Gastronomía",
+      "subject_slug": "gastronomia",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-GAST-3-OAE-01",
+          "description": "Solicitar, recepcionar, almacenar y rotular materias primas, insumos y materiales, aplicando los procedimientos establecidos y sistemas digitales y manuales de inventario para responder a los requerimientos de los servicios gastronómicos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GAST-3-OAE-02",
+          "description": "Higienizar y limpiar materias primas, insumos, utensilios, equipos e infraestructura, utilizando productos químicos autorizados y cumpliendo con la normativa sanitaria vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GAST-3-OAE-03",
+          "description": "Elaborar productos de baja complejidad gastronómica, utilizando equipos y utensilios para procesar las materias primas y los insumos requeridos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GAST-3-OAE-04",
+          "description": "Ordenar, organizar y disponer los productos intermedios, insumos, equipos y utensilios, de ESPECIALIDAD GASTRONOMÍA acuerdo a sus características organolépticas, al proceso de elaboración gastronómica y a las normativas de higiene e inocuidad. 5. Elaborar alimentos de baja complejidad, considerando productos o técnicas base de acuerdo a lo indicado en la ficha técnica y/o en las instrucciones de la jefatura de cocina, aplicando técnicas de corte y cocción, utilizando equipos, y utensilios, controlando los parámetros de temperatura y humedad mediante instrumentos apropiados. 6. Monitorear el estado de materias primas, insumos y productos intermedios y finales, apoyándose en análisis físico-químicos, microbiológicos y sensoriales básicos de los mismos, y aplicando técnicas y procedimientos de aseguramiento de calidad que permitan cumplir con los estándares de calidad e inocuidad establecidos, conforme a la normativa vigente. 7. Armar, decorar y presentar distintos tipos de productos gastronómicos, utilizando técnicas culinarias básicas para servirlos, de acuerdo con las indicaciones de recetas, protocolo y tipo de servicio solicitado. 8. Disponer los implementos, ornamentos y utensilios en comedores, bares y salones, de acuerdo con las características del evento o servicio a entregar, aplicando principios estéticos, de higiene y de calidad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Gráfica",
       "subject_slug": "grafica",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -28424,6 +28620,104 @@
           "code": "TP-GRAF-3y4-OAE-07",
           "description": "Realizar operaciones de mantenimiento básico, limpieza, lubricación y reemplazo de elementos fungibles, a diferentes tipos de máquinas o equipos de preimpresión, impresión y postimpresión, de acuerdo con los manuales de los fabricantes y las normas de seguridad.",
           "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Objetivos genéricos de la formación técnico-profesional (A-L)",
+      "subject_slug": "objetivos-genericos-tp",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-GENE-3y4-OAG-01",
+          "description": "Comunicarse oralmente y por escrito con claridad, utilizando registros de habla y de escritura pertinentes a la situación laboral y a la relación con los interlocutores.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-02",
+          "description": "Leer y utilizar distintos tipos de textos relacionados con el trabajo, tales como especificaciones técnicas, normativas diversas, legislación laboral, así como noticias y artículos que enriquezcan su experiencia laboral.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-03",
+          "description": "Realizar las tareas de manera prolija, cumpliendo plazos establecidos y estándares de calidad, y buscando alternativas y soluciones cuando se presentan problemas pertinentes a las funciones desempeñadas.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-04",
+          "description": "Trabajar eficazmente en equipo, coordinando acciones con otros in situ o a distancia, solicitando y prestando cooperación para el buen cumplimiento de sus tareas habituales o emergentes.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-05",
+          "description": "Tratar con respeto a subordinados, superiores, colegas, clientes, personas con discapacidades, sin hacer distinciones de género, de clase social, de etnias u otras.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-06",
+          "description": "Respetar y solicitar respeto de deberes y derechos laborales establecidos, así como de aquellas normas culturales internas de la organización que influyen positivamente en el sentido de pertenencia y en la motivación laboral.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-07",
+          "description": "Participar en diversas situaciones de aprendizaje, formales e informales, y calificarse para desarrollar mejor su trabajo actual o bien para asumir nuevas tareas o puestos de trabajo, en una perspectiva de formación permanente.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-08",
+          "description": "Manejar tecnologías de la información y comunicación para obtener y procesar información pertinente al trabajo, así como para comunicar resultados, instrucciones e ideas.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-09",
+          "description": "Utilizar eficientemente los insumos para los procesos productivos y disponer cuidadosamente los desechos, en una perspectiva de eficiencia energética y cuidado ambiental.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-10",
+          "description": "Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios, aplicando principios básicos de gestión financiera y administración para generarles viabilidad.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-11",
+          "description": "Prevenir situaciones de riesgo y enfermedades ocupacionales, evaluando las condiciones del entorno del trabajo y utilizando los elementos de protección personal según la normativa correspondiente.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-12",
+          "description": "Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo respecto del ahorro, especialmente del ahorro previsional, de los seguros, y de los riesgos y oportunidades del endeudamiento crediticio así como de la inversión.",
+          "axis": "Objetivos de aprendizaje genéricos",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
         }
@@ -28833,6 +29127,90 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Atención de Párvulos",
+      "subject_slug": "atencion-de-parvulos",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ATPA-3y4-OAE-01",
+          "description": "Realizar y evaluar actividades educativas con párvulos de los distintos niveles, creando ambientes pedagógicos adecuados a sus necesidades y a su desarrollo cognitivo, emocional, social y psicomotor, de acuerdo a las Bases Curriculares de la Educación Parvularia y a las orientaciones e instrumentos recibidos de las educadoras.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-02",
+          "description": "Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el apoyo a las actividades con los párvulos, aplicando criterios pedagógicos, estéticos y de equidad en materia de género, etnia y cultura.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-03",
+          "description": "Comunicarse en forma efectiva y afectiva con los niños y niñas, con sus familias o adultos responsables, de manera individual y colectiva, creando ambientes cordiales y de preocupación por el bienestar del párvulo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-04",
+          "description": "Alimentar a niños y niñas menores de seis años, de acuerdo a su edad, a sus requerimientos dietéticos y a los horarios convenidos, favoreciendo una alimentación saludable y la autonomía en la ingesta de alimentos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-05",
+          "description": "Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma autónoma a mayores de dos años, resguardando principios de salud, seguridad e higiene de los párvulos y aplicando principios ergonométricos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-06",
+          "description": "Promover hábitos de salud, higiene y autocuidado en niños y niñas menores de seis años, utilizando las técnicas señaladas en el manual de salud y en el programa de prevención de riesgos y evacuación de la institución.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-07",
+          "description": "Controlar peso y talla de los niños y niñas, de acuerdo al manual de salud, informando a los educadores para que éstos efectúen las acciones correctivas en caso de que se requiera.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-08",
+          "description": "Detectar síntomas de enfermedades más comunes, maltratos y abusos, atender en situación de accidente menor y suministrar medicamentos a niños y niñas menores de seis años, según el manual de salud, primeros auxilios y prescripción médica, informando oportunamente a educadoras y personal especializado sobre los hechos acontecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-09",
+          "description": "Atender a niños y niñas menores de seis años en las horas de descanso y de recreación, generando alternativas de uso del tiempo libre, propiciando el descanso de cada uno, de acuerdo a las necesidades de cada niño y niña.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATPA-3y4-OAE-10",
+          "description": "Registrar, archivar y mantener actualizados antecedentes de los niños y niñas, sus familias o adultos responsables, de manera manual y digital, cumpliendo con los requerimientos institucionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Conectividad y Redes",
       "subject_slug": "conectividad-y-redes",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -29064,6 +29442,174 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Elaboración Industrial de Alimentos",
+      "subject_slug": "elaboracion-industrial-de-alimentos",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-EIAL-3y4-OAE-01",
+          "description": "Recepcionar, pesar, clasificar, almacenar y seleccionar materias primas, insumos y materiales abastecidos por proveedores, de acuerdo a sus características y naturaleza, utilizando eficientemente sistemas informáticos y manuales de inventarios.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-02",
+          "description": "Elaborar, conservar y envasar alimentos, aplicando los tratamientos y procedimientos de control de calidad que correspondan, utilizando los equipos pertinentes a los procesos de acuerdo con el producto a obtener.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-03",
+          "description": "Monitorear el estado de materias primas, insumos y productos intermedios y finales, apoyándose en análisis físico-químicos, microbiológicos y sensoriales básicos de los mismos, y aplicando técnicas y procedimientos de aseguramiento de calidad que permitan cumplir con los estándares de calidad e inocuidad establecidos, conforme a la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-04",
+          "description": "Mantener las condiciones de higiene personal, de infraestructura, maquinaria y utensilios, de acuerdo a la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-05",
+          "description": "Verificar el funcionamiento de máquinas, equipos, instrumentos y utensilios utilizados en la industria alimentaria, asegurando la continuidad del proceso de acuerdo a procedimientos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-06",
+          "description": "Controlar y registrar variables de los procesos productivos de acuerdo a las características propias del producto y de acuerdo a la reglamentación vigente (BPM, POE, POES y HACCP5).",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-07",
+          "description": "Rotular y etiquetar las materias primas, insumos, productos intermedios y finales, registrando el proceso, utilizando los envases y embalajes requeridos por la industria alimentaria y operando los equipos correspondientes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EIAL-3y4-OAE-08",
+          "description": "Manejar residuos sólidos, líquidos y gaseosos, aplicando procedimientos de prevención y de emergencia acordes a las disposiciones de la normativa de seguridad y medioambiental. 5 BMP = Buenas Prácticas de Manufactura; POE = Procedimientos Operativos Estandarizados; POES = Procedimientos Operativos Estandarizados de Saneamiento; HACCP = Hazard Analysis and Critical Points (Análisis de Peligro y Punto Crítico).",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Gastronomía · mención Cocina",
+      "subject_slug": "gastronomia-mencion-cocina",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-GACO-4-OAM-01",
+          "description": "Preparar una variedad de platos de cocina básica, de preparación rápida y lenta, de acuerdo a los gustos y costumbres culinarias de diversas zonas del país, así como de requerimientos de alimentación saludable, cumpliendo estándares de calidad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GACO-4-OAM-02",
+          "description": "Preparar productos gastronómicos básicos de cocina internacional, de países como Perú, México, China, Francia, Italia, entre otros, cumpliendo especificaciones y estándares de calidad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GACO-4-OAM-03",
+          "description": "Preparar diversos cocteles de consumo habitual con bebidas alcohólicas y no alcohólicas, de acuerdo a recetas nacionales e internacionales.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GACO-4-OAM-04",
+          "description": "Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o en la manera de servirlos, buscando mejorar sabores y texturas para adaptarlas al gusto de una demanda diversa.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GACO-4-OAM-05",
+          "description": "Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo, que consideren la estación del año, el tipo de cliente y sus requerimientos nutricionales, la disponibilidad de los insumos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Gastronomía · mención Pastelería y Repostería",
+      "subject_slug": "gastronomia-mencion-pasteleria-y-reposteria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-GAPR-4-OAM-01",
+          "description": "Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos, de acuerdo a lo establecido en la formulación de recetas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GAPR-4-OAM-02",
+          "description": "Elaborar diferentes tipos de dulces, cremas y glaseados para componer y/o decorar productos de pastelería y repostería, de acuerdo a recetas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GAPR-4-OAM-03",
+          "description": "Preparar y armar una variedad de tortas, pasteles y postres de consumo habitual, de acuerdo a los gustos y costumbres culinarias de diversas zonas del país, cumpliendo especificaciones y estándares de calidad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GAPR-4-OAM-04",
+          "description": "Manejar máquinas, equipos e instrumental para la elaboración de pastelería y repostería básica, para llevar a cabo las actividades de preparación, montaje y decoración de los productos de pastelería y repostería.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GAPR-4-OAM-05",
+          "description": "Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la manera de servirlos, buscando mejorar sabores y texturas para adaptarlas al gusto de una demanda diversa.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Gráfica",
       "subject_slug": "grafica",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -29117,6 +29663,104 @@
           "code": "TP-GRAF-3y4-OAE-07",
           "description": "Realizar operaciones de mantenimiento básico, limpieza, lubricación y reemplazo de elementos fungibles, a diferentes tipos de máquinas o equipos de preimpresión, impresión y postimpresión, de acuerdo con los manuales de los fabricantes y las normas de seguridad.",
           "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Objetivos genéricos de la formación técnico-profesional (A-L)",
+      "subject_slug": "objetivos-genericos-tp",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-GENE-3y4-OAG-01",
+          "description": "Comunicarse oralmente y por escrito con claridad, utilizando registros de habla y de escritura pertinentes a la situación laboral y a la relación con los interlocutores.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-02",
+          "description": "Leer y utilizar distintos tipos de textos relacionados con el trabajo, tales como especificaciones técnicas, normativas diversas, legislación laboral, así como noticias y artículos que enriquezcan su experiencia laboral.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-03",
+          "description": "Realizar las tareas de manera prolija, cumpliendo plazos establecidos y estándares de calidad, y buscando alternativas y soluciones cuando se presentan problemas pertinentes a las funciones desempeñadas.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-04",
+          "description": "Trabajar eficazmente en equipo, coordinando acciones con otros in situ o a distancia, solicitando y prestando cooperación para el buen cumplimiento de sus tareas habituales o emergentes.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-05",
+          "description": "Tratar con respeto a subordinados, superiores, colegas, clientes, personas con discapacidades, sin hacer distinciones de género, de clase social, de etnias u otras.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-06",
+          "description": "Respetar y solicitar respeto de deberes y derechos laborales establecidos, así como de aquellas normas culturales internas de la organización que influyen positivamente en el sentido de pertenencia y en la motivación laboral.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-07",
+          "description": "Participar en diversas situaciones de aprendizaje, formales e informales, y calificarse para desarrollar mejor su trabajo actual o bien para asumir nuevas tareas o puestos de trabajo, en una perspectiva de formación permanente.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-08",
+          "description": "Manejar tecnologías de la información y comunicación para obtener y procesar información pertinente al trabajo, así como para comunicar resultados, instrucciones e ideas.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-09",
+          "description": "Utilizar eficientemente los insumos para los procesos productivos y disponer cuidadosamente los desechos, en una perspectiva de eficiencia energética y cuidado ambiental.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-10",
+          "description": "Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios, aplicando principios básicos de gestión financiera y administración para generarles viabilidad.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-11",
+          "description": "Prevenir situaciones de riesgo y enfermedades ocupacionales, evaluando las condiciones del entorno del trabajo y utilizando los elementos de protección personal según la normativa correspondiente.",
+          "axis": "Objetivos de aprendizaje genéricos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GENE-3y4-OAG-12",
+          "description": "Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo respecto del ahorro, especialmente del ahorro previsional, de los seguros, y de los riesgos y oportunidades del endeudamiento crediticio así como de la inversión.",
+          "axis": "Objetivos de aprendizaje genéricos",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
         }

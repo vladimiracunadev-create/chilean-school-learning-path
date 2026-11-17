@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14710) · [Clase 2](#cl-14711) · [Clase 3](#cl-14712) · [Clase 4](#cl-14713)
+**Clases de este OA:** [Clase 1](#cl-14804) · [Clase 2](#cl-14805) · [Clase 3](#cl-14806) · [Clase 4](#cl-14807)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Regular máquinas de impresión (tipográficas {#cl-14710}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Regular máquinas de impresión (tipográficas {#cl-14804}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar regular máquinas de impresión (tipográficas a través de situar el contexto laboral, la norma y el riesgo: Regular máquinas de impresión (tipográficas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El manual del fabricante
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-graf-3y4-oae-03.md#cl-14709) · [Clase siguiente →](#cl-14711)
+[← Última clase del OA anterior](tp-graf-3y4-oae-03.md#cl-14803) · [Clase siguiente →](#cl-14805)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Regular máquinas de impresión (tipográficas {#cl-14711}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Regular máquinas de impresión (tipográficas {#cl-14805}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar regular máquinas de impresión (tipográficas a través de reconocer conceptos, documentos y roles del oficio: Regular máquinas de impresión (tipográficas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Serigrafía
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14710) · [Clase siguiente →](#cl-14712)
+[← Clase anterior](#cl-14804) · [Clase siguiente →](#cl-14806)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Regular máquinas de impresión (tipográficas {#cl-14712}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Regular máquinas de impresión (tipográficas {#cl-14806}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar regular máquinas de impresión (tipográficas a través de analizar un caso de trabajo en papel: Regular máquinas de impresión (tipográficas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 3 pedidos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14711) · [Clase siguiente →](#cl-14713)
+[← Clase anterior](#cl-14805) · [Clase siguiente →](#cl-14807)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Regular máquinas de impresión (tipográficas {#cl-14713}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Regular máquinas de impresión (tipográficas {#cl-14807}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar regular máquinas de impresión (tipográficas a través de aplicar un criterio técnico con datos de ejemplo: Regular máquinas de impresión (tipográficas, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: No coinciden: se avisa antes de partir
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14712) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-05.md#cl-14714)
+[← Clase anterior](#cl-14806) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-05.md#cl-14808)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

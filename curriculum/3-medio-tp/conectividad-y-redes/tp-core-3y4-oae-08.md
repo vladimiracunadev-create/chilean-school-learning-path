@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14612) · [Clase 2](#cl-14613) · [Clase 3](#cl-14614) · [Clase 4](#cl-14615)
+**Clases de este OA:** [Clase 1](#cl-14655) · [Clase 2](#cl-14656) · [Clase 3](#cl-14657) · [Clase 4](#cl-14658)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14612}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14655}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar herramientas de software que permitan obtener servicios de intranet e internet de a través de situar el contexto laboral, la norma y el riesgo: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-07.md#cl-14611) · [Clase siguiente →](#cl-14613)
+[← Última clase del OA anterior](tp-core-3y4-oae-07.md#cl-14654) · [Clase siguiente →](#cl-14656)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14613}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14656}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar herramientas de software que permitan obtener servicios de intranet e internet de a través de reconocer conceptos, documentos y roles del oficio: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Conexión cifrada, no sitio confiable
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14612) · [Clase siguiente →](#cl-14614)
+[← Clase anterior](#cl-14655) · [Clase siguiente →](#cl-14657)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14614}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14657}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar herramientas de software que permitan obtener servicios de intranet e internet de a través de analizar un caso de trabajo en papel: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 400 MB
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14613) · [Clase siguiente →](#cl-14615)
+[← Clase anterior](#cl-14656) · [Clase siguiente →](#cl-14658)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14615}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de {#cl-14658}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar herramientas de software que permitan obtener servicios de intranet e internet de a través de aplicar un criterio técnico con datos de ejemplo: Aplicar herramientas de software que permitan obtener servicios de intranet e internet de, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 600 MB
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14614) · [Primera clase del OA siguiente →](tp-core-3y4-oae-09.md#cl-14616)
+[← Clase anterior](#cl-14657) · [Primera clase del OA siguiente →](tp-core-3y4-oae-09.md#cl-14659)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

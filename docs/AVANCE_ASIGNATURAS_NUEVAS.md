@@ -69,12 +69,12 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Agropecuaria (con 3 menciones: Agricultura, Pecuaria, Vitivinícola) | 26 | 109 | 0 | 0 | 0 | 0 % |
 | *Subtotal Agropecuario* | 26 | 109 | 0 | 0 | 0 | 0 % |
 | **Alimentación** | | | | | | |
-| Elaboración Industrial de Alimentos | 8 | 68 | 0 | 0 | 0 | 0 % |
-| Gastronomía (con 2 menciones: Cocina, Pastelería y Repostería) | 14 | 57 | 57 | 57 | 0 | 100 % |
-| *Subtotal Alimentación* | 22 | 125 | 57 | 57 | 0 | 46 % |
+| Elaboración Industrial de Alimentos | 8 | 68 | 68 | 68 | 68 | 100 % |
+| Gastronomía (con 2 menciones: Cocina, Pastelería y Repostería) | 14 | 57 | 57 | 57 | 57 | 100 % |
+| *Subtotal Alimentación* | 22 | 125 | 125 | 125 | 125 | 100 % |
 | **Confección** | | | | | | |
-| Vestuario y Confección Textil | 8 | 66 | 0 | 0 | 0 | 0 % |
-| *Subtotal Confección* | 8 | 66 | 0 | 0 | 0 | 0 % |
+| Vestuario y Confección Textil | 8 | 66 | 20 | 0 | 0 | 0 % |
+| *Subtotal Confección* | 8 | 66 | 20 | 0 | 0 | 0 % |
 | **Construcción** | | | | | | |
 | Construcción (con 3 menciones: Edificación, Obras Viales e Infraestructura, Terminaciones de la Construcción) | 27 | 116 | 0 | 0 | 0 | 0 % |
 | Instalaciones Sanitarias | 8 | 74 | 0 | 0 | 0 | 0 % |
@@ -83,8 +83,8 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | *Subtotal Construcción* | 54 | 358 | 0 | 0 | 0 | 0 % |
 | **Electricidad** | | | | | | |
 | Electricidad | 8 | 70 | 0 | 0 | 0 | 0 % |
-| Electrónica | 7 | 58 | 0 | 0 | 0 | 0 % |
-| *Subtotal Electricidad* | 15 | 128 | 0 | 0 | 0 | 0 % |
+| Electrónica | 7 | 58 | 16 | 0 | 0 | 0 % |
+| *Subtotal Electricidad* | 15 | 128 | 16 | 0 | 0 | 0 % |
 | **Gráfico** | | | | | | |
 | Dibujo Técnico | 9 | 82 | 82 | 82 | 82 | 100 % |
 | Gráfica | 7 | 60 | 60 | 60 | 60 | 100 % |
@@ -119,17 +119,17 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | *Subtotal Química e Industria* | 13 | 61 | 0 | 0 | 0 | 0 % |
 | **Salud y Educación** | | | | | | |
 | Atención de Enfermería (con 2 menciones: Adulto Mayor, Enfermería) | 15 | 68 | 0 | 0 | 0 | 0 % |
-| Atención de Párvulos | 10 | 86 | 86 | 86 | 0 | 100 % |
-| *Subtotal Salud y Educación* | 25 | 154 | 86 | 86 | 0 | 56 % |
+| Atención de Párvulos | 10 | 86 | 86 | 86 | 86 | 100 % |
+| *Subtotal Salud y Educación* | 25 | 154 | 86 | 86 | 86 | 56 % |
 | **Tecnología y Comunicaciones** | | | | | | |
 | Conectividad y Redes | 11 | 88 | 88 | 88 | 88 | 100 % |
 | Programación | 10 | 80 | 80 | 80 | 80 | 100 % |
 | Telecomunicaciones | 10 | 82 | 82 | 82 | 82 | 100 % |
 | *Subtotal Tecnología y Comunicaciones* | 31 | 250 | 250 | 250 | 250 | 100 % |
 | **Transversal** | | | | | | |
-| Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 24 | 0 | 0 | 0 % |
-| *Subtotal Transversal* | 12 | 96 | 24 | 0 | 0 | 0 % |
-| **TOTAL FASE B** | 382 | 2745 | 827 | 803 | 660 | **29 %** |
+| Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 96 | 96 | 96 | 100 % |
+| *Subtotal Transversal* | 12 | 96 | 96 | 96 | 96 | 100 % |
+| **TOTAL FASE B** | 382 | 2745 | 1003 | 967 | 967 | **35 %** |
 
 ## Fase C · EPJA
 
