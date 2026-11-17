@@ -41,6 +41,7 @@ try:
     from grade_three_middle_remaining_lessons import SEQUENCES as GRADE_THREE_MIDDLE_REMAINING_SEQUENCES, build_sequence as build_grade_three_middle_remaining_sequence
     from grade_four_middle_lessons import SEQUENCES as GRADE_FOUR_MIDDLE_SEQUENCES, build_sequence as build_grade_four_middle_sequence
     from grade_hc_lessons import RECORDS as GRADE_HC_RECORDS, build_sequence as build_grade_hc_sequence
+    from grade_tp_lessons import RECORDS as GRADE_TP_RECORDS, build_sequence as build_grade_tp_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
@@ -76,6 +77,7 @@ except ImportError:
     from scripts.grade_three_middle_remaining_lessons import SEQUENCES as GRADE_THREE_MIDDLE_REMAINING_SEQUENCES, build_sequence as build_grade_three_middle_remaining_sequence
     from scripts.grade_four_middle_lessons import SEQUENCES as GRADE_FOUR_MIDDLE_SEQUENCES, build_sequence as build_grade_four_middle_sequence
     from scripts.grade_hc_lessons import RECORDS as GRADE_HC_RECORDS, build_sequence as build_grade_hc_sequence
+    from scripts.grade_tp_lessons import RECORDS as GRADE_TP_RECORDS, build_sequence as build_grade_tp_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -150,6 +152,7 @@ def validate(root: Path = ROOT) -> list[str]:
     all_developed.update({code: build_grade_three_middle_remaining_sequence(code) for code in GRADE_THREE_MIDDLE_REMAINING_SEQUENCES})
     all_developed.update({code: build_grade_four_middle_sequence(code) for code in GRADE_FOUR_MIDDLE_SEQUENCES})
     all_developed.update({code: build_grade_hc_sequence(code) for code in GRADE_HC_RECORDS})
+    all_developed.update({code: build_grade_tp_sequence(code) for code in GRADE_TP_RECORDS})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
