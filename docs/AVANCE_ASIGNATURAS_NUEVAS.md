@@ -118,9 +118,9 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Química Industrial (con 2 menciones: Laboratorio Químico, Planta Química) | 13 | 61 | 61 | 61 | 61 | 100 % |
 | *Subtotal Química e Industria* | 13 | 61 | 61 | 61 | 61 | 100 % |
 | **Salud y Educación** | | | | | | |
-| Atención de Enfermería (con 2 menciones: Adulto Mayor, Enfermería) | 15 | 68 | 39 | 0 | 0 | 0 % |
+| Atención de Enfermería (con 2 menciones: Adulto Mayor, Enfermería) | 15 | 68 | 68 | 68 | 68 | 100 % |
 | Atención de Párvulos | 10 | 86 | 86 | 86 | 86 | 100 % |
-| *Subtotal Salud y Educación* | 25 | 154 | 125 | 86 | 86 | 56 % |
+| *Subtotal Salud y Educación* | 25 | 154 | 154 | 154 | 154 | 100 % |
 | **Tecnología y Comunicaciones** | | | | | | |
 | Conectividad y Redes | 11 | 88 | 88 | 88 | 88 | 100 % |
 | Programación | 10 | 80 | 80 | 80 | 80 | 100 % |
@@ -129,7 +129,7 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | **Transversal** | | | | | | |
 | Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 96 | 96 | 96 | 100 % |
 | *Subtotal Transversal* | 12 | 96 | 96 | 96 | 96 | 100 % |
-| **TOTAL FASE B** | 382 | 2745 | 2716 | 2677 | 2677 | **98 %** |
+| **TOTAL FASE B** | 382 | 2745 | 2745 | 2745 | 2745 | **100 %** |
 
 ## Fase C · EPJA
 

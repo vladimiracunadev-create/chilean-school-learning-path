@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16764) · [Clase 2](#cl-16765) · [Clase 3](#cl-16766) · [Clase 4](#cl-16767)
+**Clases de este OA:** [Clase 1](#cl-16832) · [Clase 2](#cl-16833) · [Clase 3](#cl-16834) · [Clase 4](#cl-16835)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Calcular y cubicar materiales {#cl-16764}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Calcular y cubicar materiales {#cl-16832}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar calcular y cubicar materiales a través de situar el contexto laboral, la norma y el riesgo: Calcular y cubicar materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: No es razonable: hay que revisarlo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-09.md#cl-16763) · [Clase siguiente →](#cl-16765)
+[← Última clase del OA anterior](tp-moin-3y4-oae-09.md#cl-16831) · [Clase siguiente →](#cl-16833)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Calcular y cubicar materiales {#cl-16765}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Calcular y cubicar materiales {#cl-16833}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar calcular y cubicar materiales a través de reconocer conceptos, documentos y roles del oficio: Calcular y cubicar materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 20.000 pesos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16764) · [Clase siguiente →](#cl-16766)
+[← Clase anterior](#cl-16832) · [Clase siguiente →](#cl-16834)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Calcular y cubicar materiales {#cl-16766}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Calcular y cubicar materiales {#cl-16834}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar calcular y cubicar materiales a través de analizar un caso de trabajo en papel: Calcular y cubicar materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 10 veces mayor
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16765) · [Clase siguiente →](#cl-16767)
+[← Clase anterior](#cl-16833) · [Clase siguiente →](#cl-16835)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Calcular y cubicar materiales {#cl-16767}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Calcular y cubicar materiales {#cl-16835}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar calcular y cubicar materiales a través de aplicar un criterio técnico con datos de ejemplo: Calcular y cubicar materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 2 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16766)
+[← Clase anterior](#cl-16834)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

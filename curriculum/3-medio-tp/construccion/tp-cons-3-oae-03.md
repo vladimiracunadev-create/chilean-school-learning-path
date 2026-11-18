@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14822) · [Clase 2](#cl-14823) · [Clase 3](#cl-14824) · [Clase 4](#cl-14825) · [Clase 5](#cl-14826)
+**Clases de este OA:** [Clase 1](#cl-14847) · [Clase 2](#cl-14848) · [Clase 3](#cl-14849) · [Clase 4](#cl-14850) · [Clase 5](#cl-14851)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar trazados de obras de edificación {#cl-14822}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar trazados de obras de edificación {#cl-14847}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar trazados de obras de edificación a través de situar el contexto laboral, la norma y el riesgo: Ejecutar trazados de obras de edificación, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 450 m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cons-3-oae-02.md#cl-14821) · [Clase siguiente →](#cl-14823)
+[← Última clase del OA anterior](tp-cons-3-oae-02.md#cl-14846) · [Clase siguiente →](#cl-14848)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar trazados de obras de edificación {#cl-14823}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar trazados de obras de edificación {#cl-14848}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar trazados de obras de edificación a través de reconocer conceptos, documentos y roles del oficio: Ejecutar trazados de obras de edificación, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 15 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14822) · [Clase siguiente →](#cl-14824)
+[← Clase anterior](#cl-14847) · [Clase siguiente →](#cl-14849)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar trazados de obras de edificación {#cl-14824}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar trazados de obras de edificación {#cl-14849}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar trazados de obras de edificación a través de analizar un caso de trabajo en papel: Ejecutar trazados de obras de edificación, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14823) · [Clase siguiente →](#cl-14825)
+[← Clase anterior](#cl-14848) · [Clase siguiente →](#cl-14850)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar trazados de obras de edificación {#cl-14825}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar trazados de obras de edificación {#cl-14850}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar trazados de obras de edificación a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar trazados de obras de edificación, con una experiencia disciplinar específica, segura y revisable.
@@ -871,9 +871,9 @@ Respuesta: 1120 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14824) · [Clase siguiente →](#cl-14826)
+[← Clase anterior](#cl-14849) · [Clase siguiente →](#cl-14851)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar trazados de obras de edificación {#cl-14826}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar trazados de obras de edificación {#cl-14851}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar trazados de obras de edificación a través de comparar alternativas y verificar la calidad: Ejecutar trazados de obras de edificación, con una experiencia disciplinar específica, segura y revisable.
@@ -1077,7 +1077,7 @@ Respuesta: $60.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14825) · [Primera clase del OA siguiente →](tp-cons-3-oae-04.md#cl-14827)
+[← Clase anterior](#cl-14850) · [Primera clase del OA siguiente →](tp-cons-3-oae-04.md#cl-14852)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

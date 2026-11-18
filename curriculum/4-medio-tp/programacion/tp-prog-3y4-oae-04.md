@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16938) · [Clase 2](#cl-16939) · [Clase 3](#cl-16940) · [Clase 4](#cl-16941)
+**Clases de este OA:** [Clase 1](#cl-17006) · [Clase 2](#cl-17007) · [Clase 3](#cl-17008) · [Clase 4](#cl-17009)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-16938}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-17006}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar construir aplicaciones computacionales basadas en programación orientada a objetos a través de situar el contexto laboral, la norma y el riesgo: Construir aplicaciones computacionales basadas en programación orientada a objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 4000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-03.md#cl-16937) · [Clase siguiente →](#cl-16939)
+[← Última clase del OA anterior](tp-prog-3y4-oae-03.md#cl-17005) · [Clase siguiente →](#cl-17007)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-16939}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-17007}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar construir aplicaciones computacionales basadas en programación orientada a objetos a través de reconocer conceptos, documentos y roles del oficio: Construir aplicaciones computacionales basadas en programación orientada a objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Con un método que valida antes de cambiar el saldo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16938) · [Clase siguiente →](#cl-16940)
+[← Clase anterior](#cl-17006) · [Clase siguiente →](#cl-17008)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-16940}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-17008}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar construir aplicaciones computacionales basadas en programación orientada a objetos a través de analizar un caso de trabajo en papel: Construir aplicaciones computacionales basadas en programación orientada a objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Devuelve False y el saldo sigue en 200
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16939) · [Clase siguiente →](#cl-16941)
+[← Clase anterior](#cl-17007) · [Clase siguiente →](#cl-17009)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-16941}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Construir aplicaciones computacionales basadas en programación orientada a objetos {#cl-17009}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar construir aplicaciones computacionales basadas en programación orientada a objetos a través de aplicar un criterio técnico con datos de ejemplo: Construir aplicaciones computacionales basadas en programación orientada a objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: La referencia al Cliente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16940) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-05.md#cl-16942)
+[← Clase anterior](#cl-17008) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-05.md#cl-17010)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

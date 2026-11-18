@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15408) · [Clase 2](#cl-15409) · [Clase 3](#cl-15410) · [Clase 4](#cl-15411)
+**Clases de este OA:** [Clase 1](#cl-15433) · [Clase 2](#cl-15434) · [Clase 3](#cl-15435) · [Clase 4](#cl-15436)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar las tareas de manera prolija {#cl-15408}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar las tareas de manera prolija {#cl-15433}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las tareas de manera prolija a través de situar el contexto laboral, la norma y el riesgo: Realizar las tareas de manera prolija, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No, hasta cumplir y marcar el criterio que falta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-02.md#cl-15407) · [Clase siguiente →](#cl-15409)
+[← Última clase del OA anterior](tp-gene-3y4-oag-02.md#cl-15432) · [Clase siguiente →](#cl-15434)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar las tareas de manera prolija {#cl-15409}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar las tareas de manera prolija {#cl-15434}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las tareas de manera prolija a través de reconocer conceptos, documentos y roles del oficio: Realizar las tareas de manera prolija, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 2 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15408) · [Clase siguiente →](#cl-15410)
+[← Clase anterior](#cl-15433) · [Clase siguiente →](#cl-15435)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar las tareas de manera prolija {#cl-15410}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar las tareas de manera prolija {#cl-15435}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las tareas de manera prolija a través de analizar un caso de trabajo en papel: Realizar las tareas de manera prolija, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: No se detiene el lote, pero se corrigen las 4 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15409) · [Clase siguiente →](#cl-15411)
+[← Clase anterior](#cl-15434) · [Clase siguiente →](#cl-15436)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar las tareas de manera prolija {#cl-15411}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar las tareas de manera prolija {#cl-15436}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las tareas de manera prolija a través de aplicar un criterio técnico con datos de ejemplo: Realizar las tareas de manera prolija, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 3 errores por cada 100
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15410) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-04.md#cl-15412)
+[← Clase anterior](#cl-15435) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-04.md#cl-15437)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

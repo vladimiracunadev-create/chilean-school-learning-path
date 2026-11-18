@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15370) · [Clase 2](#cl-15371) · [Clase 3](#cl-15372) · [Clase 4](#cl-15373)
+**Clases de este OA:** [Clase 1](#cl-15395) · [Clase 2](#cl-15396) · [Clase 3](#cl-15397) · [Clase 4](#cl-15398)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Fabricar partes, piezas y estructuras de muebles {#cl-15370}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Fabricar partes, piezas y estructuras de muebles {#cl-15395}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes, piezas y estructuras de muebles a través de situar el contexto laboral, la norma y el riesgo: Fabricar partes, piezas y estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 7 personas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-03.md#cl-15369) · [Clase siguiente →](#cl-15371)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-03.md#cl-15394) · [Clase siguiente →](#cl-15396)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Fabricar partes, piezas y estructuras de muebles {#cl-15371}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Fabricar partes, piezas y estructuras de muebles {#cl-15396}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes, piezas y estructuras de muebles a través de reconocer conceptos, documentos y roles del oficio: Fabricar partes, piezas y estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Entre 498 mm y 502 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15370) · [Clase siguiente →](#cl-15372)
+[← Clase anterior](#cl-15395) · [Clase siguiente →](#cl-15397)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Fabricar partes, piezas y estructuras de muebles {#cl-15372}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Fabricar partes, piezas y estructuras de muebles {#cl-15397}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes, piezas y estructuras de muebles a través de analizar un caso de trabajo en papel: Fabricar partes, piezas y estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 2 jornadas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15371) · [Clase siguiente →](#cl-15373)
+[← Clase anterior](#cl-15396) · [Clase siguiente →](#cl-15398)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Fabricar partes, piezas y estructuras de muebles {#cl-15373}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Fabricar partes, piezas y estructuras de muebles {#cl-15398}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes, piezas y estructuras de muebles a través de aplicar un criterio técnico con datos de ejemplo: Fabricar partes, piezas y estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 15 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15372) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-05.md#cl-15374)
+[← Clase anterior](#cl-15397) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-05.md#cl-15399)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

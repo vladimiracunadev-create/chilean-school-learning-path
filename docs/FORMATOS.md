@@ -1,16 +1,16 @@
 # Registros pedagógicos en Markdown y HTML
 
-El proyecto publica **17.234 registros pedagógicos en ambos formatos**: **13.078 clases disciplinares** y **4.156 experiencias de integración transversal**. Las experiencias integradas documentan habilidades o actitudes dentro de clases de contenido y no aumentan la carga horaria como clases independientes. Cada OA posee un archivo Markdown y una página HTML, y cada registro conserva la misma ancla `cl-xxxxx` en ambos formatos.
+El proyecto publica **17.302 registros pedagógicos en ambos formatos**: **13.146 clases disciplinares** y **4.156 experiencias de integración transversal**. Las experiencias integradas documentan habilidades o actitudes dentro de clases de contenido y no aumentan la carga horaria como clases independientes. Cada OA posee un archivo Markdown y una página HTML, y cada registro conserva la misma ancla `cl-xxxxx` en ambos formatos.
 
 | Formato | Cantidad | Uso principal |
 |---|---:|---|
-| Archivos Markdown por OA | 3.769 | edición, revisión, historial y reutilización |
-| Páginas HTML por OA | 3.769 | lectura visual, navegación y accesibilidad web |
+| Archivos Markdown por OA | 3.784 | edición, revisión, historial y reutilización |
+| Páginas HTML por OA | 3.784 | lectura visual, navegación y accesibilidad web |
 | Compilaciones PDF | 49 | descarga por etapa, nivel, asignatura o programa completo |
-| Clases disciplinares | 13.078 | planificación autónoma desarrollada |
+| Clases disciplinares | 13.146 | planificación autónoma desarrollada |
 | Experiencias integradas | 4.156 | habilidad o actitud observada dentro del contenido |
-| Registros con ancla en Markdown | 17.234 | enlace estable al contenido fuente |
-| Registros con ancla en HTML | 17.234 | enlace estable para uso en navegador |
+| Registros con ancla en Markdown | 17.302 | enlace estable al contenido fuente |
+| Registros con ancla en HTML | 17.302 | enlace estable para uso en navegador |
 
 ## Ejemplo de correspondencia
 
@@ -19,7 +19,7 @@ Un registro puede tener el código `CL-00746`:
 - Markdown: `curriculum/1-basico/matematica/ma01-oa-01.md#cl-00746`
 - HTML: `classes/1-basico/matematica/ma01-oa-01.html#cl-00746`
 
-Los dos formatos conservan el mismo OA y las mismas anclas, pero su navegación está separada: un documento Markdown enlaza otros `.md`; una página de GitHub Pages enlaza otros `.html`. El validador recorre los 17.234 registros del catálogo y falla si falta un archivo, un ancla o aparece un cruce entre formatos.
+Los dos formatos conservan el mismo OA y las mismas anclas, pero su navegación está separada: un documento Markdown enlaza otros `.md`; una página de GitHub Pages enlaza otros `.html`. El validador recorre los 17.302 registros del catálogo y falla si falta un archivo, un ancla o aparece un cruce entre formatos.
 
 ## Compilaciones PDF
 

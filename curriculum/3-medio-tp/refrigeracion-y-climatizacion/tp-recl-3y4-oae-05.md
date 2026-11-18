@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15599) · [Clase 2](#cl-15600) · [Clase 3](#cl-15601) · [Clase 4](#cl-15602) · [Clase 5](#cl-15603)
+**Clases de este OA:** [Clase 1](#cl-15624) · [Clase 2](#cl-15625) · [Clase 3](#cl-15626) · [Clase 4](#cl-15627) · [Clase 5](#cl-15628)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar equipos y componentes de sistemas de refrigeración {#cl-15599}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar equipos y componentes de sistemas de refrigeración {#cl-15624}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y componentes de sistemas de refrigeración a través de situar el contexto laboral, la norma y el riesgo: Instalar equipos y componentes de sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Al profesional encargado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-recl-3y4-oae-04.md#cl-15598) · [Clase siguiente →](#cl-15600)
+[← Última clase del OA anterior](tp-recl-3y4-oae-04.md#cl-15623) · [Clase siguiente →](#cl-15625)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar equipos y componentes de sistemas de refrigeración {#cl-15600}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar equipos y componentes de sistemas de refrigeración {#cl-15625}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y componentes de sistemas de refrigeración a través de reconocer conceptos, documentos y roles del oficio: Instalar equipos y componentes de sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: El sensor
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15599) · [Clase siguiente →](#cl-15601)
+[← Clase anterior](#cl-15624) · [Clase siguiente →](#cl-15626)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar equipos y componentes de sistemas de refrigeración {#cl-15601}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar equipos y componentes de sistemas de refrigeración {#cl-15626}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y componentes de sistemas de refrigeración a través de analizar un caso de trabajo en papel: Instalar equipos y componentes de sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 6 kW
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15600) · [Clase siguiente →](#cl-15602)
+[← Clase anterior](#cl-15625) · [Clase siguiente →](#cl-15627)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar equipos y componentes de sistemas de refrigeración {#cl-15602}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar equipos y componentes de sistemas de refrigeración {#cl-15627}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y componentes de sistemas de refrigeración a través de aplicar un criterio técnico con datos de ejemplo: Instalar equipos y componentes de sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: Encendido
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15601) · [Clase siguiente →](#cl-15603)
+[← Clase anterior](#cl-15626) · [Clase siguiente →](#cl-15628)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar equipos y componentes de sistemas de refrigeración {#cl-15603}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar equipos y componentes de sistemas de refrigeración {#cl-15628}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y componentes de sistemas de refrigeración a través de comparar alternativas y verificar la calidad: Instalar equipos y componentes de sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -1083,7 +1083,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15602) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-06.md#cl-15604)
+[← Clase anterior](#cl-15627) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-06.md#cl-15629)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

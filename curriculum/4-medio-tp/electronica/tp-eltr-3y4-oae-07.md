@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16360) · [Clase 2](#cl-16361) · [Clase 3](#cl-16362) · [Clase 4](#cl-16363)
+**Clases de este OA:** [Clase 1](#cl-16428) · [Clase 2](#cl-16429) · [Clase 3](#cl-16430) · [Clase 4](#cl-16431)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16360}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16428}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos a través de situar el contexto laboral, la norma y el riesgo: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 250 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eltr-3y4-oae-06.md#cl-16359) · [Clase siguiente →](#cl-16361)
+[← Última clase del OA anterior](tp-eltr-3y4-oae-06.md#cl-16427) · [Clase siguiente →](#cl-16429)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16361}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16429}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos a través de reconocer conceptos, documentos y roles del oficio: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Sí, está dentro del rango
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16360) · [Clase siguiente →](#cl-16362)
+[← Clase anterior](#cl-16428) · [Clase siguiente →](#cl-16430)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16362}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16430}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos a través de analizar un caso de trabajo en papel: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: ALARMA = 1
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16361) · [Clase siguiente →](#cl-16363)
+[← Clase anterior](#cl-16429) · [Clase siguiente →](#cl-16431)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16363}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos {#cl-16431}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos a través de aplicar un criterio técnico con datos de ejemplo: Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: BOMBA = 1
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16362)
+[← Clase anterior](#cl-16430)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

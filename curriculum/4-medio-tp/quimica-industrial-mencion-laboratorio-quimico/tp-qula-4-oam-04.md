@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16980) · [Clase 2](#cl-16981) · [Clase 3](#cl-16982) · [Clase 4](#cl-16983) · [Clase 5](#cl-16984)
+**Clases de este OA:** [Clase 1](#cl-17048) · [Clase 2](#cl-17049) · [Clase 3](#cl-17050) · [Clase 4](#cl-17051) · [Clase 5](#cl-17052)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-16980}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-17048}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir, registrar y verificar datos de los estados iniciales de las muestras y de los a través de situar el contexto laboral, la norma y el riesgo: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Sí, está controlada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-qula-4-oam-03.md#cl-16979) · [Clase siguiente →](#cl-16981)
+[← Última clase del OA anterior](tp-qula-4-oam-03.md#cl-17047) · [Clase siguiente →](#cl-17049)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-16981}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-17049}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir, registrar y verificar datos de los estados iniciales de las muestras y de los a través de reconocer conceptos, documentos y roles del oficio: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Error sistemático
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16980) · [Clase siguiente →](#cl-16982)
+[← Clase anterior](#cl-17048) · [Clase siguiente →](#cl-17050)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-16982}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-17050}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir, registrar y verificar datos de los estados iniciales de las muestras y de los a través de analizar un caso de trabajo en papel: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Que se midió fuera de condiciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16981) · [Clase siguiente →](#cl-16983)
+[← Clase anterior](#cl-17049) · [Clase siguiente →](#cl-17051)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-16983}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-17051}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir, registrar y verificar datos de los estados iniciales de las muestras y de los a través de aplicar un criterio técnico con datos de ejemplo: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 3
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16982) · [Clase siguiente →](#cl-16984)
+[← Clase anterior](#cl-17050) · [Clase siguiente →](#cl-17052)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-16984}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los {#cl-17052}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir, registrar y verificar datos de los estados iniciales de las muestras y de los a través de comparar alternativas y verificar la calidad: Medir, registrar y verificar datos de los estados iniciales de las muestras y de los, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16983) · [Primera clase del OA siguiente →](tp-qula-4-oam-05.md#cl-16985)
+[← Clase anterior](#cl-17051) · [Primera clase del OA siguiente →](tp-qula-4-oam-05.md#cl-17053)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15311) · [Clase 2](#cl-15312) · [Clase 3](#cl-15313) · [Clase 4](#cl-15314)
+**Clases de este OA:** [Clase 1](#cl-15336) · [Clase 2](#cl-15337) · [Clase 3](#cl-15338) · [Clase 4](#cl-15339)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15311}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15336}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales a través de situar el contexto laboral, la norma y el riesgo: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Avisar: individual; reparar: empresarial
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mete-3y4-oae-07.md#cl-15310) · [Clase siguiente →](#cl-15312)
+[← Última clase del OA anterior](tp-mete-3y4-oae-07.md#cl-15335) · [Clase siguiente →](#cl-15337)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15312}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15337}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales a través de reconocer conceptos, documentos y roles del oficio: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: El informe de incidente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15311) · [Clase siguiente →](#cl-15313)
+[← Clase anterior](#cl-15336) · [Clase siguiente →](#cl-15338)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15313}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15338}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales a través de analizar un caso de trabajo en papel: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 40
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15312) · [Clase siguiente →](#cl-15314)
+[← Clase anterior](#cl-15337) · [Clase siguiente →](#cl-15339)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15314}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales {#cl-15339}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales a través de aplicar un criterio técnico con datos de ejemplo: Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15313)
+[← Clase anterior](#cl-15338)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

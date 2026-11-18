@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15270) · [Clase 2](#cl-15271) · [Clase 3](#cl-15272) · [Clase 4](#cl-15273) · [Clase 5](#cl-15274)
+**Clases de este OA:** [Clase 1](#cl-15295) · [Clase 2](#cl-15296) · [Clase 3](#cl-15297) · [Clase 4](#cl-15298) · [Clase 5](#cl-15299)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Inspeccionar en forma visual {#cl-15270}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Inspeccionar en forma visual {#cl-15295}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar en forma visual a través de situar el contexto laboral, la norma y el riesgo: Inspeccionar en forma visual, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meae-3y4-oae-05.md#cl-15269) · [Clase siguiente →](#cl-15271)
+[← Última clase del OA anterior](tp-meae-3y4-oae-05.md#cl-15294) · [Clase siguiente →](#cl-15296)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Inspeccionar en forma visual {#cl-15271}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Inspeccionar en forma visual {#cl-15296}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar en forma visual a través de reconocer conceptos, documentos y roles del oficio: Inspeccionar en forma visual, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: R deja de recibir corriente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15270) · [Clase siguiente →](#cl-15272)
+[← Clase anterior](#cl-15295) · [Clase siguiente →](#cl-15297)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Inspeccionar en forma visual {#cl-15272}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Inspeccionar en forma visual {#cl-15297}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar en forma visual a través de analizar un caso de trabajo en papel: Inspeccionar en forma visual, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Los componentes entre Q2 y Q3
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15271) · [Clase siguiente →](#cl-15273)
+[← Clase anterior](#cl-15296) · [Clase siguiente →](#cl-15298)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar en forma visual {#cl-15273}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar en forma visual {#cl-15298}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar en forma visual a través de aplicar un criterio técnico con datos de ejemplo: Inspeccionar en forma visual, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 140 W
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15272) · [Clase siguiente →](#cl-15274)
+[← Clase anterior](#cl-15297) · [Clase siguiente →](#cl-15299)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Inspeccionar en forma visual {#cl-15274}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Inspeccionar en forma visual {#cl-15299}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar en forma visual a través de comparar alternativas y verificar la calidad: Inspeccionar en forma visual, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: De inmediato, al personal certificado o al responsable del turno
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15273) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-07.md#cl-15275)
+[← Clase anterior](#cl-15298) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-07.md#cl-15300)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

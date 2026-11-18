@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17038) · [Clase 2](#cl-17039) · [Clase 3](#cl-17040) · [Clase 4](#cl-17041) · [Clase 5](#cl-17042)
+**Clases de este OA:** [Clase 1](#cl-17106) · [Clase 2](#cl-17107) · [Clase 3](#cl-17108) · [Clase 4](#cl-17109) · [Clase 5](#cl-17110)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17038}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17106}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y a través de situar el contexto laboral, la norma y el riesgo: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Recuperar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-recl-3y4-oae-08.md#cl-17037) · [Clase siguiente →](#cl-17039)
+[← Última clase del OA anterior](tp-recl-3y4-oae-08.md#cl-17105) · [Clase siguiente →](#cl-17107)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17039}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17107}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y a través de reconocer conceptos, documentos y roles del oficio: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 6 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17038) · [Clase siguiente →](#cl-17040)
+[← Clase anterior](#cl-17106) · [Clase siguiente →](#cl-17108)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17040}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17108}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y a través de analizar un caso de trabajo en papel: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 5 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17039) · [Clase siguiente →](#cl-17041)
+[← Clase anterior](#cl-17107) · [Clase siguiente →](#cl-17109)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17041}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17109}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y a través de aplicar un criterio técnico con datos de ejemplo: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 3 contenedores
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17040) · [Clase siguiente →](#cl-17042)
+[← Clase anterior](#cl-17108) · [Clase siguiente →](#cl-17110)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17042}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y {#cl-17110}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y a través de comparar alternativas y verificar la calidad: Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 19 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17041)
+[← Clase anterior](#cl-17109)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

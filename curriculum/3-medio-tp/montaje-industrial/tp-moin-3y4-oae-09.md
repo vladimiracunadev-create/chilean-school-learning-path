@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15350) · [Clase 2](#cl-15351) · [Clase 3](#cl-15352) · [Clase 4](#cl-15353)
+**Clases de este OA:** [Clase 1](#cl-15375) · [Clase 2](#cl-15376) · [Clase 3](#cl-15377) · [Clase 4](#cl-15378)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15350}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15375}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos del montaje industrial a través de situar el contexto laboral, la norma y el riesgo: Realizar el tratamiento de residuos y desechos del montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 180 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-08.md#cl-15349) · [Clase siguiente →](#cl-15351)
+[← Última clase del OA anterior](tp-moin-3y4-oae-08.md#cl-15374) · [Clase siguiente →](#cl-15376)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15351}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15376}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos del montaje industrial a través de reconocer conceptos, documentos y roles del oficio: Realizar el tratamiento de residuos y desechos del montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El de residuos peligrosos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15350) · [Clase siguiente →](#cl-15352)
+[← Clase anterior](#cl-15375) · [Clase siguiente →](#cl-15377)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15352}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15377}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos del montaje industrial a través de analizar un caso de trabajo en papel: Realizar el tratamiento de residuos y desechos del montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 30.000 pesos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15351) · [Clase siguiente →](#cl-15353)
+[← Clase anterior](#cl-15376) · [Clase siguiente →](#cl-15378)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15353}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el tratamiento de residuos y desechos del montaje industrial {#cl-15378}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos del montaje industrial a través de aplicar un criterio técnico con datos de ejemplo: Realizar el tratamiento de residuos y desechos del montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 4 retiros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15352) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-10.md#cl-15354)
+[← Clase anterior](#cl-15377) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-10.md#cl-15379)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

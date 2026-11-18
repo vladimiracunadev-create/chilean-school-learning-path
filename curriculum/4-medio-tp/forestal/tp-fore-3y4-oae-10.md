@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16441) · [Clase 2](#cl-16442) · [Clase 3](#cl-16443) · [Clase 4](#cl-16444)
+**Clases de este OA:** [Clase 1](#cl-16509) · [Clase 2](#cl-16510) · [Clase 3](#cl-16511) · [Clase 4](#cl-16512)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16441}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16509}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de a través de situar el contexto laboral, la norma y el riesgo: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 25 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-fore-3y4-oae-09.md#cl-16440) · [Clase siguiente →](#cl-16442)
+[← Última clase del OA anterior](tp-fore-3y4-oae-09.md#cl-16508) · [Clase siguiente →](#cl-16510)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16442}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16510}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de a través de reconocer conceptos, documentos y roles del oficio: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 10 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16441) · [Clase siguiente →](#cl-16443)
+[← Clase anterior](#cl-16509) · [Clase siguiente →](#cl-16511)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16443}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16511}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de a través de analizar un caso de trabajo en papel: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16442) · [Clase siguiente →](#cl-16444)
+[← Clase anterior](#cl-16510) · [Clase siguiente →](#cl-16512)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16444}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de {#cl-16512}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de a través de aplicar un criterio técnico con datos de ejemplo: Aplicar criterios de protección ambiental y desarrollo sustentable en las actividades de, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: $8.000.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16443)
+[← Clase anterior](#cl-16511)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

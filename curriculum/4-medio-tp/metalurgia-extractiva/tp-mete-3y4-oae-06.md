@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16712) · [Clase 2](#cl-16713) · [Clase 3](#cl-16714) · [Clase 4](#cl-16715) · [Clase 5](#cl-16716)
+**Clases de este OA:** [Clase 1](#cl-16780) · [Clase 2](#cl-16781) · [Clase 3](#cl-16782) · [Clase 4](#cl-16783) · [Clase 5](#cl-16784)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Preparar equipos e instrumentos de laboratorio {#cl-16712}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Preparar equipos e instrumentos de laboratorio {#cl-16780}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar equipos e instrumentos de laboratorio a través de situar el contexto laboral, la norma y el riesgo: Preparar equipos e instrumentos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 180 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mete-3y4-oae-05.md#cl-16711) · [Clase siguiente →](#cl-16713)
+[← Última clase del OA anterior](tp-mete-3y4-oae-05.md#cl-16779) · [Clase siguiente →](#cl-16781)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Preparar equipos e instrumentos de laboratorio {#cl-16713}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Preparar equipos e instrumentos de laboratorio {#cl-16781}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar equipos e instrumentos de laboratorio a través de reconocer conceptos, documentos y roles del oficio: Preparar equipos e instrumentos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16712) · [Clase siguiente →](#cl-16714)
+[← Clase anterior](#cl-16780) · [Clase siguiente →](#cl-16782)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Preparar equipos e instrumentos de laboratorio {#cl-16714}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Preparar equipos e instrumentos de laboratorio {#cl-16782}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar equipos e instrumentos de laboratorio a través de analizar un caso de trabajo en papel: Preparar equipos e instrumentos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16713) · [Clase siguiente →](#cl-16715)
+[← Clase anterior](#cl-16781) · [Clase siguiente →](#cl-16783)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Preparar equipos e instrumentos de laboratorio {#cl-16715}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Preparar equipos e instrumentos de laboratorio {#cl-16783}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar equipos e instrumentos de laboratorio a través de aplicar un criterio técnico con datos de ejemplo: Preparar equipos e instrumentos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 60 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16714) · [Clase siguiente →](#cl-16716)
+[← Clase anterior](#cl-16782) · [Clase siguiente →](#cl-16784)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Preparar equipos e instrumentos de laboratorio {#cl-16716}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Preparar equipos e instrumentos de laboratorio {#cl-16784}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar equipos e instrumentos de laboratorio a través de comparar alternativas y verificar la calidad: Preparar equipos e instrumentos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 1 punto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16715) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-07.md#cl-16717)
+[← Clase anterior](#cl-16783) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-07.md#cl-16785)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

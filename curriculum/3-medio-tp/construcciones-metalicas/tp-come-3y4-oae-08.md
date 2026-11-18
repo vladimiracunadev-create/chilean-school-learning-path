@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14805) · [Clase 2](#cl-14806) · [Clase 3](#cl-14807) · [Clase 4](#cl-14808)
+**Clases de este OA:** [Clase 1](#cl-14830) · [Clase 2](#cl-14831) · [Clase 3](#cl-14832) · [Clase 4](#cl-14833)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14805}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14830}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos de las construcciones metálicas a través de situar el contexto laboral, la norma y el riesgo: Realizar el tratamiento de residuos y desechos de las construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 20 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-come-3y4-oae-07.md#cl-14804) · [Clase siguiente →](#cl-14806)
+[← Última clase del OA anterior](tp-come-3y4-oae-07.md#cl-14829) · [Clase siguiente →](#cl-14831)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14806}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14831}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos de las construcciones metálicas a través de reconocer conceptos, documentos y roles del oficio: Realizar el tratamiento de residuos y desechos de las construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 4 contenedores
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14805) · [Clase siguiente →](#cl-14807)
+[← Clase anterior](#cl-14830) · [Clase siguiente →](#cl-14832)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14807}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14832}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos de las construcciones metálicas a través de analizar un caso de trabajo en papel: Realizar el tratamiento de residuos y desechos de las construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 10 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14806) · [Clase siguiente →](#cl-14808)
+[← Clase anterior](#cl-14831) · [Clase siguiente →](#cl-14833)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14808}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el tratamiento de residuos y desechos de las construcciones metálicas {#cl-14833}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el tratamiento de residuos y desechos de las construcciones metálicas a través de aplicar un criterio técnico con datos de ejemplo: Realizar el tratamiento de residuos y desechos de las construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: $12.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14807) · [Primera clase del OA siguiente →](tp-come-3y4-oae-09.md#cl-14809)
+[← Clase anterior](#cl-14832) · [Primera clase del OA siguiente →](tp-come-3y4-oae-09.md#cl-14834)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

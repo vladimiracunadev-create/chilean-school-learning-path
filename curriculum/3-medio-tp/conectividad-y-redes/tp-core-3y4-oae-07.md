@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14755) · [Clase 2](#cl-14756) · [Clase 3](#cl-14757) · [Clase 4](#cl-14758)
+**Clases de este OA:** [Clase 1](#cl-14780) · [Clase 2](#cl-14781) · [Clase 3](#cl-14782) · [Clase 4](#cl-14783)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y configurar una red inalámbrica {#cl-14755}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y configurar una red inalámbrica {#cl-14780}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red inalámbrica a través de situar el contexto laboral, la norma y el riesgo: Instalar y configurar una red inalámbrica, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Para proteger los datos del personal
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-06.md#cl-14754) · [Clase siguiente →](#cl-14756)
+[← Última clase del OA anterior](tp-core-3y4-oae-06.md#cl-14779) · [Clase siguiente →](#cl-14781)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y configurar una red inalámbrica {#cl-14756}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y configurar una red inalámbrica {#cl-14781}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red inalámbrica a través de reconocer conceptos, documentos y roles del oficio: Instalar y configurar una red inalámbrica, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 2,4 GHz
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14755) · [Clase siguiente →](#cl-14757)
+[← Clase anterior](#cl-14780) · [Clase siguiente →](#cl-14782)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y configurar una red inalámbrica {#cl-14757}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y configurar una red inalámbrica {#cl-14782}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red inalámbrica a través de analizar un caso de trabajo en papel: Instalar y configurar una red inalámbrica, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 10 usuarios
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14756) · [Clase siguiente →](#cl-14758)
+[← Clase anterior](#cl-14781) · [Clase siguiente →](#cl-14783)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y configurar una red inalámbrica {#cl-14758}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y configurar una red inalámbrica {#cl-14783}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red inalámbrica a través de aplicar un criterio técnico con datos de ejemplo: Instalar y configurar una red inalámbrica, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: No se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14757) · [Primera clase del OA siguiente →](tp-core-3y4-oae-08.md#cl-14759)
+[← Clase anterior](#cl-14782) · [Primera clase del OA siguiente →](tp-core-3y4-oae-08.md#cl-14784)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

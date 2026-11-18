@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15247) · [Clase 2](#cl-15248) · [Clase 3](#cl-15249) · [Clase 4](#cl-15250) · [Clase 5](#cl-15251)
+**Clases de este OA:** [Clase 1](#cl-15272) · [Clase 2](#cl-15273) · [Clase 3](#cl-15274) · [Clase 4](#cl-15275) · [Clase 5](#cl-15276)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15247}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15272}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a a través de situar el contexto laboral, la norma y el riesgo: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El apuro por el tiempo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15248)
+[Clase siguiente →](#cl-15273)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15248}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15273}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a a través de reconocer conceptos, documentos y roles del oficio: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 30 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15247) · [Clase siguiente →](#cl-15249)
+[← Clase anterior](#cl-15272) · [Clase siguiente →](#cl-15274)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15249}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15274}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a a través de analizar un caso de trabajo en papel: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Baja; cambió 5 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15248) · [Clase siguiente →](#cl-15250)
+[← Clase anterior](#cl-15273) · [Clase siguiente →](#cl-15275)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15250}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15275}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a a través de aplicar un criterio técnico con datos de ejemplo: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a, con una experiencia disciplinar específica, segura y revisable.
@@ -877,9 +877,9 @@ Respuesta: Fuera de límites
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15249) · [Clase siguiente →](#cl-15251)
+[← Clase anterior](#cl-15274) · [Clase siguiente →](#cl-15276)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15251}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a {#cl-15276}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a a través de comparar alternativas y verificar la calidad: Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a, con una experiencia disciplinar específica, segura y revisable.
@@ -1084,7 +1084,7 @@ Respuesta: $200.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15250) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-02.md#cl-15252)
+[← Clase anterior](#cl-15275) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-02.md#cl-15277)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

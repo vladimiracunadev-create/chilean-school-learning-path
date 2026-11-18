@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15298) · [Clase 2](#cl-15299) · [Clase 3](#cl-15300) · [Clase 4](#cl-15301)
+**Clases de este OA:** [Clase 1](#cl-15323) · [Clase 2](#cl-15324) · [Clase 3](#cl-15325) · [Clase 4](#cl-15326)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15298}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15323}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras de productos intermedios o finales de procesos productivos en plantas de a través de situar el contexto laboral, la norma y el riesgo: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 15 kilos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mete-3y4-oae-04.md#cl-15297) · [Clase siguiente →](#cl-15299)
+[← Última clase del OA anterior](tp-mete-3y4-oae-04.md#cl-15322) · [Clase siguiente →](#cl-15324)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15299}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15324}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras de productos intermedios o finales de procesos productivos en plantas de a través de reconocer conceptos, documentos y roles del oficio: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: El responsable
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15298) · [Clase siguiente →](#cl-15300)
+[← Clase anterior](#cl-15323) · [Clase siguiente →](#cl-15325)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15300}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15325}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras de productos intermedios o finales de procesos productivos en plantas de a través de analizar un caso de trabajo en papel: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15299) · [Clase siguiente →](#cl-15301)
+[← Clase anterior](#cl-15324) · [Clase siguiente →](#cl-15326)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15301}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de {#cl-15326}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras de productos intermedios o finales de procesos productivos en plantas de a través de aplicar un criterio técnico con datos de ejemplo: Tomar muestras de productos intermedios o finales de procesos productivos en plantas de, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 5 kilos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15300) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-06.md#cl-15302)
+[← Clase anterior](#cl-15325) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-06.md#cl-15327)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

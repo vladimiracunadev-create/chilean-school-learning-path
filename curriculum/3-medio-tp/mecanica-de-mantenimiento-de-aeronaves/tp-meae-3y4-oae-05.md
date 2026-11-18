@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15266) · [Clase 2](#cl-15267) · [Clase 3](#cl-15268) · [Clase 4](#cl-15269)
+**Clases de este OA:** [Clase 1](#cl-15291) · [Clase 2](#cl-15292) · [Clase 3](#cl-15293) · [Clase 4](#cl-15294)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15266}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15291}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y a través de situar el contexto laboral, la norma y el riesgo: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No abras el panel
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meae-3y4-oae-04.md#cl-15265) · [Clase siguiente →](#cl-15267)
+[← Última clase del OA anterior](tp-meae-3y4-oae-04.md#cl-15290) · [Clase siguiente →](#cl-15292)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15267}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15292}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y a través de reconocer conceptos, documentos y roles del oficio: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Sí, mismo tipo y unidades distintas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15266) · [Clase siguiente →](#cl-15268)
+[← Clase anterior](#cl-15291) · [Clase siguiente →](#cl-15293)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15268}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15293}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y a través de analizar un caso de trabajo en papel: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Cada 150 horas de vuelo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15267) · [Clase siguiente →](#cl-15269)
+[← Clase anterior](#cl-15292) · [Clase siguiente →](#cl-15294)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15269}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y {#cl-15294}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y a través de aplicar un criterio técnico con datos de ejemplo: Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y, con una experiencia disciplinar específica, segura y revisable.
@@ -877,7 +877,7 @@ Respuesta: Not due
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15268) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-06.md#cl-15270)
+[← Clase anterior](#cl-15293) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-06.md#cl-15295)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

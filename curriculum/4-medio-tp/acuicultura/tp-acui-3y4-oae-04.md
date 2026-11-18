@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15827) · [Clase 2](#cl-15828) · [Clase 3](#cl-15829) · [Clase 4](#cl-15830)
+**Clases de este OA:** [Clase 1](#cl-15852) · [Clase 2](#cl-15853) · [Clase 3](#cl-15854) · [Clase 4](#cl-15855)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15827}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15852}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de a través de situar el contexto laboral, la norma y el riesgo: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-acui-3y4-oae-03.md#cl-15826) · [Clase siguiente →](#cl-15828)
+[← Última clase del OA anterior](tp-acui-3y4-oae-03.md#cl-15851) · [Clase siguiente →](#cl-15853)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15828}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15853}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de a través de reconocer conceptos, documentos y roles del oficio: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: La hoja de vida del equipo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15827) · [Clase siguiente →](#cl-15829)
+[← Clase anterior](#cl-15852) · [Clase siguiente →](#cl-15854)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15829}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15854}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de a través de analizar un caso de trabajo en papel: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: No cumple: queda 10 semillas bajo la meta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15828) · [Clase siguiente →](#cl-15830)
+[← Clase anterior](#cl-15853) · [Clase siguiente →](#cl-15855)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15830}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de {#cl-15855}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de a través de aplicar un criterio técnico con datos de ejemplo: Realizar la instalación básica y efectuar labores de mantenimiento primario de equipos de, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: $40.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15829) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-05.md#cl-15831)
+[← Clase anterior](#cl-15854) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-05.md#cl-15856)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

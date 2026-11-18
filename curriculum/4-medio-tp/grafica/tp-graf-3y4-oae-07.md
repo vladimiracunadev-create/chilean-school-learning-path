@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16510) · [Clase 2](#cl-16511) · [Clase 3](#cl-16512) · [Clase 4](#cl-16513) · [Clase 5](#cl-16514)
+**Clases de este OA:** [Clase 1](#cl-16578) · [Clase 2](#cl-16579) · [Clase 3](#cl-16580) · [Clase 4](#cl-16581) · [Clase 5](#cl-16582)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar operaciones de mantenimiento básico {#cl-16510}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar operaciones de mantenimiento básico {#cl-16578}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar operaciones de mantenimiento básico a través de situar el contexto laboral, la norma y el riesgo: Realizar operaciones de mantenimiento básico, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El manual del fabricante
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-graf-3y4-oae-06.md#cl-16509) · [Clase siguiente →](#cl-16511)
+[← Última clase del OA anterior](tp-graf-3y4-oae-06.md#cl-16577) · [Clase siguiente →](#cl-16579)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar operaciones de mantenimiento básico {#cl-16511}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar operaciones de mantenimiento básico {#cl-16579}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar operaciones de mantenimiento básico a través de reconocer conceptos, documentos y roles del oficio: Realizar operaciones de mantenimiento básico, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Correctivo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16510) · [Clase siguiente →](#cl-16512)
+[← Clase anterior](#cl-16578) · [Clase siguiente →](#cl-16580)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar operaciones de mantenimiento básico {#cl-16512}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar operaciones de mantenimiento básico {#cl-16580}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar operaciones de mantenimiento básico a través de analizar un caso de trabajo en papel: Realizar operaciones de mantenimiento básico, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: Sí, está vencida
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16511) · [Clase siguiente →](#cl-16513)
+[← Clase anterior](#cl-16579) · [Clase siguiente →](#cl-16581)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar operaciones de mantenimiento básico {#cl-16513}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar operaciones de mantenimiento básico {#cl-16581}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar operaciones de mantenimiento básico a través de aplicar un criterio técnico con datos de ejemplo: Realizar operaciones de mantenimiento básico, con una experiencia disciplinar específica, segura y revisable.
@@ -870,9 +870,9 @@ Respuesta: $200.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16512) · [Clase siguiente →](#cl-16514)
+[← Clase anterior](#cl-16580) · [Clase siguiente →](#cl-16582)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar operaciones de mantenimiento básico {#cl-16514}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar operaciones de mantenimiento básico {#cl-16582}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar operaciones de mantenimiento básico a través de comparar alternativas y verificar la calidad: Realizar operaciones de mantenimiento básico, con una experiencia disciplinar específica, segura y revisable.
@@ -1076,7 +1076,7 @@ Respuesta: $60.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16513)
+[← Clase anterior](#cl-16581)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

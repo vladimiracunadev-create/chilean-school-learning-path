@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16374) · [Clase 2](#cl-16375) · [Clase 3](#cl-16376) · [Clase 4](#cl-16377)
+**Clases de este OA:** [Clase 1](#cl-16442) · [Clase 2](#cl-16443) · [Clase 3](#cl-16444) · [Clase 4](#cl-16445)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16374}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16442}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas a través de situar el contexto laboral, la norma y el riesgo: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Peligro: el ducto roto; riesgo: que se acumulen gases o polvo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-exmi-3y4-oae-02.md#cl-16373) · [Clase siguiente →](#cl-16375)
+[← Última clase del OA anterior](tp-exmi-3y4-oae-02.md#cl-16441) · [Clase siguiente →](#cl-16443)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16375}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16443}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas a través de reconocer conceptos, documentos y roles del oficio: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Se cumple la instrucción del fabricante
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16374) · [Clase siguiente →](#cl-16376)
+[← Clase anterior](#cl-16442) · [Clase siguiente →](#cl-16444)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16376}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16444}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas a través de analizar un caso de trabajo en papel: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Sí, es suficiente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16375) · [Clase siguiente →](#cl-16377)
+[← Clase anterior](#cl-16443) · [Clase siguiente →](#cl-16445)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16377}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas {#cl-16445}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas a través de aplicar un criterio técnico con datos de ejemplo: Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 1.200 segundos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16376) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-04.md#cl-16378)
+[← Clase anterior](#cl-16444) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-04.md#cl-16446)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

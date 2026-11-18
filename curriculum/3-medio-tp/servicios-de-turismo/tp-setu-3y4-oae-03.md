@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15672) · [Clase 2](#cl-15673) · [Clase 3](#cl-15674) · [Clase 4](#cl-15675) · [Clase 5](#cl-15676)
+**Clases de este OA:** [Clase 1](#cl-15697) · [Clase 2](#cl-15698) · [Clase 3](#cl-15699) · [Clase 4](#cl-15700) · [Clase 5](#cl-15701)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15672}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15697}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar orientar e informar al turista sobre atractivos turísticos de la zona a través de situar el contexto laboral, la norma y el riesgo: Orientar e informar al turista sobre atractivos turísticos de la zona, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No: sobran 2 personas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-setu-3y4-oae-02.md#cl-15671) · [Clase siguiente →](#cl-15673)
+[← Última clase del OA anterior](tp-setu-3y4-oae-02.md#cl-15696) · [Clase siguiente →](#cl-15698)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15673}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15698}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar orientar e informar al turista sobre atractivos turísticos de la zona a través de reconocer conceptos, documentos y roles del oficio: Orientar e informar al turista sobre atractivos turísticos de la zona, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Un guía autorizado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15672) · [Clase siguiente →](#cl-15674)
+[← Clase anterior](#cl-15697) · [Clase siguiente →](#cl-15699)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15674}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15699}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar orientar e informar al turista sobre atractivos turísticos de la zona a través de analizar un caso de trabajo en papel: Orientar e informar al turista sobre atractivos turísticos de la zona, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Sí, con 15 minutos de sobra
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15673) · [Clase siguiente →](#cl-15675)
+[← Clase anterior](#cl-15698) · [Clase siguiente →](#cl-15700)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15675}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15700}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar orientar e informar al turista sobre atractivos turísticos de la zona a través de aplicar un criterio técnico con datos de ejemplo: Orientar e informar al turista sobre atractivos turísticos de la zona, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 3 visitas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15674) · [Clase siguiente →](#cl-15676)
+[← Clase anterior](#cl-15699) · [Clase siguiente →](#cl-15701)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15676}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Orientar e informar al turista sobre atractivos turísticos de la zona {#cl-15701}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar orientar e informar al turista sobre atractivos turísticos de la zona a través de comparar alternativas y verificar la calidad: Orientar e informar al turista sobre atractivos turísticos de la zona, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 100 visitantes por semana
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15675) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-04.md#cl-15677)
+[← Clase anterior](#cl-15700) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-04.md#cl-15702)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

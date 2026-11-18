@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15576) · [Clase 2](#cl-15577) · [Clase 3](#cl-15578) · [Clase 4](#cl-15579) · [Clase 5](#cl-15580)
+**Clases de este OA:** [Clase 1](#cl-15601) · [Clase 2](#cl-15602) · [Clase 3](#cl-15603) · [Clase 4](#cl-15604) · [Clase 5](#cl-15605)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar el manejo de residuos industriales {#cl-15576}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar el manejo de residuos industriales {#cl-15601}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el manejo de residuos industriales a través de situar el contexto laboral, la norma y el riesgo: Realizar el manejo de residuos industriales, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 4 tambores
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-quin-3-oae-04.md#cl-15575) · [Clase siguiente →](#cl-15577)
+[← Última clase del OA anterior](tp-quin-3-oae-04.md#cl-15600) · [Clase siguiente →](#cl-15602)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar el manejo de residuos industriales {#cl-15577}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar el manejo de residuos industriales {#cl-15602}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el manejo de residuos industriales a través de reconocer conceptos, documentos y roles del oficio: Realizar el manejo de residuos industriales, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: $60.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15576) · [Clase siguiente →](#cl-15578)
+[← Clase anterior](#cl-15601) · [Clase siguiente →](#cl-15603)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar el manejo de residuos industriales {#cl-15578}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar el manejo de residuos industriales {#cl-15603}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el manejo de residuos industriales a través de analizar un caso de trabajo en papel: Realizar el manejo de residuos industriales, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Sube 10 kg por mes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15577) · [Clase siguiente →](#cl-15579)
+[← Clase anterior](#cl-15602) · [Clase siguiente →](#cl-15604)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar el manejo de residuos industriales {#cl-15579}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar el manejo de residuos industriales {#cl-15604}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el manejo de residuos industriales a través de aplicar un criterio técnico con datos de ejemplo: Realizar el manejo de residuos industriales, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 3 kg por tonelada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15578) · [Clase siguiente →](#cl-15580)
+[← Clase anterior](#cl-15603) · [Clase siguiente →](#cl-15605)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar el manejo de residuos industriales {#cl-15580}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar el manejo de residuos industriales {#cl-15605}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el manejo de residuos industriales a través de comparar alternativas y verificar la calidad: Realizar el manejo de residuos industriales, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15579)
+[← Clase anterior](#cl-15604)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

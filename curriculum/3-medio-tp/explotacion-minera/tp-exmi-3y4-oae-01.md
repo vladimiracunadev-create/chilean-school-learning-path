@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15019) · [Clase 2](#cl-15020) · [Clase 3](#cl-15021) · [Clase 4](#cl-15022) · [Clase 5](#cl-15023)
+**Clases de este OA:** [Clase 1](#cl-15044) · [Clase 2](#cl-15045) · [Clase 3](#cl-15046) · [Clase 4](#cl-15047) · [Clase 5](#cl-15048)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos y mapas de ubicación {#cl-15019}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos y mapas de ubicación {#cl-15044}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos y mapas de ubicación a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos y mapas de ubicación, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: 8 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15020)
+[Clase siguiente →](#cl-15045)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos y mapas de ubicación {#cl-15020}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos y mapas de ubicación {#cl-15045}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos y mapas de ubicación a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos y mapas de ubicación, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Respuesta: Advertencia en el cruce: se extrema la atención
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15019) · [Clase siguiente →](#cl-15021)
+[← Clase anterior](#cl-15044) · [Clase siguiente →](#cl-15046)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer y utilizar planos y mapas de ubicación {#cl-15021}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer y utilizar planos y mapas de ubicación {#cl-15046}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos y mapas de ubicación a través de analizar un caso de trabajo en papel: Leer y utilizar planos y mapas de ubicación, con una experiencia disciplinar específica, segura y revisable.
@@ -671,9 +671,9 @@ Respuesta: La ruta más larga, sin tramos prohibidos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15020) · [Clase siguiente →](#cl-15022)
+[← Clase anterior](#cl-15045) · [Clase siguiente →](#cl-15047)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos y mapas de ubicación {#cl-15022}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos y mapas de ubicación {#cl-15047}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos y mapas de ubicación a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos y mapas de ubicación, con una experiencia disciplinar específica, segura y revisable.
@@ -879,9 +879,9 @@ Respuesta: Sí, el contenedor está dentro de la zona
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15021) · [Clase siguiente →](#cl-15023)
+[← Clase anterior](#cl-15046) · [Clase siguiente →](#cl-15048)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer y utilizar planos y mapas de ubicación {#cl-15023}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer y utilizar planos y mapas de ubicación {#cl-15048}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos y mapas de ubicación a través de comparar alternativas y verificar la calidad: Leer y utilizar planos y mapas de ubicación, con una experiencia disciplinar específica, segura y revisable.
@@ -1086,7 +1086,7 @@ Respuesta: El vigente, con la observación anotada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15022) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-02.md#cl-15024)
+[← Clase anterior](#cl-15047) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-02.md#cl-15049)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

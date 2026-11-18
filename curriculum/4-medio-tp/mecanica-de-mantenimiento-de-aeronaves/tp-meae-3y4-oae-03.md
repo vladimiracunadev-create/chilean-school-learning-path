@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16667) · [Clase 2](#cl-16668) · [Clase 3](#cl-16669) · [Clase 4](#cl-16670) · [Clase 5](#cl-16671)
+**Clases de este OA:** [Clase 1](#cl-16735) · [Clase 2](#cl-16736) · [Clase 3](#cl-16737) · [Clase 4](#cl-16738) · [Clase 5](#cl-16739)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16667}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16735}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y reparar los elementos estructurales internos y externos de la aeronave a través de situar el contexto laboral, la norma y el riesgo: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meae-3y4-oae-02.md#cl-16666) · [Clase siguiente →](#cl-16668)
+[← Última clase del OA anterior](tp-meae-3y4-oae-02.md#cl-16734) · [Clase siguiente →](#cl-16736)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16668}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16736}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y reparar los elementos estructurales internos y externos de la aeronave a través de reconocer conceptos, documentos y roles del oficio: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: $30.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16667) · [Clase siguiente →](#cl-16669)
+[← Clase anterior](#cl-16735) · [Clase siguiente →](#cl-16737)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16669}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16737}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y reparar los elementos estructurales internos y externos de la aeronave a través de analizar un caso de trabajo en papel: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Sí, como una zona
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16668) · [Clase siguiente →](#cl-16670)
+[← Clase anterior](#cl-16736) · [Clase siguiente →](#cl-16738)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16670}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16738}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y reparar los elementos estructurales internos y externos de la aeronave a través de aplicar un criterio técnico con datos de ejemplo: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 5 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16669) · [Clase siguiente →](#cl-16671)
+[← Clase anterior](#cl-16737) · [Clase siguiente →](#cl-16739)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16671}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave {#cl-16739}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y reparar los elementos estructurales internos y externos de la aeronave a través de comparar alternativas y verificar la calidad: Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16670) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-04.md#cl-16672)
+[← Clase anterior](#cl-16738) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-04.md#cl-16740)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

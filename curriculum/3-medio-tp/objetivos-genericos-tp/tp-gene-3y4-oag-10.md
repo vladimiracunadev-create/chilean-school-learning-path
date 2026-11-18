@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15436) · [Clase 2](#cl-15437) · [Clase 3](#cl-15438) · [Clase 4](#cl-15439)
+**Clases de este OA:** [Clase 1](#cl-15461) · [Clase 2](#cl-15462) · [Clase 3](#cl-15463) · [Clase 4](#cl-15464)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15436}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15461}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios a través de situar el contexto laboral, la norma y el riesgo: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 60 clientes potenciales
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-09.md#cl-15435) · [Clase siguiente →](#cl-15437)
+[← Última clase del OA anterior](tp-gene-3y4-oag-09.md#cl-15460) · [Clase siguiente →](#cl-15462)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15437}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15462}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios a través de reconocer conceptos, documentos y roles del oficio: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 200 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15436) · [Clase siguiente →](#cl-15438)
+[← Clase anterior](#cl-15461) · [Clase siguiente →](#cl-15463)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15438}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15463}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios a través de analizar un caso de trabajo en papel: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: No se puede saber si el negocio funciona
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15437) · [Clase siguiente →](#cl-15439)
+[← Clase anterior](#cl-15462) · [Clase siguiente →](#cl-15464)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15439}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios {#cl-15464}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios a través de aplicar un criterio técnico con datos de ejemplo: Emprender iniciativas útiles en los lugares de trabajo y/o proyectos propios, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: Las normas y los permisos vigentes del rubro
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15438) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-11.md#cl-15440)
+[← Clase anterior](#cl-15463) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-11.md#cl-15465)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

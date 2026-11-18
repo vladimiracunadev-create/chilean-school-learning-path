@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16966) · [Clase 2](#cl-16967) · [Clase 3](#cl-16968) · [Clase 4](#cl-16969) · [Clase 5](#cl-16970)
+**Clases de este OA:** [Clase 1](#cl-17034) · [Clase 2](#cl-17035) · [Clase 3](#cl-17036) · [Clase 4](#cl-17037) · [Clase 5](#cl-17038)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Tomar muestras para análisis químico de materias primas {#cl-16966}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Tomar muestras para análisis químico de materias primas {#cl-17034}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras para análisis químico de materias primas a través de situar el contexto laboral, la norma y el riesgo: Tomar muestras para análisis químico de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 8 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16967)
+[Clase siguiente →](#cl-17035)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Tomar muestras para análisis químico de materias primas {#cl-16967}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Tomar muestras para análisis químico de materias primas {#cl-17035}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras para análisis químico de materias primas a través de reconocer conceptos, documentos y roles del oficio: Tomar muestras para análisis químico de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Sí, cumple el plazo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16966) · [Clase siguiente →](#cl-16968)
+[← Clase anterior](#cl-17034) · [Clase siguiente →](#cl-17036)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Tomar muestras para análisis químico de materias primas {#cl-16968}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Tomar muestras para análisis químico de materias primas {#cl-17036}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras para análisis químico de materias primas a través de analizar un caso de trabajo en papel: Tomar muestras para análisis químico de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 5 bultos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16967) · [Clase siguiente →](#cl-16969)
+[← Clase anterior](#cl-17035) · [Clase siguiente →](#cl-17037)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Tomar muestras para análisis químico de materias primas {#cl-16969}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Tomar muestras para análisis químico de materias primas {#cl-17037}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras para análisis químico de materias primas a través de aplicar un criterio técnico con datos de ejemplo: Tomar muestras para análisis químico de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 35 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16968) · [Clase siguiente →](#cl-16970)
+[← Clase anterior](#cl-17036) · [Clase siguiente →](#cl-17038)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Tomar muestras para análisis químico de materias primas {#cl-16970}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Tomar muestras para análisis químico de materias primas {#cl-17038}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar muestras para análisis químico de materias primas a través de comparar alternativas y verificar la calidad: Tomar muestras para análisis químico de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16969) · [Primera clase del OA siguiente →](tp-qula-4-oam-02.md#cl-16971)
+[← Clase anterior](#cl-17037) · [Primera clase del OA siguiente →](tp-qula-4-oam-02.md#cl-17039)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

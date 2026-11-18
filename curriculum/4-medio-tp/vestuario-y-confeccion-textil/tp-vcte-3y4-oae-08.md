@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17231) · [Clase 2](#cl-17232) · [Clase 3](#cl-17233) · [Clase 4](#cl-17234)
+**Clases de este OA:** [Clase 1](#cl-17299) · [Clase 2](#cl-17300) · [Clase 3](#cl-17301) · [Clase 4](#cl-17302)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el control de calidad de los productos {#cl-17231}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el control de calidad de los productos {#cl-17299}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el control de calidad de los productos a través de situar el contexto laboral, la norma y el riesgo: Realizar el control de calidad de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Registrar el defecto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-vcte-3y4-oae-07.md#cl-17230) · [Clase siguiente →](#cl-17232)
+[← Última clase del OA anterior](tp-vcte-3y4-oae-07.md#cl-17298) · [Clase siguiente →](#cl-17300)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el control de calidad de los productos {#cl-17232}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el control de calidad de los productos {#cl-17300}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el control de calidad de los productos a través de reconocer conceptos, documentos y roles del oficio: Realizar el control de calidad de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17231) · [Clase siguiente →](#cl-17233)
+[← Clase anterior](#cl-17299) · [Clase siguiente →](#cl-17301)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el control de calidad de los productos {#cl-17233}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el control de calidad de los productos {#cl-17301}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el control de calidad de los productos a través de analizar un caso de trabajo en papel: Realizar el control de calidad de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: $3.600
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17232) · [Clase siguiente →](#cl-17234)
+[← Clase anterior](#cl-17300) · [Clase siguiente →](#cl-17302)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el control de calidad de los productos {#cl-17234}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el control de calidad de los productos {#cl-17302}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el control de calidad de los productos a través de aplicar un criterio técnico con datos de ejemplo: Realizar el control de calidad de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17233)
+[← Clase anterior](#cl-17301)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

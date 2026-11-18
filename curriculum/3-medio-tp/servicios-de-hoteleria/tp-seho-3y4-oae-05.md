@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15641) · [Clase 2](#cl-15642) · [Clase 3](#cl-15643) · [Clase 4](#cl-15644)
+**Clases de este OA:** [Clase 1](#cl-15666) · [Clase 2](#cl-15667) · [Clase 3](#cl-15668) · [Clase 4](#cl-15669)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Atender el centro de negocios con amabilidad y discreción {#cl-15641}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Atender el centro de negocios con amabilidad y discreción {#cl-15666}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender el centro de negocios con amabilidad y discreción a través de situar el contexto laboral, la norma y el riesgo: Atender el centro de negocios con amabilidad y discreción, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Entregarlas solo al huésped, sin leerlas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-seho-3y4-oae-04.md#cl-15640) · [Clase siguiente →](#cl-15642)
+[← Última clase del OA anterior](tp-seho-3y4-oae-04.md#cl-15665) · [Clase siguiente →](#cl-15667)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Atender el centro de negocios con amabilidad y discreción {#cl-15642}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Atender el centro de negocios con amabilidad y discreción {#cl-15667}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender el centro de negocios con amabilidad y discreción a través de reconocer conceptos, documentos y roles del oficio: Atender el centro de negocios con amabilidad y discreción, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: $2.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15641) · [Clase siguiente →](#cl-15643)
+[← Clase anterior](#cl-15666) · [Clase siguiente →](#cl-15668)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Atender el centro de negocios con amabilidad y discreción {#cl-15643}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Atender el centro de negocios con amabilidad y discreción {#cl-15668}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender el centro de negocios con amabilidad y discreción a través de analizar un caso de trabajo en papel: Atender el centro de negocios con amabilidad y discreción, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Pedirle que elija su documento sin mirar sus fotos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15642) · [Clase siguiente →](#cl-15644)
+[← Clase anterior](#cl-15667) · [Clase siguiente →](#cl-15669)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Atender el centro de negocios con amabilidad y discreción {#cl-15644}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Atender el centro de negocios con amabilidad y discreción {#cl-15669}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender el centro de negocios con amabilidad y discreción a través de aplicar un criterio técnico con datos de ejemplo: Atender el centro de negocios con amabilidad y discreción, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: Faltan $500
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15643) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-06.md#cl-15645)
+[← Clase anterior](#cl-15668) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-06.md#cl-15670)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

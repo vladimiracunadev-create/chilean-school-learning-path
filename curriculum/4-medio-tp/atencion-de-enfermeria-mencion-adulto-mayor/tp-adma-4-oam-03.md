@@ -1,0 +1,1092 @@
+# TP-ADMA-4-OAM-03 — Atender las necesidades de alimentación y nutrición del adulto mayor
+| Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
+|---|---|---|---|---|
+| 4° medio · Formación Diferenciada TP | Atención de Enfermería · mención Adulto Mayor | Objetivos de aprendizaje de la mención | formacion-diferenciada-tp | 5 clases de 90 min |
+
+[📘 Guía de la especialidad](../../../docs/formacion-tp/atencion-de-enfermeria.md) · [← OA anterior (TP-ADMA-4-OAM-02)](tp-adma-4-oam-02.md) · [OA siguiente (TP-ADMA-4-OAM-04) →](tp-adma-4-oam-04.md)
+
+## Qué se debe aprender
+> Atender las necesidades de alimentación y nutrición del adulto mayor, preparando, presentando y sirviendo el alimento de acuerdo al grado de autonomía de la persona y sus preferencias, aplicando los procedimientos y técnicas ergonométricas pertinentes, resguardando los principios nutricionales, dietéticos, de higiene y de seguridad.
+
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
+**Explicación pedagógica.** Atender las necesidades de alimentación y nutrición del adulto mayor recupera aprendizajes de 2.º medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «aplicar una regla sin revisar la norma vigente ni los datos del caso».
+
+**Antes de comenzar.** Retoma la Formación General y la orientación hacia el trabajo y profundiza en un campo técnico-profesional: Atención de Enfermería · mención Adulto Mayor.
+
+**Vocabulario explícito:** perfil de egreso, competencia, norma, documento técnico, registro, calidad, riesgo, prevención, equipo de trabajo, responsabilidad.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión pedagógica interna en 5 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Situar el contexto laboral, la norma y el riesgo: Atender las necesidades de alimentación y nutrición del adulto mayor.
+- Reconocer conceptos, documentos y roles del oficio: Atender las necesidades de alimentación y nutrición del adulto mayor.
+- Analizar un caso de trabajo en papel: Atender las necesidades de alimentación y nutrición del adulto mayor.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
+
+## Lecturas y textos
+La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
+
+Estos recursos asociados no constituyen una lista nacional obligatoria. Este repositorio enlaza y no reproduce obras protegidas.
+
+## Planificación clase a clase
+La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-16027) · [Clase 2](#cl-16028) · [Clase 3](#cl-16029) · [Clase 4](#cl-16030) · [Clase 5](#cl-16031)
+
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Atender las necesidades de alimentación y nutrición del adulto mayor {#cl-16027}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar atender las necesidades de alimentación y nutrición del adulto mayor a través de situar el contexto laboral, la norma y el riesgo: Atender las necesidades de alimentación y nutrición del adulto mayor, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a situar el contexto laboral, la norma y el riesgo: Atender las necesidades de alimentación y nutrición del adulto mayor; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo situar el contexto laboral, la norma y el riesgo: Atender las necesidades de alimentación y nutrición del adulto mayor: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «aplicar una regla sin revisar la norma vigente ni los datos del caso». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de atender las necesidades de alimentación y nutrición del adulto mayor; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla situar el contexto laboral, la norma y el riesgo: Atender las necesidades de alimentación y nutrición del adulto mayor en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas personas mayores, instrumentos, alimentos, medicamentos, computador ni internet: las fichas, planillas, minutas, registros y casos están escritos en el enunciado, son inventados y están rotulados «de ejemplo»; los nombres, residencias y familias no existen y no hay datos de personas reales. Los pesos, volúmenes, horarios y cantidades son números de ejemplo para leer o calcular una planilla, nunca para decidir sobre una persona. Las personas mayores tienen derecho a la dignidad, la privacidad, la autonomía y la confidencialidad de sus datos. Este cuaderno no contiene técnicas clínicas ni procedimientos paso a paso (no enseña a alimentar, movilizar, bañar, dar medicamentos, hacer primeros auxilios ni RCP), ni dosis, ni diagnósticos. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes. Ante una emergencia, una caída, una reacción adversa, un atragantamiento o un paro: no actúes por cuenta propia; avisa de inmediato a la enfermera o profesional responsable y a emergencias.
+
+**Consigna exacta:** Caso de ejemplo: en una residencia de 24 personas se sirven 4 comidas al día y trabajan 3 técnicos. Un residente, Víctor, come muy despacio y dice que hoy prefiere no comer el postre. Otro, Wilson, empieza a toser con fuerza a mitad del almuerzo. Escribe: cuántas bandejas se sirven al día y cuántas sirve cada técnico; qué hace el técnico con Víctor; qué hace con Wilson; y una frase de registro sobre Víctor, sin etiquetas.
+
+**Referencia para modelar y corregir:** Bandejas: 24 × 4 = 96; por técnico: 96 ÷ 3 = 32. Con Víctor: respeta su ritmo y su decisión, registra y avisa a la enfermera si es necesario. Con Wilson: avisa de inmediato a la enfermera y a emergencias, sin actuar por su cuenta. Registro: «Almuerzo: Víctor comió despacio y no quiso el postre».
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Bandejas: 24 × 4 = 96; por técnico: 96 ÷ 3 = 32. Con Víctor: respeta su ritmo y su decisión, registra y avisa a la enfermera si es necesario. Con Wilson: avisa de inmediato a la enfermera y a emergencias, sin actuar por su cuenta. Registro: «Almuerzo: Víctor comió despacio y no quiso el postre». |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé quién define el régimen de una persona mayor, qué hace el técnico al servir los alimentos, qué principios se respetan y qué hacer ante un riesgo mientras come.
+
+**Lo que ya debo saber.** Conozco los derechos de las personas mayores. Sé multiplicar y dividir números enteros. Sé leer una ficha.
+
+**Explicación.**
+
+En Atención de Enfermería (mención Adulto Mayor), alimentar bien a una persona mayor significa cuidar su nutrición, su autonomía y su dignidad. El régimen, que es la forma de alimentación indicada para cada persona, lo define un profesional, como la nutricionista o el médico, y está escrito en su ficha. El técnico no cambia el régimen por su cuenta: presenta y sirve lo que corresponde, apoya a la persona para que coma lo más autónomamente posible y registra cuánto comió.
+
+Los principios son: respetar las preferencias y los tiempos de cada persona, cuidar la higiene de manos y de los alimentos, comprobar que la bandeja corresponde a la persona y mantener una postura cómoda y segura, también para el propio técnico, lo que se llama ergonomía. Los riesgos son servir un régimen equivocado, apurar a la persona o no notar una dificultad para tragar.
+
+Si una persona se atraganta, tose con fuerza o no puede respirar con normalidad, el técnico no actúa por cuenta propia: avisa de inmediato a la enfermera y a emergencias. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| régimen | forma de alimentación indicada por un profesional para cada persona |
+| nutricionista | profesional que define la alimentación según las necesidades de la persona |
+| etiqueta de bandeja | rótulo con el nombre de la persona y su régimen |
+| autonomía en la alimentación | capacidad de comer por sí misma lo que puede |
+| ergonomía | postura y organización que cuidan el cuerpo de quien trabaja |
+| registro de ingesta | anotación de cuánto comió y bebió la persona |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Quién cambia un régimen*
+
+Problema: Un técnico de ejemplo cree que un residente «ya puede comer de todo» y quiere servirle la bandeja de otro. ¿Qué corresponde?
+
+1. El régimen lo define un profesional.
+2. El técnico propone el cambio a la enfermera y sirve lo que dice la ficha.
+
+Respuesta: Servir lo que indica la ficha y proponer el cambio a la enfermera
+
+*Ejemplo 2. Bandejas del día*
+
+Problema: En otra residencia de ejemplo viven 20 personas y se sirven 4 comidas al día. ¿Cuántas bandejas se sirven en el día?
+
+1. Se multiplican las personas por las comidas.
+2. 20 × 4 = 80.
+
+Respuesta: 80 bandejas
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Cambiar la bandeja de un residente por otra «porque tiene más variedad». **Por qué ocurre:** El régimen está indicado según su salud; un cambio puede perjudicarlo. **Cómo corregirlo:** Sirve la bandeja con su etiqueta y avisa si la persona prefiere otra cosa.
+- **Error:** Darle de comer más rápido a quien come lento para terminar el turno. **Por qué ocurre:** Apurar aumenta el riesgo de atragantamiento y quita autonomía. **Cómo corregirlo:** Respeta su ritmo y avisa a la enfermera si falta tiempo.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Atención de Enfermería (mención Adulto Mayor): ¿qué es el régimen de una persona? A) La hora en que prefiere comer B) La forma de alimentación indicada por un profesional para ella C) El menú de toda la residencia
+- **R2.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. ¿Quién define el régimen de cada residente? A) Los familiares B) El técnico que sirve C) La nutricionista o el médico
+- **R3.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. ¿Qué hace el técnico antes de servir una bandeja? A) Prueba la comida de cada bandeja B) Cambia el contenido si la persona lo pide C) Revisa que la etiqueta coincida con la persona y se higieniza las manos
+
+*Comprensión*
+
+- **C1.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. ¿Cuántas bandejas se sirven en la residencia en un día?
+- **C2.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Si las bandejas del día se reparten por igual entre los 4 técnicos, ¿cuántas sirve cada uno?
+- **C3.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Si el servicio de una comida demora 45 minutos y se hacen 4 comidas, ¿cuántas horas al día dedica el equipo al servicio de comidas?
+
+*Aplicación*
+
+- **A1.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Un residente dice que hoy no quiere el pescado de su bandeja y prefiere otra cosa. ¿Qué hace el técnico? A) Le obliga a comerlo, porque es su régimen B) Respeta su decisión, registra lo que comió y avisa a la enfermera si es necesario ajustar C) Le cambia la bandeja por la de otro residente
+- **A2.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Un residente tose con fuerza mientras come y le cuesta respirar. ¿Qué hace el técnico? A) Avisa de inmediato a la enfermera y a emergencias, y no le da nada más B) Le da agua para que pase el bocado C) Le golpea la espalda por cuenta propia
+- **A3.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Una compañera nota que la etiqueta de la bandeja dice «Pedro» y debía servirse a «Pablo». ¿Qué hace? A) Cambia la etiqueta con un lápiz B) La sirve igual, porque los nombres se parecen C) Detiene el servicio de esa bandeja y consulta a la enfermera
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Un técnico se agacha con la espalda curva toda la comida para ayudar a un residente. ¿Qué observación corresponde? A) Que lo haga más rápido B) No importa, porque el residente es lo primero C) Aplicar la ergonomía: cuidar su postura y avisar si necesita otro apoyo
+- **Z2.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Si cada técnico puede atender como máximo a 7 residentes por comida, ¿cuántos residentes quedarían sin atención con los 4 técnicos?
+
+*Desafío*
+
+- **D1.** En Atención de Enfermería (mención Adulto Mayor): ¿por qué el técnico registra cuánto comió cada persona? A) Para que la enfermera y la nutricionista puedan evaluar si es necesario ajustar B) Para decidir si la persona merece el postre C) Para avisar a la familia cuánto gasta la residencia
+- **D2.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Un compañero dice: «Si el residente se demora, le damos de comer nosotros para terminar antes». ¿Qué corresponde responder? A) Que sí, mientras lo haga con cariño B) Que sí, porque el turno es limitado C) Que se respeta su ritmo y autonomía, y si falta tiempo se avisa a la enfermera
+
+*Situaciones auténticas*
+
+- **S1.** Ficha 1 (residencia de ejemplo, inventada). En la «Residencia Los Aromos de Ejemplo» viven 30 personas y se sirven cuatro comidas al día: desayuno, almuerzo, once y cena. Cuatro técnicos apoyan el servicio. El régimen de cada residente está escrito en su ficha por la nutricionista o el médico; el personal de cocina prepara las bandejas con una etiqueta con el nombre y el régimen; el técnico presenta y sirve según la indicación, apoya la autonomía de cada persona y registra cuánto comió. Reglas: higiene de manos antes de servir; revisar que la etiqueta coincida con la persona; respetar preferencias y ritmo; si alguien tose con fuerza o no puede respirar con normalidad al comer, avisar de inmediato a la enfermera y a emergencias. Durante la cena, un residente deja casi toda la comida y dice que no tiene hambre. Es la tercera cena seguida. ¿Qué hace el técnico? A) Le dice que debe comer para no enfermarse B) Registra lo que comió y lo comenta a la enfermera, sin insistir ni opinar sobre el motivo C) No anota nada, porque ya sabe que no tiene hambre
+
+*Autoevaluación*
+
+- **E1.** En Atención de Enfermería (mención Adulto Mayor): ¿quién cambia el régimen de una persona?
+- **E2.** ¿Qué haces si una persona tose con fuerza mientras come?
+- **E3.** ¿Qué verificas antes de servir una bandeja?
+
+**Actividad abierta.** Caso de ejemplo: en una residencia de 24 personas se sirven 4 comidas al día y trabajan 3 técnicos. Un residente, Víctor, come muy despacio y dice que hoy prefiere no comer el postre. Otro, Wilson, empieza a toser con fuerza a mitad del almuerzo. Escribe: cuántas bandejas se sirven al día y cuántas sirve cada técnico; qué hace el técnico con Víctor; qué hace con Wilson; y una frase de registro sobre Víctor, sin etiquetas.
+
+**Solucionario razonado**
+
+- **R1.** B) La forma de alimentación indicada por un profesional para ella. El régimen se define para cada persona según su salud y sus necesidades.
+- **R2.** C) La nutricionista o el médico. La ficha dice que el régimen lo escribe la nutricionista o el médico.
+- **R3.** C) Revisa que la etiqueta coincida con la persona y se higieniza las manos. Las reglas piden higiene de manos y revisar la etiqueta.
+- **C1.** 120 bandejas. Se multiplican los residentes por las comidas diarias. Cálculo: 30 × 4 = 120.
+- **C2.** 30 bandejas. Se dividen las bandejas del día entre los técnicos. Cálculo: 30 × 4 ÷ 4 = 30.
+- **C3.** 3 horas. Se multiplican los minutos de cada comida por las comidas y se pasan a horas. Cálculo: 45 × 4 ÷ 60 = 3.
+- **A1.** B) Respeta su decisión, registra lo que comió y avisa a la enfermera si es necesario ajustar. Se respeta la preferencia dentro de lo posible y se informa para que el profesional ajuste.
+- **A2.** A) Avisa de inmediato a la enfermera y a emergencias, y no le da nada más. Ante un atragantamiento no se actúa por cuenta propia: se avisa de inmediato.
+- **A3.** C) Detiene el servicio de esa bandeja y consulta a la enfermera. Un error de identificación puede ser grave; se verifica antes de servir.
+- **Z1.** C) Aplicar la ergonomía: cuidar su postura y avisar si necesita otro apoyo. La postura del técnico también se cuida; la técnica la enseña un instructor.
+- **Z2.** 2 residentes. Se restan los residentes que pueden atender los técnicos de los 30 residentes. Cálculo: 30 − 4 × 7 = 2.
+- **D1.** A) Para que la enfermera y la nutricionista puedan evaluar si es necesario ajustar. El registro permite detectar a tiempo si una persona come menos de lo habitual.
+- **D2.** C) Que se respeta su ritmo y autonomía, y si falta tiempo se avisa a la enfermera. Apurar quita autonomía y aumenta el riesgo; se avisa la falta de tiempo.
+- **S1.** B) Registra lo que comió y lo comenta a la enfermera, sin insistir ni opinar sobre el motivo. El registro y el aviso permiten que el profesional evalúe; el técnico no interpreta ni presiona.
+- **E1.** El profesional. El técnico sirve lo que indica la ficha.
+- **E2.** Aviso de inmediato a la enfermera y a emergencias. No actúo por cuenta propia ante un atragantamiento.
+- **E3.** Que la etiqueta coincida con la persona. Así se evita servir un régimen equivocado.
+
+**Actividad abierta · ejemplo de respuesta.** Bandejas: 24 × 4 = 96; por técnico: 96 ÷ 3 = 32. Con Víctor: respeta su ritmo y su decisión, registra y avisa a la enfermera si es necesario. Con Wilson: avisa de inmediato a la enfermera y a emergencias, sin actuar por su cuenta. Registro: «Almuerzo: Víctor comió despacio y no quiso el postre».
+
+**Criterios para evaluarla:** calcula 96 y 32; respeta el ritmo y la decisión de Víctor; avisa de inmediato ante la tos de Wilson; el registro es un hecho.
+
+**Evidencias aceptables:** hoja con dos cálculos, dos conductas y una frase de registro.
+
+**Errores que conviene detectar:** apurar a Víctor; darle agua a Wilson; escribir una etiqueta en el registro.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué hace el técnico si Wilson sigue tosiendo?». Debe responder que avisa de inmediato y no actúa por cuenta propia.
+
+**Refuerzo.** Escribe tres cosas que hace el técnico al servir una comida y una que nunca hace por su cuenta.
+
+**Profundización.** Explica con un ejemplo inventado por qué apurar a una persona mayor al comer puede ser peligroso.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «situar el contexto laboral, la norma y el riesgo: atender las necesidades de alimentación y nutrición del adulto mayor» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «situar el contexto laboral, la norma y el riesgo: atender las necesidades de alimentación y nutrición del adulto mayor» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: aplicar una regla sin revisar la norma vigente ni los datos del caso.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Aplicar una regla sin revisar la norma vigente ni los datos del caso | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Última clase del OA anterior](tp-adma-4-oam-02.md#cl-16026) · [Clase siguiente →](#cl-16028)
+
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Atender las necesidades de alimentación y nutrición del adulto mayor {#cl-16028}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar atender las necesidades de alimentación y nutrición del adulto mayor a través de reconocer conceptos, documentos y roles del oficio: Atender las necesidades de alimentación y nutrición del adulto mayor, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a reconocer conceptos, documentos y roles del oficio: Atender las necesidades de alimentación y nutrición del adulto mayor; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo reconocer conceptos, documentos y roles del oficio: Atender las necesidades de alimentación y nutrición del adulto mayor: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «aplicar una regla sin revisar la norma vigente ni los datos del caso». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de atender las necesidades de alimentación y nutrición del adulto mayor; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla reconocer conceptos, documentos y roles del oficio: Atender las necesidades de alimentación y nutrición del adulto mayor en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas personas mayores, instrumentos, alimentos, medicamentos, computador ni internet: las fichas, planillas, minutas, registros y casos están escritos en el enunciado, son inventados y están rotulados «de ejemplo»; los nombres, residencias y familias no existen y no hay datos de personas reales. Los pesos, volúmenes, horarios y cantidades son números de ejemplo para leer o calcular una planilla, nunca para decidir sobre una persona. Las personas mayores tienen derecho a la dignidad, la privacidad, la autonomía y la confidencialidad de sus datos. Este cuaderno no contiene técnicas clínicas ni procedimientos paso a paso (no enseña a alimentar, movilizar, bañar, dar medicamentos, hacer primeros auxilios ni RCP), ni dosis, ni diagnósticos. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes. Ante una emergencia, una caída, una reacción adversa, un atragantamiento o un paro: no actúes por cuenta propia; avisa de inmediato a la enfermera o profesional responsable y a emergencias.
+
+**Consigna exacta:** Etiquetas de ejemplo: «Bandeja 1, Abel, común. Bandeja 2, Berta, blando. Bandeja 3, Cecilia, sin sal agregada, alergia a un alimento de ejemplo (nueces). Bandeja 4, Darío, común, prefiere no comer cerdo». En la mesa están sentados Abel, Berta, Cecilia y Darío. La bandeja 3 trae un postre con nueces. Escribe: qué problema tiene la bandeja 3 y qué hace el técnico; cómo respeta la preferencia de Darío; y calcula el promedio de ingesta de Abel si comió el 75, 100, 50 y 75 por ciento en las cuatro comidas.
+
+**Referencia para modelar y corregir:** La bandeja 3 trae un alimento al que Cecilia es alérgica: se retira, no se sirve y se avisa a la enfermera. Con Darío: no se le sirve cerdo y se avisa a la nutricionista para ajustar su menú. Promedio de Abel: (75+100+50+75) ÷ 4 = 75 %.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La bandeja 3 trae un alimento al que Cecilia es alérgica: se retira, no se sirve y se avisa a la enfermera. Con Darío: no se le sirve cerdo y se avisa a la nutricionista para ajustar su menú. Promedio de Abel: (75+100+50+75) ÷ 4 = 75 %. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé el vocabulario de regímenes, alergias, autonomía e hidratación, a leer una etiqueta de bandeja y a anotar el registro de ingesta.
+
+**Lo que ya debo saber.** Conozco el régimen y el servicio de comidas. Sé leer una ficha y calcular promedios. Sé sumar y restar.
+
+**Explicación.**
+
+Un régimen común es la alimentación sin restricciones especiales. Un régimen blando usa alimentos de textura suave y lo indica un profesional para personas con dificultad para masticar o tragar. Un régimen sin sal agregada se prepara sin añadir sal. Una alergia es una reacción dañina del cuerpo a un alimento; si la ficha la anota, ese alimento no se sirve. Una preferencia es lo que a la persona le gusta o no, incluidas las razones culturales o religiosas, y se respeta dentro de lo posible.
+
+La autonomía puede ser total, parcial o mayor apoyo, y la evalúa el equipo. La hidratación es el consumo de líquidos; se estimula y se registra. El registro de ingesta se anota por comida en porcentajes: 0, 25, 50, 75 o 100 de lo servido. Una etiqueta de bandeja debe coincidir con el nombre y el régimen de la persona; si no coincide, se detiene el servicio y se consulta.
+
+El técnico no cambia el régimen ni la textura por su cuenta; solo la nutricionista o el médico pueden hacerlo. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| régimen común | alimentación sin restricciones especiales |
+| régimen blando | alimentación de textura suave, indicada por un profesional |
+| alergia | reacción dañina del cuerpo a un alimento |
+| preferencia | lo que a la persona le gusta o no, o razones culturales y religiosas |
+| hidratación | consumo de líquidos de la persona |
+| porcentaje de ingesta | parte de lo servido que la persona comió |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir qué bandeja corresponde*
+
+Problema: Una residente de ejemplo tiene anotado «régimen blando». ¿Qué bandeja corresponde?
+
+1. La etiqueta debe coincidir con el régimen.
+2. La bandeja con etiqueta «régimen blando».
+
+Respuesta: La bandeja con la etiqueta «régimen blando»
+
+*Ejemplo 2. Promedio de ingesta*
+
+Problema: Una persona de ejemplo comió el 50 % en el desayuno y el 100 % en el almuerzo. ¿Cuál fue el promedio de esas dos comidas?
+
+1. 50 + 100 = 150.
+2. 150 ÷ 2 = 75.
+
+Respuesta: 75 %
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Servir un alimento con maní a Saúl «solo un poquito» porque «no se nota». **Por qué ocurre:** Una alergia puede causar una reacción dañina aunque la cantidad sea pequeña. **Cómo corregirlo:** No sirvas el alimento anotado como alergia y avisa a la enfermera.
+- **Error:** Anotar «comió bien» sin porcentaje. **Por qué ocurre:** No permite saber cuánto comió ni comparar entre comidas. **Cómo corregirlo:** Anota el porcentaje de lo servido: 0, 25, 50, 75 o 100.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Atención de Enfermería (mención Adulto Mayor): ¿qué es un régimen blando? A) Alimentación de textura suave, indicada por un profesional B) Alimentación sin ningún tipo de líquidos C) Alimentación solo con postres
+- **R2.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. ¿Qué régimen tiene Rita? A) Sin sal agregada B) Blando C) Común
+- **R3.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. ¿Qué debe cuidar el técnico al servir la bandeja de Saúl? A) Que no lleve sal agregada B) Que el alimento sea blando C) Que no contenga maní
+
+*Comprensión*
+
+- **C1.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. ¿Qué preferencia tiene Tina? A) Comer con apoyo de un técnico B) Comer sin compañía C) No comer postre
+- **C2.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. ¿Cuántos residentes tienen un régimen distinto al común?
+- **C3.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. ¿Cuántos residentes necesitan algún apoyo para comer, parcial o mayor?
+
+*Aplicación*
+
+- **A1.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. ¿Qué porcentaje de los residentes come sin ayuda?
+- **A2.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. Si las ingestas de Olga en cuatro comidas fueron 100, 50, 75 y 75 por ciento, ¿cuál fue su promedio?
+- **A3.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. La bandeja con etiqueta «Pedro, régimen común» llega a la mesa de Pedro, que tiene régimen blando. ¿Qué corresponde? A) Detener el servicio y consultar a la enfermera B) Servirla, porque Pedro puede masticar C) Cambiar la etiqueta con un lápiz
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. Un familiar de Ulises quiere llevarle comida desde su casa. ¿Qué hace el técnico? A) Avisa a la enfermera para que verifique que sea compatible con su régimen B) La sirve, porque es de la familia C) La rechaza sin explicar
+- **Z2.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. Una residente de ejemplo no come carne por razones religiosas. ¿Qué corresponde? A) Pedirle que la deje, sin avisar a nadie B) Servirle carne igual, porque está en el menú C) Respetar su preferencia y avisar a la nutricionista para ajustar
+
+*Desafío*
+
+- **D1.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. Saúl dice que se siente raro después de comer una galleta que le dio otra persona. No se sabe si contenía maní. ¿Qué hace el técnico? A) Le dice que es una impresión suya B) Le da agua y espera a ver qué pasa C) Avisa de inmediato a la enfermera y a emergencias, y no le da nada más
+- **D2.** En Atención de Enfermería (mención Adulto Mayor): ¿para qué se registra la hidratación? A) Para que el equipo vea si la persona consume líquidos suficientes B) Para controlar cuánta agua gasta la residencia C) Para decidir cuánto debe pagar la familia
+
+*Situaciones auténticas*
+
+- **S1.** Ficha 2 (etiquetas de bandeja y regímenes de ejemplo). Residente 1, Olga: régimen común. Residente 2, Pedro: régimen blando, con alimentos de textura suave, indicado por la nutricionista. Residente 3, Rita: régimen sin sal agregada. Residente 4, Saúl: régimen común, con una alergia anotada a un alimento de ejemplo (el maní). Residente 5, Tina: régimen común; prefiere comer sin compañía. Residente 6, Ulises: régimen blando, con apoyo parcial de un técnico por temblor en las manos. Distribución de los 30 residentes por régimen: común 14, blando 7, sin sal agregada 5, otros 4. Grados de autonomía para comer: sin ayuda 12, con apoyo parcial 10, con apoyo mayor 8. Registro de ingesta por comida: 0, 25, 50, 75 o 100 por ciento de lo servido. Al servir el desayuno, la técnica nota que la bandeja de Rita (sin sal agregada) tiene la sal de un sobre al lado. Rita pide usarla porque «sin sal no tiene sabor». ¿Qué hace? A) Retira la sal, explica con respeto que su régimen la indica así y avisa a la nutricionista de su petición B) Se la deja, porque es su preferencia C) Le dice que se aguante, sin dar explicaciones
+
+*Autoevaluación*
+
+- **E1.** En Atención de Enfermería (mención Adulto Mayor): ¿qué haces si la ficha anota una alergia?
+- **E2.** ¿Cómo se anota la ingesta de una comida?
+- **E3.** ¿Qué haces si la etiqueta no coincide con la persona?
+
+**Actividad abierta.** Etiquetas de ejemplo: «Bandeja 1, Abel, común. Bandeja 2, Berta, blando. Bandeja 3, Cecilia, sin sal agregada, alergia a un alimento de ejemplo (nueces). Bandeja 4, Darío, común, prefiere no comer cerdo». En la mesa están sentados Abel, Berta, Cecilia y Darío. La bandeja 3 trae un postre con nueces. Escribe: qué problema tiene la bandeja 3 y qué hace el técnico; cómo respeta la preferencia de Darío; y calcula el promedio de ingesta de Abel si comió el 75, 100, 50 y 75 por ciento en las cuatro comidas.
+
+**Solucionario razonado**
+
+- **R1.** A) Alimentación de textura suave, indicada por un profesional. El régimen blando usa alimentos de textura suave y lo indica un profesional.
+- **R2.** A) Sin sal agregada. La ficha dice que Rita tiene régimen sin sal agregada.
+- **R3.** C) Que no contenga maní. La ficha anota una alergia al maní.
+- **C1.** B) Comer sin compañía. La ficha dice que Tina prefiere comer sin compañía.
+- **C2.** 16 residentes. Se restan los residentes con régimen común del total. Cálculo: 30 − 14 = 16.
+- **C3.** 18 residentes. Se suman los residentes con apoyo parcial y con apoyo mayor. Cálculo: 10 + 8 = 18.
+- **A1.** 40 %. Se multiplican los residentes sin ayuda por 100 y se dividen entre el total. Cálculo: 12 × 100 ÷ 30 = 40.
+- **A2.** 75 %. Se suman las cuatro ingestas y se dividen entre 4. Cálculo: (100 + 50 + 75 + 75) ÷ 4 = 75.
+- **A3.** A) Detener el servicio y consultar a la enfermera. La etiqueta no coincide con el régimen indicado; se verifica antes de servir.
+- **Z1.** A) Avisa a la enfermera para que verifique que sea compatible con su régimen. Los alimentos externos se revisan según el régimen indicado.
+- **Z2.** C) Respetar su preferencia y avisar a la nutricionista para ajustar. Las razones religiosas se respetan y el profesional adapta el régimen.
+- **D1.** C) Avisa de inmediato a la enfermera y a emergencias, y no le da nada más. Una posible reacción a un alimento exige avisar de inmediato; el técnico no trata por su cuenta.
+- **D2.** A) Para que el equipo vea si la persona consume líquidos suficientes. El registro de hidratación ayuda a detectar a tiempo si una persona bebe poco.
+- **S1.** A) Retira la sal, explica con respeto que su régimen la indica así y avisa a la nutricionista de su petición. La indicación del profesional se respeta; la petición se informa para que se evalúe.
+- **E1.** No sirvo ese alimento y aviso a la enfermera. Una alergia puede causar una reacción dañina.
+- **E2.** En porcentajes: 0, 25, 50, 75 o 100. Así se compara entre comidas y días.
+- **E3.** Detengo el servicio y consulto. Un error de identificación puede ser grave.
+
+**Actividad abierta · ejemplo de respuesta.** La bandeja 3 trae un alimento al que Cecilia es alérgica: se retira, no se sirve y se avisa a la enfermera. Con Darío: no se le sirve cerdo y se avisa a la nutricionista para ajustar su menú. Promedio de Abel: (75+100+50+75) ÷ 4 = 75 %.
+
+**Criterios para evaluarla:** detecta la alergia y no sirve el postre; respeta la preferencia; calcula 75 %; avisa a la enfermera o nutricionista.
+
+**Evidencias aceptables:** hoja con el problema de la bandeja 3, la preferencia de Darío y el promedio.
+
+**Errores que conviene detectar:** servir el postre con nueces; ignorar la preferencia de Darío; calcular mal el promedio.
+
+**Retroalimentación constructiva:** Pregunta: «¿quién decide cómo cambiar el menú de Darío?». Debe responder la nutricionista.
+
+**Refuerzo.** Escribe un régimen común, uno blando y uno sin sal agregada con tus palabras, y una alergia de ejemplo.
+
+**Profundización.** Explica con un ejemplo inventado por qué se respetan las preferencias culturales o religiosas al servir una comida.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «reconocer conceptos, documentos y roles del oficio: atender las necesidades de alimentación y nutrición del adulto mayor» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «reconocer conceptos, documentos y roles del oficio: atender las necesidades de alimentación y nutrición del adulto mayor» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: aplicar una regla sin revisar la norma vigente ni los datos del caso.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Aplicar una regla sin revisar la norma vigente ni los datos del caso | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-16027) · [Clase siguiente →](#cl-16029)
+
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Atender las necesidades de alimentación y nutrición del adulto mayor {#cl-16029}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar atender las necesidades de alimentación y nutrición del adulto mayor a través de analizar un caso de trabajo en papel: Atender las necesidades de alimentación y nutrición del adulto mayor, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a analizar un caso de trabajo en papel: Atender las necesidades de alimentación y nutrición del adulto mayor; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo analizar un caso de trabajo en papel: Atender las necesidades de alimentación y nutrición del adulto mayor: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «aplicar una regla sin revisar la norma vigente ni los datos del caso». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de atender las necesidades de alimentación y nutrición del adulto mayor; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla analizar un caso de trabajo en papel: Atender las necesidades de alimentación y nutrición del adulto mayor en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas personas mayores, instrumentos, alimentos, medicamentos, computador ni internet: las fichas, planillas, minutas, registros y casos están escritos en el enunciado, son inventados y están rotulados «de ejemplo»; los nombres, residencias y familias no existen y no hay datos de personas reales. Los pesos, volúmenes, horarios y cantidades son números de ejemplo para leer o calcular una planilla, nunca para decidir sobre una persona. Las personas mayores tienen derecho a la dignidad, la privacidad, la autonomía y la confidencialidad de sus datos. Este cuaderno no contiene técnicas clínicas ni procedimientos paso a paso (no enseña a alimentar, movilizar, bañar, dar medicamentos, hacer primeros auxilios ni RCP), ni dosis, ni diagnósticos. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes. Ante una emergencia, una caída, una reacción adversa, un atragantamiento o un paro: no actúes por cuenta propia; avisa de inmediato a la enfermera o profesional responsable y a emergencias.
+
+**Consigna exacta:** Casos de ejemplo: «A: un técnico sirve la bandeja correcta, con etiqueta verificada y manos limpias, pero habla de Lorenzo con otra persona frente a él, diciendo que es lento para comer. B: una técnica sirve una bandeja y el residente, que come con apoyo parcial, tose con fuerza; ella le da agua y sigue con otras bandejas sin avisar a nadie. C: un técnico registra 50 % de ingesta de Marta y la deja tranquila». Usa la pauta de la ficha. Escribe: qué criterios incumple cada caso; cuántos criterios se cumplen en total si A cumple 4, B cumple 4 y C cumple 5; y qué haría el técnico del caso B correctamente.
+
+**Referencia para modelar y corregir:** A incumple el criterio 3 (no respeta la dignidad y el ritmo al comentar su lentitud frente a él). B incumple el criterio 5: no avisó de inmediato ante la tos ni lo registró, y dio agua por cuenta propia, lo que no corresponde. C cumple todos. Total: 4+4+5 = 13 de 15. En B correcto: avisar de inmediato a la enfermera y a emergencias, sin dar agua.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A incumple el criterio 3 (no respeta la dignidad y el ritmo al comentar su lentitud frente a él). B incumple el criterio 5: no avisó de inmediato ante la tos ni lo registró, y dio agua por cuenta propia, lo que no corresponde. C cumple todos. Total: 4+4+5 = 13 de 15. En B correcto: avisar de inmediato a la enfermera y a emergencias, sin dar agua. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a analizar casos de alimentación con una pauta, a reconocer qué criterios se cumplieron y a decidir qué se informa y a quién.
+
+**Lo que ya debo saber.** Conozco el régimen, las alergias y el registro de ingesta. Sé calcular porcentajes de números enteros. Conozco el atragantamiento como riesgo.
+
+**Explicación.**
+
+Analizar un caso de alimentación es leer lo que ocurrió y compararlo con la pauta. Cada criterio protege algo: verificar la etiqueta evita un régimen equivocado, la higiene de manos evita infecciones, respetar preferencias y ritmo cuida la autonomía y la dignidad, la postura segura previene lesiones de la persona y del técnico, y el registro permite que el equipo vea cambios a tiempo.
+
+Cuando un criterio falla, no se busca culpar: se describe el hecho y se informa a la enfermera para corregir. Cuando hay una señal de riesgo, como tos fuerte o rechazo repetido de comida, el técnico avisa de inmediato y no decide por cuenta propia. La enfermera evalúa si es necesario que intervenga el médico o la nutricionista.
+
+El rechazo de una comida es una decisión de la persona y también una información para el equipo. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| pauta | lista de criterios que se revisan en un caso |
+| rechazo de una comida | decisión de la persona de no comer lo servido |
+| señal de alerta | hecho que debe avisarse de inmediato al equipo |
+| postura segura | posición que evita lesiones de la persona y de quien la ayuda |
+| registro de ingesta | anotación de cuánto comió y bebió la persona |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Aplicar un criterio*
+
+Problema: Una técnica de ejemplo sirve sin lavarse las manos después de tocar un pañuelo. ¿Qué criterio incumple?
+
+1. Antes de servir se hace higiene de manos.
+2. Incumple el criterio 2.
+
+Respuesta: El criterio 2
+
+*Ejemplo 2. Calcular el cumplimiento*
+
+Problema: Un caso de ejemplo cumple 4 de los 5 criterios. ¿Qué porcentaje es?
+
+1. 4 × 100 = 400.
+2. 400 ÷ 5 = 80.
+
+Respuesta: 80 %
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Dejar de registrar el rechazo de una comida «porque la persona estaba de mal humor». **Por qué ocurre:** El registro permite ver cambios en el tiempo; un rechazo puede ser un dato importante. **Cómo corregirlo:** Anota el porcentaje consumido y lo que la persona dijo, sin interpretar.
+- **Error:** Seguir sirviendo al grupo mientras una persona tose con fuerza. **Por qué ocurre:** La persona puede estar en peligro y necesita ayuda inmediata. **Cómo corregirlo:** Avisa de inmediato a la enfermera y a emergencias.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Atención de Enfermería (mención Adulto Mayor): ¿qué debe hacer el técnico si una persona rechaza una comida? A) Servirle otra comida sin avisar B) Obligarla a comer C) Respetar su decisión, registrar la ingesta y avisar a la enfermera
+- **R2.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. ¿Qué criterio incumple el técnico del caso A? A) El criterio 5: registrar B) El criterio 2: higiene de manos C) El criterio 1: verificar la etiqueta
+- **R3.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. ¿Qué criterios incumple la técnica del caso B? A) Los criterios 1 y 2 B) Los criterios 3 y 4 C) Solo el criterio 5
+
+*Comprensión*
+
+- **C1.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. ¿Qué casos cumplen todos los criterios de la pauta? A) Los casos A y B B) Los casos C y D C) Solo el caso A
+- **C2.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. ¿Cuántos criterios cumplen en total los cuatro casos?
+- **C3.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. ¿Qué porcentaje del total de criterios (4 casos de 5 criterios) se cumplió?
+
+*Aplicación*
+
+- **A1.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. ¿Cuántos criterios incumplen en total los casos A y B?
+- **A2.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. En el caso C, ¿qué hace bien el técnico cuando Rita tose con fuerza? A) Le golpea la espalda para ayudar B) Le da agua para que pase el bocado C) Avisa de inmediato a la enfermera y a emergencias y no actúa por cuenta propia
+- **A3.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. En el caso A, ¿qué debe hacer el técnico cuando se da cuenta del error de bandeja? A) No decir nada, porque no hubo daño B) Cambiar la bandeja en silencio C) Detener el servicio, avisar a la enfermera y dejar constancia
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. Un compañero opina que en el caso D, Saúl «es caprichoso». ¿Qué corresponde? A) Anotar el hecho: rechazó el almuerzo y comió el 25 %, sin etiquetas B) Anotar que es caprichoso C) No anotar nada
+- **Z2.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. En el caso B, la técnica dice que no tenía tiempo. ¿Qué corresponde? A) Dejar a algunos sin comer B) Seguir apurando a los residentes C) Avisar a la enfermera de la falta de tiempo para reorganizar el servicio
+
+*Desafío*
+
+- **D1.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. Si Saúl comió el 25 % en el almuerzo y el 75 % en la cena, ¿cuál es su promedio de esas dos comidas?
+- **D2.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. Una persona de ejemplo, en una comida, solo toma una cucharada de su plato y se queda en silencio. ¿Qué anota el técnico? A) Que está deprimida B) Que comió una cucharada y estuvo en silencio, e informa a la enfermera C) Que no sabe comer
+
+*Situaciones auténticas*
+
+- **S1.** Ficha 3 (casos y pauta de servir con dignidad, de ejemplo). Pauta de cinco criterios: (1) verificar que la etiqueta coincida con la persona; (2) higiene de manos antes de servir; (3) respetar preferencias y ritmo; (4) cuidar la postura segura de la persona y del técnico; (5) registrar lo consumido y avisar de tos, rechazo o cambios. Caso A: un técnico sirve la bandeja de régimen común a Pedro, que tiene régimen blando, sin revisar la etiqueta; cumple los criterios 2, 3, 4 y 5. Caso B: una técnica apura a Olga, que come despacio, y se inclina sobre ella con la espalda curva durante toda la comida; cumple los criterios 1, 2 y 5. Caso C: Rita tose con fuerza al comer; el técnico avisa de inmediato a la enfermera y a emergencias, no le da nada más y registra después; cumple los cinco criterios. Caso D: Saúl rechaza el almuerzo; el técnico respeta su decisión, registra 25 % de ingesta y avisa a la enfermera; cumple los cinco criterios. Una técnica se da cuenta de que sirvió a un residente un vaso de jugo con azúcar, pero su ficha indica jugo sin azúcar. El residente ya empezó a tomar. ¿Qué hace? A) Espera a ver si el residente nota algo B) Le quita el vaso sin decir nada C) Avisa de inmediato a la enfermera, deja constancia del error y no le sirve más hasta que ella indique
+
+*Autoevaluación*
+
+- **E1.** En Atención de Enfermería (mención Adulto Mayor): ¿qué haces si cometiste un error al servir?
+- **E2.** ¿Qué haces si alguien tose con fuerza al comer?
+- **E3.** ¿Cuántos criterios tiene la pauta de la ficha?
+
+**Actividad abierta.** Casos de ejemplo: «A: un técnico sirve la bandeja correcta, con etiqueta verificada y manos limpias, pero habla de Lorenzo con otra persona frente a él, diciendo que es lento para comer. B: una técnica sirve una bandeja y el residente, que come con apoyo parcial, tose con fuerza; ella le da agua y sigue con otras bandejas sin avisar a nadie. C: un técnico registra 50 % de ingesta de Marta y la deja tranquila». Usa la pauta de la ficha. Escribe: qué criterios incumple cada caso; cuántos criterios se cumplen en total si A cumple 4, B cumple 4 y C cumple 5; y qué haría el técnico del caso B correctamente.
+
+**Solucionario razonado**
+
+- **R1.** C) Respetar su decisión, registrar la ingesta y avisar a la enfermera. Se respeta la decisión y se informa para que el equipo evalúe.
+- **R2.** C) El criterio 1: verificar la etiqueta. En el caso A no revisó la etiqueta y sirvió un régimen equivocado.
+- **R3.** B) Los criterios 3 y 4. La técnica cumple los criterios 1, 2 y 5; incumple el 3 porque apuró a Olga y el 4 porque cuidó mal la postura.
+- **C1.** B) Los casos C y D. La ficha indica que C y D cumplen los cinco criterios.
+- **C2.** 17 criterios. Se suman los criterios cumplidos de cada caso. Cálculo: 4 + 3 + 5 + 5 = 17.
+- **C3.** 85 %. Se multiplica el total cumplido por 100 y se divide entre los criterios evaluados. Cálculo: (4 + 3 + 5 + 5) × 100 ÷ (4 × 5) = 85.
+- **A1.** 3 criterios. Se restan los criterios cumplidos de los 5 de cada caso y se suman las fallas. Cálculo: (5 − 4) + (5 − 3) = 3.
+- **A2.** C) Avisa de inmediato a la enfermera y a emergencias y no actúa por cuenta propia. Ante un atragantamiento solo se avisa de inmediato.
+- **A3.** C) Detener el servicio, avisar a la enfermera y dejar constancia. Un error se informa para corregirlo y prevenirlo.
+- **Z1.** A) Anotar el hecho: rechazó el almuerzo y comió el 25 %, sin etiquetas. El registro describe hechos; las etiquetas no ayudan.
+- **Z2.** C) Avisar a la enfermera de la falta de tiempo para reorganizar el servicio. La falta de tiempo es un problema de organización que se informa.
+- **D1.** 50 %. Se suman las dos ingestas y se dividen entre 2. Cálculo: (25 + 75) ÷ 2 = 50.
+- **D2.** B) Que comió una cucharada y estuvo en silencio, e informa a la enfermera. Se describe lo observado y se avisa, sin diagnosticar.
+- **S1.** C) Avisa de inmediato a la enfermera, deja constancia del error y no le sirve más hasta que ella indique. Un error de servicio se informa de inmediato; no se esconde ni se corrige a solas.
+- **E1.** Aviso de inmediato a la enfermera y lo registro. Ocultarlo impide corregir a tiempo y cuidar a la persona.
+- **E2.** Aviso de inmediato a la enfermera y a emergencias. No actúo por mi cuenta en un atragantamiento.
+- **E3.** 5. Etiqueta, higiene, preferencias, postura y registro.
+
+**Actividad abierta · ejemplo de respuesta.** A incumple el criterio 3 (no respeta la dignidad y el ritmo al comentar su lentitud frente a él). B incumple el criterio 5: no avisó de inmediato ante la tos ni lo registró, y dio agua por cuenta propia, lo que no corresponde. C cumple todos. Total: 4+4+5 = 13 de 15. En B correcto: avisar de inmediato a la enfermera y a emergencias, sin dar agua.
+
+**Criterios para evaluarla:** identifica criterios incumplidos; calcula 13 de 15; indica avisar de inmediato en B; no recomienda dar agua.
+
+**Evidencias aceptables:** hoja con criterios incumplidos, un total y la conducta correcta en el caso B.
+
+**Errores que conviene detectar:** recomendar dar agua; no ver el problema del comentario sobre Lorenzo; sumar mal.
+
+**Retroalimentación constructiva:** Pregunta: «¿tu respuesta para el caso B dice qué hace el técnico o qué debería hacer el residente?». Debe decir qué hace el técnico: avisar.
+
+**Refuerzo.** Escribe los cinco criterios de la pauta y un ejemplo de una conducta que los incumpla.
+
+**Profundización.** Explica con un ejemplo inventado por qué comentar frente a una persona mayor que come lento puede afectar su dignidad.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «analizar un caso de trabajo en papel: atender las necesidades de alimentación y nutrición del adulto mayor» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «analizar un caso de trabajo en papel: atender las necesidades de alimentación y nutrición del adulto mayor» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: aplicar una regla sin revisar la norma vigente ni los datos del caso.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Aplicar una regla sin revisar la norma vigente ni los datos del caso | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-16028) · [Clase siguiente →](#cl-16030)
+
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Atender las necesidades de alimentación y nutrición del adulto mayor {#cl-16030}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar atender las necesidades de alimentación y nutrición del adulto mayor a través de aplicar un criterio técnico con datos de ejemplo: Atender las necesidades de alimentación y nutrición del adulto mayor, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a aplicar un criterio técnico con datos de ejemplo: Atender las necesidades de alimentación y nutrición del adulto mayor; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo aplicar un criterio técnico con datos de ejemplo: Atender las necesidades de alimentación y nutrición del adulto mayor: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «aplicar una regla sin revisar la norma vigente ni los datos del caso». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de atender las necesidades de alimentación y nutrición del adulto mayor; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla aplicar un criterio técnico con datos de ejemplo: Atender las necesidades de alimentación y nutrición del adulto mayor en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas personas mayores, instrumentos, alimentos, medicamentos, computador ni internet: las fichas, planillas, minutas, registros y casos están escritos en el enunciado, son inventados y están rotulados «de ejemplo»; los nombres, residencias y familias no existen y no hay datos de personas reales. Los pesos, volúmenes, horarios y cantidades son números de ejemplo para leer o calcular una planilla, nunca para decidir sobre una persona. Las personas mayores tienen derecho a la dignidad, la privacidad, la autonomía y la confidencialidad de sus datos. Este cuaderno no contiene técnicas clínicas ni procedimientos paso a paso (no enseña a alimentar, movilizar, bañar, dar medicamentos, hacer primeros auxilios ni RCP), ni dosis, ni diagnósticos. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes. Ante una emergencia, una caída, una reacción adversa, un atragantamiento o un paro: no actúes por cuenta propia; avisa de inmediato a la enfermera o profesional responsable y a emergencias.
+
+**Consigna exacta:** Hoja de ejemplo (valores inventados): «Residente Z. Ingesta por comida: 75, 75, 50, 100 por ciento; líquidos: 200, 150, 200, 150 mililitros. Regla: avisar si el promedio de ingesta es menor que 70 % o si los líquidos suman menos de 600 mililitros». Calcula: el promedio de ingesta y el total de líquidos; di si corresponde avisar y por qué; y escribe la frase que usarías para avisar a la enfermera, solo con datos.
+
+**Referencia para modelar y corregir:** Promedio: (75+75+50+100) ÷ 4 = 75 %; líquidos: 200+150+200+150 = 700 mililitros. No corresponde avisar por la regla: 75 % no es menor que 70 % y 700 no es menor que 600. Frase: «Residente Z: ingesta de 75 % en promedio y 700 ml de líquidos en el día; se registró en la hoja».
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Promedio: (75+75+50+100) ÷ 4 = 75 %; líquidos: 200+150+200+150 = 700 mililitros. No corresponde avisar por la regla: 75 % no es menor que 70 % y 700 no es menor que 600. Frase: «Residente Z: ingesta de 75 % en promedio y 700 ml de líquidos en el día; se registró en la hoja». |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a calcular el promedio de ingesta y el total de líquidos de un día con enteros, a aplicar la regla de la hoja y a decidir qué se informa.
+
+**Lo que ya debo saber.** Sé sumar y dividir números enteros. Conozco el registro de ingesta. Sé aplicar una regla de aviso.
+
+**Explicación.**
+
+El registro de ingesta se resume con dos números: el promedio de lo comido y el total de líquidos. El promedio de ingesta del día se calcula sumando los porcentajes de las comidas y dividiéndolos por la cantidad de comidas. El total de líquidos se calcula sumando los mililitros de cada comida. Ambos se comparan con la regla que escribió el profesional en la hoja.
+
+Si el resultado llega a la condición de la regla, el técnico avisa a la enfermera con los datos concretos: cuánto comió, cuánto bebió y cuándo. No interpreta ni da consejos: no dice si es grave ni qué debe hacer la persona. Un mismo resultado puede tener causas muy distintas, y solo el profesional las evalúa. También se registra el hecho de que la persona rechazó la comida, si ocurrió.
+
+Los valores son inventados y sirven solo para practicar la lectura de una hoja de registro. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| promedio de ingesta | suma de los porcentajes de las comidas dividida por la cantidad de comidas |
+| total de líquidos | suma de los mililitros bebidos en el día |
+| mililitro | unidad pequeña de volumen, abreviada ml |
+| regla de la hoja | criterio escrito por el profesional que dice cuándo avisar |
+| dato concreto | número o hecho exacto que se informa |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Promedio de ingesta*
+
+Problema: Una persona de ejemplo comió el 100 %, el 50 % y el 50 % de tres comidas. ¿Cuál fue su promedio?
+
+1. 100 + 50 + 50 = 200.
+2. 200 ÷ 3 no es exacto: se informan los tres porcentajes.
+
+Respuesta: No es exacto; se informan 100 %, 50 % y 50 %
+
+*Ejemplo 2. Total de líquidos*
+
+Problema: En otra hoja de ejemplo, una persona bebió 150, 200 y 250 mililitros en tres comidas. ¿Cuántos mililitros bebió en total?
+
+1. Se suman los tres volúmenes.
+2. 150 + 200 + 250 = 600.
+
+Respuesta: 600 mililitros
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Redondear un promedio no exacto a un número «bonito» sin decirlo. **Por qué ocurre:** Se altera el dato y puede ocultar información. **Cómo corregirlo:** Informa los datos de cada comida o el promedio exacto si es entero.
+- **Error:** Decir «no es grave» al avisar a la enfermera. **Por qué ocurre:** Es una interpretación que no le corresponde al técnico. **Cómo corregirlo:** Informa solo datos: cuánto comió, cuánto bebió y cuándo.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Atención de Enfermería (mención Adulto Mayor): ¿cómo se calcula el promedio de ingesta del día? A) Se suman los porcentajes y se dividen por la cantidad de comidas B) Se multiplican los porcentajes entre sí C) Se toma solo el almuerzo
+- **R2.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. ¿Cuál fue el promedio de ingesta del residente X?
+- **R3.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. ¿Cuál fue el promedio de ingesta del residente Y?
+
+*Comprensión*
+
+- **C1.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. ¿Cuántos mililitros bebió en total el residente X?
+- **C2.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. ¿Cuántos mililitros bebió en total el residente Y?
+- **C3.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. Según la regla de la hoja, ¿corresponde avisar por el promedio de ingesta del residente X? A) Sí: comió solo el 50 % en el almuerzo B) No: su promedio es 75 %, mayor que 60 % C) Sí: su promedio es menor que 60 %
+
+*Aplicación*
+
+- **A1.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. Según la regla de la hoja, ¿corresponde avisar por los líquidos del residente X? A) No: la regla solo se refiere a la ingesta B) No: bebió más de 700 ml C) Sí: sus líquidos suman 680 ml, menos de 700 ml
+- **A2.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. Según la regla de la hoja, ¿corresponde avisar por el residente Y? A) Sí: su promedio de ingesta es 50 %, menor que 60 % B) No: sus líquidos suman más de 700 ml, así que está bien C) No: comió el 75 % en la cena
+- **A3.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. ¿Cuántos mililitros más que el residente X bebió el residente Y?
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. Al avisar por el residente X, ¿qué informa el técnico? A) Que el residente tiene un problema por beber poco B) Que bebió 680 ml en el día, con el detalle por comida C) Que debe tomar más agua
+- **Z2.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. El residente Y dice que no tiene apetito. ¿Qué hace el técnico? A) Registra sus palabras, lo informa a la enfermera y no lo obliga a comer B) Le dice que debe comer más para no enfermarse C) Anota que está enfermo
+
+*Desafío*
+
+- **D1.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. Si el residente X hubiera comido 100, 100, 75 y 25 por ciento en las cuatro comidas, ¿cuál habría sido su promedio?
+- **D2.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. Una compañera anota 30 % en la once de Y, pero la persona había comido el 75 %. ¿Qué corresponde? A) Dejar el 30 %, porque ya está anotado B) Corregir con una línea, el valor correcto, hora y firma, y avisar a la enfermera C) Borrar el 30 % con corrector
+
+*Situaciones auténticas*
+
+- **S1.** Ficha 4 (registro de ingesta de dos residentes, de ejemplo; valores inventados que no sirven como referencia clínica). Residente X: porcentaje de lo servido que comió: desayuno 100, almuerzo 50, once 75, cena 75; líquidos bebidos por comida: 180, 220, 140 y 140 mililitros. Residente Y: desayuno 25, almuerzo 50, once 50, cena 75; líquidos: 200, 250, 250 y 200 mililitros. Regla de la hoja (de ejemplo): avisar a la enfermera si el promedio de ingesta del día es menor que 60 %, o si los líquidos del día suman menos de 700 mililitros. Al revisar la hoja de Y, la técnica nota que otra persona anotó 250 ml en cada comida del día sin que Y beba tanto, según lo que ella observó. ¿Qué hace? A) Corrige las cifras por su cuenta con lo que cree B) Consulta a quien anotó y a la enfermera antes de aceptar el dato C) Acepta los datos, porque ya están firmados
+
+*Autoevaluación*
+
+- **E1.** En Atención de Enfermería (mención Adulto Mayor): ¿qué informas cuando avisas por una regla de la hoja?
+- **E2.** ¿Qué haces si un dato parece dudoso?
+- **E3.** ¿Qué le informas a la enfermera, los datos o un diagnóstico?
+
+**Actividad abierta.** Hoja de ejemplo (valores inventados): «Residente Z. Ingesta por comida: 75, 75, 50, 100 por ciento; líquidos: 200, 150, 200, 150 mililitros. Regla: avisar si el promedio de ingesta es menor que 70 % o si los líquidos suman menos de 600 mililitros». Calcula: el promedio de ingesta y el total de líquidos; di si corresponde avisar y por qué; y escribe la frase que usarías para avisar a la enfermera, solo con datos.
+
+**Solucionario razonado**
+
+- **R1.** A) Se suman los porcentajes y se dividen por la cantidad de comidas. El promedio resume las comidas del día en un solo valor.
+- **R2.** 75 %. Se suman los cuatro porcentajes y se dividen entre 4. Cálculo: (100 + 50 + 75 + 75) ÷ 4 = 75.
+- **R3.** 50 %. Se suman los cuatro porcentajes y se dividen entre 4. Cálculo: (25 + 50 + 50 + 75) ÷ 4 = 50.
+- **C1.** 680 mililitros. Se suman los volúmenes de las cuatro comidas. Cálculo: 180 + 220 + 140 + 140 = 680.
+- **C2.** 900 mililitros. Se suman los volúmenes de las cuatro comidas. Cálculo: 200 + 250 + 250 + 200 = 900.
+- **C3.** B) No: su promedio es 75 %, mayor que 60 %. El promedio de X es 75 %, que no es menor que 60 %.
+- **A1.** C) Sí: sus líquidos suman 680 ml, menos de 700 ml. La regla pide avisar si los líquidos suman menos de 700 ml.
+- **A2.** A) Sí: su promedio de ingesta es 50 %, menor que 60 %. Aunque sus líquidos están sobre 700 ml, el promedio de ingesta es menor que 60 %.
+- **A3.** 220 mililitros. Se restan los líquidos totales de X de los de Y. Cálculo: (200 + 250 + 250 + 200) − (180 + 220 + 140 + 140) = 220.
+- **Z1.** B) Que bebió 680 ml en el día, con el detalle por comida. Se informa un dato concreto; diagnosticar o aconsejar no corresponde al técnico.
+- **Z2.** A) Registra sus palabras, lo informa a la enfermera y no lo obliga a comer. Se registra lo dicho y se informa; no se presiona ni se diagnostica.
+- **D1.** 75 %. Se suman los cuatro porcentajes y se dividen entre 4. Cálculo: (100 + 100 + 75 + 25) ÷ 4 = 75.
+- **D2.** B) Corregir con una línea, el valor correcto, hora y firma, y avisar a la enfermera. Los errores se corrigen con trazabilidad; un dato falso puede afectar decisiones.
+- **S1.** B) Consulta a quien anotó y a la enfermera antes de aceptar el dato. Un dato dudoso se verifica con quien lo anotó y se informa a la enfermera.
+- **E1.** Datos concretos: cuánto comió, cuánto bebió y cuándo. Los datos permiten que el profesional evalúe.
+- **E2.** Lo consulto con quien lo anotó y con la enfermera. No se corrigen datos ajenos por suposición.
+- **E3.** Los datos. El técnico no hace diagnósticos: eso lo evalúa el profesional.
+
+**Actividad abierta · ejemplo de respuesta.** Promedio: (75+75+50+100) ÷ 4 = 75 %; líquidos: 200+150+200+150 = 700 mililitros. No corresponde avisar por la regla: 75 % no es menor que 70 % y 700 no es menor que 600. Frase: «Residente Z: ingesta de 75 % en promedio y 700 ml de líquidos en el día; se registró en la hoja».
+
+**Criterios para evaluarla:** calcula 75 % y 700 ml; aplica la regla correctamente; la frase usa solo datos; no interpreta.
+
+**Evidencias aceptables:** hoja con dos cálculos, una decisión y una frase de aviso.
+
+**Errores que conviene detectar:** decir que debe avisar sin cumplir la regla; agregar un diagnóstico; sumar mal los líquidos.
+
+**Retroalimentación constructiva:** Pregunta: «¿tu frase interpreta o solo cuenta datos?». Si interpreta, pídele quitar la interpretación.
+
+**Refuerzo.** Con ingestas de 100, 50, 50 y 100 por ciento, calcula el promedio y di si se alcanza la regla de la ficha.
+
+**Profundización.** Explica con un ejemplo inventado por qué un técnico informa datos y no un diagnóstico.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «aplicar un criterio técnico con datos de ejemplo: atender las necesidades de alimentación y nutrición del adulto mayor» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «aplicar un criterio técnico con datos de ejemplo: atender las necesidades de alimentación y nutrición del adulto mayor» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: aplicar una regla sin revisar la norma vigente ni los datos del caso.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Aplicar una regla sin revisar la norma vigente ni los datos del caso | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-16029) · [Clase siguiente →](#cl-16031)
+
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Atender las necesidades de alimentación y nutrición del adulto mayor {#cl-16031}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar atender las necesidades de alimentación y nutrición del adulto mayor a través de comparar alternativas y verificar la calidad: Atender las necesidades de alimentación y nutrición del adulto mayor, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a comparar alternativas y verificar la calidad: Atender las necesidades de alimentación y nutrición del adulto mayor; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo comparar alternativas y verificar la calidad: Atender las necesidades de alimentación y nutrición del adulto mayor: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «aplicar una regla sin revisar la norma vigente ni los datos del caso». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de atender las necesidades de alimentación y nutrición del adulto mayor; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla comparar alternativas y verificar la calidad: Atender las necesidades de alimentación y nutrición del adulto mayor en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre atender las necesidades de alimentación y nutrición del adulto mayor; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas personas mayores, instrumentos, alimentos, medicamentos, computador ni internet: las fichas, planillas, minutas, registros y casos están escritos en el enunciado, son inventados y están rotulados «de ejemplo»; los nombres, residencias y familias no existen y no hay datos de personas reales. Los pesos, volúmenes, horarios y cantidades son números de ejemplo para leer o calcular una planilla, nunca para decidir sobre una persona. Las personas mayores tienen derecho a la dignidad, la privacidad, la autonomía y la confidencialidad de sus datos. Este cuaderno no contiene técnicas clínicas ni procedimientos paso a paso (no enseña a alimentar, movilizar, bañar, dar medicamentos, hacer primeros auxilios ni RCP), ni dosis, ni diagnósticos. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes. Ante una emergencia, una caída, una reacción adversa, un atragantamiento o un paro: no actúes por cuenta propia; avisa de inmediato a la enfermera o profesional responsable y a emergencias.
+
+**Consigna exacta:** Alternativas de ejemplo: «A, servicio en el comedor: 6 minutos por residente; puntaje: autonomía 2, socialización 2, seguridad 1, ergonomía 1, higiene 1. B, servicio en la habitación: 10 minutos por residente; puntaje: autonomía 1, socialización 0, seguridad 2, ergonomía 2, higiene 2». Hay 20 residentes y 5 técnicos. Calcula: los puntos de cada alternativa; el tiempo de cada una; y escribe qué decidiría la enfermera para un residente con una indicación de comer en la habitación y qué dos puntos de verificación revisarías.
+
+**Referencia para modelar y corregir:** A: 2+2+1+1+1 = 7 puntos; B: 1+0+2+2+2 = 7 puntos: empatan. Tiempo A: 20×6÷5 = 24 minutos; B: 20×10÷5 = 40 minutos. Con la indicación de comer en la habitación, la decide el profesional: se sirve en la habitación. Puntos: etiqueta con nombre y régimen, y manos limpias.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A: 2+2+1+1+1 = 7 puntos; B: 1+0+2+2+2 = 7 puntos: empatan. Tiempo A: 20×6÷5 = 24 minutos; B: 20×10÷5 = 40 minutos. Con la indicación de comer en la habitación, la decide el profesional: se sirve en la habitación. Puntos: etiqueta con nombre y régimen, y manos limpias. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a comparar dos modos de servir comidas con criterios y tiempos, a verificar la calidad con una lista y a respetar la decisión individual de cada residente.
+
+**Lo que ya debo saber.** Conozco el servicio de comidas, la pauta y el registro. Sé sumar puntajes y calcular tiempos. Sé leer una lista de verificación.
+
+**Explicación.**
+
+Comparar dos modos de servir comidas es evaluarlos con los mismos criterios: la autonomía de la persona, la socialización, la seguridad, la ergonomía del técnico y la higiene. Cada criterio se califica de 0 a 2 y se suman los puntos. También se compara el tiempo: se multiplican los minutos por residente por la cantidad de residentes y se dividen entre los técnicos que sirven al mismo tiempo.
+
+Un modo con más puntos no es el mejor para todos. Hay residentes que, por indicación del profesional o por su preferencia, comen mejor en la habitación, y otros prefieren el comedor. Por eso la enfermera decide el modo de cada persona. Antes de servir, el técnico verifica la lista: etiqueta, manos limpias, superficie despejada, postura segura, temperatura de servicio de los alimentos y avisos de indicaciones especiales.
+
+La temperatura de servicio la define la cocina según la norma vigente; el técnico solo comprueba que se cumpla lo que se le informa. Esto es aprendizaje conceptual en papel, con casos ficticios. Trabajar con personas exige la supervisión de un profesional de salud, un instructor autorizado y la norma vigente de la autoridad sanitaria; este cuaderno no te habilita para trabajar ni para atender pacientes.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| alternativa | una de varias formas posibles de hacer algo |
+| criterio | aspecto con el que se compara una alternativa |
+| socialización | oportunidad de compartir con otros |
+| lista de verificación | puntos que se revisan antes de servir |
+| decisión individual | elección del modo de servir para cada persona según indicación y preferencia |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Calcular un tiempo*
+
+Problema: Con 12 residentes, 6 minutos por residente y 3 técnicos sirviendo a la vez, ¿cuántos minutos demora el servicio?
+
+1. 12 × 6 = 72 minutos de trabajo.
+2. 72 ÷ 3 = 24.
+
+Respuesta: 24 minutos
+
+*Ejemplo 2. Sumar un puntaje*
+
+Problema: Una alternativa de ejemplo tiene autonomía 2, socialización 1, seguridad 2, ergonomía 1 e higiene 2. ¿Cuántos puntos suma?
+
+1. Se suman los cinco puntajes.
+2. 2 + 1 + 2 + 1 + 2 = 8.
+
+Respuesta: 8 puntos
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Elegir un solo modo para todos porque suma más puntos. **Por qué ocurre:** Cada persona tiene indicaciones y preferencias propias. **Cómo corregirlo:** Deja que la enfermera decida el modo de cada residente.
+- **Error:** Marcar un punto de la lista sin mirar la bandeja. **Por qué ocurre:** Una verificación sin observar no previene errores. **Cómo corregirlo:** Mira la etiqueta, las manos y el entorno antes de marcar.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Atención de Enfermería (mención Adulto Mayor): ¿qué es una alternativa? A) Una opinión del técnico B) El resultado final de una tarea C) Una de varias formas posibles de hacer algo
+- **R2.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. ¿Cuántos puntos suma el comedor?
+- **R3.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. ¿Cuántos puntos suma el servicio en la habitación?
+
+*Comprensión*
+
+- **C1.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. ¿Cuántos minutos demora el servicio en el comedor con 4 técnicos?
+- **C2.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. ¿Cuántos minutos demora el servicio en la habitación con 4 técnicos?
+- **C3.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. ¿Cuántos minutos más demora el servicio en la habitación que en el comedor?
+
+*Aplicación*
+
+- **A1.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. ¿Qué modo es mejor en seguridad e higiene según la ficha? A) Ambos por igual B) El comedor C) El servicio en la habitación
+- **A2.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. Una residente de ejemplo ama conversar durante las comidas. ¿Qué modo respeta mejor su preferencia? A) El comedor, que tiene mayor socialización B) El servicio en la habitación C) Ninguno, porque no importa
+- **A3.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. Otro residente tiene una indicación de comer en la habitación por una infección contagiosa. ¿Qué corresponde? A) Llevarlo al comedor para que socialice B) Respetar la indicación del profesional y servir en la habitación C) Preguntarle a los otros residentes qué prefieren
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. La lista de verificación pide aviso a la enfermera de residentes con indicación especial. ¿Qué hace el técnico si no ha recibido ese aviso? A) Consulta a la enfermera antes de servir B) Supone que no hay indicaciones C) Pregunta al resto del equipo qué recuerdan
+- **Z2.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. Al verificar, el técnico nota que dos bandejas no tienen etiqueta. ¿Qué hace? A) No las sirve y avisa a la cocina y a la enfermera B) Las sirve, porque cree saber a quién corresponden C) Les pone una etiqueta con lápiz
+
+*Desafío*
+
+- **D1.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. Un compañero dice: «El comedor suma 7 puntos y la habitación 6; entonces servimos a todos en el comedor». ¿Qué corresponde responder? A) Que el modo de cada residente lo decide la enfermera según su indicación y preferencia B) Que tiene razón, porque suma más puntos C) Que no se debe usar el comedor nunca
+- **D2.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. Si se agregara un quinto técnico, ¿cuántos minutos demoraría el servicio en el comedor (con 30 residentes y 8 minutos cada uno)?
+
+*Situaciones auténticas*
+
+- **S1.** Ficha 5 (comparar alternativas, de ejemplo). Dos modos de servir las comidas a 30 residentes con 4 técnicos. Alternativa A, comedor común con mesas de 4: 8 minutos por residente. Alternativa B, servicio en la habitación: 12 minutos por residente. Puntaje de 0 a 2 por criterio: comedor, autonomía 2, socialización 2, seguridad 1, ergonomía del técnico 1, higiene 1; habitación, autonomía 1, socialización 0, seguridad 2, ergonomía 1, higiene 2. Lista de verificación antes de servir (6 puntos): etiqueta con el nombre y régimen; manos limpias; superficie despejada; postura segura; alimentos a la temperatura de servicio indicada por la cocina; aviso a la enfermera de residentes con indicación especial. Regla: el modo de servir de cada residente lo decide la enfermera según su indicación y preferencia. Antes del almuerzo, la técnica nota que la cocina entregó los alimentos con una temperatura que le parece distinta a la habitual, pero no tiene instrumentos para medirla. ¿Qué hace? A) Avisa a la enfermera y a la cocina antes de servir B) Sirve igual, porque no puede comprobarlo C) Prueba la comida para decidir
+
+*Autoevaluación*
+
+- **E1.** En Atención de Enfermería (mención Adulto Mayor): ¿quién decide cómo come cada residente?
+- **E2.** ¿Qué haces si falta un punto de la lista de verificación?
+- **E3.** ¿Cómo se calcula el tiempo de un servicio?
+
+**Actividad abierta.** Alternativas de ejemplo: «A, servicio en el comedor: 6 minutos por residente; puntaje: autonomía 2, socialización 2, seguridad 1, ergonomía 1, higiene 1. B, servicio en la habitación: 10 minutos por residente; puntaje: autonomía 1, socialización 0, seguridad 2, ergonomía 2, higiene 2». Hay 20 residentes y 5 técnicos. Calcula: los puntos de cada alternativa; el tiempo de cada una; y escribe qué decidiría la enfermera para un residente con una indicación de comer en la habitación y qué dos puntos de verificación revisarías.
+
+**Solucionario razonado**
+
+- **R1.** C) Una de varias formas posibles de hacer algo. Se compara una alternativa con otra con los mismos criterios.
+- **R2.** 7 puntos. Se suman los cinco puntajes del comedor. Cálculo: 2 + 2 + 1 + 1 + 1 = 7.
+- **R3.** 6 puntos. Se suman los cinco puntajes de la habitación. Cálculo: 1 + 0 + 2 + 1 + 2 = 6.
+- **C1.** 60 minutos. Se multiplican los residentes por los minutos de cada uno y se dividen entre los técnicos. Cálculo: 30 × 8 ÷ 4 = 60.
+- **C2.** 90 minutos. Se multiplican los residentes por los minutos de cada uno y se dividen entre los técnicos. Cálculo: 30 × 12 ÷ 4 = 90.
+- **C3.** 30 minutos. Se restan los minutos del comedor de los de la habitación. Cálculo: 30 × 12 ÷ 4 − 30 × 8 ÷ 4 = 30.
+- **A1.** C) El servicio en la habitación. La habitación tiene 2 en seguridad y 2 en higiene; el comedor tiene 1 en ambos.
+- **A2.** A) El comedor, que tiene mayor socialización. El comedor ofrece más oportunidades de compartir con otros.
+- **A3.** B) Respetar la indicación del profesional y servir en la habitación. Una indicación del profesional prevalece sobre las preferencias.
+- **Z1.** A) Consulta a la enfermera antes de servir. Las indicaciones especiales las informa la enfermera; se consulta antes de servir.
+- **Z2.** A) No las sirve y avisa a la cocina y a la enfermera. Sin etiqueta no se puede verificar el régimen; se consulta.
+- **D1.** A) Que el modo de cada residente lo decide la enfermera según su indicación y preferencia. El puntaje compara las alternativas, pero la decisión es individual.
+- **D2.** 48 minutos. Se dividen los minutos de trabajo entre los 5 técnicos. Cálculo: 30 × 8 ÷ 5 = 48.
+- **S1.** A) Avisa a la enfermera y a la cocina antes de servir. La temperatura de servicio la define la cocina; ante una duda se avisa antes de servir.
+- **E1.** La enfermera, según su indicación y preferencia. El puntaje no reemplaza la decisión individual.
+- **E2.** Consulto antes de servir. Se resuelve antes de que la persona coma.
+- **E3.** Residentes × minutos ÷ técnicos. Se reparte el trabajo entre los técnicos.
+
+**Actividad abierta · ejemplo de respuesta.** A: 2+2+1+1+1 = 7 puntos; B: 1+0+2+2+2 = 7 puntos: empatan. Tiempo A: 20×6÷5 = 24 minutos; B: 20×10÷5 = 40 minutos. Con la indicación de comer en la habitación, la decide el profesional: se sirve en la habitación. Puntos: etiqueta con nombre y régimen, y manos limpias.
+
+**Criterios para evaluarla:** calcula 7 y 7 y reconoce el empate; calcula 24 y 40 minutos; respeta la indicación del profesional; nombra dos puntos de verificación.
+
+**Evidencias aceptables:** hoja con dos puntajes, dos tiempos, una decisión y dos puntos.
+
+**Errores que conviene detectar:** decir que B es mejor por tener menos puntos de autonomía; sumar mal; ignorar la indicación.
+
+**Retroalimentación constructiva:** Pregunta: «¿hay una alternativa claramente mejor por puntaje?». Debe notar el empate y que decide la persona y la enfermera.
+
+**Refuerzo.** Elige un residente de ejemplo y escribe qué modo de servir le convendría y por qué, según sus preferencias.
+
+**Profundización.** Explica con un ejemplo inventado por qué una comida compartida puede ser buena para el ánimo de una persona mayor.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «comparar alternativas y verificar la calidad: atender las necesidades de alimentación y nutrición del adulto mayor» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «comparar alternativas y verificar la calidad: atender las necesidades de alimentación y nutrición del adulto mayor» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: aplicar una regla sin revisar la norma vigente ni los datos del caso.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Aplicar una regla sin revisar la norma vigente ni los datos del caso | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-16030) · [Primera clase del OA siguiente →](tp-adma-4-oam-04.md#cl-16032)
+
+## Evaluación integradora y realidad escolar
+Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
+
+## Fuente
+- [Ficha oficial del OA](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
+- [Asignatura y nivel](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
+- Snapshot: 2026-09-24
+- [Volver a la malla](../../../CURRICULUM.md)

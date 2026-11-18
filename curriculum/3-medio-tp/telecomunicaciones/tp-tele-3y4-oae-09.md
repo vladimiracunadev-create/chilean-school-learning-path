@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15729) · [Clase 2](#cl-15730) · [Clase 3](#cl-15731) · [Clase 4](#cl-15732)
+**Clases de este OA:** [Clase 1](#cl-15754) · [Clase 2](#cl-15755) · [Clase 3](#cl-15756) · [Clase 4](#cl-15757)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Detectar y corregir fallas en circuitos de corriente continua {#cl-15729}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Detectar y corregir fallas en circuitos de corriente continua {#cl-15754}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar y corregir fallas en circuitos de corriente continua a través de situar el contexto laboral, la norma y el riesgo: Detectar y corregir fallas en circuitos de corriente continua, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Se corta y protege el circuito
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-tele-3y4-oae-08.md#cl-15728) · [Clase siguiente →](#cl-15730)
+[← Última clase del OA anterior](tp-tele-3y4-oae-08.md#cl-15753) · [Clase siguiente →](#cl-15755)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Detectar y corregir fallas en circuitos de corriente continua {#cl-15730}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Detectar y corregir fallas en circuitos de corriente continua {#cl-15755}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar y corregir fallas en circuitos de corriente continua a través de reconocer conceptos, documentos y roles del oficio: Detectar y corregir fallas en circuitos de corriente continua, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 36 W
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15729) · [Clase siguiente →](#cl-15731)
+[← Clase anterior](#cl-15754) · [Clase siguiente →](#cl-15756)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Detectar y corregir fallas en circuitos de corriente continua {#cl-15731}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Detectar y corregir fallas en circuitos de corriente continua {#cl-15756}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar y corregir fallas en circuitos de corriente continua a través de analizar un caso de trabajo en papel: Detectar y corregir fallas en circuitos de corriente continua, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No hay falla
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15730) · [Clase siguiente →](#cl-15732)
+[← Clase anterior](#cl-15755) · [Clase siguiente →](#cl-15757)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Detectar y corregir fallas en circuitos de corriente continua {#cl-15732}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Detectar y corregir fallas en circuitos de corriente continua {#cl-15757}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar y corregir fallas en circuitos de corriente continua a través de aplicar un criterio técnico con datos de ejemplo: Detectar y corregir fallas en circuitos de corriente continua, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 20 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15731) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-10.md#cl-15733)
+[← Clase anterior](#cl-15756) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-10.md#cl-15758)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

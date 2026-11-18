@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16378) · [Clase 2](#cl-16379) · [Clase 3](#cl-16380) · [Clase 4](#cl-16381)
+**Clases de este OA:** [Clase 1](#cl-16446) · [Clase 2](#cl-16447) · [Clase 3](#cl-16448) · [Clase 4](#cl-16449)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Perforar rocas en forma manual y mecánica {#cl-16378}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Perforar rocas en forma manual y mecánica {#cl-16446}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar perforar rocas en forma manual y mecánica a través de situar el contexto laboral, la norma y el riesgo: Perforar rocas en forma manual y mecánica, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Peligro: el borde sin barrera; riesgo: que alguien o algo caiga
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-exmi-3y4-oae-03.md#cl-16377) · [Clase siguiente →](#cl-16379)
+[← Última clase del OA anterior](tp-exmi-3y4-oae-03.md#cl-16445) · [Clase siguiente →](#cl-16447)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Perforar rocas en forma manual y mecánica {#cl-16379}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Perforar rocas en forma manual y mecánica {#cl-16447}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar perforar rocas en forma manual y mecánica a través de reconocer conceptos, documentos y roles del oficio: Perforar rocas en forma manual y mecánica, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 160 metros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16378) · [Clase siguiente →](#cl-16380)
+[← Clase anterior](#cl-16446) · [Clase siguiente →](#cl-16448)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Perforar rocas en forma manual y mecánica {#cl-16380}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Perforar rocas en forma manual y mecánica {#cl-16448}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar perforar rocas en forma manual y mecánica a través de analizar un caso de trabajo en papel: Perforar rocas en forma manual y mecánica, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Sí, está dentro
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16379) · [Clase siguiente →](#cl-16381)
+[← Clase anterior](#cl-16447) · [Clase siguiente →](#cl-16449)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Perforar rocas en forma manual y mecánica {#cl-16381}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Perforar rocas en forma manual y mecánica {#cl-16449}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar perforar rocas en forma manual y mecánica a través de aplicar un criterio técnico con datos de ejemplo: Perforar rocas en forma manual y mecánica, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 5 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16380) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-05.md#cl-16382)
+[← Clase anterior](#cl-16448) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-05.md#cl-16450)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

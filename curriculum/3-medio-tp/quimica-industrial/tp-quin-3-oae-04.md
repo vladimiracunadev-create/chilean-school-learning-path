@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15571) · [Clase 2](#cl-15572) · [Clase 3](#cl-15573) · [Clase 4](#cl-15574) · [Clase 5](#cl-15575)
+**Clases de este OA:** [Clase 1](#cl-15596) · [Clase 2](#cl-15597) · [Clase 3](#cl-15598) · [Clase 4](#cl-15599) · [Clase 5](#cl-15600)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15571}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15596}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones a través de situar el contexto laboral, la norma y el riesgo: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 10 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-quin-3-oae-03.md#cl-15570) · [Clase siguiente →](#cl-15572)
+[← Última clase del OA anterior](tp-quin-3-oae-03.md#cl-15595) · [Clase siguiente →](#cl-15597)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15572}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15597}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones a través de reconocer conceptos, documentos y roles del oficio: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Volver a colocarlo es correctiva y revisar cada mes es preventiva
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15571) · [Clase siguiente →](#cl-15573)
+[← Clase anterior](#cl-15596) · [Clase siguiente →](#cl-15598)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15573}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15598}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones a través de analizar un caso de trabajo en papel: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No: el plazo supera el máximo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15572) · [Clase siguiente →](#cl-15574)
+[← Clase anterior](#cl-15597) · [Clase siguiente →](#cl-15599)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15574}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15599}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones a través de aplicar un criterio técnico con datos de ejemplo: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: Faltan 3 hallazgos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15573) · [Clase siguiente →](#cl-15575)
+[← Clase anterior](#cl-15598) · [Clase siguiente →](#cl-15600)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15575}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones {#cl-15600}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones a través de comparar alternativas y verificar la calidad: Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15574) · [Primera clase del OA siguiente →](tp-quin-3-oae-05.md#cl-15576)
+[← Clase anterior](#cl-15599) · [Primera clase del OA siguiente →](tp-quin-3-oae-05.md#cl-15601)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

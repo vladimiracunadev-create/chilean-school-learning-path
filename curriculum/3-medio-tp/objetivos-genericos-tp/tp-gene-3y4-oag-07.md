@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15424) · [Clase 2](#cl-15425) · [Clase 3](#cl-15426) · [Clase 4](#cl-15427)
+**Clases de este OA:** [Clase 1](#cl-15449) · [Clase 2](#cl-15450) · [Clase 3](#cl-15451) · [Clase 4](#cl-15452)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Participar en diversas situaciones de aprendizaje {#cl-15424}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Participar en diversas situaciones de aprendizaje {#cl-15449}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar participar en diversas situaciones de aprendizaje a través de situar el contexto laboral, la norma y el riesgo: Participar en diversas situaciones de aprendizaje, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 4 sesiones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-06.md#cl-15423) · [Clase siguiente →](#cl-15425)
+[← Última clase del OA anterior](tp-gene-3y4-oag-06.md#cl-15448) · [Clase siguiente →](#cl-15450)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Participar en diversas situaciones de aprendizaje {#cl-15425}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Participar en diversas situaciones de aprendizaje {#cl-15450}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar participar en diversas situaciones de aprendizaje a través de reconocer conceptos, documentos y roles del oficio: Participar en diversas situaciones de aprendizaje, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 240 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15424) · [Clase siguiente →](#cl-15426)
+[← Clase anterior](#cl-15449) · [Clase siguiente →](#cl-15451)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Participar en diversas situaciones de aprendizaje {#cl-15426}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Participar en diversas situaciones de aprendizaje {#cl-15451}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar participar en diversas situaciones de aprendizaje a través de analizar un caso de trabajo en papel: Participar en diversas situaciones de aprendizaje, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Ejemplos concretos de los atrasos y cómo mejorarlos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15425) · [Clase siguiente →](#cl-15427)
+[← Clase anterior](#cl-15450) · [Clase siguiente →](#cl-15452)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Participar en diversas situaciones de aprendizaje {#cl-15427}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Participar en diversas situaciones de aprendizaje {#cl-15452}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar participar en diversas situaciones de aprendizaje a través de aplicar un criterio técnico con datos de ejemplo: Participar en diversas situaciones de aprendizaje, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 6 semanas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15426) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-08.md#cl-15428)
+[← Clase anterior](#cl-15451) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-08.md#cl-15453)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

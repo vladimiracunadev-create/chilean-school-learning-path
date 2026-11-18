@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15566) · [Clase 2](#cl-15567) · [Clase 3](#cl-15568) · [Clase 4](#cl-15569) · [Clase 5](#cl-15570)
+**Clases de este OA:** [Clase 1](#cl-15591) · [Clase 2](#cl-15592) · [Clase 3](#cl-15593) · [Clase 4](#cl-15594) · [Clase 5](#cl-15595)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15566}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15591}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar informes de observaciones y mediciones realizadas acerca del comportamiento de a través de situar el contexto laboral, la norma y el riesgo: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Con un dato medido, como la subida de 30 a 33 °C en 2 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-quin-3-oae-02.md#cl-15565) · [Clase siguiente →](#cl-15567)
+[← Última clase del OA anterior](tp-quin-3-oae-02.md#cl-15590) · [Clase siguiente →](#cl-15592)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15567}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15592}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar informes de observaciones y mediciones realizadas acerca del comportamiento de a través de reconocer conceptos, documentos y roles del oficio: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 13 °C
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15566) · [Clase siguiente →](#cl-15568)
+[← Clase anterior](#cl-15591) · [Clase siguiente →](#cl-15593)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15568}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15593}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar informes de observaciones y mediciones realizadas acerca del comportamiento de a través de analizar un caso de trabajo en papel: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Sí, se avisa porque se acerca al mínimo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15567) · [Clase siguiente →](#cl-15569)
+[← Clase anterior](#cl-15592) · [Clase siguiente →](#cl-15594)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15569}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15594}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar informes de observaciones y mediciones realizadas acerca del comportamiento de a través de aplicar un criterio técnico con datos de ejemplo: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 3 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15568) · [Clase siguiente →](#cl-15570)
+[← Clase anterior](#cl-15593) · [Clase siguiente →](#cl-15595)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15570}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de {#cl-15595}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar informes de observaciones y mediciones realizadas acerca del comportamiento de a través de comparar alternativas y verificar la calidad: Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15569) · [Primera clase del OA siguiente →](tp-quin-3-oae-04.md#cl-15571)
+[← Clase anterior](#cl-15594) · [Primera clase del OA siguiente →](tp-quin-3-oae-04.md#cl-15596)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

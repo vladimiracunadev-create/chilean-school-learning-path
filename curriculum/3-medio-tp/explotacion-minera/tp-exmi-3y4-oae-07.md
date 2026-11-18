@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15045) · [Clase 2](#cl-15046) · [Clase 3](#cl-15047) · [Clase 4](#cl-15048)
+**Clases de este OA:** [Clase 1](#cl-15070) · [Clase 2](#cl-15071) · [Clase 3](#cl-15072) · [Clase 4](#cl-15073)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar los minerales para el carguío {#cl-15045}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar los minerales para el carguío {#cl-15070}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los minerales para el carguío a través de situar el contexto laboral, la norma y el riesgo: Cubicar los minerales para el carguío, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Peligro: la curva sin señal; riesgo: que un camión vuelque o choque
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-exmi-3y4-oae-06.md#cl-15044) · [Clase siguiente →](#cl-15046)
+[← Última clase del OA anterior](tp-exmi-3y4-oae-06.md#cl-15069) · [Clase siguiente →](#cl-15071)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar los minerales para el carguío {#cl-15046}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar los minerales para el carguío {#cl-15071}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los minerales para el carguío a través de reconocer conceptos, documentos y roles del oficio: Cubicar los minerales para el carguío, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 400 toneladas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15045) · [Clase siguiente →](#cl-15047)
+[← Clase anterior](#cl-15070) · [Clase siguiente →](#cl-15072)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar los minerales para el carguío {#cl-15047}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar los minerales para el carguío {#cl-15072}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los minerales para el carguío a través de analizar un caso de trabajo en papel: Cubicar los minerales para el carguío, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 20 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15046) · [Clase siguiente →](#cl-15048)
+[← Clase anterior](#cl-15071) · [Clase siguiente →](#cl-15073)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar los minerales para el carguío {#cl-15048}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar los minerales para el carguío {#cl-15073}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los minerales para el carguío a través de aplicar un criterio técnico con datos de ejemplo: Cubicar los minerales para el carguío, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 5 camiones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15047) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-08.md#cl-15049)
+[← Clase anterior](#cl-15072) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-08.md#cl-15074)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

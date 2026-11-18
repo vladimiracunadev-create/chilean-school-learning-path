@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16985) · [Clase 2](#cl-16986) · [Clase 3](#cl-16987) · [Clase 4](#cl-16988)
+**Clases de este OA:** [Clase 1](#cl-17053) · [Clase 2](#cl-17054) · [Clase 3](#cl-17055) · [Clase 4](#cl-17056)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-16985}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-17053}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y ajustar equipos e instrumentos de preparación y análisis de muestras a través de situar el contexto laboral, la norma y el riesgo: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Sí, vencido hace 12 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-qula-4-oam-04.md#cl-16984) · [Clase siguiente →](#cl-16986)
+[← Última clase del OA anterior](tp-qula-4-oam-04.md#cl-17052) · [Clase siguiente →](#cl-17054)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-16986}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-17054}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y ajustar equipos e instrumentos de preparación y análisis de muestras a través de reconocer conceptos, documentos y roles del oficio: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Correctiva
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16985) · [Clase siguiente →](#cl-16987)
+[← Clase anterior](#cl-17053) · [Clase siguiente →](#cl-17055)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-16987}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-17055}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y ajustar equipos e instrumentos de preparación y análisis de muestras a través de analizar un caso de trabajo en papel: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Fuera de servicio y aviso al técnico
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16986) · [Clase siguiente →](#cl-16988)
+[← Clase anterior](#cl-17054) · [Clase siguiente →](#cl-17056)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-16988}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras {#cl-17056}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y ajustar equipos e instrumentos de preparación y análisis de muestras a través de aplicar un criterio técnico con datos de ejemplo: Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16987)
+[← Clase anterior](#cl-17055)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

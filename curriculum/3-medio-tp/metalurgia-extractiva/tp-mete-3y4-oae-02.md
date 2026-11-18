@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15284) · [Clase 2](#cl-15285) · [Clase 3](#cl-15286) · [Clase 4](#cl-15287) · [Clase 5](#cl-15288)
+**Clases de este OA:** [Clase 1](#cl-15309) · [Clase 2](#cl-15310) · [Clase 3](#cl-15311) · [Clase 4](#cl-15312) · [Clase 5](#cl-15313)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15284}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15309}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de concentración de minerales metálicos y no metálicos a través de situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de concentración de minerales metálicos y no metálicos, con una experiencia disciplinar específica, segura y revisable.
@@ -254,9 +254,9 @@ Respuesta: 10
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mete-3y4-oae-01.md#cl-15283) · [Clase siguiente →](#cl-15285)
+[← Última clase del OA anterior](tp-mete-3y4-oae-01.md#cl-15308) · [Clase siguiente →](#cl-15310)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15285}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15310}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de concentración de minerales metálicos y no metálicos a través de reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de concentración de minerales metálicos y no metálicos, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Respuesta: Cumple, con 2 puntos de holgura
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15284) · [Clase siguiente →](#cl-15286)
+[← Clase anterior](#cl-15309) · [Clase siguiente →](#cl-15311)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15286}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15311}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de concentración de minerales metálicos y no metálicos a través de analizar un caso de trabajo en papel: Aplicar técnicas de concentración de minerales metálicos y no metálicos, con una experiencia disciplinar específica, segura y revisable.
@@ -670,9 +670,9 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15285) · [Clase siguiente →](#cl-15287)
+[← Clase anterior](#cl-15310) · [Clase siguiente →](#cl-15312)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15287}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15312}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de concentración de minerales metálicos y no metálicos a través de aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de concentración de minerales metálicos y no metálicos, con una experiencia disciplinar específica, segura y revisable.
@@ -877,9 +877,9 @@ Respuesta: $120.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15286) · [Clase siguiente →](#cl-15288)
+[← Clase anterior](#cl-15311) · [Clase siguiente →](#cl-15313)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15288}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de concentración de minerales metálicos y no metálicos {#cl-15313}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de concentración de minerales metálicos y no metálicos a través de comparar alternativas y verificar la calidad: Aplicar técnicas de concentración de minerales metálicos y no metálicos, con una experiencia disciplinar específica, segura y revisable.
@@ -1084,7 +1084,7 @@ Respuesta: Sí, es aceptable
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15287) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-03.md#cl-15289)
+[← Clase anterior](#cl-15312) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-03.md#cl-15314)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

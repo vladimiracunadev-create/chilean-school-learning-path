@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15279) · [Clase 2](#cl-15280) · [Clase 3](#cl-15281) · [Clase 4](#cl-15282) · [Clase 5](#cl-15283)
+**Clases de este OA:** [Clase 1](#cl-15304) · [Clase 2](#cl-15305) · [Clase 3](#cl-15306) · [Clase 4](#cl-15307) · [Clase 5](#cl-15308)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de chancado {#cl-15279}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de chancado {#cl-15304}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de chancado a través de situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de chancado, con una experiencia disciplinar específica, segura y revisable.
@@ -255,9 +255,9 @@ Respuesta: 4
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15280)
+[Clase siguiente →](#cl-15305)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de chancado {#cl-15280}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de chancado {#cl-15305}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de chancado a través de reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de chancado, con una experiencia disciplinar específica, segura y revisable.
@@ -465,9 +465,9 @@ Respuesta: En el registro de turno
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15279) · [Clase siguiente →](#cl-15281)
+[← Clase anterior](#cl-15304) · [Clase siguiente →](#cl-15306)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de chancado {#cl-15281}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de chancado {#cl-15306}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de chancado a través de analizar un caso de trabajo en papel: Aplicar técnicas de chancado, con una experiencia disciplinar específica, segura y revisable.
@@ -674,9 +674,9 @@ Respuesta: No cumple; faltan 6 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15280) · [Clase siguiente →](#cl-15282)
+[← Clase anterior](#cl-15305) · [Clase siguiente →](#cl-15307)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de chancado {#cl-15282}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de chancado {#cl-15307}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de chancado a través de aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de chancado, con una experiencia disciplinar específica, segura y revisable.
@@ -882,9 +882,9 @@ Respuesta: 25 kWh por tonelada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15281) · [Clase siguiente →](#cl-15283)
+[← Clase anterior](#cl-15306) · [Clase siguiente →](#cl-15308)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de chancado {#cl-15283}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de chancado {#cl-15308}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de chancado a través de comparar alternativas y verificar la calidad: Aplicar técnicas de chancado, con una experiencia disciplinar específica, segura y revisable.
@@ -1089,7 +1089,7 @@ Respuesta: Sí, es aceptable
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15282) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-02.md#cl-15284)
+[← Clase anterior](#cl-15307) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-02.md#cl-15309)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

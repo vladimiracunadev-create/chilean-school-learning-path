@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16279) · [Clase 2](#cl-16280) · [Clase 3](#cl-16281) · [Clase 4](#cl-16282)
+**Clases de este OA:** [Clase 1](#cl-16347) · [Clase 2](#cl-16348) · [Clase 3](#cl-16349) · [Clase 4](#cl-16350)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener las condiciones de higiene personal {#cl-16279}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener las condiciones de higiene personal {#cl-16347}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener las condiciones de higiene personal a través de situar el contexto laboral, la norma y el riesgo: Mantener las condiciones de higiene personal, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Zona sucia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eial-3y4-oae-03.md#cl-16278) · [Clase siguiente →](#cl-16280)
+[← Última clase del OA anterior](tp-eial-3y4-oae-03.md#cl-16346) · [Clase siguiente →](#cl-16348)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener las condiciones de higiene personal {#cl-16280}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener las condiciones de higiene personal {#cl-16348}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener las condiciones de higiene personal a través de reconocer conceptos, documentos y roles del oficio: Mantener las condiciones de higiene personal, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Verificación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16279) · [Clase siguiente →](#cl-16281)
+[← Clase anterior](#cl-16347) · [Clase siguiente →](#cl-16349)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener las condiciones de higiene personal {#cl-16281}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener las condiciones de higiene personal {#cl-16349}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener las condiciones de higiene personal a través de analizar un caso de trabajo en papel: Mantener las condiciones de higiene personal, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Correctiva: reponer; preventiva: la revisión semanal
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16280) · [Clase siguiente →](#cl-16282)
+[← Clase anterior](#cl-16348) · [Clase siguiente →](#cl-16350)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener las condiciones de higiene personal {#cl-16282}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener las condiciones de higiene personal {#cl-16350}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener las condiciones de higiene personal a través de aplicar un criterio técnico con datos de ejemplo: Mantener las condiciones de higiene personal, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: Sí, se capacita
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16281) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-05.md#cl-16283)
+[← Clase anterior](#cl-16349) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-05.md#cl-16351)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

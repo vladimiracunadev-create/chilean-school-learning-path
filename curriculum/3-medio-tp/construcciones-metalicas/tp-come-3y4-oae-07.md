@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14801) · [Clase 2](#cl-14802) · [Clase 3](#cl-14803) · [Clase 4](#cl-14804)
+**Clases de este OA:** [Clase 1](#cl-14826) · [Clase 2](#cl-14827) · [Clase 3](#cl-14828) · [Clase 4](#cl-14829)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14801}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14826}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de elementos de construcciones metálicas a través de situar el contexto laboral, la norma y el riesgo: Ejecutar tratamientos de protección de elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Sustitución
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-come-3y4-oae-06.md#cl-14800) · [Clase siguiente →](#cl-14802)
+[← Última clase del OA anterior](tp-come-3y4-oae-06.md#cl-14825) · [Clase siguiente →](#cl-14827)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14802}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14827}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de elementos de construcciones metálicas a través de reconocer conceptos, documentos y roles del oficio: Ejecutar tratamientos de protección de elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14801) · [Clase siguiente →](#cl-14803)
+[← Clase anterior](#cl-14826) · [Clase siguiente →](#cl-14828)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14803}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14828}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de elementos de construcciones metálicas a través de analizar un caso de trabajo en papel: Ejecutar tratamientos de protección de elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 7 envases
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14802) · [Clase siguiente →](#cl-14804)
+[← Clase anterior](#cl-14827) · [Clase siguiente →](#cl-14829)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14804}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tratamientos de protección de elementos de construcciones metálicas {#cl-14829}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de elementos de construcciones metálicas a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar tratamientos de protección de elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: $28.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14803) · [Primera clase del OA siguiente →](tp-come-3y4-oae-08.md#cl-14805)
+[← Clase anterior](#cl-14828) · [Primera clase del OA siguiente →](tp-come-3y4-oae-08.md#cl-14830)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

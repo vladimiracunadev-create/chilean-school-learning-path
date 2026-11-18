@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15532) · [Clase 2](#cl-15533) · [Clase 3](#cl-15534) · [Clase 4](#cl-15535)
+**Clases de este OA:** [Clase 1](#cl-15557) · [Clase 2](#cl-15558) · [Clase 3](#cl-15559) · [Clase 4](#cl-15560)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15532}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15557}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones web acordes a los requerimientos y a través de situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones web acordes a los requerimientos y, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: El color favorito
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-04.md#cl-15531) · [Clase siguiente →](#cl-15533)
+[← Última clase del OA anterior](tp-prog-3y4-oae-04.md#cl-15556) · [Clase siguiente →](#cl-15558)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15533}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15558}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones web acordes a los requerimientos y a través de reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones web acordes a los requerimientos y, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: A los párrafos; su color pasa a rojo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15532) · [Clase siguiente →](#cl-15534)
+[← Clase anterior](#cl-15557) · [Clase siguiente →](#cl-15559)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15534}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15559}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones web acordes a los requerimientos y a través de analizar un caso de trabajo en papel: Desarrollar aplicaciones web acordes a los requerimientos y, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: falta nombre
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15533) · [Clase siguiente →](#cl-15535)
+[← Clase anterior](#cl-15558) · [Clase siguiente →](#cl-15560)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15535}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones web acordes a los requerimientos y {#cl-15560}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones web acordes a los requerimientos y a través de aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones web acordes a los requerimientos y, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: No, se corrige primero
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15534) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-06.md#cl-15536)
+[← Clase anterior](#cl-15559) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-06.md#cl-15561)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

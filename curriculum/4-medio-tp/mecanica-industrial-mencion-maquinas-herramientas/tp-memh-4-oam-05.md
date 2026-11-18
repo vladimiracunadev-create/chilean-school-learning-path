@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16653) · [Clase 2](#cl-16654) · [Clase 3](#cl-16655) · [Clase 4](#cl-16656)
+**Clases de este OA:** [Clase 1](#cl-16721) · [Clase 2](#cl-16722) · [Clase 3](#cl-16723) · [Clase 4](#cl-16724)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16653}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16721}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar programar y utilizar centros de mecanizado para la fabricación de piezas y partes de a través de situar el contexto laboral, la norma y el riesgo: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-memh-4-oam-04.md#cl-16652) · [Clase siguiente →](#cl-16654)
+[← Última clase del OA anterior](tp-memh-4-oam-04.md#cl-16720) · [Clase siguiente →](#cl-16722)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16654}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16722}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar programar y utilizar centros de mecanizado para la fabricación de piezas y partes de a través de reconocer conceptos, documentos y roles del oficio: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: No cabe
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16653) · [Clase siguiente →](#cl-16655)
+[← Clase anterior](#cl-16721) · [Clase siguiente →](#cl-16723)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16655}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16723}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar programar y utilizar centros de mecanizado para la fabricación de piezas y partes de a través de analizar un caso de trabajo en papel: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 80 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16654) · [Clase siguiente →](#cl-16656)
+[← Clase anterior](#cl-16722) · [Clase siguiente →](#cl-16724)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16656}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de {#cl-16724}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar programar y utilizar centros de mecanizado para la fabricación de piezas y partes de a través de aplicar un criterio técnico con datos de ejemplo: Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: $20.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16655)
+[← Clase anterior](#cl-16723)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

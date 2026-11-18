@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16283) · [Clase 2](#cl-16284) · [Clase 3](#cl-16285) · [Clase 4](#cl-16286)
+**Clases de este OA:** [Clase 1](#cl-16351) · [Clase 2](#cl-16352) · [Clase 3](#cl-16353) · [Clase 4](#cl-16354)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Verificar el funcionamiento de máquinas {#cl-16283}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Verificar el funcionamiento de máquinas {#cl-16351}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar el funcionamiento de máquinas a través de situar el contexto laboral, la norma y el riesgo: Verificar el funcionamiento de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Detener según el procedimiento y avisar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eial-3y4-oae-04.md#cl-16282) · [Clase siguiente →](#cl-16284)
+[← Última clase del OA anterior](tp-eial-3y4-oae-04.md#cl-16350) · [Clase siguiente →](#cl-16352)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Verificar el funcionamiento de máquinas {#cl-16284}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Verificar el funcionamiento de máquinas {#cl-16352}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar el funcionamiento de máquinas a través de reconocer conceptos, documentos y roles del oficio: Verificar el funcionamiento de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: No: queda fuera de la tolerancia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16283) · [Clase siguiente →](#cl-16285)
+[← Clase anterior](#cl-16351) · [Clase siguiente →](#cl-16353)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Verificar el funcionamiento de máquinas {#cl-16285}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Verificar el funcionamiento de máquinas {#cl-16353}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar el funcionamiento de máquinas a través de analizar un caso de trabajo en papel: Verificar el funcionamiento de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Un patrón que conviene revisar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16284) · [Clase siguiente →](#cl-16286)
+[← Clase anterior](#cl-16352) · [Clase siguiente →](#cl-16354)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Verificar el funcionamiento de máquinas {#cl-16286}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Verificar el funcionamiento de máquinas {#cl-16354}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar el funcionamiento de máquinas a través de aplicar un criterio técnico con datos de ejemplo: Verificar el funcionamiento de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 300 envases
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16285) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-06.md#cl-16287)
+[← Clase anterior](#cl-16353) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-06.md#cl-16355)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

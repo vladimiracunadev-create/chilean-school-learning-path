@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16897) · [Clase 2](#cl-16898) · [Clase 3](#cl-16899) · [Clase 4](#cl-16900) · [Clase 5](#cl-16901)
+**Clases de este OA:** [Clase 1](#cl-16965) · [Clase 2](#cl-16966) · [Clase 3](#cl-16967) · [Clase 4](#cl-16968) · [Clase 5](#cl-16969)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16897}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16965}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos a través de situar el contexto laboral, la norma y el riesgo: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Sustitución
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-pesq-3y4-oae-01.md#cl-16896) · [Clase siguiente →](#cl-16898)
+[← Última clase del OA anterior](tp-pesq-3y4-oae-01.md#cl-16964) · [Clase siguiente →](#cl-16966)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16898}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16966}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos a través de reconocer conceptos, documentos y roles del oficio: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos, con una experiencia disciplinar específica, segura y revisable.
@@ -464,9 +464,9 @@ Respuesta: La bitácora de pesca
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16897) · [Clase siguiente →](#cl-16899)
+[← Clase anterior](#cl-16965) · [Clase siguiente →](#cl-16967)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16899}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16967}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos a través de analizar un caso de trabajo en papel: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos, con una experiencia disciplinar específica, segura y revisable.
@@ -672,9 +672,9 @@ Respuesta: 15 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16898) · [Clase siguiente →](#cl-16900)
+[← Clase anterior](#cl-16966) · [Clase siguiente →](#cl-16968)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16900}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16968}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos a través de aplicar un criterio técnico con datos de ejemplo: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos, con una experiencia disciplinar específica, segura y revisable.
@@ -880,9 +880,9 @@ Respuesta: 230.000 pesos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16899) · [Clase siguiente →](#cl-16901)
+[← Clase anterior](#cl-16967) · [Clase siguiente →](#cl-16969)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16901}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos {#cl-16969}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos a través de comparar alternativas y verificar la calidad: Realizar maniobras de pesca artesanal e industrial con distintos sistemas extractivos, con una experiencia disciplinar específica, segura y revisable.
@@ -1087,7 +1087,7 @@ Respuesta: Sí, cuadra
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16900) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-03.md#cl-16902)
+[← Clase anterior](#cl-16968) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-03.md#cl-16970)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

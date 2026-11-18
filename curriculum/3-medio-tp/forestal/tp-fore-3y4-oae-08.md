@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15087) · [Clase 2](#cl-15088) · [Clase 3](#cl-15089) · [Clase 4](#cl-15090) · [Clase 5](#cl-15091)
+**Clases de este OA:** [Clase 1](#cl-15112) · [Clase 2](#cl-15113) · [Clase 3](#cl-15114) · [Clase 4](#cl-15115) · [Clase 5](#cl-15116)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15087}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15112}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas y herramientas de uso en actividades forestales a través de situar el contexto laboral, la norma y el riesgo: Utilizar máquinas y herramientas de uso en actividades forestales, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 40 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-fore-3y4-oae-07.md#cl-15086) · [Clase siguiente →](#cl-15088)
+[← Última clase del OA anterior](tp-fore-3y4-oae-07.md#cl-15111) · [Clase siguiente →](#cl-15113)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15088}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15113}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas y herramientas de uso en actividades forestales a través de reconocer conceptos, documentos y roles del oficio: Utilizar máquinas y herramientas de uso en actividades forestales, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 25 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15087) · [Clase siguiente →](#cl-15089)
+[← Clase anterior](#cl-15112) · [Clase siguiente →](#cl-15114)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15089}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15114}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas y herramientas de uso en actividades forestales a través de analizar un caso de trabajo en papel: Utilizar máquinas y herramientas de uso en actividades forestales, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 70 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15088) · [Clase siguiente →](#cl-15090)
+[← Clase anterior](#cl-15113) · [Clase siguiente →](#cl-15115)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15090}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15115}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas y herramientas de uso en actividades forestales a través de aplicar un criterio técnico con datos de ejemplo: Utilizar máquinas y herramientas de uso en actividades forestales, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 24 horas-persona
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15089) · [Clase siguiente →](#cl-15091)
+[← Clase anterior](#cl-15114) · [Clase siguiente →](#cl-15116)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15091}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Utilizar máquinas y herramientas de uso en actividades forestales {#cl-15116}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas y herramientas de uso en actividades forestales a través de comparar alternativas y verificar la calidad: Utilizar máquinas y herramientas de uso en actividades forestales, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: $3.000 por m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15090) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-09.md#cl-15092)
+[← Clase anterior](#cl-15115) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-09.md#cl-15117)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

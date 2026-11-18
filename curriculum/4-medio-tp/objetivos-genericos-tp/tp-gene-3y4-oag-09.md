@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16842) · [Clase 2](#cl-16843) · [Clase 3](#cl-16844) · [Clase 4](#cl-16845)
+**Clases de este OA:** [Clase 1](#cl-16910) · [Clase 2](#cl-16911) · [Clase 3](#cl-16912) · [Clase 4](#cl-16913)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16842}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16910}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de situar el contexto laboral, la norma y el riesgo: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: $2.400
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-08.md#cl-16841) · [Clase siguiente →](#cl-16843)
+[← Última clase del OA anterior](tp-gene-3y4-oag-08.md#cl-16909) · [Clase siguiente →](#cl-16911)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16843}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16911}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de reconocer conceptos, documentos y roles del oficio: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 25 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16842) · [Clase siguiente →](#cl-16844)
+[← Clase anterior](#cl-16910) · [Clase siguiente →](#cl-16912)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16844}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16912}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de analizar un caso de trabajo en papel: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: $300
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16843) · [Clase siguiente →](#cl-16845)
+[← Clase anterior](#cl-16911) · [Clase siguiente →](#cl-16913)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16845}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16913}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de aplicar un criterio técnico con datos de ejemplo: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 10 por cada 100
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16844) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-10.md#cl-16846)
+[← Clase anterior](#cl-16912) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-10.md#cl-16914)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

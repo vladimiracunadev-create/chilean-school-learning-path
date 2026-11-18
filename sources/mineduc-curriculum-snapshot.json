@@ -28350,6 +28350,62 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Atención de Enfermería",
+      "subject_slug": "atencion-de-enfermeria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ATEN-3-OAE-01",
+          "description": "Aplicar cuidados básicos de enfermería, higiene y confort a personas en distintas etapas del ciclo vital, de acuerdo a principios técnicos y protocolos establecidos, brindando un trato digno, acogedor y coherente con los derechos y deberes del paciente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATEN-3-OAE-02",
+          "description": "Medir, controlar y registrar parámetros de salud de los pacientes, como peso, talla, temperatura, signos vitales y presión arterial, aplicando instrumentos de medición apropiados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATEN-3-OAE-03",
+          "description": "Aplicar estrategias de promoción de salud, prevención de enfermedades, hábitos de alimentación saludable para fomentar una vida adecuada para la familia y comunidad de acuerdo a modelos definidos por las políticas de salud.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATEN-3-OAE-04",
+          "description": "Mantener las condiciones sanitarias y de seguridad en las dependencias donde se encuentran las personas bajo su cuidado, de acuerdo a las normas sanitarias y de seguridad vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATEN-3-OAE-05",
+          "description": "Contribuir a la prevención y control de infecciones en las personas bajo su cuidado, aplicando normas de asepsia y antisepsia.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ATEN-3-OAE-06",
+          "description": "Registrar información en forma digital y manual, relativa al control de salud de las personas bajo su cuidado, y relativa a procedimientos administrativos de ingreso, permanencia y egreso de establecimientos de salud o estadía, resguardando la privacidad de las personas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Atención de Párvulos",
       "subject_slug": "atencion-de-parvulos",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -30979,6 +31035,97 @@
           "code": "TP-ASGE-3y4-OAE-08",
           "description": "Leer, trasmitir y registrar información geológica desde puntos remotos, utilizando sistemas de posicionamiento global y tecnología de información y comunicación, de acuerdo a requerimientos de información.",
           "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Atención de Enfermería · mención Adulto Mayor",
+      "subject_slug": "atencion-de-enfermeria-mencion-adulto-mayor",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ADMA-4-OAM-01",
+          "description": "Realizar actividades sociales y recreativas orientadas a los intereses, necesidades y características biopsicosociales de las personas adultas mayores, entregando apoyo personalizado, aplicando técnicas de motivación, seleccionado recursos y materiales apropiados y resguardando la seguridad individual y grupal.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMA-4-OAM-02",
+          "description": "Informar a las familias respecto del estado integral del adulto mayor de acuerdo a los requerimientos de la familia y a los procedimientos y protocolos de la institución, utilizando técnicas de comunicación efectiva.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMA-4-OAM-03",
+          "description": "Atender las necesidades de alimentación y nutrición del adulto mayor, preparando, presentando y sirviendo el alimento de acuerdo al grado de autonomía de la persona y sus preferencias, aplicando los procedimientos y técnicas ergonométricas pertinentes, resguardando los principios nutricionales, dietéticos, de higiene y de seguridad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMA-4-OAM-04",
+          "description": "Atender al adulto mayor en situaciones de emergencia y accidentes, aplicando técnicas de primeros auxilios y protocolos establecidos, resguardando la seguridad individual y del grupo.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMA-4-OAM-05",
+          "description": "Administrar productos farmacológicos de aplicación sencilla, tales como grageas y gotas por vía oral, aplicación de ungüentos en la piel e inyecciones intramusculares para diferentes tratamientos, de acuerdo a las instrucciones del profesional médico que los ha prescrito.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMA-4-OAM-06",
+          "description": "Atender las necesidades de higiene y confort de las personas adultas mayores durante su permanencia en establecimientos de larga estadía o domicilio, aplicando los procedimientos y técnicas ergonométricas pertinentes, respetando su privacidad y grado de autonomía, creando ambientes adecuados a sus necesidades y brindando una acogida favorable en el acompañamiento.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Atención de Enfermería · mención Enfermería",
+      "subject_slug": "atencion-de-enfermeria-mencion-enfermeria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ENFE-4-OAM-01",
+          "description": "Realizar acciones de apoyo al tratamiento y la rehabilitación de la salud a pacientes pediátricos y adultos, ambulatorios y hospitalizados, como controlar signos vitales, tomar muestras para exámenes de laboratorio, administrar medicamentos por diferentes vías (intramuscular, endovenosa, piel y mucosas), hacer curaciones básicas, de acuerdo con protocolos establecidos y las indicaciones de profesionales del área médica.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ENFE-4-OAM-02",
+          "description": "Monitorear e informar al personal de salud, el estado de pacientes que se encuentran en condiciones críticas de salud o con procedimientos invasivos, conforme a procedimientos establecidos y las indicaciones entregadas por el profesional médico o de enfermería.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ENFE-4-OAM-03",
+          "description": "Preparar las instalaciones, equipos, instrumentos e insumos para la atención de salud de acuerdo al tipo de procedimiento a realizar y a las indicaciones entregadas por los profesionales clínicos, teniendo en consideración principios de asepsia y antisepsia, de seguridad y prevención de riesgos biomédicos.",
+          "axis": "Objetivos de aprendizaje de la mención",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
         }

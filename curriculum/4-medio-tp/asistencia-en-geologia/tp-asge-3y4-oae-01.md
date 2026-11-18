@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15960) · [Clase 2](#cl-15961) · [Clase 3](#cl-15962) · [Clase 4](#cl-15963)
+**Clases de este OA:** [Clase 1](#cl-15985) · [Clase 2](#cl-15986) · [Clase 3](#cl-15987) · [Clase 4](#cl-15988)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15960}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15985}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar, instalar y desarmar campamentos en terreno para la obtención de muestras a través de situar el contexto laboral, la norma y el riesgo: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Eliminación o alejamiento del peligro
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15961)
+[Clase siguiente →](#cl-15986)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15961}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15986}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar, instalar y desarmar campamentos en terreno para la obtención de muestras a través de reconocer conceptos, documentos y roles del oficio: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: La bitácora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15960) · [Clase siguiente →](#cl-15962)
+[← Clase anterior](#cl-15985) · [Clase siguiente →](#cl-15987)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15962}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15987}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar, instalar y desarmar campamentos en terreno para la obtención de muestras a través de analizar un caso de trabajo en papel: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: No cumple; faltan 17 metros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15961) · [Clase siguiente →](#cl-15963)
+[← Clase anterior](#cl-15986) · [Clase siguiente →](#cl-15988)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15963}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras {#cl-15988}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar, instalar y desarmar campamentos en terreno para la obtención de muestras a través de aplicar un criterio técnico con datos de ejemplo: Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 3 carpas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15962) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-02.md#cl-15964)
+[← Clase anterior](#cl-15987) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-02.md#cl-15989)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

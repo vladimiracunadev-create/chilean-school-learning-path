@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16850) · [Clase 2](#cl-16851) · [Clase 3](#cl-16852) · [Clase 4](#cl-16853)
+**Clases de este OA:** [Clase 1](#cl-16918) · [Clase 2](#cl-16919) · [Clase 3](#cl-16920) · [Clase 4](#cl-16921)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16850}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16918}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir situaciones de riesgo y enfermedades ocupacionales a través de situar el contexto laboral, la norma y el riesgo: Prevenir situaciones de riesgo y enfermedades ocupacionales, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 3 incidentes por accidente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-10.md#cl-16849) · [Clase siguiente →](#cl-16851)
+[← Última clase del OA anterior](tp-gene-3y4-oag-10.md#cl-16917) · [Clase siguiente →](#cl-16919)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16851}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16919}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir situaciones de riesgo y enfermedades ocupacionales a través de reconocer conceptos, documentos y roles del oficio: Prevenir situaciones de riesgo y enfermedades ocupacionales, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 4 horas menos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16850) · [Clase siguiente →](#cl-16852)
+[← Clase anterior](#cl-16918) · [Clase siguiente →](#cl-16920)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16852}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16920}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir situaciones de riesgo y enfermedades ocupacionales a través de analizar un caso de trabajo en papel: Prevenir situaciones de riesgo y enfermedades ocupacionales, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Nivel 6, alto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16851) · [Clase siguiente →](#cl-16853)
+[← Clase anterior](#cl-16919) · [Clase siguiente →](#cl-16921)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16853}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Prevenir situaciones de riesgo y enfermedades ocupacionales {#cl-16921}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir situaciones de riesgo y enfermedades ocupacionales a través de aplicar un criterio técnico con datos de ejemplo: Prevenir situaciones de riesgo y enfermedades ocupacionales, con una experiencia disciplinar específica, segura y revisable.
@@ -877,7 +877,7 @@ Respuesta: 25 por cada 100
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16852) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-12.md#cl-16854)
+[← Clase anterior](#cl-16920) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-12.md#cl-16922)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

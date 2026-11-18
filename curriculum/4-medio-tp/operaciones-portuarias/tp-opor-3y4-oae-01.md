@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16858) · [Clase 2](#cl-16859) · [Clase 3](#cl-16860) · [Clase 4](#cl-16861) · [Clase 5](#cl-16862)
+**Clases de este OA:** [Clase 1](#cl-16926) · [Clase 2](#cl-16927) · [Clase 3](#cl-16928) · [Clase 4](#cl-16929) · [Clase 5](#cl-16930)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16858}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16926}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la movilización y distribución de las cargas en el sistema portuario a través de situar el contexto laboral, la norma y el riesgo: Controlar la movilización y distribución de las cargas en el sistema portuario, con una experiencia disciplinar específica, segura y revisable.
@@ -254,9 +254,9 @@ Respuesta: Equipo de protección personal (EPP)
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16859)
+[Clase siguiente →](#cl-16927)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16859}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16927}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la movilización y distribución de las cargas en el sistema portuario a través de reconocer conceptos, documentos y roles del oficio: Controlar la movilización y distribución de las cargas en el sistema portuario, con una experiencia disciplinar específica, segura y revisable.
@@ -464,9 +464,9 @@ Respuesta: Consignatario
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16858) · [Clase siguiente →](#cl-16860)
+[← Clase anterior](#cl-16926) · [Clase siguiente →](#cl-16928)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16860}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16928}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la movilización y distribución de las cargas en el sistema portuario a través de analizar un caso de trabajo en papel: Controlar la movilización y distribución de las cargas en el sistema portuario, con una experiencia disciplinar específica, segura y revisable.
@@ -672,9 +672,9 @@ Respuesta: 3 horas de atraso
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16859) · [Clase siguiente →](#cl-16861)
+[← Clase anterior](#cl-16927) · [Clase siguiente →](#cl-16929)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16861}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16929}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la movilización y distribución de las cargas en el sistema portuario a través de aplicar un criterio técnico con datos de ejemplo: Controlar la movilización y distribución de las cargas en el sistema portuario, con una experiencia disciplinar específica, segura y revisable.
@@ -879,9 +879,9 @@ Respuesta: No es válida: Y excede su capacidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16860) · [Clase siguiente →](#cl-16862)
+[← Clase anterior](#cl-16928) · [Clase siguiente →](#cl-16930)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16862}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Controlar la movilización y distribución de las cargas en el sistema portuario {#cl-16930}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la movilización y distribución de las cargas en el sistema portuario a través de comparar alternativas y verificar la calidad: Controlar la movilización y distribución de las cargas en el sistema portuario, con una experiencia disciplinar específica, segura y revisable.
@@ -1086,7 +1086,7 @@ Respuesta: Sobrante de 5 bultos, que se registra e informa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16861) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-02.md#cl-16863)
+[← Clase anterior](#cl-16929) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-02.md#cl-16931)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

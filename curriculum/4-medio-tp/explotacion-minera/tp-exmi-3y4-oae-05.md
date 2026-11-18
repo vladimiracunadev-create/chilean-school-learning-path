@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16382) · [Clase 2](#cl-16383) · [Clase 3](#cl-16384) · [Clase 4](#cl-16385)
+**Clases de este OA:** [Clase 1](#cl-16450) · [Clase 2](#cl-16451) · [Clase 3](#cl-16452) · [Clase 4](#cl-16453)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar el marco legal minero en las plantas de explotación {#cl-16382}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar el marco legal minero en las plantas de explotación {#cl-16450}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal minero en las plantas de explotación a través de situar el contexto laboral, la norma y el riesgo: Aplicar el marco legal minero en las plantas de explotación, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El reglamento
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-exmi-3y4-oae-04.md#cl-16381) · [Clase siguiente →](#cl-16383)
+[← Última clase del OA anterior](tp-exmi-3y4-oae-04.md#cl-16449) · [Clase siguiente →](#cl-16451)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar el marco legal minero en las plantas de explotación {#cl-16383}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar el marco legal minero en las plantas de explotación {#cl-16451}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal minero en las plantas de explotación a través de reconocer conceptos, documentos y roles del oficio: Aplicar el marco legal minero en las plantas de explotación, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: $120.000 al año
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16382) · [Clase siguiente →](#cl-16384)
+[← Clase anterior](#cl-16450) · [Clase siguiente →](#cl-16452)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar el marco legal minero en las plantas de explotación {#cl-16384}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar el marco legal minero en las plantas de explotación {#cl-16452}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal minero en las plantas de explotación a través de analizar un caso de trabajo en papel: Aplicar el marco legal minero en las plantas de explotación, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 25 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16383) · [Clase siguiente →](#cl-16385)
+[← Clase anterior](#cl-16451) · [Clase siguiente →](#cl-16453)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar el marco legal minero en las plantas de explotación {#cl-16385}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar el marco legal minero en las plantas de explotación {#cl-16453}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar el marco legal minero en las plantas de explotación a través de aplicar un criterio técnico con datos de ejemplo: Aplicar el marco legal minero en las plantas de explotación, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16384) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-06.md#cl-16386)
+[← Clase anterior](#cl-16452) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-06.md#cl-16454)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

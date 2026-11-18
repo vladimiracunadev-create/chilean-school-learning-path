@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15561) · [Clase 2](#cl-15562) · [Clase 3](#cl-15563) · [Clase 4](#cl-15564) · [Clase 5](#cl-15565)
+**Clases de este OA:** [Clase 1](#cl-15586) · [Clase 2](#cl-15587) · [Clase 3](#cl-15588) · [Clase 4](#cl-15589) · [Clase 5](#cl-15590)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15561}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15586}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y registrar con precisión el comportamiento de variables e indicadores de los a través de situar el contexto laboral, la norma y el riesgo: Medir y registrar con precisión el comportamiento de variables e indicadores de los, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-quin-3-oae-01.md#cl-15560) · [Clase siguiente →](#cl-15562)
+[← Última clase del OA anterior](tp-quin-3-oae-01.md#cl-15585) · [Clase siguiente →](#cl-15587)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15562}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15587}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y registrar con precisión el comportamiento de variables e indicadores de los a través de reconocer conceptos, documentos y roles del oficio: Medir y registrar con precisión el comportamiento de variables e indicadores de los, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: Quedan 20 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15561) · [Clase siguiente →](#cl-15563)
+[← Clase anterior](#cl-15586) · [Clase siguiente →](#cl-15588)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15563}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15588}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y registrar con precisión el comportamiento de variables e indicadores de los a través de analizar un caso de trabajo en papel: Medir y registrar con precisión el comportamiento de variables e indicadores de los, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: 26 °C
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15562) · [Clase siguiente →](#cl-15564)
+[← Clase anterior](#cl-15587) · [Clase siguiente →](#cl-15589)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15564}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15589}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y registrar con precisión el comportamiento de variables e indicadores de los a través de aplicar un criterio técnico con datos de ejemplo: Medir y registrar con precisión el comportamiento de variables e indicadores de los, con una experiencia disciplinar específica, segura y revisable.
@@ -877,9 +877,9 @@ Respuesta: Subió 20 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15563) · [Clase siguiente →](#cl-15565)
+[← Clase anterior](#cl-15588) · [Clase siguiente →](#cl-15590)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15565}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Medir y registrar con precisión el comportamiento de variables e indicadores de los {#cl-15590}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y registrar con precisión el comportamiento de variables e indicadores de los a través de comparar alternativas y verificar la calidad: Medir y registrar con precisión el comportamiento de variables e indicadores de los, con una experiencia disciplinar específica, segura y revisable.
@@ -1084,7 +1084,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15564) · [Primera clase del OA siguiente →](tp-quin-3-oae-03.md#cl-15566)
+[← Clase anterior](#cl-15589) · [Primera clase del OA siguiente →](tp-quin-3-oae-03.md#cl-15591)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

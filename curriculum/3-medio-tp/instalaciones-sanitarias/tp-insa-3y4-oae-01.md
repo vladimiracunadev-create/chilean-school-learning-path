@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15147) · [Clase 2](#cl-15148) · [Clase 3](#cl-15149) · [Clase 4](#cl-15150)
+**Clases de este OA:** [Clase 1](#cl-15172) · [Clase 2](#cl-15173) · [Clase 3](#cl-15174) · [Clase 4](#cl-15175)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos de redes de gas {#cl-15147}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos de redes de gas {#cl-15172}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de gas a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos de redes de gas, con una experiencia disciplinar específica, segura y revisable.
@@ -254,9 +254,9 @@ Respuesta: Faltan 3 láminas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15148)
+[Clase siguiente →](#cl-15173)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos de redes de gas {#cl-15148}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos de redes de gas {#cl-15173}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de gas a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos de redes de gas, con una experiencia disciplinar específica, segura y revisable.
@@ -465,9 +465,9 @@ Respuesta: Se usa la cota de 380 cm y se consulta la diferencia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15147) · [Clase siguiente →](#cl-15149)
+[← Clase anterior](#cl-15172) · [Clase siguiente →](#cl-15174)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar planos de redes de gas {#cl-15149}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar planos de redes de gas {#cl-15174}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de gas a través de analizar un caso de trabajo en papel: Leer y utilizar planos de redes de gas, con una experiencia disciplinar específica, segura y revisable.
@@ -672,9 +672,9 @@ Respuesta: 10 cm de diferencia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15148) · [Clase siguiente →](#cl-15150)
+[← Clase anterior](#cl-15173) · [Clase siguiente →](#cl-15175)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos de redes de gas {#cl-15150}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos de redes de gas {#cl-15175}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de gas a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos de redes de gas, con una experiencia disciplinar específica, segura y revisable.
@@ -879,7 +879,7 @@ Respuesta: 15 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15149) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-02.md#cl-15151)
+[← Clase anterior](#cl-15174) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-02.md#cl-15176)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

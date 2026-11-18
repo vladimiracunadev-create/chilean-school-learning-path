@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15207) · [Clase 2](#cl-15208) · [Clase 3](#cl-15209) · [Clase 4](#cl-15210)
+**Clases de este OA:** [Clase 1](#cl-15232) · [Clase 2](#cl-15233) · [Clase 3](#cl-15234) · [Clase 4](#cl-15235)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15207}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15232}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices a través de situar el contexto laboral, la norma y el riesgo: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: En el EPP, el último nivel
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meau-3y4-oae-05.md#cl-15206) · [Clase siguiente →](#cl-15208)
+[← Última clase del OA anterior](tp-meau-3y4-oae-05.md#cl-15231) · [Clase siguiente →](#cl-15233)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15208}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15233}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices a través de reconocer conceptos, documentos y roles del oficio: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El fusible de 10 A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15207) · [Clase siguiente →](#cl-15209)
+[← Clase anterior](#cl-15232) · [Clase siguiente →](#cl-15234)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15209}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15234}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices a través de analizar un caso de trabajo en papel: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: La batería descargada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15208) · [Clase siguiente →](#cl-15210)
+[← Clase anterior](#cl-15233) · [Clase siguiente →](#cl-15235)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15210}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices {#cl-15235}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices a través de aplicar un criterio técnico con datos de ejemplo: Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 4 A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15209) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-07.md#cl-15211)
+[← Clase anterior](#cl-15234) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-07.md#cl-15236)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

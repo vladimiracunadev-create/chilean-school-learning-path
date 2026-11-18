@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15211) · [Clase 2](#cl-15212) · [Clase 3](#cl-15213) · [Clase 4](#cl-15214)
+**Clases de este OA:** [Clase 1](#cl-15236) · [Clase 2](#cl-15237) · [Clase 3](#cl-15238) · [Clase 4](#cl-15239)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15211}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15236}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar montar y desmontar sistemas de seguridad y de confortabilidad a través de situar el contexto laboral, la norma y el riesgo: Montar y desmontar sistemas de seguridad y de confortabilidad, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El cinturón es de seguridad pasiva; el audio es de confort
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meau-3y4-oae-06.md#cl-15210) · [Clase siguiente →](#cl-15212)
+[← Última clase del OA anterior](tp-meau-3y4-oae-06.md#cl-15235) · [Clase siguiente →](#cl-15237)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15212}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15237}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar montar y desmontar sistemas de seguridad y de confortabilidad a través de reconocer conceptos, documentos y roles del oficio: Montar y desmontar sistemas de seguridad y de confortabilidad, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: La ficha de instalación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15211) · [Clase siguiente →](#cl-15213)
+[← Clase anterior](#cl-15236) · [Clase siguiente →](#cl-15238)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15213}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15238}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar montar y desmontar sistemas de seguridad y de confortabilidad a través de analizar un caso de trabajo en papel: Montar y desmontar sistemas de seguridad y de confortabilidad, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Se rechaza o se deriva al servicio autorizado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15212) · [Clase siguiente →](#cl-15214)
+[← Clase anterior](#cl-15237) · [Clase siguiente →](#cl-15239)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15214}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Montar y desmontar sistemas de seguridad y de confortabilidad {#cl-15239}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar montar y desmontar sistemas de seguridad y de confortabilidad a través de aplicar un criterio técnico con datos de ejemplo: Montar y desmontar sistemas de seguridad y de confortabilidad, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 7 A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15213) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-08.md#cl-15215)
+[← Clase anterior](#cl-15238) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-08.md#cl-15240)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

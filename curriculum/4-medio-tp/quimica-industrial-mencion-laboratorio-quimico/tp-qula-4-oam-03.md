@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16976) · [Clase 2](#cl-16977) · [Clase 3](#cl-16978) · [Clase 4](#cl-16979)
+**Clases de este OA:** [Clase 1](#cl-17044) · [Clase 2](#cl-17045) · [Clase 3](#cl-17046) · [Clase 4](#cl-17047)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar muestras para ejecución de ensayos de laboratorio {#cl-16976}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar muestras para ejecución de ensayos de laboratorio {#cl-17044}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras para ejecución de ensayos de laboratorio a través de situar el contexto laboral, la norma y el riesgo: Preparar muestras para ejecución de ensayos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 10 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-qula-4-oam-02.md#cl-16975) · [Clase siguiente →](#cl-16977)
+[← Última clase del OA anterior](tp-qula-4-oam-02.md#cl-17043) · [Clase siguiente →](#cl-17045)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar muestras para ejecución de ensayos de laboratorio {#cl-16977}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar muestras para ejecución de ensayos de laboratorio {#cl-17045}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras para ejecución de ensayos de laboratorio a través de reconocer conceptos, documentos y roles del oficio: Preparar muestras para ejecución de ensayos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 10
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16976) · [Clase siguiente →](#cl-16978)
+[← Clase anterior](#cl-17044) · [Clase siguiente →](#cl-17046)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar muestras para ejecución de ensayos de laboratorio {#cl-16978}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar muestras para ejecución de ensayos de laboratorio {#cl-17046}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras para ejecución de ensayos de laboratorio a través de analizar un caso de trabajo en papel: Preparar muestras para ejecución de ensayos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Se informa como dato dudoso
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16977) · [Clase siguiente →](#cl-16979)
+[← Clase anterior](#cl-17045) · [Clase siguiente →](#cl-17047)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar muestras para ejecución de ensayos de laboratorio {#cl-16979}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar muestras para ejecución de ensayos de laboratorio {#cl-17047}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras para ejecución de ensayos de laboratorio a través de aplicar un criterio técnico con datos de ejemplo: Preparar muestras para ejecución de ensayos de laboratorio, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 10 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16978) · [Primera clase del OA siguiente →](tp-qula-4-oam-04.md#cl-16980)
+[← Clase anterior](#cl-17046) · [Primera clase del OA siguiente →](tp-qula-4-oam-04.md#cl-17048)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

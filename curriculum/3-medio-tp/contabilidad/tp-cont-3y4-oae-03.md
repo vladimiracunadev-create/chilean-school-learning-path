@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14860) · [Clase 2](#cl-14861) · [Clase 3](#cl-14862) · [Clase 4](#cl-14863)
+**Clases de este OA:** [Clase 1](#cl-14885) · [Clase 2](#cl-14886) · [Clase 3](#cl-14887) · [Clase 4](#cl-14888)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar llenado, tramitación y registro de documentación contable {#cl-14860}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar llenado, tramitación y registro de documentación contable {#cl-14885}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado, tramitación y registro de documentación contable a través de situar el contexto laboral, la norma y el riesgo: Realizar llenado, tramitación y registro de documentación contable, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Revisar, aprobar, pagar, archivar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cont-3y4-oae-02.md#cl-14859) · [Clase siguiente →](#cl-14861)
+[← Última clase del OA anterior](tp-cont-3y4-oae-02.md#cl-14884) · [Clase siguiente →](#cl-14886)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar llenado, tramitación y registro de documentación contable {#cl-14861}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar llenado, tramitación y registro de documentación contable {#cl-14886}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado, tramitación y registro de documentación contable a través de reconocer conceptos, documentos y roles del oficio: Realizar llenado, tramitación y registro de documentación contable, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Librería Aurora Ltda.
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14860) · [Clase siguiente →](#cl-14862)
+[← Clase anterior](#cl-14885) · [Clase siguiente →](#cl-14887)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar llenado, tramitación y registro de documentación contable {#cl-14862}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar llenado, tramitación y registro de documentación contable {#cl-14887}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado, tramitación y registro de documentación contable a través de analizar un caso de trabajo en papel: Realizar llenado, tramitación y registro de documentación contable, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: El 10 de julio
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14861) · [Clase siguiente →](#cl-14863)
+[← Clase anterior](#cl-14886) · [Clase siguiente →](#cl-14888)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar llenado, tramitación y registro de documentación contable {#cl-14863}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar llenado, tramitación y registro de documentación contable {#cl-14888}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado, tramitación y registro de documentación contable a través de aplicar un criterio técnico con datos de ejemplo: Realizar llenado, tramitación y registro de documentación contable, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: Buscar el 22 e informar si no aparece
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14862) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-04.md#cl-14864)
+[← Clase anterior](#cl-14887) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-04.md#cl-14889)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16437) · [Clase 2](#cl-16438) · [Clase 3](#cl-16439) · [Clase 4](#cl-16440)
+**Clases de este OA:** [Clase 1](#cl-16505) · [Clase 2](#cl-16506) · [Clase 3](#cl-16507) · [Clase 4](#cl-16508)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16437}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16505}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar el manejo productivo y la producción forestal en forma digital para el control a través de situar el contexto laboral, la norma y el riesgo: Registrar el manejo productivo y la producción forestal en forma digital para el control, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Sí, es un dato personal
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-fore-3y4-oae-08.md#cl-16436) · [Clase siguiente →](#cl-16438)
+[← Última clase del OA anterior](tp-fore-3y4-oae-08.md#cl-16504) · [Clase siguiente →](#cl-16506)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16438}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16506}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar el manejo productivo y la producción forestal en forma digital para el control a través de reconocer conceptos, documentos y roles del oficio: Registrar el manejo productivo y la producción forestal en forma digital para el control, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 50 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16437) · [Clase siguiente →](#cl-16439)
+[← Clase anterior](#cl-16505) · [Clase siguiente →](#cl-16507)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16439}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16507}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar el manejo productivo y la producción forestal en forma digital para el control a través de analizar un caso de trabajo en papel: Registrar el manejo productivo y la producción forestal en forma digital para el control, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 100 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16438) · [Clase siguiente →](#cl-16440)
+[← Clase anterior](#cl-16506) · [Clase siguiente →](#cl-16508)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16440}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Registrar el manejo productivo y la producción forestal en forma digital para el control {#cl-16508}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar el manejo productivo y la producción forestal en forma digital para el control a través de aplicar un criterio técnico con datos de ejemplo: Registrar el manejo productivo y la producción forestal en forma digital para el control, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 30 m³ por jornada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16439) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-10.md#cl-16441)
+[← Clase anterior](#cl-16507) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-10.md#cl-16509)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

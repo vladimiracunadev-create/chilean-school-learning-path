@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15041) · [Clase 2](#cl-15042) · [Clase 3](#cl-15043) · [Clase 4](#cl-15044)
+**Clases de este OA:** [Clase 1](#cl-15066) · [Clase 2](#cl-15067) · [Clase 3](#cl-15068) · [Clase 4](#cl-15069)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15041}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15066}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar toma de muestras de mineral en distintos puntos del proceso productivo a través de situar el contexto laboral, la norma y el riesgo: Realizar toma de muestras de mineral en distintos puntos del proceso productivo, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Peligro: la plataforma sin baranda; riesgo: caída de altura
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-exmi-3y4-oae-05.md#cl-15040) · [Clase siguiente →](#cl-15042)
+[← Última clase del OA anterior](tp-exmi-3y4-oae-05.md#cl-15065) · [Clase siguiente →](#cl-15067)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15042}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15067}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar toma de muestras de mineral en distintos puntos del proceso productivo a través de reconocer conceptos, documentos y roles del oficio: Realizar toma de muestras de mineral en distintos puntos del proceso productivo, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 8 muestras
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15041) · [Clase siguiente →](#cl-15043)
+[← Clase anterior](#cl-15066) · [Clase siguiente →](#cl-15068)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15043}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15068}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar toma de muestras de mineral en distintos puntos del proceso productivo a través de analizar un caso de trabajo en papel: Realizar toma de muestras de mineral en distintos puntos del proceso productivo, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 70 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15042) · [Clase siguiente →](#cl-15044)
+[← Clase anterior](#cl-15067) · [Clase siguiente →](#cl-15069)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15044}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar toma de muestras de mineral en distintos puntos del proceso productivo {#cl-15069}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar toma de muestras de mineral en distintos puntos del proceso productivo a través de aplicar un criterio técnico con datos de ejemplo: Realizar toma de muestras de mineral en distintos puntos del proceso productivo, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15043) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-07.md#cl-15045)
+[← Clase anterior](#cl-15068) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-07.md#cl-15070)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

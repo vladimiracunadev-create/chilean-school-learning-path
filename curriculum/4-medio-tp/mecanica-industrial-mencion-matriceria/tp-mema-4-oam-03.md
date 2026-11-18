@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16618) · [Clase 2](#cl-16619) · [Clase 3](#cl-16620) · [Clase 4](#cl-16621)
+**Clases de este OA:** [Clase 1](#cl-16686) · [Clase 2](#cl-16687) · [Clase 3](#cl-16688) · [Clase 4](#cl-16689)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Detectar fallas en matrices y moldes {#cl-16618}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Detectar fallas en matrices y moldes {#cl-16686}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar fallas en matrices y moldes a través de situar el contexto laboral, la norma y el riesgo: Detectar fallas en matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El desgaste es la falla y la rebaba es el defecto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mema-4-oam-02.md#cl-16617) · [Clase siguiente →](#cl-16619)
+[← Última clase del OA anterior](tp-mema-4-oam-02.md#cl-16685) · [Clase siguiente →](#cl-16687)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Detectar fallas en matrices y moldes {#cl-16619}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Detectar fallas en matrices y moldes {#cl-16687}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar fallas en matrices y moldes a través de reconocer conceptos, documentos y roles del oficio: Detectar fallas en matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Un posible problema a investigar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16618) · [Clase siguiente →](#cl-16620)
+[← Clase anterior](#cl-16686) · [Clase siguiente →](#cl-16688)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Detectar fallas en matrices y moldes {#cl-16620}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Detectar fallas en matrices y moldes {#cl-16688}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar fallas en matrices y moldes a través de analizar un caso de trabajo en papel: Detectar fallas en matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 20.000 golpes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16619) · [Clase siguiente →](#cl-16621)
+[← Clase anterior](#cl-16687) · [Clase siguiente →](#cl-16689)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Detectar fallas en matrices y moldes {#cl-16621}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Detectar fallas en matrices y moldes {#cl-16689}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar fallas en matrices y moldes a través de aplicar un criterio técnico con datos de ejemplo: Detectar fallas en matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: Ascendente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16620) · [Primera clase del OA siguiente →](tp-mema-4-oam-04.md#cl-16622)
+[← Clase anterior](#cl-16688) · [Primera clase del OA siguiente →](tp-mema-4-oam-04.md#cl-16690)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

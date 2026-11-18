@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16493) · [Clase 2](#cl-16494) · [Clase 3](#cl-16495) · [Clase 4](#cl-16496)
+**Clases de este OA:** [Clase 1](#cl-16561) · [Clase 2](#cl-16562) · [Clase 3](#cl-16563) · [Clase 4](#cl-16564)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16493}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16561}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar seleccionar y acondicionar las materias primas e insumos (tintas a través de situar el contexto laboral, la norma y el riesgo: Seleccionar y acondicionar las materias primas e insumos (tintas, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: La hoja de datos de seguridad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-graf-3y4-oae-02.md#cl-16492) · [Clase siguiente →](#cl-16494)
+[← Última clase del OA anterior](tp-graf-3y4-oae-02.md#cl-16560) · [Clase siguiente →](#cl-16562)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16494}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16562}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar seleccionar y acondicionar las materias primas e insumos (tintas a través de reconocer conceptos, documentos y roles del oficio: Seleccionar y acondicionar las materias primas e insumos (tintas, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No: conviene una tinta como la UV
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16493) · [Clase siguiente →](#cl-16495)
+[← Clase anterior](#cl-16561) · [Clase siguiente →](#cl-16563)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16495}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16563}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar seleccionar y acondicionar las materias primas e insumos (tintas a través de analizar un caso de trabajo en papel: Seleccionar y acondicionar las materias primas e insumos (tintas, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 40 hojas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16494) · [Clase siguiente →](#cl-16496)
+[← Clase anterior](#cl-16562) · [Clase siguiente →](#cl-16564)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16496}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Seleccionar y acondicionar las materias primas e insumos (tintas {#cl-16564}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar seleccionar y acondicionar las materias primas e insumos (tintas a través de aplicar un criterio técnico con datos de ejemplo: Seleccionar y acondicionar las materias primas e insumos (tintas, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: El que vence en mayo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16495) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-04.md#cl-16497)
+[← Clase anterior](#cl-16563) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-04.md#cl-16565)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

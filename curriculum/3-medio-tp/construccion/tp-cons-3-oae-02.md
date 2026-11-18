@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14818) · [Clase 2](#cl-14819) · [Clase 3](#cl-14820) · [Clase 4](#cl-14821)
+**Clases de este OA:** [Clase 1](#cl-14843) · [Clase 2](#cl-14844) · [Clase 3](#cl-14845) · [Clase 4](#cl-14846)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14818}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14843}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mediciones y controles de verificación de distintas magnitudes para la ejecución a través de situar el contexto laboral, la norma y el riesgo: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 250 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cons-3-oae-01.md#cl-14817) · [Clase siguiente →](#cl-14819)
+[← Última clase del OA anterior](tp-cons-3-oae-01.md#cl-14842) · [Clase siguiente →](#cl-14844)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14819}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14844}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mediciones y controles de verificación de distintas magnitudes para la ejecución a través de reconocer conceptos, documentos y roles del oficio: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14818) · [Clase siguiente →](#cl-14820)
+[← Clase anterior](#cl-14843) · [Clase siguiente →](#cl-14845)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14820}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14845}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mediciones y controles de verificación de distintas magnitudes para la ejecución a través de analizar un caso de trabajo en papel: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 3 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14819) · [Clase siguiente →](#cl-14821)
+[← Clase anterior](#cl-14844) · [Clase siguiente →](#cl-14846)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14821}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución {#cl-14846}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mediciones y controles de verificación de distintas magnitudes para la ejecución a través de aplicar un criterio técnico con datos de ejemplo: Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: Sí, están dentro de la tolerancia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14820) · [Primera clase del OA siguiente →](tp-cons-3-oae-03.md#cl-14822)
+[← Clase anterior](#cl-14845) · [Primera clase del OA siguiente →](tp-cons-3-oae-03.md#cl-14847)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

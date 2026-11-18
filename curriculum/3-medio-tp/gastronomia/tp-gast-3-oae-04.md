@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15112) · [Clase 2](#cl-15113) · [Clase 3](#cl-15114) · [Clase 4](#cl-15115) · [Clase 5](#cl-15116)
+**Clases de este OA:** [Clase 1](#cl-15137) · [Clase 2](#cl-15138) · [Clase 3](#cl-15139) · [Clase 4](#cl-15140) · [Clase 5](#cl-15141)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ordenar, organizar y disponer los productos intermedios {#cl-15112}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ordenar, organizar y disponer los productos intermedios {#cl-15137}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar, organizar y disponer los productos intermedios a través de situar el contexto laboral, la norma y el riesgo: Ordenar, organizar y disponer los productos intermedios, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Una característica organoléptica
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gast-3-oae-03.md#cl-15111) · [Clase siguiente →](#cl-15113)
+[← Última clase del OA anterior](tp-gast-3-oae-03.md#cl-15136) · [Clase siguiente →](#cl-15138)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ordenar, organizar y disponer los productos intermedios {#cl-15113}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ordenar, organizar y disponer los productos intermedios {#cl-15138}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar, organizar y disponer los productos intermedios a través de reconocer conceptos, documentos y roles del oficio: Ordenar, organizar y disponer los productos intermedios, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: En el estante inferior
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15112) · [Clase siguiente →](#cl-15114)
+[← Clase anterior](#cl-15137) · [Clase siguiente →](#cl-15139)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ordenar, organizar y disponer los productos intermedios {#cl-15114}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ordenar, organizar y disponer los productos intermedios {#cl-15139}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar, organizar y disponer los productos intermedios a través de analizar un caso de trabajo en papel: Ordenar, organizar y disponer los productos intermedios, con una experiencia disciplinar específica, segura y revisable.
@@ -663,9 +663,9 @@ Respuesta: El del día 9
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15113) · [Clase siguiente →](#cl-15115)
+[← Clase anterior](#cl-15138) · [Clase siguiente →](#cl-15140)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ordenar, organizar y disponer los productos intermedios {#cl-15115}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ordenar, organizar y disponer los productos intermedios {#cl-15140}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar, organizar y disponer los productos intermedios a través de aplicar un criterio técnico con datos de ejemplo: Ordenar, organizar y disponer los productos intermedios, con una experiencia disciplinar específica, segura y revisable.
@@ -871,9 +871,9 @@ Respuesta: Servicio a la mesa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15114) · [Clase siguiente →](#cl-15116)
+[← Clase anterior](#cl-15139) · [Clase siguiente →](#cl-15141)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ordenar, organizar y disponer los productos intermedios {#cl-15116}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ordenar, organizar y disponer los productos intermedios {#cl-15141}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar, organizar y disponer los productos intermedios a través de comparar alternativas y verificar la calidad: Ordenar, organizar y disponer los productos intermedios, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: No se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15115)
+[← Clase anterior](#cl-15140)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

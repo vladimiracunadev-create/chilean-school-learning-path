@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16465) · [Clase 2](#cl-16466) · [Clase 3](#cl-16467) · [Clase 4](#cl-16468)
+**Clases de este OA:** [Clase 1](#cl-16533) · [Clase 2](#cl-16534) · [Clase 3](#cl-16535) · [Clase 4](#cl-16536)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16465}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16533}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos a través de situar el contexto laboral, la norma y el riesgo: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 72 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16466)
+[Clase siguiente →](#cl-16534)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16466}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16534}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos a través de reconocer conceptos, documentos y roles del oficio: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: Por 3
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16465) · [Clase siguiente →](#cl-16467)
+[← Clase anterior](#cl-16533) · [Clase siguiente →](#cl-16535)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16467}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16535}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos a través de analizar un caso de trabajo en papel: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 4
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16466) · [Clase siguiente →](#cl-16468)
+[← Clase anterior](#cl-16534) · [Clase siguiente →](#cl-16536)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16468}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos {#cl-16536}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos a través de aplicar un criterio técnico con datos de ejemplo: Elaborar masas y pastas para la obtención de productos de pastelería y repostería básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: 45 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16467) · [Primera clase del OA siguiente →](tp-gapr-4-oam-02.md#cl-16469)
+[← Clase anterior](#cl-16535) · [Primera clase del OA siguiente →](tp-gapr-4-oam-02.md#cl-16537)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

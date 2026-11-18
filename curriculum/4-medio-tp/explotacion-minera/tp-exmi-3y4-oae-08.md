@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16394) · [Clase 2](#cl-16395) · [Clase 3](#cl-16396) · [Clase 4](#cl-16397) · [Clase 5](#cl-16398)
+**Clases de este OA:** [Clase 1](#cl-16462) · [Clase 2](#cl-16463) · [Clase 3](#cl-16464) · [Clase 4](#cl-16465) · [Clase 5](#cl-16466)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de chancado primario de minerales {#cl-16394}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de chancado primario de minerales {#cl-16462}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de chancado primario de minerales a través de situar el contexto laboral, la norma y el riesgo: Ejecutar labores de chancado primario de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Peligro: el peldaño que falta; riesgo: que una persona caiga
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-exmi-3y4-oae-07.md#cl-16393) · [Clase siguiente →](#cl-16395)
+[← Última clase del OA anterior](tp-exmi-3y4-oae-07.md#cl-16461) · [Clase siguiente →](#cl-16463)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de chancado primario de minerales {#cl-16395}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de chancado primario de minerales {#cl-16463}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de chancado primario de minerales a través de reconocer conceptos, documentos y roles del oficio: Ejecutar labores de chancado primario de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: La alarma se activa y se informa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16394) · [Clase siguiente →](#cl-16396)
+[← Clase anterior](#cl-16462) · [Clase siguiente →](#cl-16464)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar labores de chancado primario de minerales {#cl-16396}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar labores de chancado primario de minerales {#cl-16464}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de chancado primario de minerales a través de analizar un caso de trabajo en papel: Ejecutar labores de chancado primario de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16395) · [Clase siguiente →](#cl-16397)
+[← Clase anterior](#cl-16463) · [Clase siguiente →](#cl-16465)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de chancado primario de minerales {#cl-16397}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de chancado primario de minerales {#cl-16465}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de chancado primario de minerales a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de chancado primario de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16396) · [Clase siguiente →](#cl-16398)
+[← Clase anterior](#cl-16464) · [Clase siguiente →](#cl-16466)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar labores de chancado primario de minerales {#cl-16398}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar labores de chancado primario de minerales {#cl-16466}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de chancado primario de minerales a través de comparar alternativas y verificar la calidad: Ejecutar labores de chancado primario de minerales, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 800 t/h
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16397)
+[← Clase anterior](#cl-16465)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

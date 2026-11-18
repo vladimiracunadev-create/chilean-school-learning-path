@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15840) · [Clase 2](#cl-15841) · [Clase 3](#cl-15842) · [Clase 4](#cl-15843) · [Clase 5](#cl-15844)
+**Clases de este OA:** [Clase 1](#cl-15865) · [Clase 2](#cl-15866) · [Clase 3](#cl-15867) · [Clase 4](#cl-15868) · [Clase 5](#cl-15869)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15840}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15865}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, sistematizar y analizar información obtenida en los distintos procesos a través de situar el contexto laboral, la norma y el riesgo: Registrar, sistematizar y analizar información obtenida en los distintos procesos, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-acui-3y4-oae-06.md#cl-15839) · [Clase siguiente →](#cl-15841)
+[← Última clase del OA anterior](tp-acui-3y4-oae-06.md#cl-15864) · [Clase siguiente →](#cl-15866)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15841}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15866}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, sistematizar y analizar información obtenida en los distintos procesos a través de reconocer conceptos, documentos y roles del oficio: Registrar, sistematizar y analizar información obtenida en los distintos procesos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 96 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15840) · [Clase siguiente →](#cl-15842)
+[← Clase anterior](#cl-15865) · [Clase siguiente →](#cl-15867)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15842}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15867}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, sistematizar y analizar información obtenida en los distintos procesos a través de analizar un caso de trabajo en papel: Registrar, sistematizar y analizar información obtenida en los distintos procesos, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 2
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15841) · [Clase siguiente →](#cl-15843)
+[← Clase anterior](#cl-15866) · [Clase siguiente →](#cl-15868)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15843}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15868}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, sistematizar y analizar información obtenida en los distintos procesos a través de aplicar un criterio técnico con datos de ejemplo: Registrar, sistematizar y analizar información obtenida en los distintos procesos, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 20 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15842) · [Clase siguiente →](#cl-15844)
+[← Clase anterior](#cl-15867) · [Clase siguiente →](#cl-15869)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15844}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Registrar, sistematizar y analizar información obtenida en los distintos procesos {#cl-15869}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, sistematizar y analizar información obtenida en los distintos procesos a través de comparar alternativas y verificar la calidad: Registrar, sistematizar y analizar información obtenida en los distintos procesos, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 10 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15843) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-08.md#cl-15845)
+[← Clase anterior](#cl-15868) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-08.md#cl-15870)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

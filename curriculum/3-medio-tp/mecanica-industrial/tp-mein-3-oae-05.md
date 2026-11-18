@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15235) · [Clase 2](#cl-15236) · [Clase 3](#cl-15237) · [Clase 4](#cl-15238)
+**Clases de este OA:** [Clase 1](#cl-15260) · [Clase 2](#cl-15261) · [Clase 3](#cl-15262) · [Clase 4](#cl-15263)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar trabajos de sujeción {#cl-15235}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar trabajos de sujeción {#cl-15260}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar trabajos de sujeción a través de situar el contexto laboral, la norma y el riesgo: Realizar trabajos de sujeción, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No, se separan
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mein-3-oae-04.md#cl-15234) · [Clase siguiente →](#cl-15236)
+[← Última clase del OA anterior](tp-mein-3-oae-04.md#cl-15259) · [Clase siguiente →](#cl-15261)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar trabajos de sujeción {#cl-15236}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar trabajos de sujeción {#cl-15261}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar trabajos de sujeción a través de reconocer conceptos, documentos y roles del oficio: Realizar trabajos de sujeción, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El de grano 400
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15235) · [Clase siguiente →](#cl-15237)
+[← Clase anterior](#cl-15260) · [Clase siguiente →](#cl-15262)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar trabajos de sujeción {#cl-15237}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar trabajos de sujeción {#cl-15262}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar trabajos de sujeción a través de analizar un caso de trabajo en papel: Realizar trabajos de sujeción, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Indeterminado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15236) · [Clase siguiente →](#cl-15238)
+[← Clase anterior](#cl-15261) · [Clase siguiente →](#cl-15263)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar trabajos de sujeción {#cl-15238}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar trabajos de sujeción {#cl-15263}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar trabajos de sujeción a través de aplicar un criterio técnico con datos de ejemplo: Realizar trabajos de sujeción, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 5 discos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15237) · [Primera clase del OA siguiente →](tp-mein-3-oae-06.md#cl-15239)
+[← Clase anterior](#cl-15262) · [Primera clase del OA siguiente →](tp-mein-3-oae-06.md#cl-15264)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

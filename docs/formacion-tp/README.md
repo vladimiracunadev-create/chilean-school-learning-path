@@ -54,6 +54,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Química e Industria** | | | | |
 | Química Industrial | alto | 13 | 61 | [📘 Leer guía](quimica-industrial.md) |
 | **Salud y Educación** | | | | |
+| Atención de Enfermería | alto | 15 | 68 | [📘 Leer guía](atencion-de-enfermeria.md) |
 | Atención de Párvulos | medio | 10 | 86 | [📘 Leer guía](atencion-de-parvulos.md) |
 | **Tecnología y Comunicaciones** | | | | |
 | Conectividad y Redes | bajo | 11 | 88 | [📘 Leer guía](conectividad-y-redes.md) |
@@ -62,7 +63,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **367** | **2677** | |
+| **Total publicado** | | **382** | **2745** | |
 
 ## Lo que no cubren
 

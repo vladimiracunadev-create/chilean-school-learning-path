@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16704) · [Clase 2](#cl-16705) · [Clase 3](#cl-16706) · [Clase 4](#cl-16707)
+**Clases de este OA:** [Clase 1](#cl-16772) · [Clase 2](#cl-16773) · [Clase 3](#cl-16774) · [Clase 4](#cl-16775)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de fundición {#cl-16704}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de fundición {#cl-16772}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de fundición a través de situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de fundición, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Tostación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mete-3y4-oae-03.md#cl-16703) · [Clase siguiente →](#cl-16705)
+[← Última clase del OA anterior](tp-mete-3y4-oae-03.md#cl-16771) · [Clase siguiente →](#cl-16773)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de fundición {#cl-16705}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de fundición {#cl-16773}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de fundición a través de reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de fundición, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16704) · [Clase siguiente →](#cl-16706)
+[← Clase anterior](#cl-16772) · [Clase siguiente →](#cl-16774)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar técnicas de fundición {#cl-16706}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar técnicas de fundición {#cl-16774}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de fundición a través de analizar un caso de trabajo en papel: Aplicar técnicas de fundición, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16705) · [Clase siguiente →](#cl-16707)
+[← Clase anterior](#cl-16773) · [Clase siguiente →](#cl-16775)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de fundición {#cl-16707}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de fundición {#cl-16775}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de fundición a través de aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de fundición, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: $29.400.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16706) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-05.md#cl-16708)
+[← Clase anterior](#cl-16774) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-05.md#cl-16776)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

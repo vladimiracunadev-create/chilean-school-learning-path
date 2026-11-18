@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16587) · [Clase 2](#cl-16588) · [Clase 3](#cl-16589) · [Clase 4](#cl-16590)
+**Clases de este OA:** [Clase 1](#cl-16655) · [Clase 2](#cl-16656) · [Clase 3](#cl-16657) · [Clase 4](#cl-16658)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento preventivo de la máquina {#cl-16587}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento preventivo de la máquina {#cl-16655}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento preventivo de la máquina a través de situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento preventivo de la máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16588)
+[Clase siguiente →](#cl-16656)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento preventivo de la máquina {#cl-16588}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento preventivo de la máquina {#cl-16656}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento preventivo de la máquina a través de reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento preventivo de la máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Sí, está vencida por 100 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16587) · [Clase siguiente →](#cl-16589)
+[← Clase anterior](#cl-16655) · [Clase siguiente →](#cl-16657)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento preventivo de la máquina {#cl-16589}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento preventivo de la máquina {#cl-16657}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento preventivo de la máquina a través de analizar un caso de trabajo en papel: Realizar mantenimiento preventivo de la máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Sube
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16588) · [Clase siguiente →](#cl-16590)
+[← Clase anterior](#cl-16656) · [Clase siguiente →](#cl-16658)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento preventivo de la máquina {#cl-16590}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento preventivo de la máquina {#cl-16658}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento preventivo de la máquina a través de aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento preventivo de la máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 180 horas-técnico
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16589) · [Primera clase del OA siguiente →](tp-meel-4-oam-02.md#cl-16591)
+[← Clase anterior](#cl-16657) · [Primera clase del OA siguiente →](tp-meel-4-oam-02.md#cl-16659)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

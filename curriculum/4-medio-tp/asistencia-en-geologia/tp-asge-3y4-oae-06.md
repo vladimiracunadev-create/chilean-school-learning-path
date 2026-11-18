@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15981) · [Clase 2](#cl-15982) · [Clase 3](#cl-15983) · [Clase 4](#cl-15984)
+**Clases de este OA:** [Clase 1](#cl-16006) · [Clase 2](#cl-16007) · [Clase 3](#cl-16008) · [Clase 4](#cl-16009)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-15981}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-16006}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de a través de situar el contexto laboral, la norma y el riesgo: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-asge-3y4-oae-05.md#cl-15980) · [Clase siguiente →](#cl-15982)
+[← Última clase del OA anterior](tp-asge-3y4-oae-05.md#cl-16005) · [Clase siguiente →](#cl-16007)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-15982}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-16007}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de a través de reconocer conceptos, documentos y roles del oficio: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Son minerales diferentes, aunque se vean del mismo color
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15981) · [Clase siguiente →](#cl-15983)
+[← Clase anterior](#cl-16006) · [Clase siguiente →](#cl-16008)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-15983}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-16008}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de a través de analizar un caso de trabajo en papel: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Reobservar y consultar; no dejar «galena»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15982) · [Clase siguiente →](#cl-15984)
+[← Clase anterior](#cl-16007) · [Clase siguiente →](#cl-16009)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-15984}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de {#cl-16009}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de a través de aplicar un criterio técnico con datos de ejemplo: Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Clase media
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15983) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-07.md#cl-15985)
+[← Clase anterior](#cl-16008) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-07.md#cl-16010)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

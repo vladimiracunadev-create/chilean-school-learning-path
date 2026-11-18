@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16506) · [Clase 2](#cl-16507) · [Clase 3](#cl-16508) · [Clase 4](#cl-16509)
+**Clases de este OA:** [Clase 1](#cl-16574) · [Clase 2](#cl-16575) · [Clase 3](#cl-16576) · [Clase 4](#cl-16577)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar la postimpresión de los productos {#cl-16506}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar la postimpresión de los productos {#cl-16574}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la postimpresión de los productos a través de situar el contexto laboral, la norma y el riesgo: Realizar la postimpresión de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 9 cajas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-graf-3y4-oae-05.md#cl-16505) · [Clase siguiente →](#cl-16507)
+[← Última clase del OA anterior](tp-graf-3y4-oae-05.md#cl-16573) · [Clase siguiente →](#cl-16575)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar la postimpresión de los productos {#cl-16507}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar la postimpresión de los productos {#cl-16575}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la postimpresión de los productos a través de reconocer conceptos, documentos y roles del oficio: Realizar la postimpresión de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Corchete
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16506) · [Clase siguiente →](#cl-16508)
+[← Clase anterior](#cl-16574) · [Clase siguiente →](#cl-16576)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar la postimpresión de los productos {#cl-16508}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar la postimpresión de los productos {#cl-16576}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la postimpresión de los productos a través de analizar un caso de trabajo en papel: Realizar la postimpresión de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 24 hojas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16507) · [Clase siguiente →](#cl-16509)
+[← Clase anterior](#cl-16575) · [Clase siguiente →](#cl-16577)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar la postimpresión de los productos {#cl-16509}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar la postimpresión de los productos {#cl-16577}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la postimpresión de los productos a través de aplicar un criterio técnico con datos de ejemplo: Realizar la postimpresión de los productos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16508) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-07.md#cl-16510)
+[← Clase anterior](#cl-16576) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-07.md#cl-16578)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

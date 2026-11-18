@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16826) · [Clase 2](#cl-16827) · [Clase 3](#cl-16828) · [Clase 4](#cl-16829)
+**Clases de este OA:** [Clase 1](#cl-16894) · [Clase 2](#cl-16895) · [Clase 3](#cl-16896) · [Clase 4](#cl-16897)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tratar con respeto a subordinados {#cl-16826}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tratar con respeto a subordinados {#cl-16894}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tratar con respeto a subordinados a través de situar el contexto laboral, la norma y el riesgo: Tratar con respeto a subordinados, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 18 postulaciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-04.md#cl-16825) · [Clase siguiente →](#cl-16827)
+[← Última clase del OA anterior](tp-gene-3y4-oag-04.md#cl-16893) · [Clase siguiente →](#cl-16895)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tratar con respeto a subordinados {#cl-16827}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tratar con respeto a subordinados {#cl-16895}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tratar con respeto a subordinados a través de reconocer conceptos, documentos y roles del oficio: Tratar con respeto a subordinados, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 45 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16826) · [Clase siguiente →](#cl-16828)
+[← Clase anterior](#cl-16894) · [Clase siguiente →](#cl-16896)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Tratar con respeto a subordinados {#cl-16828}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Tratar con respeto a subordinados {#cl-16896}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tratar con respeto a subordinados a través de analizar un caso de trabajo en papel: Tratar con respeto a subordinados, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 12 mensajes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16827) · [Clase siguiente →](#cl-16829)
+[← Clase anterior](#cl-16895) · [Clase siguiente →](#cl-16897)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tratar con respeto a subordinados {#cl-16829}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tratar con respeto a subordinados {#cl-16897}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tratar con respeto a subordinados a través de aplicar un criterio técnico con datos de ejemplo: Tratar con respeto a subordinados, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 11 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16828) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-06.md#cl-16830)
+[← Clase anterior](#cl-16896) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-06.md#cl-16898)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

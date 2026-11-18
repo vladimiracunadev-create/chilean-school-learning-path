@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15189) · [Clase 2](#cl-15190) · [Clase 3](#cl-15191) · [Clase 4](#cl-15192)
+**Clases de este OA:** [Clase 1](#cl-15214) · [Clase 2](#cl-15215) · [Clase 3](#cl-15216) · [Clase 4](#cl-15217)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar la información contenida en manuales técnicos {#cl-15189}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar la información contenida en manuales técnicos {#cl-15214}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar la información contenida en manuales técnicos a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar la información contenida en manuales técnicos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No le corresponde
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meau-3y4-oae-01.md#cl-15188) · [Clase siguiente →](#cl-15190)
+[← Última clase del OA anterior](tp-meau-3y4-oae-01.md#cl-15213) · [Clase siguiente →](#cl-15215)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar la información contenida en manuales técnicos {#cl-15190}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar la información contenida en manuales técnicos {#cl-15215}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar la información contenida en manuales técnicos a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar la información contenida en manuales técnicos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: LAM queda sin corriente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15189) · [Clase siguiente →](#cl-15191)
+[← Clase anterior](#cl-15214) · [Clase siguiente →](#cl-15216)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar la información contenida en manuales técnicos {#cl-15191}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar la información contenida en manuales técnicos {#cl-15216}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar la información contenida en manuales técnicos a través de analizar un caso de trabajo en papel: Leer y utilizar la información contenida en manuales técnicos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Lo supera en 2 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15190) · [Clase siguiente →](#cl-15192)
+[← Clase anterior](#cl-15215) · [Clase siguiente →](#cl-15217)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar la información contenida en manuales técnicos {#cl-15192}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar la información contenida en manuales técnicos {#cl-15217}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar la información contenida en manuales técnicos a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar la información contenida en manuales técnicos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 18 L
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15191) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-03.md#cl-15193)
+[← Clase anterior](#cl-15216) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-03.md#cl-15218)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

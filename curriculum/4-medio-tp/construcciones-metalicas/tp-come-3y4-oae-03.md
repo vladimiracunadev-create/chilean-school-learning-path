@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16088) · [Clase 2](#cl-16089) · [Clase 3](#cl-16090) · [Clase 4](#cl-16091) · [Clase 5](#cl-16092)
+**Clases de este OA:** [Clase 1](#cl-16156) · [Clase 2](#cl-16157) · [Clase 3](#cl-16158) · [Clase 4](#cl-16159) · [Clase 5](#cl-16160)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16088}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16156}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 12 permisos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-come-3y4-oae-02.md#cl-16087) · [Clase siguiente →](#cl-16089)
+[← Última clase del OA anterior](tp-come-3y4-oae-02.md#cl-16155) · [Clase siguiente →](#cl-16157)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16089}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16157}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 40 pernos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16088) · [Clase siguiente →](#cl-16090)
+[← Clase anterior](#cl-16156) · [Clase siguiente →](#cl-16158)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16090}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16158}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 600 g
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16089) · [Clase siguiente →](#cl-16091)
+[← Clase anterior](#cl-16157) · [Clase siguiente →](#cl-16159)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16091}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16159}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: $30.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16090) · [Clase siguiente →](#cl-16092)
+[← Clase anterior](#cl-16158) · [Clase siguiente →](#cl-16160)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16092}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-16160}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Se rechaza
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16091) · [Primera clase del OA siguiente →](tp-come-3y4-oae-04.md#cl-16093)
+[← Clase anterior](#cl-16159) · [Primera clase del OA siguiente →](tp-come-3y4-oae-04.md#cl-16161)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

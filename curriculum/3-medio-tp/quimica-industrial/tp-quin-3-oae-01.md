@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15556) · [Clase 2](#cl-15557) · [Clase 3](#cl-15558) · [Clase 4](#cl-15559) · [Clase 5](#cl-15560)
+**Clases de este OA:** [Clase 1](#cl-15581) · [Clase 2](#cl-15582) · [Clase 3](#cl-15583) · [Clase 4](#cl-15584) · [Clase 5](#cl-15585)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ordenar y disponer materias primas {#cl-15556}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ordenar y disponer materias primas {#cl-15581}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar y disponer materias primas a través de situar el contexto laboral, la norma y el riesgo: Ordenar y disponer materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: 10 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15557)
+[Clase siguiente →](#cl-15582)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ordenar y disponer materias primas {#cl-15557}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ordenar y disponer materias primas {#cl-15582}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar y disponer materias primas a través de reconocer conceptos, documentos y roles del oficio: Ordenar y disponer materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15556) · [Clase siguiente →](#cl-15558)
+[← Clase anterior](#cl-15581) · [Clase siguiente →](#cl-15583)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ordenar y disponer materias primas {#cl-15558}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ordenar y disponer materias primas {#cl-15583}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar y disponer materias primas a través de analizar un caso de trabajo en papel: Ordenar y disponer materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Sí, está permitido
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15557) · [Clase siguiente →](#cl-15559)
+[← Clase anterior](#cl-15582) · [Clase siguiente →](#cl-15584)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ordenar y disponer materias primas {#cl-15559}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ordenar y disponer materias primas {#cl-15584}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar y disponer materias primas a través de aplicar un criterio técnico con datos de ejemplo: Ordenar y disponer materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -877,9 +877,9 @@ Respuesta: El lote X
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15558) · [Clase siguiente →](#cl-15560)
+[← Clase anterior](#cl-15583) · [Clase siguiente →](#cl-15585)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ordenar y disponer materias primas {#cl-15560}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ordenar y disponer materias primas {#cl-15585}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ordenar y disponer materias primas a través de comparar alternativas y verificar la calidad: Ordenar y disponer materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -1085,7 +1085,7 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15559) · [Primera clase del OA siguiente →](tp-quin-3-oae-02.md#cl-15561)
+[← Clase anterior](#cl-15584) · [Primera clase del OA siguiente →](tp-quin-3-oae-02.md#cl-15586)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

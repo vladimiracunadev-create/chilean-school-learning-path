@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15771) · [Clase 2](#cl-15772) · [Clase 3](#cl-15773) · [Clase 4](#cl-15774) · [Clase 5](#cl-15775)
+**Clases de este OA:** [Clase 1](#cl-15796) · [Clase 2](#cl-15797) · [Clase 3](#cl-15798) · [Clase 4](#cl-15799) · [Clase 5](#cl-15800)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Utilizar técnicas de supervivencia en el mar {#cl-15771}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Utilizar técnicas de supervivencia en el mar {#cl-15796}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar técnicas de supervivencia en el mar a través de situar el contexto laboral, la norma y el riesgo: Utilizar técnicas de supervivencia en el mar, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Mantiene la calma, sigue las indicaciones de un adulto responsable y 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-trnm-3y4-oae-07.md#cl-15770) · [Clase siguiente →](#cl-15772)
+[← Última clase del OA anterior](tp-trnm-3y4-oae-07.md#cl-15795) · [Clase siguiente →](#cl-15797)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Utilizar técnicas de supervivencia en el mar {#cl-15772}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Utilizar técnicas de supervivencia en el mar {#cl-15797}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar técnicas de supervivencia en el mar a través de reconocer conceptos, documentos y roles del oficio: Utilizar técnicas de supervivencia en el mar, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Combustible y calor
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15771) · [Clase siguiente →](#cl-15773)
+[← Clase anterior](#cl-15796) · [Clase siguiente →](#cl-15798)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Utilizar técnicas de supervivencia en el mar {#cl-15773}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Utilizar técnicas de supervivencia en el mar {#cl-15798}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar técnicas de supervivencia en el mar a través de analizar un caso de trabajo en papel: Utilizar técnicas de supervivencia en el mar, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Informar al oficial a cargo con su número y su punto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15772) · [Clase siguiente →](#cl-15774)
+[← Clase anterior](#cl-15797) · [Clase siguiente →](#cl-15799)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Utilizar técnicas de supervivencia en el mar {#cl-15774}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Utilizar técnicas de supervivencia en el mar {#cl-15799}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar técnicas de supervivencia en el mar a través de aplicar un criterio técnico con datos de ejemplo: Utilizar técnicas de supervivencia en el mar, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 17 chalecos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15773) · [Clase siguiente →](#cl-15775)
+[← Clase anterior](#cl-15798) · [Clase siguiente →](#cl-15800)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Utilizar técnicas de supervivencia en el mar {#cl-15775}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Utilizar técnicas de supervivencia en el mar {#cl-15800}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar técnicas de supervivencia en el mar a través de comparar alternativas y verificar la calidad: Utilizar técnicas de supervivencia en el mar, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15774) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-09.md#cl-15776)
+[← Clase anterior](#cl-15799) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-09.md#cl-15801)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

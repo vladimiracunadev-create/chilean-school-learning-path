@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16351) · [Clase 2](#cl-16352) · [Clase 3](#cl-16353) · [Clase 4](#cl-16354)
+**Clases de este OA:** [Clase 1](#cl-16419) · [Clase 2](#cl-16420) · [Clase 3](#cl-16421) · [Clase 4](#cl-16422)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener preventiva y correctivamente equipos {#cl-16351}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener preventiva y correctivamente equipos {#cl-16419}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener preventiva y correctivamente equipos a través de situar el contexto laboral, la norma y el riesgo: Mantener preventiva y correctivamente equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 6 inspecciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eltr-3y4-oae-04.md#cl-16350) · [Clase siguiente →](#cl-16352)
+[← Última clase del OA anterior](tp-eltr-3y4-oae-04.md#cl-16418) · [Clase siguiente →](#cl-16420)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener preventiva y correctivamente equipos {#cl-16352}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener preventiva y correctivamente equipos {#cl-16420}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener preventiva y correctivamente equipos a través de reconocer conceptos, documentos y roles del oficio: Mantener preventiva y correctivamente equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: 9 fusibles
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16351) · [Clase siguiente →](#cl-16353)
+[← Clase anterior](#cl-16419) · [Clase siguiente →](#cl-16421)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener preventiva y correctivamente equipos {#cl-16353}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener preventiva y correctivamente equipos {#cl-16421}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener preventiva y correctivamente equipos a través de analizar un caso de trabajo en papel: Mantener preventiva y correctivamente equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16352) · [Clase siguiente →](#cl-16354)
+[← Clase anterior](#cl-16420) · [Clase siguiente →](#cl-16422)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener preventiva y correctivamente equipos {#cl-16354}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener preventiva y correctivamente equipos {#cl-16422}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener preventiva y correctivamente equipos a través de aplicar un criterio técnico con datos de ejemplo: Mantener preventiva y correctivamente equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: El de riesgo alto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16353) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-06.md#cl-16355)
+[← Clase anterior](#cl-16421) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-06.md#cl-16423)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

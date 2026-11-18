@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15907) · [Clase 2](#cl-15908) · [Clase 3](#cl-15909) · [Clase 4](#cl-15910)
+**Clases de este OA:** [Clase 1](#cl-15932) · [Clase 2](#cl-15933) · [Clase 3](#cl-15934) · [Clase 4](#cl-15935)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15907}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15932}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de a través de situar el contexto laboral, la norma y el riesgo: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15908)
+[Clase siguiente →](#cl-15933)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15908}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15933}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de a través de reconocer conceptos, documentos y roles del oficio: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 3 aves por m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15907) · [Clase siguiente →](#cl-15909)
+[← Clase anterior](#cl-15932) · [Clase siguiente →](#cl-15934)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15909}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15934}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de a través de analizar un caso de trabajo en papel: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Más amoníaco y más riesgo de enfermedades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15908) · [Clase siguiente →](#cl-15910)
+[← Clase anterior](#cl-15933) · [Clase siguiente →](#cl-15935)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15910}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de {#cl-15935}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de a través de aplicar un criterio técnico con datos de ejemplo: Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 3 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15909) · [Primera clase del OA siguiente →](tp-agpe-4-oam-02.md#cl-15911)
+[← Clase anterior](#cl-15934) · [Primera clase del OA siguiente →](tp-agpe-4-oam-02.md#cl-15936)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

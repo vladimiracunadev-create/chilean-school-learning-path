@@ -298,6 +298,7 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Explotación Minera** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/explotacion-minera.md).
 - **Metalurgia Extractiva** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/metalurgia-extractiva.md).
 - **Química Industrial** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/quimica-industrial.md).
+- **Atención de Enfermería** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/atencion-de-enfermeria.md).
 - **Atención de Párvulos** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/atencion-de-parvulos.md).
 - **Conectividad y Redes** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/conectividad-y-redes.md).
 - **Programación** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/programacion.md).

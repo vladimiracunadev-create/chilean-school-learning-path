@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15160) · [Clase 2](#cl-15161) · [Clase 3](#cl-15162) · [Clase 4](#cl-15163) · [Clase 5](#cl-15164)
+**Clases de este OA:** [Clase 1](#cl-15185) · [Clase 2](#cl-15186) · [Clase 3](#cl-15187) · [Clase 4](#cl-15188) · [Clase 5](#cl-15189)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15160}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15185}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión a través de situar el contexto laboral, la norma y el riesgo: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 15 artefactos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-insa-3y4-oae-03.md#cl-15159) · [Clase siguiente →](#cl-15161)
+[← Última clase del OA anterior](tp-insa-3y4-oae-03.md#cl-15184) · [Clase siguiente →](#cl-15186)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15161}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15186}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión a través de reconocer conceptos, documentos y roles del oficio: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Sí, cumple con 3 kW de margen
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15160) · [Clase siguiente →](#cl-15162)
+[← Clase anterior](#cl-15185) · [Clase siguiente →](#cl-15187)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15162}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15187}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión a través de analizar un caso de trabajo en papel: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 2 kW de diferencia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15161) · [Clase siguiente →](#cl-15163)
+[← Clase anterior](#cl-15186) · [Clase siguiente →](#cl-15188)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15163}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15188}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión a través de aplicar un criterio técnico con datos de ejemplo: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: Sí, cumple con 8 kW de margen
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15162) · [Clase siguiente →](#cl-15164)
+[← Clase anterior](#cl-15187) · [Clase siguiente →](#cl-15189)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15164}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión {#cl-15189}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión a través de comparar alternativas y verificar la calidad: Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: $40.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15163) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-05.md#cl-15165)
+[← Clase anterior](#cl-15188) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-05.md#cl-15190)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

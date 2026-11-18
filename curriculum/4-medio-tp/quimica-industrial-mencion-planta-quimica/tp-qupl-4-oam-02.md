@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16994) · [Clase 2](#cl-16995) · [Clase 3](#cl-16996) · [Clase 4](#cl-16997)
+**Clases de este OA:** [Clase 1](#cl-17062) · [Clase 2](#cl-17063) · [Clase 3](#cl-17064) · [Clase 4](#cl-17065)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar y rotular muestras de productos intermedios o finales {#cl-16994}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar y rotular muestras de productos intermedios o finales {#cl-17062}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar y rotular muestras de productos intermedios o finales a través de situar el contexto laboral, la norma y el riesgo: Tomar y rotular muestras de productos intermedios o finales, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 8 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-qupl-4-oam-01.md#cl-16993) · [Clase siguiente →](#cl-16995)
+[← Última clase del OA anterior](tp-qupl-4-oam-01.md#cl-17061) · [Clase siguiente →](#cl-17063)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar y rotular muestras de productos intermedios o finales {#cl-16995}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar y rotular muestras de productos intermedios o finales {#cl-17063}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar y rotular muestras de productos intermedios o finales a través de reconocer conceptos, documentos y roles del oficio: Tomar y rotular muestras de productos intermedios o finales, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16994) · [Clase siguiente →](#cl-16996)
+[← Clase anterior](#cl-17062) · [Clase siguiente →](#cl-17064)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar y rotular muestras de productos intermedios o finales {#cl-16996}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar y rotular muestras de productos intermedios o finales {#cl-17064}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar y rotular muestras de productos intermedios o finales a través de analizar un caso de trabajo en papel: Tomar y rotular muestras de productos intermedios o finales, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: La del lote equivocado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16995) · [Clase siguiente →](#cl-16997)
+[← Clase anterior](#cl-17063) · [Clase siguiente →](#cl-17065)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar y rotular muestras de productos intermedios o finales {#cl-16997}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar y rotular muestras de productos intermedios o finales {#cl-17065}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar y rotular muestras de productos intermedios o finales a través de aplicar un criterio técnico con datos de ejemplo: Tomar y rotular muestras de productos intermedios o finales, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 3 estantes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16996) · [Primera clase del OA siguiente →](tp-qupl-4-oam-03.md#cl-16998)
+[← Clase anterior](#cl-17064) · [Primera clase del OA siguiente →](tp-qupl-4-oam-03.md#cl-17066)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15133) · [Clase 2](#cl-15134) · [Clase 3](#cl-15135) · [Clase 4](#cl-15136) · [Clase 5](#cl-15137)
+**Clases de este OA:** [Clase 1](#cl-15158) · [Clase 2](#cl-15159) · [Clase 3](#cl-15160) · [Clase 4](#cl-15161) · [Clase 5](#cl-15162)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar la impresión del producto {#cl-15133}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar la impresión del producto {#cl-15158}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la impresión del producto a través de situar el contexto laboral, la norma y el riesgo: Realizar la impresión del producto, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: En un contenedor rotulado y cerrado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-graf-3y4-oae-04.md#cl-15132) · [Clase siguiente →](#cl-15134)
+[← Última clase del OA anterior](tp-graf-3y4-oae-04.md#cl-15157) · [Clase siguiente →](#cl-15159)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar la impresión del producto {#cl-15134}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar la impresión del producto {#cl-15159}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la impresión del producto a través de reconocer conceptos, documentos y roles del oficio: Realizar la impresión del producto, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Calce deficiente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15133) · [Clase siguiente →](#cl-15135)
+[← Clase anterior](#cl-15158) · [Clase siguiente →](#cl-15160)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar la impresión del producto {#cl-15135}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar la impresión del producto {#cl-15160}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la impresión del producto a través de analizar un caso de trabajo en papel: Realizar la impresión del producto, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 300 pliegos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15134) · [Clase siguiente →](#cl-15136)
+[← Clase anterior](#cl-15159) · [Clase siguiente →](#cl-15161)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar la impresión del producto {#cl-15136}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar la impresión del producto {#cl-15161}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la impresión del producto a través de aplicar un criterio técnico con datos de ejemplo: Realizar la impresión del producto, con una experiencia disciplinar específica, segura y revisable.
@@ -870,9 +870,9 @@ Respuesta: 2 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15135) · [Clase siguiente →](#cl-15137)
+[← Clase anterior](#cl-15160) · [Clase siguiente →](#cl-15162)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar la impresión del producto {#cl-15137}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar la impresión del producto {#cl-15162}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la impresión del producto a través de comparar alternativas y verificar la calidad: Realizar la impresión del producto, con una experiencia disciplinar específica, segura y revisable.
@@ -1076,7 +1076,7 @@ Respuesta: No, no se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15136) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-06.md#cl-15138)
+[← Clase anterior](#cl-15161) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-06.md#cl-15163)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

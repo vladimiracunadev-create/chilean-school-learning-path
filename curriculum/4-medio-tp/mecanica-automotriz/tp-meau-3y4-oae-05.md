@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16570) · [Clase 2](#cl-16571) · [Clase 3](#cl-16572) · [Clase 4](#cl-16573) · [Clase 5](#cl-16574)
+**Clases de este OA:** [Clase 1](#cl-16638) · [Clase 2](#cl-16639) · [Clase 3](#cl-16640) · [Clase 4](#cl-16641) · [Clase 5](#cl-16642)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16570}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16638}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en a través de situar el contexto laboral, la norma y el riesgo: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Peligro: el charco de fluido; riesgo: que alguien resbale y se lesion
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meau-3y4-oae-04.md#cl-16569) · [Clase siguiente →](#cl-16571)
+[← Última clase del OA anterior](tp-meau-3y4-oae-04.md#cl-16637) · [Clase siguiente →](#cl-16639)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16571}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16639}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en a través de reconocer conceptos, documentos y roles del oficio: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 80 N
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16570) · [Clase siguiente →](#cl-16572)
+[← Clase anterior](#cl-16638) · [Clase siguiente →](#cl-16640)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16572}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16640}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en a través de analizar un caso de trabajo en papel: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Faltan 1 mm; no cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16571) · [Clase siguiente →](#cl-16573)
+[← Clase anterior](#cl-16639) · [Clase siguiente →](#cl-16641)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16573}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16641}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en a través de aplicar un criterio técnico con datos de ejemplo: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 600 rpm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16572) · [Clase siguiente →](#cl-16574)
+[← Clase anterior](#cl-16640) · [Clase siguiente →](#cl-16642)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16574}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en {#cl-16642}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en a través de comparar alternativas y verificar la calidad: Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16573) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-06.md#cl-16575)
+[← Clase anterior](#cl-16641) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-06.md#cl-16643)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

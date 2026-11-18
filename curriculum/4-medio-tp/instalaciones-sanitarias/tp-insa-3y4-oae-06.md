@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16538) · [Clase 2](#cl-16539) · [Clase 3](#cl-16540) · [Clase 4](#cl-16541) · [Clase 5](#cl-16542)
+**Clases de este OA:** [Clase 1](#cl-16606) · [Clase 2](#cl-16607) · [Clase 3](#cl-16608) · [Clase 4](#cl-16609) · [Clase 5](#cl-16610)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16538}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16606}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación a través de situar el contexto laboral, la norma y el riesgo: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 55 m
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-insa-3y4-oae-05.md#cl-16537) · [Clase siguiente →](#cl-16539)
+[← Última clase del OA anterior](tp-insa-3y4-oae-05.md#cl-16605) · [Clase siguiente →](#cl-16607)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16539}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16607}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación a través de reconocer conceptos, documentos y roles del oficio: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 300 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16538) · [Clase siguiente →](#cl-16540)
+[← Clase anterior](#cl-16606) · [Clase siguiente →](#cl-16608)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16540}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16608}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación a través de analizar un caso de trabajo en papel: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 3 días completos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16539) · [Clase siguiente →](#cl-16541)
+[← Clase anterior](#cl-16607) · [Clase siguiente →](#cl-16609)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16541}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16609}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación a través de aplicar un criterio técnico con datos de ejemplo: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 75 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16540) · [Clase siguiente →](#cl-16542)
+[← Clase anterior](#cl-16608) · [Clase siguiente →](#cl-16610)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16542}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación {#cl-16610}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación a través de comparar alternativas y verificar la calidad: Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 12 meses
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16541) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-07.md#cl-16543)
+[← Clase anterior](#cl-16609) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-07.md#cl-16611)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

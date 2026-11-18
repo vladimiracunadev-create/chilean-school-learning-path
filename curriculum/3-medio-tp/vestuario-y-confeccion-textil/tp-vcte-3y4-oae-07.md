@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15806) · [Clase 2](#cl-15807) · [Clase 3](#cl-15808) · [Clase 4](#cl-15809)
+**Clases de este OA:** [Clase 1](#cl-15831) · [Clase 2](#cl-15832) · [Clase 3](#cl-15833) · [Clase 4](#cl-15834)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15806}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15831}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir a través de situar el contexto laboral, la norma y el riesgo: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Debe rotularse
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-vcte-3y4-oae-06.md#cl-15805) · [Clase siguiente →](#cl-15807)
+[← Última clase del OA anterior](tp-vcte-3y4-oae-06.md#cl-15830) · [Clase siguiente →](#cl-15832)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15807}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15832}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir a través de reconocer conceptos, documentos y roles del oficio: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: No despachar y aclarar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15806) · [Clase siguiente →](#cl-15808)
+[← Clase anterior](#cl-15831) · [Clase siguiente →](#cl-15833)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15808}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15833}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir a través de analizar un caso de trabajo en papel: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: No se despacha
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15807) · [Clase siguiente →](#cl-15809)
+[← Clase anterior](#cl-15832) · [Clase siguiente →](#cl-15834)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15809}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir {#cl-15834}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15808) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-08.md#cl-15810)
+[← Clase anterior](#cl-15833) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-08.md#cl-15835)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

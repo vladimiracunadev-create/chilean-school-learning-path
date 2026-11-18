@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15307) · [Clase 2](#cl-15308) · [Clase 3](#cl-15309) · [Clase 4](#cl-15310)
+**Clases de este OA:** [Clase 1](#cl-15332) · [Clase 2](#cl-15333) · [Clase 3](#cl-15334) · [Clase 4](#cl-15335)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar el inventario, pérdidas {#cl-15307}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar el inventario, pérdidas {#cl-15332}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar el inventario, pérdidas a través de situar el contexto laboral, la norma y el riesgo: Controlar el inventario, pérdidas, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 600 kilos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mete-3y4-oae-06.md#cl-15306) · [Clase siguiente →](#cl-15308)
+[← Última clase del OA anterior](tp-mete-3y4-oae-06.md#cl-15331) · [Clase siguiente →](#cl-15333)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar el inventario, pérdidas {#cl-15308}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar el inventario, pérdidas {#cl-15333}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar el inventario, pérdidas a través de reconocer conceptos, documentos y roles del oficio: Controlar el inventario, pérdidas, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Sí, coinciden
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15307) · [Clase siguiente →](#cl-15309)
+[← Clase anterior](#cl-15332) · [Clase siguiente →](#cl-15334)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar el inventario, pérdidas {#cl-15309}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar el inventario, pérdidas {#cl-15334}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar el inventario, pérdidas a través de analizar un caso de trabajo en papel: Controlar el inventario, pérdidas, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 380 toneladas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15308) · [Clase siguiente →](#cl-15310)
+[← Clase anterior](#cl-15333) · [Clase siguiente →](#cl-15335)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar el inventario, pérdidas {#cl-15310}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar el inventario, pérdidas {#cl-15335}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar el inventario, pérdidas a través de aplicar un criterio técnico con datos de ejemplo: Controlar el inventario, pérdidas, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: $300.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15309) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-08.md#cl-15311)
+[← Clase anterior](#cl-15334) · [Primera clase del OA siguiente →](tp-mete-3y4-oae-08.md#cl-15336)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
