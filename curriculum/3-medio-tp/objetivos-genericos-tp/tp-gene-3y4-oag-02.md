@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15132) · [Clase 2](#cl-15133) · [Clase 3](#cl-15134) · [Clase 4](#cl-15135)
+**Clases de este OA:** [Clase 1](#cl-15195) · [Clase 2](#cl-15196) · [Clase 3](#cl-15197) · [Clase 4](#cl-15198)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15132}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15195}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar distintos tipos de textos relacionados con el trabajo a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar distintos tipos de textos relacionados con el trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El de la versión 4
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-01.md#cl-15131) · [Clase siguiente →](#cl-15133)
+[← Última clase del OA anterior](tp-gene-3y4-oag-01.md#cl-15194) · [Clase siguiente →](#cl-15196)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15133}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15196}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar distintos tipos de textos relacionados con el trabajo a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar distintos tipos de textos relacionados con el trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 11 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15132) · [Clase siguiente →](#cl-15134)
+[← Clase anterior](#cl-15195) · [Clase siguiente →](#cl-15197)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15134}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15197}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar distintos tipos de textos relacionados con el trabajo a través de analizar un caso de trabajo en papel: Leer y utilizar distintos tipos de textos relacionados con el trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Que ocurre una vez al mes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15133) · [Clase siguiente →](#cl-15135)
+[← Clase anterior](#cl-15196) · [Clase siguiente →](#cl-15198)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15135}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar distintos tipos de textos relacionados con el trabajo {#cl-15198}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar distintos tipos de textos relacionados con el trabajo a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar distintos tipos de textos relacionados con el trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: La diferencia con la hora 16:30
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15134) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-03.md#cl-15136)
+[← Clase anterior](#cl-15197) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-03.md#cl-15199)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

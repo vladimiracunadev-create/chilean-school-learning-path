@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15205) · [Clase 2](#cl-15206) · [Clase 3](#cl-15207) · [Clase 4](#cl-15208) · [Clase 5](#cl-15209)
+**Clases de este OA:** [Clase 1](#cl-15268) · [Clase 2](#cl-15269) · [Clase 3](#cl-15270) · [Clase 4](#cl-15271) · [Clase 5](#cl-15272)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15205}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15268}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente las normas de prevención de accidentes en recintos portuarios y a través de situar el contexto laboral, la norma y el riesgo: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 3
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-opor-3y4-oae-06.md#cl-15204) · [Clase siguiente →](#cl-15206)
+[← Última clase del OA anterior](tp-opor-3y4-oae-06.md#cl-15267) · [Clase siguiente →](#cl-15269)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15206}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15269}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente las normas de prevención de accidentes en recintos portuarios y a través de reconocer conceptos, documentos y roles del oficio: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 4 cascos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15205) · [Clase siguiente →](#cl-15207)
+[← Clase anterior](#cl-15268) · [Clase siguiente →](#cl-15270)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15207}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15270}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente las normas de prevención de accidentes en recintos portuarios y a través de analizar un caso de trabajo en papel: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: $80.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15206) · [Clase siguiente →](#cl-15208)
+[← Clase anterior](#cl-15269) · [Clase siguiente →](#cl-15271)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15208}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15271}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente las normas de prevención de accidentes en recintos portuarios y a través de aplicar un criterio técnico con datos de ejemplo: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 4 cursos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15207) · [Clase siguiente →](#cl-15209)
+[← Clase anterior](#cl-15270) · [Clase siguiente →](#cl-15272)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15209}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y {#cl-15272}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente las normas de prevención de accidentes en recintos portuarios y a través de comparar alternativas y verificar la calidad: Aplicar constantemente las normas de prevención de accidentes en recintos portuarios y, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: No se acerca, avisa y deja el socorro a quien tiene formación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15208)
+[← Clase anterior](#cl-15271)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

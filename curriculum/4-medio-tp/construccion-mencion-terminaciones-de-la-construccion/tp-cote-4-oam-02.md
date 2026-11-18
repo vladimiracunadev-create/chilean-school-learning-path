@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15733) · [Clase 2](#cl-15734) · [Clase 3](#cl-15735) · [Clase 4](#cl-15736)
+**Clases de este OA:** [Clase 1](#cl-15870) · [Clase 2](#cl-15871) · [Clase 3](#cl-15872) · [Clase 4](#cl-15873)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Armar e instalar muebles de cocina {#cl-15733}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Armar e instalar muebles de cocina {#cl-15870}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar muebles de cocina a través de situar el contexto laboral, la norma y el riesgo: Armar e instalar muebles de cocina, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 5 tableros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cote-4-oam-01.md#cl-15732) · [Clase siguiente →](#cl-15734)
+[← Última clase del OA anterior](tp-cote-4-oam-01.md#cl-15869) · [Clase siguiente →](#cl-15871)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Armar e instalar muebles de cocina {#cl-15734}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Armar e instalar muebles de cocina {#cl-15871}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar muebles de cocina a través de reconocer conceptos, documentos y roles del oficio: Armar e instalar muebles de cocina, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 15 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15733) · [Clase siguiente →](#cl-15735)
+[← Clase anterior](#cl-15870) · [Clase siguiente →](#cl-15872)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Armar e instalar muebles de cocina {#cl-15735}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Armar e instalar muebles de cocina {#cl-15872}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar muebles de cocina a través de analizar un caso de trabajo en papel: Armar e instalar muebles de cocina, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Faltan 2 repisas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15734) · [Clase siguiente →](#cl-15736)
+[← Clase anterior](#cl-15871) · [Clase siguiente →](#cl-15873)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Armar e instalar muebles de cocina {#cl-15736}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Armar e instalar muebles de cocina {#cl-15873}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar e instalar muebles de cocina a través de aplicar un criterio técnico con datos de ejemplo: Armar e instalar muebles de cocina, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 2 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15735) · [Primera clase del OA siguiente →](tp-cote-4-oam-03.md#cl-15737)
+[← Clase anterior](#cl-15872) · [Primera clase del OA siguiente →](tp-cote-4-oam-03.md#cl-15874)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

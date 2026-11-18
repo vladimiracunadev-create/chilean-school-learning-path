@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14801) · [Clase 2](#cl-14802) · [Clase 3](#cl-14803) · [Clase 4](#cl-14804) · [Clase 5](#cl-14805)
+**Clases de este OA:** [Clase 1](#cl-14836) · [Clase 2](#cl-14837) · [Clase 3](#cl-14838) · [Clase 4](#cl-14839) · [Clase 5](#cl-14840)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14801}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14836}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar generar dibujos digitales en 3d que permitan la representación volumétrica de objetos a través de situar el contexto laboral, la norma y el riesgo: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No: se necesita otra textura o autorización
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-06.md#cl-14800) · [Clase siguiente →](#cl-14802)
+[← Última clase del OA anterior](tp-dite-3y4-oae-06.md#cl-14835) · [Clase siguiente →](#cl-14837)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14802}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14837}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar generar dibujos digitales en 3d que permitan la representación volumétrica de objetos a través de reconocer conceptos, documentos y roles del oficio: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 120 fotogramas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14801) · [Clase siguiente →](#cl-14803)
+[← Clase anterior](#cl-14836) · [Clase siguiente →](#cl-14838)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14803}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14838}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar generar dibujos digitales en 3d que permitan la representación volumétrica de objetos a través de analizar un caso de trabajo en papel: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 1 m de diferencia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14802) · [Clase siguiente →](#cl-14804)
+[← Clase anterior](#cl-14837) · [Clase siguiente →](#cl-14839)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14804}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14839}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar generar dibujos digitales en 3d que permitan la representación volumétrica de objetos a través de aplicar un criterio técnico con datos de ejemplo: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 12 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14803) · [Clase siguiente →](#cl-14805)
+[← Clase anterior](#cl-14838) · [Clase siguiente →](#cl-14840)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14805}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos {#cl-14840}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar generar dibujos digitales en 3d que permitan la representación volumétrica de objetos a través de comparar alternativas y verificar la calidad: Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: No, primero se hace la copia de seguridad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14804) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-08.md#cl-14806)
+[← Clase anterior](#cl-14839) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-08.md#cl-14841)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15445) · [Clase 2](#cl-15446) · [Clase 3](#cl-15447) · [Clase 4](#cl-15448) · [Clase 5](#cl-15449)
+**Clases de este OA:** [Clase 1](#cl-15508) · [Clase 2](#cl-15509) · [Clase 3](#cl-15510) · [Clase 4](#cl-15511) · [Clase 5](#cl-15512)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15445}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15508}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas a través de situar el contexto laboral, la norma y el riesgo: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-trnm-3y4-oae-01.md#cl-15444) · [Clase siguiente →](#cl-15446)
+[← Última clase del OA anterior](tp-trnm-3y4-oae-01.md#cl-15507) · [Clase siguiente →](#cl-15509)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15446}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15509}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas a través de reconocer conceptos, documentos y roles del oficio: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Advertencia de superficie caliente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15445) · [Clase siguiente →](#cl-15447)
+[← Clase anterior](#cl-15508) · [Clase siguiente →](#cl-15510)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15447}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15510}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas a través de analizar un caso de trabajo en papel: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: No, hay una diferencia con el plan
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15446) · [Clase siguiente →](#cl-15448)
+[← Clase anterior](#cl-15509) · [Clase siguiente →](#cl-15511)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15448}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15511}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas a través de aplicar un criterio técnico con datos de ejemplo: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: Sí, la cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15447) · [Clase siguiente →](#cl-15449)
+[← Clase anterior](#cl-15510) · [Clase siguiente →](#cl-15512)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15449}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas {#cl-15512}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas a través de comparar alternativas y verificar la calidad: Asistir la operación de sistemas y equipos de la máquina propulsora y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: El plan S, con 200 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15448) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-03.md#cl-15450)
+[← Clase anterior](#cl-15511) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-03.md#cl-15513)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

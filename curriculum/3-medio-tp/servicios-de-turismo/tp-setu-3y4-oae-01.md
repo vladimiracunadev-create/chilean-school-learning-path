@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15366) · [Clase 2](#cl-15367) · [Clase 3](#cl-15368) · [Clase 4](#cl-15369)
+**Clases de este OA:** [Clase 1](#cl-15429) · [Clase 2](#cl-15430) · [Clase 3](#cl-15431) · [Clase 4](#cl-15432)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15366}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15429}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional a través de situar el contexto laboral, la norma y el riesgo: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No: no es un dato necesario para esta reserva
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15367)
+[Clase siguiente →](#cl-15430)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15367}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15430}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional a través de reconocer conceptos, documentos y roles del oficio: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: $43.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15366) · [Clase siguiente →](#cl-15368)
+[← Clase anterior](#cl-15429) · [Clase siguiente →](#cl-15431)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15368}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15431}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional a través de analizar un caso de trabajo en papel: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Confirmo con la clienta y luego corrijo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15367) · [Clase siguiente →](#cl-15369)
+[← Clase anterior](#cl-15430) · [Clase siguiente →](#cl-15432)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15369}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional {#cl-15432}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional a través de aplicar un criterio técnico con datos de ejemplo: Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: $28.000 más
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15368) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-02.md#cl-15370)
+[← Clase anterior](#cl-15431) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-02.md#cl-15433)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

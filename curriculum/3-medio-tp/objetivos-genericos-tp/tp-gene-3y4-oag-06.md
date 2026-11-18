@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15148) · [Clase 2](#cl-15149) · [Clase 3](#cl-15150) · [Clase 4](#cl-15151)
+**Clases de este OA:** [Clase 1](#cl-15211) · [Clase 2](#cl-15212) · [Clase 3](#cl-15213) · [Clase 4](#cl-15214)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15148}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15211}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar respetar y solicitar respeto de deberes y derechos laborales establecidos a través de situar el contexto laboral, la norma y el riesgo: Respetar y solicitar respeto de deberes y derechos laborales establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: $800.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-05.md#cl-15147) · [Clase siguiente →](#cl-15149)
+[← Última clase del OA anterior](tp-gene-3y4-oag-05.md#cl-15210) · [Clase siguiente →](#cl-15212)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15149}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15212}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar respetar y solicitar respeto de deberes y derechos laborales establecidos a través de reconocer conceptos, documentos y roles del oficio: Respetar y solicitar respeto de deberes y derechos laborales establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: $360.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15148) · [Clase siguiente →](#cl-15150)
+[← Clase anterior](#cl-15211) · [Clase siguiente →](#cl-15213)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15150}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15213}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar respetar y solicitar respeto de deberes y derechos laborales establecidos a través de analizar un caso de trabajo en papel: Respetar y solicitar respeto de deberes y derechos laborales establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 60 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15149) · [Clase siguiente →](#cl-15151)
+[← Clase anterior](#cl-15212) · [Clase siguiente →](#cl-15214)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15151}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Respetar y solicitar respeto de deberes y derechos laborales establecidos {#cl-15214}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar respetar y solicitar respeto de deberes y derechos laborales establecidos a través de aplicar un criterio técnico con datos de ejemplo: Respetar y solicitar respeto de deberes y derechos laborales establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: Consultar por escrito, con el contrato, al área de personas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15150) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-07.md#cl-15152)
+[← Clase anterior](#cl-15213) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-07.md#cl-15215)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

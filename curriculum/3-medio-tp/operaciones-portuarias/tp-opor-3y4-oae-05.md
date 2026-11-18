@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15195) · [Clase 2](#cl-15196) · [Clase 3](#cl-15197) · [Clase 4](#cl-15198) · [Clase 5](#cl-15199)
+**Clases de este OA:** [Clase 1](#cl-15258) · [Clase 2](#cl-15259) · [Clase 3](#cl-15260) · [Clase 4](#cl-15261) · [Clase 5](#cl-15262)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Completar y verificar la documentación {#cl-15195}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Completar y verificar la documentación {#cl-15258}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar completar y verificar la documentación a través de situar el contexto laboral, la norma y el riesgo: Completar y verificar la documentación, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Que otra persona use su sesión y firme en su nombre
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-opor-3y4-oae-04.md#cl-15194) · [Clase siguiente →](#cl-15196)
+[← Última clase del OA anterior](tp-opor-3y4-oae-04.md#cl-15257) · [Clase siguiente →](#cl-15259)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Completar y verificar la documentación {#cl-15196}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Completar y verificar la documentación {#cl-15259}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar completar y verificar la documentación a través de reconocer conceptos, documentos y roles del oficio: Completar y verificar la documentación, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 30 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15195) · [Clase siguiente →](#cl-15197)
+[← Clase anterior](#cl-15258) · [Clase siguiente →](#cl-15260)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Completar y verificar la documentación {#cl-15197}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Completar y verificar la documentación {#cl-15260}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar completar y verificar la documentación a través de analizar un caso de trabajo en papel: Completar y verificar la documentación, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Un faltante de 2 bultos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15196) · [Clase siguiente →](#cl-15198)
+[← Clase anterior](#cl-15259) · [Clase siguiente →](#cl-15261)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Completar y verificar la documentación {#cl-15198}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Completar y verificar la documentación {#cl-15261}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar completar y verificar la documentación a través de aplicar un criterio técnico con datos de ejemplo: Completar y verificar la documentación, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: $30.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15197) · [Clase siguiente →](#cl-15199)
+[← Clase anterior](#cl-15260) · [Clase siguiente →](#cl-15262)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Completar y verificar la documentación {#cl-15199}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Completar y verificar la documentación {#cl-15262}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar completar y verificar la documentación a través de comparar alternativas y verificar la calidad: Completar y verificar la documentación, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: No: se respeta la secuencia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15198) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-06.md#cl-15200)
+[← Clase anterior](#cl-15261) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-06.md#cl-15263)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

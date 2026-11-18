@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15820) · [Clase 2](#cl-15821) · [Clase 3](#cl-15822) · [Clase 4](#cl-15823)
+**Clases de este OA:** [Clase 1](#cl-15957) · [Clase 2](#cl-15958) · [Clase 3](#cl-15959) · [Clase 4](#cl-15960)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar manual y digitalmente {#cl-15820}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar manual y digitalmente {#cl-15957}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente a través de situar el contexto laboral, la norma y el riesgo: Cubicar manual y digitalmente, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 4 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-08.md#cl-15819) · [Clase siguiente →](#cl-15821)
+[← Última clase del OA anterior](tp-dite-3y4-oae-08.md#cl-15956) · [Clase siguiente →](#cl-15958)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar manual y digitalmente {#cl-15821}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar manual y digitalmente {#cl-15958}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente a través de reconocer conceptos, documentos y roles del oficio: Cubicar manual y digitalmente, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 44 planchas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15820) · [Clase siguiente →](#cl-15822)
+[← Clase anterior](#cl-15957) · [Clase siguiente →](#cl-15959)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar manual y digitalmente {#cl-15822}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar manual y digitalmente {#cl-15959}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente a través de analizar un caso de trabajo en papel: Cubicar manual y digitalmente, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 84 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15821) · [Clase siguiente →](#cl-15823)
+[← Clase anterior](#cl-15958) · [Clase siguiente →](#cl-15960)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar manual y digitalmente {#cl-15823}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar manual y digitalmente {#cl-15960}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente a través de aplicar un criterio técnico con datos de ejemplo: Cubicar manual y digitalmente, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 camiones; sobran 3 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15822)
+[← Clase anterior](#cl-15959)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

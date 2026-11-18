@@ -270,6 +270,7 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Especialistas necesarios:** un docente o profesional de cada especialidad debe revisar terminología, tasas de ejemplo y definiciones simplificadas; en riesgo medio o alto, además, que no se haya filtrado ningún procedimiento operativo.
 - **Administración** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/administracion.md).
 - **Contabilidad** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/contabilidad.md).
+- **Agropecuaria** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/agropecuaria.md).
 - **Elaboración Industrial de Alimentos** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/elaboracion-industrial-de-alimentos.md).
 - **Gastronomía** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/gastronomia.md).
 - **Vestuario y Confección Textil** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/vestuario-y-confeccion-textil.md).
@@ -289,6 +290,7 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Operaciones Portuarias** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/operaciones-portuarias.md).
 - **Pesquería** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/pesqueria.md).
 - **Tripulación de Naves Mercantes y Especiales** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/tripulacion-de-naves-mercantes-y-especiales.md).
+- **Mecánica Industrial** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/mecanica-industrial.md).
 - **Atención de Párvulos** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/atencion-de-parvulos.md).
 - **Conectividad y Redes** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/conectividad-y-redes.md).
 - **Programación** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/programacion.md).

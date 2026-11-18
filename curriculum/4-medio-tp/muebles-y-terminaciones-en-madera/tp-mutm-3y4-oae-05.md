@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16134) · [Clase 2](#cl-16135) · [Clase 3](#cl-16136) · [Clase 4](#cl-16137)
+**Clases de este OA:** [Clase 1](#cl-16341) · [Clase 2](#cl-16342) · [Clase 3](#cl-16343) · [Clase 4](#cl-16344)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Armar, encuadrar y prensar estructuras de muebles {#cl-16134}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Armar, encuadrar y prensar estructuras de muebles {#cl-16341}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, encuadrar y prensar estructuras de muebles a través de situar el contexto laboral, la norma y el riesgo: Armar, encuadrar y prensar estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: La hoja de datos de seguridad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-04.md#cl-16133) · [Clase siguiente →](#cl-16135)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-04.md#cl-16340) · [Clase siguiente →](#cl-16342)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Armar, encuadrar y prensar estructuras de muebles {#cl-16135}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Armar, encuadrar y prensar estructuras de muebles {#cl-16342}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, encuadrar y prensar estructuras de muebles a través de reconocer conceptos, documentos y roles del oficio: Armar, encuadrar y prensar estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No, está vencido y se informa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16134) · [Clase siguiente →](#cl-16136)
+[← Clase anterior](#cl-16341) · [Clase siguiente →](#cl-16343)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Armar, encuadrar y prensar estructuras de muebles {#cl-16136}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Armar, encuadrar y prensar estructuras de muebles {#cl-16343}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, encuadrar y prensar estructuras de muebles a través de analizar un caso de trabajo en papel: Armar, encuadrar y prensar estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No, se separa y se registra
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16135) · [Clase siguiente →](#cl-16137)
+[← Clase anterior](#cl-16342) · [Clase siguiente →](#cl-16344)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Armar, encuadrar y prensar estructuras de muebles {#cl-16137}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Armar, encuadrar y prensar estructuras de muebles {#cl-16344}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, encuadrar y prensar estructuras de muebles a través de aplicar un criterio técnico con datos de ejemplo: Armar, encuadrar y prensar estructuras de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 envases
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16136) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-06.md#cl-16138)
+[← Clase anterior](#cl-16343) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-06.md#cl-16345)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

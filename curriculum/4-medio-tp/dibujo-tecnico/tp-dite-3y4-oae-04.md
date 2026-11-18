@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15796) · [Clase 2](#cl-15797) · [Clase 3](#cl-15798) · [Clase 4](#cl-15799)
+**Clases de este OA:** [Clase 1](#cl-15933) · [Clase 2](#cl-15934) · [Clase 3](#cl-15935) · [Clase 4](#cl-15936)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15796}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15933}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de a través de situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Incendio, explosión o intoxicación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-03.md#cl-15795) · [Clase siguiente →](#cl-15797)
+[← Última clase del OA anterior](tp-dite-3y4-oae-03.md#cl-15932) · [Clase siguiente →](#cl-15934)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15797}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15934}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de a través de reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Agua caliente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15796) · [Clase siguiente →](#cl-15798)
+[← Clase anterior](#cl-15933) · [Clase siguiente →](#cl-15935)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15798}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15935}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de a través de analizar un caso de trabajo en papel: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 3 tubos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15797) · [Clase siguiente →](#cl-15799)
+[← Clase anterior](#cl-15934) · [Clase siguiente →](#cl-15936)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15799}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de {#cl-15936}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de a través de aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 2.100 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15798) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-05.md#cl-15800)
+[← Clase anterior](#cl-15935) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-05.md#cl-15937)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

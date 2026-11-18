@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 12156 de 12.392 clases desarrolladas tienen cuaderno del estudiante (98,1 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 12363 de 12.599 clases desarrolladas tienen cuaderno del estudiante (98,1 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -26,8 +26,8 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio | 466 | 466 | 0 | completo | 0 | 7.923 | 932 | pendiente |
 | 3.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 | 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
-| 3.º medio TP | 959 | 959 | 0 | completo | 0 | 16.303 | 1.918 | pendiente |
-| 4.º medio TP | 1.032 | 1.032 | 0 | completo | 0 | 17.544 | 2.064 | pendiente |
+| 3.º medio TP | 1.022 | 1.022 | 0 | completo | 0 | 17.374 | 2.044 | pendiente |
+| 4.º medio TP | 1.176 | 1.176 | 0 | completo | 0 | 19.992 | 2.352 | pendiente |
 
 ## Objetivos con cuaderno
 
@@ -2174,6 +2174,32 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | administracion-mencion-recursos-humanos | TP-ADRH-4-OAM-02 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | administracion-mencion-recursos-humanos | TP-ADRH-4-OAM-03 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | administracion-mencion-recursos-humanos | TP-ADRH-4-OAM-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-agricultura | TP-AGAG-4-OAM-01 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | agropecuaria-mencion-agricultura | TP-AGAG-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-agricultura | TP-AGAG-4-OAM-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-agricultura | TP-AGAG-4-OAM-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-agricultura | TP-AGAG-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-pecuaria | TP-AGPE-4-OAM-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-pecuaria | TP-AGPE-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-pecuaria | TP-AGPE-4-OAM-03 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | agropecuaria-mencion-pecuaria | TP-AGPE-4-OAM-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-pecuaria | TP-AGPE-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-pecuaria | TP-AGPE-4-OAM-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-pecuaria | TP-AGPE-4-OAM-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-01 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-02 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-06 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | agropecuaria | TP-AGRO-3-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-06 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-01 | 6 | 6 | 102 | 12 |
 | 4.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-01 | 6 | 6 | 102 | 12 |
 | 3.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-02 | 4 | 4 | 68 | 8 |
@@ -2409,6 +2435,29 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-07 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-03 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-05 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-industrial | TP-MEIN-3-OAE-01 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-industrial | TP-MEIN-3-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-industrial | TP-MEIN-3-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-industrial | TP-MEIN-3-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-industrial | TP-MEIN-3-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-industrial | TP-MEIN-3-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-industrial | TP-MEIN-3-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-matriceria | TP-MEMA-4-OAM-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-matriceria | TP-MEMA-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-matriceria | TP-MEMA-4-OAM-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-matriceria | TP-MEMA-4-OAM-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-industrial-mencion-matriceria | TP-MEMA-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-matriceria | TP-MEMA-4-OAM-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-maquinas-herramientas | TP-MEMH-4-OAM-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-maquinas-herramientas | TP-MEMH-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-industrial-mencion-maquinas-herramientas | TP-MEMH-4-OAM-03 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-industrial-mencion-maquinas-herramientas | TP-MEMH-4-OAM-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-industrial-mencion-maquinas-herramientas | TP-MEMH-4-OAM-05 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-02 | 4 | 4 | 68 | 8 |
@@ -2609,6 +2658,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1728 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1729 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

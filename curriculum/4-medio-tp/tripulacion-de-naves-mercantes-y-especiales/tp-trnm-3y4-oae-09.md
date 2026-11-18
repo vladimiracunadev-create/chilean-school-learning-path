@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16511) · [Clase 2](#cl-16512) · [Clase 3](#cl-16513) · [Clase 4](#cl-16514) · [Clase 5](#cl-16515)
+**Clases de este OA:** [Clase 1](#cl-16718) · [Clase 2](#cl-16719) · [Clase 3](#cl-16720) · [Clase 4](#cl-16721) · [Clase 5](#cl-16722)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Comunicar y recibir información en idioma inglés {#cl-16511}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Comunicar y recibir información en idioma inglés {#cl-16718}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y recibir información en idioma inglés a través de situar el contexto laboral, la norma y el riesgo: Comunicar y recibir información en idioma inglés, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Sécurité
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-trnm-3y4-oae-08.md#cl-16510) · [Clase siguiente →](#cl-16512)
+[← Última clase del OA anterior](tp-trnm-3y4-oae-08.md#cl-16717) · [Clase siguiente →](#cl-16719)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Comunicar y recibir información en idioma inglés {#cl-16512}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Comunicar y recibir información en idioma inglés {#cl-16719}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y recibir información en idioma inglés a través de reconocer conceptos, documentos y roles del oficio: Comunicar y recibir información en idioma inglés, con una experiencia disciplinar específica, segura y revisable.
@@ -465,9 +465,9 @@ Respuesta: Alarma en la sala de máquinas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16511) · [Clase siguiente →](#cl-16513)
+[← Clase anterior](#cl-16718) · [Clase siguiente →](#cl-16720)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Comunicar y recibir información en idioma inglés {#cl-16513}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Comunicar y recibir información en idioma inglés {#cl-16720}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y recibir información en idioma inglés a través de analizar un caso de trabajo en papel: Comunicar y recibir información en idioma inglés, con una experiencia disciplinar específica, segura y revisable.
@@ -675,9 +675,9 @@ Respuesta: Oil pressure low
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16512) · [Clase siguiente →](#cl-16514)
+[← Clase anterior](#cl-16719) · [Clase siguiente →](#cl-16721)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Comunicar y recibir información en idioma inglés {#cl-16514}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Comunicar y recibir información en idioma inglés {#cl-16721}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y recibir información en idioma inglés a través de aplicar un criterio técnico con datos de ejemplo: Comunicar y recibir información en idioma inglés, con una experiencia disciplinar específica, segura y revisable.
@@ -882,9 +882,9 @@ Respuesta: Zone Charlie two
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16513) · [Clase siguiente →](#cl-16515)
+[← Clase anterior](#cl-16720) · [Clase siguiente →](#cl-16722)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Comunicar y recibir información en idioma inglés {#cl-16515}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Comunicar y recibir información en idioma inglés {#cl-16722}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y recibir información en idioma inglés a través de comparar alternativas y verificar la calidad: Comunicar y recibir información en idioma inglés, con una experiencia disciplinar específica, segura y revisable.
@@ -1089,7 +1089,7 @@ Respuesta: No coincide: hay un error de comunicación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16514)
+[← Clase anterior](#cl-16721)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

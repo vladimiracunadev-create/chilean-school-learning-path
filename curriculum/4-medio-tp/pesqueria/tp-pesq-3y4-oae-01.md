@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16242) · [Clase 2](#cl-16243) · [Clase 3](#cl-16244) · [Clase 4](#cl-16245) · [Clase 5](#cl-16246)
+**Clases de este OA:** [Clase 1](#cl-16449) · [Clase 2](#cl-16450) · [Clase 3](#cl-16451) · [Clase 4](#cl-16452) · [Clase 5](#cl-16453)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar maniobras de navegación de una embarcación {#cl-16242}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar maniobras de navegación de una embarcación {#cl-16449}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de navegación de una embarcación a través de situar el contexto laboral, la norma y el riesgo: Realizar maniobras de navegación de una embarcación, con una experiencia disciplinar específica, segura y revisable.
@@ -255,9 +255,9 @@ Respuesta: Equipo de protección personal (EPP), el último nivel
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16243)
+[Clase siguiente →](#cl-16450)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar maniobras de navegación de una embarcación {#cl-16243}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar maniobras de navegación de una embarcación {#cl-16450}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de navegación de una embarcación a través de reconocer conceptos, documentos y roles del oficio: Realizar maniobras de navegación de una embarcación, con una experiencia disciplinar específica, segura y revisable.
@@ -466,9 +466,9 @@ Respuesta: El boletín meteorológico
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16242) · [Clase siguiente →](#cl-16244)
+[← Clase anterior](#cl-16449) · [Clase siguiente →](#cl-16451)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar maniobras de navegación de una embarcación {#cl-16244}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar maniobras de navegación de una embarcación {#cl-16451}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de navegación de una embarcación a través de analizar un caso de trabajo en papel: Realizar maniobras de navegación de una embarcación, con una experiencia disciplinar específica, segura y revisable.
@@ -674,9 +674,9 @@ Respuesta: 8 nudos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16243) · [Clase siguiente →](#cl-16245)
+[← Clase anterior](#cl-16450) · [Clase siguiente →](#cl-16452)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar maniobras de navegación de una embarcación {#cl-16245}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar maniobras de navegación de una embarcación {#cl-16452}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de navegación de una embarcación a través de aplicar un criterio técnico con datos de ejemplo: Realizar maniobras de navegación de una embarcación, con una experiencia disciplinar específica, segura y revisable.
@@ -882,9 +882,9 @@ Respuesta: 280°
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16244) · [Clase siguiente →](#cl-16246)
+[← Clase anterior](#cl-16451) · [Clase siguiente →](#cl-16453)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar maniobras de navegación de una embarcación {#cl-16246}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar maniobras de navegación de una embarcación {#cl-16453}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar maniobras de navegación de una embarcación a través de comparar alternativas y verificar la calidad: Realizar maniobras de navegación de una embarcación, con una experiencia disciplinar específica, segura y revisable.
@@ -1090,7 +1090,7 @@ Respuesta: Una nota aclaratoria fechada, sin borrar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16245) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-02.md#cl-16247)
+[← Clase anterior](#cl-16452) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-02.md#cl-16454)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

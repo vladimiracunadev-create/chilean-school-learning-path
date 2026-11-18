@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14655) · [Clase 2](#cl-14656) · [Clase 3](#cl-14657) · [Clase 4](#cl-14658)
+**Clases de este OA:** [Clase 1](#cl-14690) · [Clase 2](#cl-14691) · [Clase 3](#cl-14692) · [Clase 4](#cl-14693)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14655}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14690}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a niños y niñas menores de seis años en las horas de descanso y de recreación a través de situar el contexto laboral, la norma y el riesgo: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Reposo tranquilo con un libro blando
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-08.md#cl-14654) · [Clase siguiente →](#cl-14656)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-08.md#cl-14689) · [Clase siguiente →](#cl-14691)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14656}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14691}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a niños y niñas menores de seis años en las horas de descanso y de recreación a través de reconocer conceptos, documentos y roles del oficio: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 4 niños
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14655) · [Clase siguiente →](#cl-14657)
+[← Clase anterior](#cl-14690) · [Clase siguiente →](#cl-14692)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14657}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14692}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a niños y niñas menores de seis años en las horas de descanso y de recreación a través de analizar un caso de trabajo en papel: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: El sector de piso firme
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14656) · [Clase siguiente →](#cl-14658)
+[← Clase anterior](#cl-14691) · [Clase siguiente →](#cl-14693)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14658}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación {#cl-14693}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a niños y niñas menores de seis años en las horas de descanso y de recreación a través de aplicar un criterio técnico con datos de ejemplo: Atender a niños y niñas menores de seis años en las horas de descanso y de recreación, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 zonas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14657) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-10.md#cl-14659)
+[← Clase anterior](#cl-14692) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-10.md#cl-14694)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15681) · [Clase 2](#cl-15682) · [Clase 3](#cl-15683) · [Clase 4](#cl-15684) · [Clase 5](#cl-15685)
+**Clases de este OA:** [Clase 1](#cl-15818) · [Clase 2](#cl-15819) · [Clase 3](#cl-15820) · [Clase 4](#cl-15821) · [Clase 5](#cl-15822)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar obras de hormigón para fundaciones {#cl-15681}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar obras de hormigón para fundaciones {#cl-15818}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de hormigón para fundaciones a través de situar el contexto laboral, la norma y el riesgo: Ejecutar obras de hormigón para fundaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 28 EPP
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-coed-4-oam-01.md#cl-15680) · [Clase siguiente →](#cl-15682)
+[← Última clase del OA anterior](tp-coed-4-oam-01.md#cl-15817) · [Clase siguiente →](#cl-15819)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar obras de hormigón para fundaciones {#cl-15682}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar obras de hormigón para fundaciones {#cl-15819}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de hormigón para fundaciones a través de reconocer conceptos, documentos y roles del oficio: Ejecutar obras de hormigón para fundaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No coinciden
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15681) · [Clase siguiente →](#cl-15683)
+[← Clase anterior](#cl-15818) · [Clase siguiente →](#cl-15820)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar obras de hormigón para fundaciones {#cl-15683}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar obras de hormigón para fundaciones {#cl-15820}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de hormigón para fundaciones a través de analizar un caso de trabajo en papel: Ejecutar obras de hormigón para fundaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 6 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15682) · [Clase siguiente →](#cl-15684)
+[← Clase anterior](#cl-15819) · [Clase siguiente →](#cl-15821)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de hormigón para fundaciones {#cl-15684}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de hormigón para fundaciones {#cl-15821}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de hormigón para fundaciones a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de hormigón para fundaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 3 camiones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15683) · [Clase siguiente →](#cl-15685)
+[← Clase anterior](#cl-15820) · [Clase siguiente →](#cl-15822)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar obras de hormigón para fundaciones {#cl-15685}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar obras de hormigón para fundaciones {#cl-15822}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de hormigón para fundaciones a través de comparar alternativas y verificar la calidad: Ejecutar obras de hormigón para fundaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15684) · [Primera clase del OA siguiente →](tp-coed-4-oam-03.md#cl-15686)
+[← Clase anterior](#cl-15821) · [Primera clase del OA siguiente →](tp-coed-4-oam-03.md#cl-15823)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

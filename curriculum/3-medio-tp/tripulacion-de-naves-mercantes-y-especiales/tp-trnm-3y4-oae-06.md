@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15464) · [Clase 2](#cl-15465) · [Clase 3](#cl-15466) · [Clase 4](#cl-15467) · [Clase 5](#cl-15468)
+**Clases de este OA:** [Clase 1](#cl-15527) · [Clase 2](#cl-15528) · [Clase 3](#cl-15529) · [Clase 4](#cl-15530) · [Clase 5](#cl-15531)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Contribuir a la vigilancia y el control de una guardia segura {#cl-15464}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Contribuir a la vigilancia y el control de una guardia segura {#cl-15527}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar contribuir a la vigilancia y el control de una guardia segura a través de situar el contexto laboral, la norma y el riesgo: Contribuir a la vigilancia y el control de una guardia segura, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 6 puestos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-trnm-3y4-oae-05.md#cl-15463) · [Clase siguiente →](#cl-15465)
+[← Última clase del OA anterior](tp-trnm-3y4-oae-05.md#cl-15526) · [Clase siguiente →](#cl-15528)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Contribuir a la vigilancia y el control de una guardia segura {#cl-15465}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Contribuir a la vigilancia y el control de una guardia segura {#cl-15528}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar contribuir a la vigilancia y el control de una guardia segura a través de reconocer conceptos, documentos y roles del oficio: Contribuir a la vigilancia y el control de una guardia segura, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Falta la ubicación, la hora y la distancia aproximada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15464) · [Clase siguiente →](#cl-15466)
+[← Clase anterior](#cl-15527) · [Clase siguiente →](#cl-15529)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Contribuir a la vigilancia y el control de una guardia segura {#cl-15466}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Contribuir a la vigilancia y el control de una guardia segura {#cl-15529}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar contribuir a la vigilancia y el control de una guardia segura a través de analizar un caso de trabajo en papel: Contribuir a la vigilancia y el control de una guardia segura, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 4 personas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15465) · [Clase siguiente →](#cl-15467)
+[← Clase anterior](#cl-15528) · [Clase siguiente →](#cl-15530)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Contribuir a la vigilancia y el control de una guardia segura {#cl-15467}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Contribuir a la vigilancia y el control de una guardia segura {#cl-15530}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar contribuir a la vigilancia y el control de una guardia segura a través de aplicar un criterio técnico con datos de ejemplo: Contribuir a la vigilancia y el control de una guardia segura, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: El de 5 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15466) · [Clase siguiente →](#cl-15468)
+[← Clase anterior](#cl-15529) · [Clase siguiente →](#cl-15531)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Contribuir a la vigilancia y el control de una guardia segura {#cl-15468}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Contribuir a la vigilancia y el control de una guardia segura {#cl-15531}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar contribuir a la vigilancia y el control de una guardia segura a través de comparar alternativas y verificar la calidad: Contribuir a la vigilancia y el control de una guardia segura, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Sí, se descarta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15467) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-07.md#cl-15469)
+[← Clase anterior](#cl-15530) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-07.md#cl-15532)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15034) · [Clase 2](#cl-15035) · [Clase 3](#cl-15036) · [Clase 4](#cl-15037) · [Clase 5](#cl-15038)
+**Clases de este OA:** [Clase 1](#cl-15069) · [Clase 2](#cl-15070) · [Clase 3](#cl-15071) · [Clase 4](#cl-15072) · [Clase 5](#cl-15073)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar artefactos sanitarios {#cl-15034}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar artefactos sanitarios {#cl-15069}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar artefactos sanitarios a través de situar el contexto laboral, la norma y el riesgo: Instalar artefactos sanitarios, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 10 artefactos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-insa-3y4-oae-06.md#cl-15033) · [Clase siguiente →](#cl-15035)
+[← Última clase del OA anterior](tp-insa-3y4-oae-06.md#cl-15068) · [Clase siguiente →](#cl-15070)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar artefactos sanitarios {#cl-15035}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar artefactos sanitarios {#cl-15070}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar artefactos sanitarios a través de reconocer conceptos, documentos y roles del oficio: Instalar artefactos sanitarios, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 40 litros por día
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15034) · [Clase siguiente →](#cl-15036)
+[← Clase anterior](#cl-15069) · [Clase siguiente →](#cl-15071)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar artefactos sanitarios {#cl-15036}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar artefactos sanitarios {#cl-15071}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar artefactos sanitarios a través de analizar un caso de trabajo en papel: Instalar artefactos sanitarios, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Sí, hay una discrepancia de 1 sifón
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15035) · [Clase siguiente →](#cl-15037)
+[← Clase anterior](#cl-15070) · [Clase siguiente →](#cl-15072)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar artefactos sanitarios {#cl-15037}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar artefactos sanitarios {#cl-15072}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar artefactos sanitarios a través de aplicar un criterio técnico con datos de ejemplo: Instalar artefactos sanitarios, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: $1.200 por mes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15036) · [Clase siguiente →](#cl-15038)
+[← Clase anterior](#cl-15071) · [Clase siguiente →](#cl-15073)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar artefactos sanitarios {#cl-15038}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar artefactos sanitarios {#cl-15073}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar artefactos sanitarios a través de comparar alternativas y verificar la calidad: Instalar artefactos sanitarios, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15037) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-08.md#cl-15039)
+[← Clase anterior](#cl-15072) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-08.md#cl-15074)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

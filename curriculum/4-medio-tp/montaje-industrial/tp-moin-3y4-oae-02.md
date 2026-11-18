@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16079) · [Clase 2](#cl-16080) · [Clase 3](#cl-16081) · [Clase 4](#cl-16082)
+**Clases de este OA:** [Clase 1](#cl-16286) · [Clase 2](#cl-16287) · [Clase 3](#cl-16288) · [Clase 4](#cl-16289)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Medir y calcular pendientes {#cl-16079}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Medir y calcular pendientes {#cl-16286}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y calcular pendientes a través de situar el contexto laboral, la norma y el riesgo: Medir y calcular pendientes, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: 250 N
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-01.md#cl-16078) · [Clase siguiente →](#cl-16080)
+[← Última clase del OA anterior](tp-moin-3y4-oae-01.md#cl-16285) · [Clase siguiente →](#cl-16287)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Medir y calcular pendientes {#cl-16080}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Medir y calcular pendientes {#cl-16287}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y calcular pendientes a través de reconocer conceptos, documentos y roles del oficio: Medir y calcular pendientes, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 24 m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16079) · [Clase siguiente →](#cl-16081)
+[← Clase anterior](#cl-16286) · [Clase siguiente →](#cl-16288)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Medir y calcular pendientes {#cl-16081}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Medir y calcular pendientes {#cl-16288}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y calcular pendientes a través de analizar un caso de trabajo en papel: Medir y calcular pendientes, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: No, porque 450 kg supera 400 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16080) · [Clase siguiente →](#cl-16082)
+[← Clase anterior](#cl-16287) · [Clase siguiente →](#cl-16289)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Medir y calcular pendientes {#cl-16082}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Medir y calcular pendientes {#cl-16289}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y calcular pendientes a través de aplicar un criterio técnico con datos de ejemplo: Medir y calcular pendientes, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: Entre 77 mm y 83 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16081) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-03.md#cl-16083)
+[← Clase anterior](#cl-16288) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-03.md#cl-16290)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

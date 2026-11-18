@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15455) · [Clase 2](#cl-15456) · [Clase 3](#cl-15457) · [Clase 4](#cl-15458) · [Clase 5](#cl-15459)
+**Clases de este OA:** [Clase 1](#cl-15518) · [Clase 2](#cl-15519) · [Clase 3](#cl-15520) · [Clase 4](#cl-15521) · [Clase 5](#cl-15522)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15455}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15518}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento y utilizar equipos de maniobra a través de situar el contexto laboral, la norma y el riesgo: Poner en funcionamiento y utilizar equipos de maniobra, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Como no conformidad, informada al responsable
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-trnm-3y4-oae-03.md#cl-15454) · [Clase siguiente →](#cl-15456)
+[← Última clase del OA anterior](tp-trnm-3y4-oae-03.md#cl-15517) · [Clase siguiente →](#cl-15519)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15456}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15519}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento y utilizar equipos de maniobra a través de reconocer conceptos, documentos y roles del oficio: Poner en funcionamiento y utilizar equipos de maniobra, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Su capacidad es de 8 toneladas y no se debe sobrepasar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15455) · [Clase siguiente →](#cl-15457)
+[← Clase anterior](#cl-15518) · [Clase siguiente →](#cl-15520)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15457}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15520}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento y utilizar equipos de maniobra a través de analizar un caso de trabajo en papel: Poner en funcionamiento y utilizar equipos de maniobra, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15456) · [Clase siguiente →](#cl-15458)
+[← Clase anterior](#cl-15519) · [Clase siguiente →](#cl-15521)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15458}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15521}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento y utilizar equipos de maniobra a través de aplicar un criterio técnico con datos de ejemplo: Poner en funcionamiento y utilizar equipos de maniobra, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 60 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15457) · [Clase siguiente →](#cl-15459)
+[← Clase anterior](#cl-15520) · [Clase siguiente →](#cl-15522)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15459}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Poner en funcionamiento y utilizar equipos de maniobra {#cl-15522}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento y utilizar equipos de maniobra a través de comparar alternativas y verificar la calidad: Poner en funcionamiento y utilizar equipos de maniobra, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: 60 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15458) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-05.md#cl-15460)
+[← Clase anterior](#cl-15521) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-05.md#cl-15523)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

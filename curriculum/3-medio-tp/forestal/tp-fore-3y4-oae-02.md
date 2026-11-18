@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14919) · [Clase 2](#cl-14920) · [Clase 3](#cl-14921) · [Clase 4](#cl-14922)
+**Clases de este OA:** [Clase 1](#cl-14954) · [Clase 2](#cl-14955) · [Clase 3](#cl-14956) · [Clase 4](#cl-14957)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información de instrumental analítico {#cl-14919}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información de instrumental analítico {#cl-14954}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información de instrumental analítico a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar información de instrumental analítico, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Un diámetro, es decir, una longitud
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-fore-3y4-oae-01.md#cl-14918) · [Clase siguiente →](#cl-14920)
+[← Última clase del OA anterior](tp-fore-3y4-oae-01.md#cl-14953) · [Clase siguiente →](#cl-14955)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información de instrumental analítico {#cl-14920}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información de instrumental analítico {#cl-14955}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información de instrumental analítico a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar información de instrumental analítico, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Bosque nativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14919) · [Clase siguiente →](#cl-14921)
+[← Clase anterior](#cl-14954) · [Clase siguiente →](#cl-14956)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar información de instrumental analítico {#cl-14921}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar información de instrumental analítico {#cl-14956}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información de instrumental analítico a través de analizar un caso de trabajo en papel: Leer y utilizar información de instrumental analítico, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 20 árboles por parcela
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14920) · [Clase siguiente →](#cl-14922)
+[← Clase anterior](#cl-14955) · [Clase siguiente →](#cl-14957)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información de instrumental analítico {#cl-14922}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información de instrumental analítico {#cl-14957}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información de instrumental analítico a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información de instrumental analítico, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 12 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14921) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-03.md#cl-14923)
+[← Clase anterior](#cl-14956) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-03.md#cl-14958)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

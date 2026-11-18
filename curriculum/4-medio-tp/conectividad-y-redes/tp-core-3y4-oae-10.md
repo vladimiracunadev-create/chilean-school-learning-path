@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15668) · [Clase 2](#cl-15669) · [Clase 3](#cl-15670) · [Clase 4](#cl-15671)
+**Clases de este OA:** [Clase 1](#cl-15805) · [Clase 2](#cl-15806) · [Clase 3](#cl-15807) · [Clase 4](#cl-15808)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15668}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15805}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener actualizado el software de productividad y programas utilitarios en un equipo a través de situar el contexto laboral, la norma y el riesgo: Mantener actualizado el software de productividad y programas utilitarios en un equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Respaldo y autorización
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-09.md#cl-15667) · [Clase siguiente →](#cl-15669)
+[← Última clase del OA anterior](tp-core-3y4-oae-09.md#cl-15804) · [Clase siguiente →](#cl-15806)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15669}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15806}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener actualizado el software de productividad y programas utilitarios en un equipo a través de reconocer conceptos, documentos y roles del oficio: Mantener actualizado el software de productividad y programas utilitarios en un equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Avisar para regularizar o retirar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15668) · [Clase siguiente →](#cl-15670)
+[← Clase anterior](#cl-15805) · [Clase siguiente →](#cl-15807)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15670}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15807}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener actualizado el software de productividad y programas utilitarios en un equipo a través de analizar un caso de trabajo en papel: Mantener actualizado el software de productividad y programas utilitarios en un equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 30 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15669) · [Clase siguiente →](#cl-15671)
+[← Clase anterior](#cl-15806) · [Clase siguiente →](#cl-15808)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15671}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener actualizado el software de productividad y programas utilitarios en un equipo {#cl-15808}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener actualizado el software de productividad y programas utilitarios en un equipo a través de aplicar un criterio técnico con datos de ejemplo: Mantener actualizado el software de productividad y programas utilitarios en un equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: Sí, cabe
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15670) · [Primera clase del OA siguiente →](tp-core-3y4-oae-11.md#cl-15672)
+[← Clase anterior](#cl-15807) · [Primera clase del OA siguiente →](tp-core-3y4-oae-11.md#cl-15809)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

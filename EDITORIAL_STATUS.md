@@ -4,13 +4,13 @@ Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.jso
 
 | Estado | Clases | Significado |
 |---|---:|---|
-| Inventariada | 16.548 | OA, nivel, asignatura, eje y fuente oficial identificados |
-| Secuenciada | 16.548 | posición, fase y duración propuestas dentro del OA |
+| Inventariada | 16.755 | OA, nivel, asignatura, eje y fuente oficial identificados |
+| Secuenciada | 16.755 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores |
-| Desarrollada | 12.392 | contenido disciplinar específico validado contra el contrato estructural |
+| Desarrollada | 12.599 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
-| Publicada | 16.548 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
+| Publicada | 16.755 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
@@ -256,6 +256,7 @@ Los 165 OA son los mismos en 3° y 4° medio y cuentan en los dos niveles. Cada 
 |---|---|---|---:|---:|
 | Administración | Administración | bajo | 15 | 62 |
 | Administración | Contabilidad | bajo | 7 | 58 |
+| Agropecuario | Agropecuaria | alto | 26 | 109 |
 | Alimentación | Elaboración Industrial de Alimentos | medio | 8 | 68 |
 | Alimentación | Gastronomía | medio | 14 | 57 |
 | Confección | Vestuario y Confección Textil | medio | 8 | 66 |
@@ -275,12 +276,13 @@ Los 165 OA son los mismos en 3° y 4° medio y cuentan en los dos niveles. Cada 
 | Marítimo | Operaciones Portuarias | alto | 7 | 68 |
 | Marítimo | Pesquería | alto | 7 | 68 |
 | Marítimo | Tripulación de Naves Mercantes y Especiales | alto | 9 | 88 |
+| Metalmecánica | Mecánica Industrial | alto | 23 | 98 |
 | Salud y Educación | Atención de Párvulos | medio | 10 | 86 |
 | Tecnología y Comunicaciones | Conectividad y Redes | bajo | 11 | 88 |
 | Tecnología y Comunicaciones | Programación | bajo | 10 | 80 |
 | Tecnología y Comunicaciones | Telecomunicaciones | bajo | 10 | 82 |
 | Transversal | Objetivos genéricos A-L | bajo | 12 | 96 |
-| **Total** | **25 especialidades** | | **257** | **1991** |
+| **Total** | **27 especialidades** | | **306** | **2198** |
 
 Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación Diferenciada Técnico-Profesional (Decreto Supremo de Educación N.º 452/2013 según el propio documento, edición 2016; las bases no traen módulos). Las especialidades sin mención comparten cuaderno entre 3° y 4° medio; en las con menciones, el tronco va en 3° y las menciones en 4°. Cada especialidad tiene [guía propia](docs/formacion-tp/README.md). Solo conceptos y casos en papel: nada de taller, laboratorio ni práctica; en las especialidades de riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Revisión humana pendiente. Avance completo de la fase en [AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
 
@@ -288,10 +290,10 @@ Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación
 ## Cobertura publicada
 
 - 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC y especialidades técnico-profesionales de 3° y 4° medio.
-- 95 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC y 33 de formación técnico-profesional, contando las menciones como denominaciones propias).
-- 3.611 Objetivos de Aprendizaje.
+- 103 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC y 41 de formación técnico-profesional, contando las menciones como denominaciones propias).
+- 3.660 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 3.611 páginas HTML de OA con anclas estables para 16.548 registros pedagógicos: 12.392 clases y 4.156 experiencias integradas.
+- 3.660 páginas HTML de OA con anclas estables para 16.755 registros pedagógicos: 12.599 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

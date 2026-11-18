@@ -28210,6 +28210,76 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Agropecuaria",
+      "subject_slug": "agropecuaria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-AGRO-3-OAE-01",
+          "description": "Preparar el suelo para establecer distintos tipos de cultivos y praderas, utilizando técnicas, maquinaria, instrumental analítico, implementos e insumos apropiados, considerando sistemas de producción, condiciones del terreno y ecosistema, y resguardo y protección del recurso suelo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGRO-3-OAE-02",
+          "description": "Regar y drenar de acuerdo a los distintos sistemas de producción vegetal, utilizando técnicas de tipo gravitacional y equipos para el riego tecnificado, considerando los requerimientos de los cultivos, las condiciones climáticas y del terreno, el resguardo del recurso hídrico y la legislación correspondiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGRO-3-OAE-03",
+          "description": "Aplicar técnicas de reproducción vegetal, de acuerdo a las características de las especies y los planes de producción.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGRO-3-OAE-04",
+          "description": "Aplicar técnicas de alimentación y pesaje en planteles pecuarios con fines productivos, según la especie, el sistema y el destino de la producción.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGRO-3-OAE-05",
+          "description": "Manejar y disponer los residuos del proceso productivo, considerando el cuidado del ambiente, de acuerdo a la legislación vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGRO-3-OAE-06",
+          "description": "Aplicar técnicas de sanidad vegetal y control de plagas, enfermedades y malezas a través de métodos preventivos y curativos, tanto químicos como orgánicos y biológicos, de acuerdo a las necesidades de los distintos cultivos, modalidades y destinos de la producción, cautelando la legislación sanitaria, ambiental y laboral vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGRO-3-OAE-07",
+          "description": "Registrar el manejo productivo y la producción del sistema en forma manual y digital, para el control de gestión de la producción agropecuaria, utilizando formatos establecidos en el sector.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGRO-3-OAE-08",
+          "description": "Utilizar sistemas de información remota e instrumental analítico para obtener y transmitir información necesaria para la agricultura de precisión, aplicable a los manejos productivos del predio.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Atención de Párvulos",
       "subject_slug": "atencion-de-parvulos",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -29053,6 +29123,69 @@
         {
           "code": "TP-INSA-3y4-OAE-08",
           "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica Industrial",
+      "subject_slug": "mecanica-industrial",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEIN-3-OAE-01",
+          "description": "Leer y utilizar especificaciones técnicas, planos elaborados con herramientas computacionales, instrumentos análogos y digitales y simbología, relacionados con el trabajo a realizar.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEIN-3-OAE-02",
+          "description": "Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución de trabajos de fabricación, mantenimiento y reparación de piezas y partes de conjuntos mecánicos y electromecánicos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEIN-3-OAE-03",
+          "description": "Unir y reparar elementos mediante actividades de corte y soldadura en posición plana horizontal y vertical, con equipos de oxígeno y arco manual, soldadura TIG y MIG, utilizando adecuadamente las herramientas, máquinas y elementos de protección personal.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEIN-3-OAE-04",
+          "description": "Realizar el mantenimiento preventivo de herramientas mecánicas, hidráulicas, neumáticas, eléctricas y manuales, y de útiles y componentes propios de la especialidad de mecánica industrial, de acuerdo a pautas de mantenimiento y especificaciones del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEIN-3-OAE-05",
+          "description": "Realizar trabajos de sujeción, pulido y ajuste, utilizando herramientas eléctricas y manuales, considerando las medidas de seguridad y de protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEIN-3-OAE-06",
+          "description": "Aplicar constantemente la normativa pertinente de higiene, seguridad industrial y medioambiental correspondiente al tipo de faenas y al sector productivo, para prevenir riesgos de accidentes, enfermedades profesionales, daños ambientales y de los equipos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEIN-3-OAE-07",
+          "description": "Aplicar los procedimientos establecidos y las normativas nacionales e internacionales de fabricación que correspondan al tipo de producto o faena en ejecución.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -30149,6 +30282,174 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Agropecuaria · mención Agricultura",
+      "subject_slug": "agropecuaria-mencion-agricultura",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-AGAG-4-OAM-01",
+          "description": "Aplicar técnicas de cultivo de especies vegetales (hortícolas, frutales, cereales, cultivos industriales), al aire libre y en ambientes forzados, utilizando maquinaria, herramientas e instrumental, de acuerdo a las características fisiológicas de los cultivos, propósitos productivos, sistema de producción, características del terreno y del ecosistema, según la legislación vigente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGAG-4-OAM-02",
+          "description": "Podar, ralear y conducir frutales para optimizar la producción, utilizando equipos y herramientas, de acuerdo a las características de las especies, propósitos productivos, sistemas de producción, características del terreno y clima.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGAG-4-OAM-03",
+          "description": "Ejecutar prácticas de post cosecha dirigidas al fruto y al predio, a fin de resguardar la calidad del producto y la sustentabilidad del predio.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGAG-4-OAM-04",
+          "description": "Ejecutar labores de acopio, clasificación y guarda de productos agrícolas diversos, de acuerdo a sus características fisiológicas y a sus destinos en el corto, mediano y largo plazo.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGAG-4-OAM-05",
+          "description": "Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria, equipos e implementos agrícolas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Agropecuaria · mención Pecuaria",
+      "subject_slug": "agropecuaria-mencion-pecuaria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-AGPE-4-OAM-01",
+          "description": "Vigilar y mantener las condiciones físicas de los entornos naturales y artificiales de los planteles pecuarios, de acuerdo a parámetros establecidos y a las normas sanitarias vigentes.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGPE-4-OAM-02",
+          "description": "Aplicar técnicas de contención, sujeción, conducción y transporte de animales para su manejo, según especie, sexo, edad de los animales y naturaleza de las labores a realizar.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGPE-4-OAM-03",
+          "description": "Aplicar técnicas de reproducción animal, tales como sincronización, detección o inducción de celo, asistencia a la monta, inseminación artificial, control del estado gestacional, en simulación o ambiente real, según especie, objetivos de producción y procedimientos establecidos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGPE-4-OAM-04",
+          "description": "Ejecutar labores de producción lechera, aplicando técnicas, equipos e instrumentos adecuados para maximizar la productividad del plantel, siguiendo los parámetros establecidos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGPE-4-OAM-05",
+          "description": "Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria, durante las diversas etapas del ciclo vital, mediante acciones y condiciones preventivas, y tratamientos curativos sencillos que no implican cirugía.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGPE-4-OAM-06",
+          "description": "Aplicar técnicas de cultivo y conservación de forrajes para su uso en alimentación animal.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGPE-4-OAM-07",
+          "description": "Verificar el funcionamiento de máquinas, equipos e instrumentos utilizados en la producción pecuaria.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Agropecuaria · mención Vitivinícola",
+      "subject_slug": "agropecuaria-mencion-vitivinicola",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-AGVI-4-OAM-01",
+          "description": "Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación, aplicando técnicas adecuadas de manejo cultural.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGVI-4-OAM-02",
+          "description": "Ejecutar procedimientos de cosecha, transporte y acondicionamiento de la uva para realizar el proceso de molienda de acuerdo a las buenas prácticas de manufactura para el proceso de vinificación.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGVI-4-OAM-03",
+          "description": "Realizar descubes, trasiegos y tratamientos enológicos en los distintos procesos de producción del vino, utilizando equipos e instrumentos adecuados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGVI-4-OAM-04",
+          "description": "Ejecutar labores de envasado del vino, etiquetado y sellado de los envases, de acuerdo a la normativa de higiene y calidad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGVI-4-OAM-05",
+          "description": "Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado, bajo las condiciones ambientales requeridas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-AGVI-4-OAM-06",
+          "description": "Verificar el funcionamiento de la maquinaria, equipos, instrumentos y utensilios utilizados en el proceso de vinificación, asegurando su disponibilidad para la continuidad del proceso productivo, de acuerdo a los procedimientos establecidos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Atención de Párvulos",
       "subject_slug": "atencion-de-parvulos",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -31140,6 +31441,160 @@
           "code": "TP-INSA-3y4-OAE-08",
           "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
           "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica Industrial · mención Mantenimiento Electromecánico",
+      "subject_slug": "mecanica-industrial-mencion-mantenimiento-electromecanico",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEEL-4-OAM-01",
+          "description": "Realizar mantenimiento preventivo de la máquina, tanto en funcionamiento como detenida, empleando pautas entregadas por el fabricante y la bitácora de funcionamiento de la máquina, aplicando normativa de seguridad y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEEL-4-OAM-02",
+          "description": "Comprobar el funcionamiento de partes y componentes, detectando problemas eléctricos y mecánicos de equipos, sistemas mecánicos, electromecánicos, hidráulicos y neumáticos de procesos industriales, mediante el uso de instrumentos y el manual del fabricante.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEEL-4-OAM-03",
+          "description": "Instalar componentes, equipos, sistemas eléctricos, electrónicos y automatizados empleados en el control de procesos, utilizando las herramientas, instrumentos y materiales apropiados, considerando los principios y fundamentos de la electricidad, la condición física del lugar, los planos, los elementos de fijación, la conexión y la normativa eléctrica y de seguridad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEEL-4-OAM-04",
+          "description": "Reponer o reparar partes y piezas de equipos, máquinas automáticas y de alta producción, sistemas mecánicos, electromecánicos, hidráulicos y neumáticos de procesos industriales que hayan cumplido su vida útil o que hayan sufrido desgaste y deterioro, de acuerdo al manual del fabricante, respetando las normas de seguridad y de protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEEL-4-OAM-05",
+          "description": "Poner en funcionamiento equipos, sistemas mecánicos, electromecánicos, hidráulicos y neumáticos de procesos industriales, realizando las mediciones correspondientes con los instrumentos apropiados, comprobando su correcto funcionamiento, de acuerdo a las tablas de tolerancia establecidas por el fabricante y respetando las normas de seguridad y de protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica Industrial · mención Matricería",
+      "subject_slug": "mecanica-industrial-mencion-matriceria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEMA-4-OAM-01",
+          "description": "Elaborar, montar y desmontar matrices en máquinas y equipos industriales, para la fabricación de piezas de diferentes materiales, de acuerdo a las especificaciones técnicas y normas de matricería.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMA-4-OAM-02",
+          "description": "Elaborar, montar y desmontar moldes de inyección de diversos materiales en máquinas y equipos industriales, de acuerdo a las especificidades del modelo y de la máquina.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMA-4-OAM-03",
+          "description": "Detectar fallas en matrices y moldes, y controlar la calidad de los procesos, insumos y productos de acuerdo a normas y parámetros establecidos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMA-4-OAM-04",
+          "description": "Ejecutar el mantenimiento preventivo y correctivo, y el retocado de matrices, moldes y útiles de matricería, utilizando productos y máquinas, herramientas y máquinas-herramientas programadas apropiadas, de acuerdo a las características de los materiales y el modelo y muestra.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMA-4-OAM-05",
+          "description": "Dibujar moldes mediante el uso de software de diseño.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMA-4-OAM-06",
+          "description": "Manipular residuos y desechos de las matrices y moldes, aplicando técnicas compatibles con el cuidado del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica Industrial · mención Máquinas-Herramientas",
+      "subject_slug": "mecanica-industrial-mencion-maquinas-herramientas",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEMH-4-OAM-01",
+          "description": "Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales, de acuerdo al manual del fabricante, las especificaciones técnicas, los principios de la mecanización, normas de seguridad y de protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMH-4-OAM-02",
+          "description": "Fabricar partes y piezas de conjuntos mecánicos con fresadora universal de acuerdo a las indicaciones del fabricante, las especificaciones técnicas, los principios de la mecanización con fresa, normas de seguridad y de protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMH-4-OAM-03",
+          "description": "Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de partes y piezas de conjuntos mecánicos de acuerdo a las indicaciones del fabricante, las especificaciones técnicas, los principios de la mecanización, normas de seguridad y de protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMH-4-OAM-04",
+          "description": "Programar y utilizar máquinas de control numérico (CNC) y manufactura asistida por computación (CAM) para la fabricación de piezas y partes de conjuntos mecánicos, de acuerdo a procedimientos establecidos, las indicaciones del fabricante y las especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEMH-4-OAM-05",
+          "description": "Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de conjuntos mecánicos, de acuerdo a las indicaciones del fabricante y las especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la mención",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
         }

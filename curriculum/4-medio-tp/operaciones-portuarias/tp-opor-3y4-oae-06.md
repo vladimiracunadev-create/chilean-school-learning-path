@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16232) · [Clase 2](#cl-16233) · [Clase 3](#cl-16234) · [Clase 4](#cl-16235) · [Clase 5](#cl-16236)
+**Clases de este OA:** [Clase 1](#cl-16439) · [Clase 2](#cl-16440) · [Clase 3](#cl-16441) · [Clase 4](#cl-16442) · [Clase 5](#cl-16443)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar la tramitación aduanera para importaciones {#cl-16232}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar la tramitación aduanera para importaciones {#cl-16439}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la tramitación aduanera para importaciones a través de situar el contexto laboral, la norma y el riesgo: Realizar la tramitación aduanera para importaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: 10 trámites
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-opor-3y4-oae-05.md#cl-16231) · [Clase siguiente →](#cl-16233)
+[← Última clase del OA anterior](tp-opor-3y4-oae-05.md#cl-16438) · [Clase siguiente →](#cl-16440)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar la tramitación aduanera para importaciones {#cl-16233}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar la tramitación aduanera para importaciones {#cl-16440}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la tramitación aduanera para importaciones a través de reconocer conceptos, documentos y roles del oficio: Realizar la tramitación aduanera para importaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: $100.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16232) · [Clase siguiente →](#cl-16234)
+[← Clase anterior](#cl-16439) · [Clase siguiente →](#cl-16441)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar la tramitación aduanera para importaciones {#cl-16234}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar la tramitación aduanera para importaciones {#cl-16441}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la tramitación aduanera para importaciones a través de analizar un caso de trabajo en papel: Realizar la tramitación aduanera para importaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 3 días de atraso
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16233) · [Clase siguiente →](#cl-16235)
+[← Clase anterior](#cl-16440) · [Clase siguiente →](#cl-16442)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar la tramitación aduanera para importaciones {#cl-16235}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar la tramitación aduanera para importaciones {#cl-16442}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la tramitación aduanera para importaciones a través de aplicar un criterio técnico con datos de ejemplo: Realizar la tramitación aduanera para importaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: $43.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16234) · [Clase siguiente →](#cl-16236)
+[← Clase anterior](#cl-16441) · [Clase siguiente →](#cl-16443)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar la tramitación aduanera para importaciones {#cl-16236}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar la tramitación aduanera para importaciones {#cl-16443}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar la tramitación aduanera para importaciones a través de comparar alternativas y verificar la calidad: Realizar la tramitación aduanera para importaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: La vía B
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16235) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-07.md#cl-16237)
+[← Clase anterior](#cl-16442) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-07.md#cl-16444)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

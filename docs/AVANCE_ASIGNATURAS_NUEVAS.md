@@ -66,8 +66,8 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Contabilidad | 7 | 58 | 58 | 58 | 58 | 100 % |
 | *Subtotal Administración* | 22 | 120 | 120 | 120 | 120 | 100 % |
 | **Agropecuario** | | | | | | |
-| Agropecuaria (con 3 menciones: Agricultura, Pecuaria, Vitivinícola) | 26 | 109 | 0 | 0 | 0 | 0 % |
-| *Subtotal Agropecuario* | 26 | 109 | 0 | 0 | 0 | 0 % |
+| Agropecuaria (con 3 menciones: Agricultura, Pecuaria, Vitivinícola) | 26 | 109 | 109 | 109 | 109 | 100 % |
+| *Subtotal Agropecuario* | 26 | 109 | 109 | 109 | 109 | 100 % |
 | **Alimentación** | | | | | | |
 | Elaboración Industrial de Alimentos | 8 | 68 | 68 | 68 | 68 | 100 % |
 | Gastronomía (con 2 menciones: Cocina, Pastelería y Repostería) | 14 | 57 | 57 | 57 | 57 | 100 % |
@@ -104,11 +104,11 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Tripulación de Naves Mercantes y Especiales | 9 | 88 | 88 | 88 | 88 | 100 % |
 | *Subtotal Marítimo* | 31 | 296 | 296 | 296 | 296 | 100 % |
 | **Metalmecánica** | | | | | | |
-| Construcciones Metálicas | 9 | 76 | 0 | 0 | 0 | 0 % |
+| Construcciones Metálicas | 9 | 76 | 8 | 0 | 0 | 0 % |
 | Mecánica Automotriz | 8 | 70 | 0 | 0 | 0 | 0 % |
 | Mecánica de Mantenimiento de Aeronaves | 7 | 64 | 0 | 0 | 0 | 0 % |
-| Mecánica Industrial (con 3 menciones: Mantenimiento Electromecánico, Máquinas-Herramientas, Matricería) | 23 | 98 | 0 | 0 | 0 | 0 % |
-| *Subtotal Metalmecánica* | 47 | 308 | 0 | 0 | 0 | 0 % |
+| Mecánica Industrial (con 3 menciones: Mantenimiento Electromecánico, Máquinas-Herramientas, Matricería) | 23 | 98 | 98 | 98 | 98 | 100 % |
+| *Subtotal Metalmecánica* | 47 | 308 | 106 | 98 | 98 | 32 % |
 | **Minero** | | | | | | |
 | Asistencia en Geología | 8 | 66 | 0 | 0 | 0 | 0 % |
 | Explotación Minera | 8 | 70 | 0 | 0 | 0 | 0 % |
@@ -129,7 +129,7 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | **Transversal** | | | | | | |
 | Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 96 | 96 | 96 | 100 % |
 | *Subtotal Transversal* | 12 | 96 | 96 | 96 | 96 | 100 % |
-| **TOTAL FASE B** | 382 | 2745 | 1991 | 1991 | 1991 | **73 %** |
+| **TOTAL FASE B** | 382 | 2745 | 2206 | 2198 | 2198 | **80 %** |
 
 ## Fase C · EPJA
 

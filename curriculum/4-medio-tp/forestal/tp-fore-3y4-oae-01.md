@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15922) · [Clase 2](#cl-15923) · [Clase 3](#cl-15924) · [Clase 4](#cl-15925) · [Clase 5](#cl-15926) · [Clase 6](#cl-15927)
+**Clases de este OA:** [Clase 1](#cl-16059) · [Clase 2](#cl-16060) · [Clase 3](#cl-16061) · [Clase 4](#cl-16062) · [Clase 5](#cl-16063) · [Clase 6](#cl-16064)
 
-### Clase 1 de 6: Situar el contexto laboral, la norma y el riesgo: Realizar los manejos culturales {#cl-15922}
+### Clase 1 de 6: Situar el contexto laboral, la norma y el riesgo: Realizar los manejos culturales {#cl-16059}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar los manejos culturales a través de situar el contexto laboral, la norma y el riesgo: Realizar los manejos culturales, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Sustitución
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15923)
+[Clase siguiente →](#cl-16060)
 
-### Clase 2 de 6: Reconocer conceptos, documentos y roles del oficio: Realizar los manejos culturales {#cl-15923}
+### Clase 2 de 6: Reconocer conceptos, documentos y roles del oficio: Realizar los manejos culturales {#cl-16060}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar los manejos culturales a través de reconocer conceptos, documentos y roles del oficio: Realizar los manejos culturales, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Respuesta: La ficha del lote
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15922) · [Clase siguiente →](#cl-15924)
+[← Clase anterior](#cl-16059) · [Clase siguiente →](#cl-16061)
 
-### Clase 3 de 6: Analizar un caso de trabajo en papel: Realizar los manejos culturales {#cl-15924}
+### Clase 3 de 6: Analizar un caso de trabajo en papel: Realizar los manejos culturales {#cl-16061}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar los manejos culturales a través de analizar un caso de trabajo en papel: Realizar los manejos culturales, con una experiencia disciplinar específica, segura y revisable.
@@ -670,9 +670,9 @@ Respuesta: 15 grados
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15923) · [Clase siguiente →](#cl-15925)
+[← Clase anterior](#cl-16060) · [Clase siguiente →](#cl-16062)
 
-### Clase 4 de 6: Aplicar un criterio técnico con datos de ejemplo: Realizar los manejos culturales {#cl-15925}
+### Clase 4 de 6: Aplicar un criterio técnico con datos de ejemplo: Realizar los manejos culturales {#cl-16062}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar los manejos culturales a través de aplicar un criterio técnico con datos de ejemplo: Realizar los manejos culturales, con una experiencia disciplinar específica, segura y revisable.
@@ -877,9 +877,9 @@ Respuesta: 300 plantas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15924) · [Clase siguiente →](#cl-15926)
+[← Clase anterior](#cl-16061) · [Clase siguiente →](#cl-16063)
 
-### Clase 5 de 6: Comparar alternativas y verificar la calidad: Realizar los manejos culturales {#cl-15926}
+### Clase 5 de 6: Comparar alternativas y verificar la calidad: Realizar los manejos culturales {#cl-16063}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar los manejos culturales a través de comparar alternativas y verificar la calidad: Realizar los manejos culturales, con una experiencia disciplinar específica, segura y revisable.
@@ -1084,9 +1084,9 @@ Respuesta: Sí, se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15925) · [Clase siguiente →](#cl-15927)
+[← Clase anterior](#cl-16062) · [Clase siguiente →](#cl-16064)
 
-### Clase 6 de 6: Registrar y comunicar el resultado: Realizar los manejos culturales {#cl-15927}
+### Clase 6 de 6: Registrar y comunicar el resultado: Realizar los manejos culturales {#cl-16064}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar los manejos culturales a través de registrar y comunicar el resultado: Realizar los manejos culturales, con una experiencia disciplinar específica, segura y revisable.
@@ -1291,7 +1291,7 @@ Respuesta: 10 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15926) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-02.md#cl-15928)
+[← Clase anterior](#cl-16063) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-02.md#cl-16065)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

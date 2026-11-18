@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15090) · [Clase 2](#cl-15091) · [Clase 3](#cl-15092) · [Clase 4](#cl-15093)
+**Clases de este OA:** [Clase 1](#cl-15153) · [Clase 2](#cl-15154) · [Clase 3](#cl-15155) · [Clase 4](#cl-15156)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar diseños de muebles {#cl-15090}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar diseños de muebles {#cl-15153}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar diseños de muebles a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar diseños de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 6 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-01.md#cl-15089) · [Clase siguiente →](#cl-15091)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-01.md#cl-15152) · [Clase siguiente →](#cl-15154)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar diseños de muebles {#cl-15091}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar diseños de muebles {#cl-15154}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar diseños de muebles a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar diseños de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 9 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15090) · [Clase siguiente →](#cl-15092)
+[← Clase anterior](#cl-15153) · [Clase siguiente →](#cl-15155)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar diseños de muebles {#cl-15092}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar diseños de muebles {#cl-15155}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar diseños de muebles a través de analizar un caso de trabajo en papel: Leer y utilizar diseños de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 120 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15091) · [Clase siguiente →](#cl-15093)
+[← Clase anterior](#cl-15154) · [Clase siguiente →](#cl-15156)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar diseños de muebles {#cl-15093}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar diseños de muebles {#cl-15156}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar diseños de muebles a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar diseños de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: La v2
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15092) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-03.md#cl-15094)
+[← Clase anterior](#cl-15155) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-03.md#cl-15157)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

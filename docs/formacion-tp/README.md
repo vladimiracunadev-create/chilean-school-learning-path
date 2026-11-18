@@ -13,6 +13,8 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Administración** | | | | |
 | Administración | bajo | 15 | 62 | [📘 Leer guía](administracion.md) |
 | Contabilidad | bajo | 7 | 58 | [📘 Leer guía](contabilidad.md) |
+| **Agropecuario** | | | | |
+| Agropecuaria | alto | 26 | 109 | [📘 Leer guía](agropecuaria.md) |
 | **Alimentación** | | | | |
 | Elaboración Industrial de Alimentos | medio | 8 | 68 | [📘 Leer guía](elaboracion-industrial-de-alimentos.md) |
 | Gastronomía | medio | 14 | 57 | [📘 Leer guía](gastronomia.md) |
@@ -40,6 +42,8 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | Operaciones Portuarias | alto | 7 | 68 | [📘 Leer guía](operaciones-portuarias.md) |
 | Pesquería | alto | 7 | 68 | [📘 Leer guía](pesqueria.md) |
 | Tripulación de Naves Mercantes y Especiales | alto | 9 | 88 | [📘 Leer guía](tripulacion-de-naves-mercantes-y-especiales.md) |
+| **Metalmecánica** | | | | |
+| Mecánica Industrial | alto | 23 | 98 | [📘 Leer guía](mecanica-industrial.md) |
 | **Salud y Educación** | | | | |
 | Atención de Párvulos | medio | 10 | 86 | [📘 Leer guía](atencion-de-parvulos.md) |
 | **Tecnología y Comunicaciones** | | | | |
@@ -49,7 +53,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **257** | **1991** | |
+| **Total publicado** | | **306** | **2198** | |
 
 ## Lo que no cubren
 

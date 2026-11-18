@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15128) · [Clase 2](#cl-15129) · [Clase 3](#cl-15130) · [Clase 4](#cl-15131)
+**Clases de este OA:** [Clase 1](#cl-15191) · [Clase 2](#cl-15192) · [Clase 3](#cl-15193) · [Clase 4](#cl-15194)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicarse oralmente y por escrito con claridad {#cl-15128}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicarse oralmente y por escrito con claridad {#cl-15191}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse oralmente y por escrito con claridad a través de situar el contexto laboral, la norma y el riesgo: Comunicarse oralmente y por escrito con claridad, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: «Sr. Rojas: le informo que mañana no podré asistir por un trámite
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15129)
+[Clase siguiente →](#cl-15192)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicarse oralmente y por escrito con claridad {#cl-15129}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicarse oralmente y por escrito con claridad {#cl-15192}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse oralmente y por escrito con claridad a través de reconocer conceptos, documentos y roles del oficio: Comunicarse oralmente y por escrito con claridad, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 18 rollos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15128) · [Clase siguiente →](#cl-15130)
+[← Clase anterior](#cl-15191) · [Clase siguiente →](#cl-15193)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicarse oralmente y por escrito con claridad {#cl-15130}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicarse oralmente y por escrito con claridad {#cl-15193}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse oralmente y por escrito con claridad a través de analizar un caso de trabajo en papel: Comunicarse oralmente y por escrito con claridad, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: «Dejo las carpetas azules en el estante 3 antes de las 15:00, ¿corr
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15129) · [Clase siguiente →](#cl-15131)
+[← Clase anterior](#cl-15192) · [Clase siguiente →](#cl-15194)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicarse oralmente y por escrito con claridad {#cl-15131}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicarse oralmente y por escrito con claridad {#cl-15194}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse oralmente y por escrito con claridad a través de aplicar un criterio técnico con datos de ejemplo: Comunicarse oralmente y por escrito con claridad, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 55 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15130) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-02.md#cl-15132)
+[← Clase anterior](#cl-15193) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-02.md#cl-15195)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

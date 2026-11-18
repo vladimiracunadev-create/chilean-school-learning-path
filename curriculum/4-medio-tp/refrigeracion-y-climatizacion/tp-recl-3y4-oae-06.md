@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16339) · [Clase 2](#cl-16340) · [Clase 3](#cl-16341) · [Clase 4](#cl-16342) · [Clase 5](#cl-16343)
+**Clases de este OA:** [Clase 1](#cl-16546) · [Clase 2](#cl-16547) · [Clase 3](#cl-16548) · [Clase 4](#cl-16549) · [Clase 5](#cl-16550)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16339}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16546}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cargar fluidos y poner en marcha sistemas de refrigeración a través de situar el contexto laboral, la norma y el riesgo: Cargar fluidos y poner en marcha sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: La piel
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-recl-3y4-oae-05.md#cl-16338) · [Clase siguiente →](#cl-16340)
+[← Última clase del OA anterior](tp-recl-3y4-oae-05.md#cl-16545) · [Clase siguiente →](#cl-16547)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16340}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16547}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cargar fluidos y poner en marcha sistemas de refrigeración a través de reconocer conceptos, documentos y roles del oficio: Cargar fluidos y poner en marcha sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 600 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16339) · [Clase siguiente →](#cl-16341)
+[← Clase anterior](#cl-16546) · [Clase siguiente →](#cl-16548)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16341}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16548}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cargar fluidos y poner en marcha sistemas de refrigeración a través de analizar un caso de trabajo en papel: Cargar fluidos y poner en marcha sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No: la tarea se detiene
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16340) · [Clase siguiente →](#cl-16342)
+[← Clase anterior](#cl-16547) · [Clase siguiente →](#cl-16549)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16342}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16549}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cargar fluidos y poner en marcha sistemas de refrigeración a través de aplicar un criterio técnico con datos de ejemplo: Cargar fluidos y poner en marcha sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 1.000 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16341) · [Clase siguiente →](#cl-16343)
+[← Clase anterior](#cl-16548) · [Clase siguiente →](#cl-16550)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16343}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Cargar fluidos y poner en marcha sistemas de refrigeración {#cl-16550}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cargar fluidos y poner en marcha sistemas de refrigeración a través de comparar alternativas y verificar la calidad: Cargar fluidos y poner en marcha sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Se detiene y se informa; decide personal autorizado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16342) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-07.md#cl-16344)
+[← Clase anterior](#cl-16549) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-07.md#cl-16551)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
