@@ -653,7 +653,7 @@ build(
     sc=[
         ("¿Cómo se calcula el costo total de una alternativa?", "Superficie con pérdida multiplicada por el precio por m²", "La pérdida se suma antes de multiplicar por el precio."),
         ("En Construcción (revestimientos): ¿qué se hace con un punto del registro fuera del máximo?", "Se informa al responsable con el valor real", "No se altera un registro para que cumpla."),
-        ("¿Quién decide la alternativa final?", "El responsable, con el proyecto y la norma vigente", "El costo es solo uno de los criterios."),
+        ("En terminaciones de obra: ¿quién decide la alternativa final?", "El responsable, con el proyecto y la norma vigente", "El costo es solo uno de los criterios."),
     ],
     op=("Caso de ejemplo (inventado): piso de 20 m². Opción A, $12.000 por m², pérdida de 5 %. Opción B, $8.000 por m², pérdida de 10 %. Registro de horizontalidad de ejemplo: puntos con 2, 5, 3 y 1 mm; máximo permitido de 4 mm. Escribe (a) los m² pedidos de A y de B, (b) el costo de A y de B, (c) cuántos puntos superan el máximo y qué haces y (d) quién decide la opción.",
         "(a) A: 20+1 son 21 m². B: 20+2 son 22 m². (b) A: 21×12.000 son 252.000 pesos. B: 22×8.000 son 176.000 pesos. (c) Un punto supera el máximo: el de 5 mm; registro el valor real e informo al responsable. (d) El responsable, con el proyecto y la norma vigente.",

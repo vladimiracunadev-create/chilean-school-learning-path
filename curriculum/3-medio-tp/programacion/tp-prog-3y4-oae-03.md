@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15060) · [Clase 2](#cl-15061) · [Clase 3](#cl-15062) · [Clase 4](#cl-15063)
+**Clases de este OA:** [Clase 1](#cl-15252) · [Clase 2](#cl-15253) · [Clase 3](#cl-15254) · [Clase 4](#cl-15255)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15060}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15252}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -182,7 +182,7 @@ Respuesta: 2 registros
 
 - **E1.** En Programación: ¿qué pasa con un UPDATE sin WHERE?
 - **E2.** ¿Qué haces antes de cambiar datos reales?
-- **E3.** ¿Para qué sirve la bitácora de cambios?
+- **E3.** En programación: ¿para qué sirve la bitácora de cambios?
 
 **Actividad abierta.** Un taller de ejemplo tiene la tabla «pedidos»: id 1, estado «pendiente»; id 2, «pendiente»; id 3, «listo» (datos inventados). Quieren marcar como «listo» solo el pedido 1. Escribe la instrucción UPDATE correcta, indica cómo quedaría la tabla, explica qué pasaría si olvidas el WHERE y escribe qué harías antes de ejecutarla.
 
@@ -251,9 +251,9 @@ Respuesta: 2 registros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-02.md#cl-15059) · [Clase siguiente →](#cl-15061)
+[← Última clase del OA anterior](tp-prog-3y4-oae-02.md#cl-15251) · [Clase siguiente →](#cl-15253)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15061}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15253}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Se rompe la integridad: el pedido queda sin cliente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15060) · [Clase siguiente →](#cl-15062)
+[← Clase anterior](#cl-15252) · [Clase siguiente →](#cl-15254)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15062}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15254}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de analizar un caso de trabajo en papel: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: [3, 8]
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15061) · [Clase siguiente →](#cl-15063)
+[← Clase anterior](#cl-15253) · [Clase siguiente →](#cl-15255)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15063}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15255}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: Se deja de usar y se elimina según la norma
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15062) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-04.md#cl-15064)
+[← Clase anterior](#cl-15254) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-04.md#cl-15256)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

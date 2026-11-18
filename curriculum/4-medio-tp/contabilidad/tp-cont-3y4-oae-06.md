@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15503) · [Clase 2](#cl-15504) · [Clase 3](#cl-15505) · [Clase 4](#cl-15506)
+**Clases de este OA:** [Clase 1](#cl-15775) · [Clase 2](#cl-15776) · [Clase 3](#cl-15777) · [Clase 4](#cl-15778)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Organizar y ordenar el lugar de trabajo {#cl-15503}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Organizar y ordenar el lugar de trabajo {#cl-15775}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y ordenar el lugar de trabajo a través de situar el contexto laboral, la norma y el riesgo: Organizar y ordenar el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Guardarla bajo llave
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cont-3y4-oae-05.md#cl-15502) · [Clase siguiente →](#cl-15504)
+[← Última clase del OA anterior](tp-cont-3y4-oae-05.md#cl-15774) · [Clase siguiente →](#cl-15776)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Organizar y ordenar el lugar de trabajo {#cl-15504}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Organizar y ordenar el lugar de trabajo {#cl-15776}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y ordenar el lugar de trabajo a través de reconocer conceptos, documentos y roles del oficio: Organizar y ordenar el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Comprobantes de egreso, junio, N.º 60 al 95
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15503) · [Clase siguiente →](#cl-15505)
+[← Clase anterior](#cl-15775) · [Clase siguiente →](#cl-15777)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Organizar y ordenar el lugar de trabajo {#cl-15505}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Organizar y ordenar el lugar de trabajo {#cl-15777}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y ordenar el lugar de trabajo a través de analizar un caso de trabajo en papel: Organizar y ordenar el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 50 minutos por día
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15504) · [Clase siguiente →](#cl-15506)
+[← Clase anterior](#cl-15776) · [Clase siguiente →](#cl-15778)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Organizar y ordenar el lugar de trabajo {#cl-15506}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Organizar y ordenar el lugar de trabajo {#cl-15778}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y ordenar el lugar de trabajo a través de aplicar un criterio técnico con datos de ejemplo: Organizar y ordenar el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: Acción con responsable, plazo y comprobación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15505) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-07.md#cl-15507)
+[← Clase anterior](#cl-15777) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-07.md#cl-15779)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

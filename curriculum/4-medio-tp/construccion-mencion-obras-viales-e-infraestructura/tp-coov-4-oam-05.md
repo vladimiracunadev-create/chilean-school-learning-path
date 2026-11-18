@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15444) · [Clase 2](#cl-15445) · [Clase 3](#cl-15446) · [Clase 4](#cl-15447)
+**Clases de este OA:** [Clase 1](#cl-15716) · [Clase 2](#cl-15717) · [Clase 3](#cl-15718) · [Clase 4](#cl-15719)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Verificar las faenas de producción {#cl-15444}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Verificar las faenas de producción {#cl-15716}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las faenas de producción a través de situar el contexto laboral, la norma y el riesgo: Verificar las faenas de producción, con una experiencia disciplinar específica, segura y revisable.
@@ -255,9 +255,9 @@ Respuesta: 10 viajes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-coov-4-oam-04.md#cl-15443) · [Clase siguiente →](#cl-15445)
+[← Última clase del OA anterior](tp-coov-4-oam-04.md#cl-15715) · [Clase siguiente →](#cl-15717)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Verificar las faenas de producción {#cl-15445}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Verificar las faenas de producción {#cl-15717}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las faenas de producción a través de reconocer conceptos, documentos y roles del oficio: Verificar las faenas de producción, con una experiencia disciplinar específica, segura y revisable.
@@ -465,9 +465,9 @@ Respuesta: El laboratorista
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15444) · [Clase siguiente →](#cl-15446)
+[← Clase anterior](#cl-15716) · [Clase siguiente →](#cl-15718)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Verificar las faenas de producción {#cl-15446}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Verificar las faenas de producción {#cl-15718}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las faenas de producción a través de analizar un caso de trabajo en papel: Verificar las faenas de producción, con una experiencia disciplinar específica, segura y revisable.
@@ -672,9 +672,9 @@ Respuesta: 6 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15445) · [Clase siguiente →](#cl-15447)
+[← Clase anterior](#cl-15717) · [Clase siguiente →](#cl-15719)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Verificar las faenas de producción {#cl-15447}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Verificar las faenas de producción {#cl-15719}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las faenas de producción a través de aplicar un criterio técnico con datos de ejemplo: Verificar las faenas de producción, con una experiencia disciplinar específica, segura y revisable.
@@ -879,7 +879,7 @@ Respuesta: 5 viajes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15446) · [Primera clase del OA siguiente →](tp-coov-4-oam-06.md#cl-15448)
+[← Clase anterior](#cl-15718) · [Primera clase del OA siguiente →](tp-coov-4-oam-06.md#cl-15720)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

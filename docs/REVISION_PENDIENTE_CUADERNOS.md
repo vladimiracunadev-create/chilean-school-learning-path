@@ -283,6 +283,12 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Gráfica** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/grafica.md).
 - **Servicios de Hotelería** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/servicios-de-hoteleria.md).
 - **Servicios de Turismo** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/servicios-de-turismo.md).
+- **Forestal** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/forestal.md).
+- **Muebles y Terminaciones en Madera** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/muebles-y-terminaciones-en-madera.md).
+- **Acuicultura** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/acuicultura.md).
+- **Operaciones Portuarias** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/operaciones-portuarias.md).
+- **Pesquería** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/pesqueria.md).
+- **Tripulación de Naves Mercantes y Especiales** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/tripulacion-de-naves-mercantes-y-especiales.md).
 - **Atención de Párvulos** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/atencion-de-parvulos.md).
 - **Conectividad y Redes** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/conectividad-y-redes.md).
 - **Programación** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/programacion.md).

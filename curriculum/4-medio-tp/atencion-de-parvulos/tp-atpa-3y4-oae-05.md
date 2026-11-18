@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15335) · [Clase 2](#cl-15336) · [Clase 3](#cl-15337) · [Clase 4](#cl-15338)
+**Clases de este OA:** [Clase 1](#cl-15607) · [Clase 2](#cl-15608) · [Clase 3](#cl-15609) · [Clase 4](#cl-15610)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15335}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15607}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma a través de situar el contexto laboral, la norma y el riesgo: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Anotar lo observado y avisar a la educadora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-04.md#cl-15334) · [Clase siguiente →](#cl-15336)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-04.md#cl-15606) · [Clase siguiente →](#cl-15608)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15336}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15608}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma a través de reconocer conceptos, documentos y roles del oficio: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No alcanza
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15335) · [Clase siguiente →](#cl-15337)
+[← Clase anterior](#cl-15607) · [Clase siguiente →](#cl-15609)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15337}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15609}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma a través de analizar un caso de trabajo en papel: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Avisar a la educadora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15336) · [Clase siguiente →](#cl-15338)
+[← Clase anterior](#cl-15608) · [Clase siguiente →](#cl-15610)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15338}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma {#cl-15610}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma a través de aplicar un criterio técnico con datos de ejemplo: Mudar a niños y niñas menores de dos años y apoyar a vestirse y desvestirse en forma, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 paquetes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15337) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-06.md#cl-15339)
+[← Clase anterior](#cl-15609) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-06.md#cl-15611)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16057) · [Clase 2](#cl-16058) · [Clase 3](#cl-16059) · [Clase 4](#cl-16060)
+**Clases de este OA:** [Clase 1](#cl-16529) · [Clase 2](#cl-16530) · [Clase 3](#cl-16531) · [Clase 4](#cl-16532)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Coser, cortar, fusionar, planchar {#cl-16057}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Coser, cortar, fusionar, planchar {#cl-16529}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar coser, cortar, fusionar, planchar a través de situar el contexto laboral, la norma y el riesgo: Coser, cortar, fusionar, planchar, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Quemaduras
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-vcte-3y4-oae-03.md#cl-16056) · [Clase siguiente →](#cl-16058)
+[← Última clase del OA anterior](tp-vcte-3y4-oae-03.md#cl-16528) · [Clase siguiente →](#cl-16530)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Coser, cortar, fusionar, planchar {#cl-16058}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Coser, cortar, fusionar, planchar {#cl-16530}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar coser, cortar, fusionar, planchar a través de reconocer conceptos, documentos y roles del oficio: Coser, cortar, fusionar, planchar, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Cada 5 días de trabajo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16057) · [Clase siguiente →](#cl-16059)
+[← Clase anterior](#cl-16529) · [Clase siguiente →](#cl-16531)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Coser, cortar, fusionar, planchar {#cl-16059}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Coser, cortar, fusionar, planchar {#cl-16531}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar coser, cortar, fusionar, planchar a través de analizar un caso de trabajo en papel: Coser, cortar, fusionar, planchar, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: La falta de supervisión
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16058) · [Clase siguiente →](#cl-16060)
+[← Clase anterior](#cl-16530) · [Clase siguiente →](#cl-16532)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Coser, cortar, fusionar, planchar {#cl-16060}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Coser, cortar, fusionar, planchar {#cl-16532}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar coser, cortar, fusionar, planchar a través de aplicar un criterio técnico con datos de ejemplo: Coser, cortar, fusionar, planchar, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 3 máquinas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16059) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-05.md#cl-16061)
+[← Clase anterior](#cl-16531) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-05.md#cl-16533)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

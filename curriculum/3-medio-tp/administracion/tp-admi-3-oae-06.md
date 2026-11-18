@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14580) · [Clase 2](#cl-14581) · [Clase 3](#cl-14582) · [Clase 4](#cl-14583)
+**Clases de este OA:** [Clase 1](#cl-14616) · [Clase 2](#cl-14617) · [Clase 3](#cl-14618) · [Clase 4](#cl-14619)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14580}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14616}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa a través de situar el contexto laboral, la norma y el riesgo: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 23 (estación de trabajo de ejemplo, inventada) de «Contadores Los Álamo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-admi-3-oae-05.md#cl-14579) · [Clase siguiente →](#cl-14581)
+[← Última clase del OA anterior](tp-admi-3-oae-05.md#cl-14615) · [Clase siguiente →](#cl-14617)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14581}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14617}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa a través de reconocer conceptos, documentos y roles del oficio: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 24 (glosario y documentos de ejemplo, inventados) de «Contadores Los Ála
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14580) · [Clase siguiente →](#cl-14582)
+[← Clase anterior](#cl-14616) · [Clase siguiente →](#cl-14618)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14582}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14618}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa a través de analizar un caso de trabajo en papel: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 25 (registro de consumo de ejemplo, inventado) de «Contadores Los Álamos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14581) · [Clase siguiente →](#cl-14583)
+[← Clase anterior](#cl-14617) · [Clase siguiente →](#cl-14619)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14583}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa {#cl-14619}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa a través de aplicar un criterio técnico con datos de ejemplo: Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 26 (alternativas de ejemplo, inventadas) para «Contadores Los Álamos». 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14582)
+[← Clase anterior](#cl-14618)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

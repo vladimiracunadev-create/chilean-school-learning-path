@@ -346,7 +346,7 @@ build(
     ctx=("abc", "El supervisor de ejemplo pide un informe del semestre del panel: ¿qué debe incluir como mínimo?", "Horas, repuestos y costo por tipo de trabajo, y las fechas de las órdenes", "Solo el costo total, sin el detalle", "Solo las órdenes preventivas, para que se vea mejor", "Un informe útil separa los tipos de trabajo y muestra el detalle, no solo un total."),
     sc=[
         ("En Electrónica: ¿de qué se compone el costo de una tarea?", "De la mano de obra y los repuestos", "Ambos conceptos, el trabajo y las piezas, forman el costo."),
-        ("¿Cómo se calcula la disponibilidad?", "Restando las horas de detención, dividiendo por las totales y multiplicando por cien", "Es el porcentaje de tiempo funcional."),
+        ("En electrónica: ¿cómo se calcula la disponibilidad?", "Restando las horas de detención, dividiendo por las totales y multiplicando por cien", "Es el porcentaje de tiempo funcional."),
         ("¿Se pueden aumentar horas en una orden para que cuadre?", "No, el registro debe reflejar lo realmente hecho", "Las horas falsas dañan el costo y la historia del equipo."),
     ],
     op=("Ficha de ejemplo: registro de 4 meses de un timbre automático. Mano de obra: $8.000 por hora. Órdenes: marzo, preventiva, 1 h, repuestos $0; abril, correctiva, 4 h, repuestos $24.000; mayo, preventiva, 1 h, repuestos $2.000; junio, preventiva, 1 h, repuestos $0. Escribe (a) las horas totales, (b) el costo total, (c) cuánto costó el trabajo correctivo y cuánto el preventivo, (d) qué conclusión obtienes.",

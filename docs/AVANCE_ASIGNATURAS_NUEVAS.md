@@ -94,15 +94,15 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Servicios de Turismo | 7 | 66 | 66 | 66 | 66 | 100 % |
 | *Subtotal Hotelería y Turismo* | 16 | 148 | 148 | 148 | 148 | 100 % |
 | **Maderero** | | | | | | |
-| Forestal | 10 | 92 | 92 | 92 | 0 | 100 % |
-| Muebles y Terminaciones en Madera | 10 | 84 | 84 | 84 | 0 | 100 % |
-| *Subtotal Maderero* | 20 | 176 | 176 | 176 | 0 | 100 % |
+| Forestal | 10 | 92 | 92 | 92 | 92 | 100 % |
+| Muebles y Terminaciones en Madera | 10 | 84 | 84 | 84 | 84 | 100 % |
+| *Subtotal Maderero* | 20 | 176 | 176 | 176 | 176 | 100 % |
 | **Marítimo** | | | | | | |
-| Acuicultura | 8 | 72 | 72 | 72 | 0 | 100 % |
-| Operaciones Portuarias | 7 | 68 | 68 | 0 | 0 | 0 % |
-| Pesquería | 7 | 68 | 0 | 0 | 0 | 0 % |
-| Tripulación de Naves Mercantes y Especiales | 9 | 88 | 0 | 0 | 0 | 0 % |
-| *Subtotal Marítimo* | 31 | 296 | 140 | 72 | 0 | 24 % |
+| Acuicultura | 8 | 72 | 72 | 72 | 72 | 100 % |
+| Operaciones Portuarias | 7 | 68 | 68 | 68 | 68 | 100 % |
+| Pesquería | 7 | 68 | 68 | 68 | 68 | 100 % |
+| Tripulación de Naves Mercantes y Especiales | 9 | 88 | 88 | 88 | 88 | 100 % |
+| *Subtotal Marítimo* | 31 | 296 | 296 | 296 | 296 | 100 % |
 | **Metalmecánica** | | | | | | |
 | Construcciones Metálicas | 9 | 76 | 0 | 0 | 0 | 0 % |
 | Mecánica Automotriz | 8 | 70 | 0 | 0 | 0 | 0 % |
@@ -129,7 +129,7 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | **Transversal** | | | | | | |
 | Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 96 | 96 | 96 | 100 % |
 | *Subtotal Transversal* | 12 | 96 | 96 | 96 | 96 | 100 % |
-| **TOTAL FASE B** | 382 | 2745 | 1835 | 1767 | 1519 | **64 %** |
+| **TOTAL FASE B** | 382 | 2745 | 1991 | 1991 | 1991 | **73 %** |
 
 ## Fase C · EPJA
 

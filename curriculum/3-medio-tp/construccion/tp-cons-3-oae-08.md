@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14701) · [Clase 2](#cl-14702) · [Clase 3](#cl-14703) · [Clase 4](#cl-14704)
+**Clases de este OA:** [Clase 1](#cl-14737) · [Clase 2](#cl-14738) · [Clase 3](#cl-14739) · [Clase 4](#cl-14740)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Llevar registros de información acerca de materiales {#cl-14701}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Llevar registros de información acerca de materiales {#cl-14737}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar registros de información acerca de materiales a través de situar el contexto laboral, la norma y el riesgo: Llevar registros de información acerca de materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Tacha con una línea, anota el dato correcto y firma
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cons-3-oae-07.md#cl-14700) · [Clase siguiente →](#cl-14702)
+[← Última clase del OA anterior](tp-cons-3-oae-07.md#cl-14736) · [Clase siguiente →](#cl-14738)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Llevar registros de información acerca de materiales {#cl-14702}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Llevar registros de información acerca de materiales {#cl-14738}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar registros de información acerca de materiales a través de reconocer conceptos, documentos y roles del oficio: Llevar registros de información acerca de materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: La guía de despacho
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14701) · [Clase siguiente →](#cl-14703)
+[← Clase anterior](#cl-14737) · [Clase siguiente →](#cl-14739)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Llevar registros de información acerca de materiales {#cl-14703}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Llevar registros de información acerca de materiales {#cl-14739}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar registros de información acerca de materiales a través de analizar un caso de trabajo en papel: Llevar registros de información acerca de materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: No: debería ser 45
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14702) · [Clase siguiente →](#cl-14704)
+[← Clase anterior](#cl-14738) · [Clase siguiente →](#cl-14740)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Llevar registros de información acerca de materiales {#cl-14704}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Llevar registros de información acerca de materiales {#cl-14740}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar llevar registros de información acerca de materiales a través de aplicar un criterio técnico con datos de ejemplo: Llevar registros de información acerca de materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: Ahorro de $20.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14703) · [Primera clase del OA siguiente →](tp-cons-3-oae-09.md#cl-14705)
+[← Clase anterior](#cl-14739) · [Primera clase del OA siguiente →](tp-cons-3-oae-09.md#cl-14741)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

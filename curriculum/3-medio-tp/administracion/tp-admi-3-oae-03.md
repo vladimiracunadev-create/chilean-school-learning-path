@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14568) · [Clase 2](#cl-14569) · [Clase 3](#cl-14570) · [Clase 4](#cl-14571)
+**Clases de este OA:** [Clase 1](#cl-14604) · [Clase 2](#cl-14605) · [Clase 3](#cl-14606) · [Clase 4](#cl-14607)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14568}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14604}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un a través de situar el contexto laboral, la norma y el riesgo: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 11 (caso de ejemplo, inventado). «Servicios Maitén Ltda.» tiene un prog
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-admi-3-oae-02.md#cl-14567) · [Clase siguiente →](#cl-14569)
+[← Última clase del OA anterior](tp-admi-3-oae-02.md#cl-14603) · [Clase siguiente →](#cl-14605)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14569}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14605}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un a través de reconocer conceptos, documentos y roles del oficio: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 12 (formatos de ejemplo, inventados) de «Servicios Maitén Ltda.». Forma
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14568) · [Clase siguiente →](#cl-14570)
+[← Clase anterior](#cl-14604) · [Clase siguiente →](#cl-14606)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14570}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14606}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un a través de analizar un caso de trabajo en papel: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 13 (tabla de seguimiento de ejemplo, inventada), cierre de la semana 4 de 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14569) · [Clase siguiente →](#cl-14571)
+[← Clase anterior](#cl-14605) · [Clase siguiente →](#cl-14607)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14571}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un {#cl-14607}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un a través de aplicar un criterio técnico con datos de ejemplo: Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 14 (datos de ejemplo, inventados). Programa de «Servicios Maitén Ltda.»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14570) · [Primera clase del OA siguiente →](tp-admi-3-oae-04.md#cl-14572)
+[← Clase anterior](#cl-14606) · [Primera clase del OA siguiente →](tp-admi-3-oae-04.md#cl-14608)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

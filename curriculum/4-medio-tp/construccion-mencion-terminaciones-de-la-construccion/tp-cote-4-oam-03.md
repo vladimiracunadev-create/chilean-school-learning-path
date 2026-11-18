@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15465) · [Clase 2](#cl-15466) · [Clase 3](#cl-15467) · [Clase 4](#cl-15468) · [Clase 5](#cl-15469)
+**Clases de este OA:** [Clase 1](#cl-15737) · [Clase 2](#cl-15738) · [Clase 3](#cl-15739) · [Clase 4](#cl-15740) · [Clase 5](#cl-15741)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Revestir superficies de pisos {#cl-15465}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Revestir superficies de pisos {#cl-15737}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar revestir superficies de pisos a través de situar el contexto laboral, la norma y el riesgo: Revestir superficies de pisos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 150 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cote-4-oam-02.md#cl-15464) · [Clase siguiente →](#cl-15466)
+[← Última clase del OA anterior](tp-cote-4-oam-02.md#cl-15736) · [Clase siguiente →](#cl-15738)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Revestir superficies de pisos {#cl-15466}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Revestir superficies de pisos {#cl-15738}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar revestir superficies de pisos a través de reconocer conceptos, documentos y roles del oficio: Revestir superficies de pisos, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 800 cm²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15465) · [Clase siguiente →](#cl-15467)
+[← Clase anterior](#cl-15737) · [Clase siguiente →](#cl-15739)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Revestir superficies de pisos {#cl-15467}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Revestir superficies de pisos {#cl-15739}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar revestir superficies de pisos a través de analizar un caso de trabajo en papel: Revestir superficies de pisos, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 22 m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15466) · [Clase siguiente →](#cl-15468)
+[← Clase anterior](#cl-15738) · [Clase siguiente →](#cl-15740)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Revestir superficies de pisos {#cl-15468}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Revestir superficies de pisos {#cl-15740}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar revestir superficies de pisos a través de aplicar un criterio técnico con datos de ejemplo: Revestir superficies de pisos, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15467) · [Clase siguiente →](#cl-15469)
+[← Clase anterior](#cl-15739) · [Clase siguiente →](#cl-15741)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Revestir superficies de pisos {#cl-15469}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Revestir superficies de pisos {#cl-15741}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar revestir superficies de pisos a través de comparar alternativas y verificar la calidad: Revestir superficies de pisos, con una experiencia disciplinar específica, segura y revisable.
@@ -1012,7 +1012,7 @@ Respuesta: 4 puntos
 
 - **E1.** ¿Cómo se calcula el costo total de una alternativa?
 - **E2.** En Construcción (revestimientos): ¿qué se hace con un punto del registro fuera del máximo?
-- **E3.** ¿Quién decide la alternativa final?
+- **E3.** En terminaciones de obra: ¿quién decide la alternativa final?
 
 **Actividad abierta.** Caso de ejemplo (inventado): piso de 20 m². Opción A, $12.000 por m², pérdida de 5 %. Opción B, $8.000 por m², pérdida de 10 %. Registro de horizontalidad de ejemplo: puntos con 2, 5, 3 y 1 mm; máximo permitido de 4 mm. Escribe (a) los m² pedidos de A y de B, (b) el costo de A y de B, (c) cuántos puntos superan el máximo y qué haces y (d) quién decide la opción.
 
@@ -1081,7 +1081,7 @@ Respuesta: 4 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15468) · [Primera clase del OA siguiente →](tp-cote-4-oam-04.md#cl-15470)
+[← Clase anterior](#cl-15740) · [Primera clase del OA siguiente →](tp-cote-4-oam-04.md#cl-15742)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

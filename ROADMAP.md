@@ -19,7 +19,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Completo: 495 desarrolladas · 18 denominaciones · 0 pendientes |
 | 4° medio FG | 91 | 466 | Completo: 466 desarrolladas · 17 denominaciones · 0 pendientes |
 
-Total actual: **16.076 propuestas**, **3.509 OA**, **11.920 clases desarrolladas**, **4.156 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 4° medio** y **0 clases con revisión humana registrada**.
+Total actual: **16.548 propuestas**, **3.611 OA**, **12.392 clases desarrolladas**, **4.156 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 4° medio** y **0 clases con revisión humana registrada**.
 
 ## Capa longitudinal transversal
 

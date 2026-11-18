@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15511) · [Clase 2](#cl-15512) · [Clase 3](#cl-15513) · [Clase 4](#cl-15514)
+**Clases de este OA:** [Clase 1](#cl-15783) · [Clase 2](#cl-15784) · [Clase 3](#cl-15785) · [Clase 4](#cl-15786)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información técnica consignada en manuales {#cl-15511}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información técnica consignada en manuales {#cl-15783}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información técnica consignada en manuales a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar información técnica consignada en manuales, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: La revisión C, confirmada con quien la emitió
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15512)
+[Clase siguiente →](#cl-15784)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información técnica consignada en manuales {#cl-15512}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información técnica consignada en manuales {#cl-15784}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información técnica consignada en manuales a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar información técnica consignada en manuales, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 240 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15511) · [Clase siguiente →](#cl-15513)
+[← Clase anterior](#cl-15783) · [Clase siguiente →](#cl-15785)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar información técnica consignada en manuales {#cl-15513}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar información técnica consignada en manuales {#cl-15785}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información técnica consignada en manuales a través de analizar un caso de trabajo en papel: Leer y utilizar información técnica consignada en manuales, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: No hay error: son la misma medida
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15512) · [Clase siguiente →](#cl-15514)
+[← Clase anterior](#cl-15784) · [Clase siguiente →](#cl-15786)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información técnica consignada en manuales {#cl-15514}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información técnica consignada en manuales {#cl-15786}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información técnica consignada en manuales a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información técnica consignada en manuales, con una experiencia disciplinar específica, segura y revisable.
@@ -877,7 +877,7 @@ Respuesta: Largo 900 mm, fondo 200 mm, espesor 18 mm, madera, entrega el viernes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15513) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-02.md#cl-15515)
+[← Clase anterior](#cl-15785) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-02.md#cl-15787)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14877) · [Clase 2](#cl-14878) · [Clase 3](#cl-14879) · [Clase 4](#cl-14880)
+**Clases de este OA:** [Clase 1](#cl-14959) · [Clase 2](#cl-14960) · [Clase 3](#cl-14961) · [Clase 4](#cl-14962)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14877}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14959}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar solicitar, recepcionar, almacenar y rotular materias primas a través de situar el contexto laboral, la norma y el riesgo: Solicitar, recepcionar, almacenar y rotular materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Solicitar va primero
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-14878)
+[Clase siguiente →](#cl-14960)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14878}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14960}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar solicitar, recepcionar, almacenar y rotular materias primas a través de reconocer conceptos, documentos y roles del oficio: Solicitar, recepcionar, almacenar y rotular materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Faltan 5 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14877) · [Clase siguiente →](#cl-14879)
+[← Clase anterior](#cl-14959) · [Clase siguiente →](#cl-14961)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14879}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14961}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar solicitar, recepcionar, almacenar y rotular materias primas a través de analizar un caso de trabajo en papel: Solicitar, recepcionar, almacenar y rotular materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Se acepta en parte: se aceptan 10 cajas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14878) · [Clase siguiente →](#cl-14880)
+[← Clase anterior](#cl-14960) · [Clase siguiente →](#cl-14962)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14880}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Solicitar, recepcionar, almacenar y rotular materias primas {#cl-14962}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar solicitar, recepcionar, almacenar y rotular materias primas a través de aplicar un criterio técnico con datos de ejemplo: Solicitar, recepcionar, almacenar y rotular materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: El que vence en 3 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14879) · [Primera clase del OA siguiente →](tp-gast-3-oae-02.md#cl-14881)
+[← Clase anterior](#cl-14961) · [Primera clase del OA siguiente →](tp-gast-3-oae-02.md#cl-14963)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

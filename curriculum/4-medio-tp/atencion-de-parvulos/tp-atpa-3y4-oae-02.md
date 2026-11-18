@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15323) · [Clase 2](#cl-15324) · [Clase 3](#cl-15325) · [Clase 4](#cl-15326)
+**Clases de este OA:** [Clase 1](#cl-15595) · [Clase 2](#cl-15596) · [Clase 3](#cl-15597) · [Clase 4](#cl-15598)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15323}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15595}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar, utilizar y almacenar material didáctico y de ambientación educativa para el a través de situar el contexto laboral, la norma y el riesgo: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El de equidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-01.md#cl-15322) · [Clase siguiente →](#cl-15324)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-01.md#cl-15594) · [Clase siguiente →](#cl-15596)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15324}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15596}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar, utilizar y almacenar material didáctico y de ambientación educativa para el a través de reconocer conceptos, documentos y roles del oficio: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Apartarlo y avisar a la educadora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15323) · [Clase siguiente →](#cl-15325)
+[← Clase anterior](#cl-15595) · [Clase siguiente →](#cl-15597)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15325}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15597}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar, utilizar y almacenar material didáctico y de ambientación educativa para el a través de analizar un caso de trabajo en papel: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 3 turnos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15324) · [Clase siguiente →](#cl-15326)
+[← Clase anterior](#cl-15596) · [Clase siguiente →](#cl-15598)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15326}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el {#cl-15598}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar, utilizar y almacenar material didáctico y de ambientación educativa para el a través de aplicar un criterio técnico con datos de ejemplo: Preparar, utilizar y almacenar material didáctico y de ambientación educativa para el, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 paquetes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15325) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-03.md#cl-15327)
+[← Clase anterior](#cl-15597) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-03.md#cl-15599)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

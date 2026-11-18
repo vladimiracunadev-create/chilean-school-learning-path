@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15654) · [Clase 2](#cl-15655) · [Clase 3](#cl-15656) · [Clase 4](#cl-15657)
+**Clases de este OA:** [Clase 1](#cl-15972) · [Clase 2](#cl-15973) · [Clase 3](#cl-15974) · [Clase 4](#cl-15975)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar productos gastronómicos básicos de cocina internacional {#cl-15654}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar productos gastronómicos básicos de cocina internacional {#cl-15972}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar productos gastronómicos básicos de cocina internacional a través de situar el contexto laboral, la norma y el riesgo: Preparar productos gastronómicos básicos de cocina internacional, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 60 porciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gaco-4-oam-01.md#cl-15653) · [Clase siguiente →](#cl-15655)
+[← Última clase del OA anterior](tp-gaco-4-oam-01.md#cl-15971) · [Clase siguiente →](#cl-15973)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar productos gastronómicos básicos de cocina internacional {#cl-15655}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar productos gastronómicos básicos de cocina internacional {#cl-15973}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar productos gastronómicos básicos de cocina internacional a través de reconocer conceptos, documentos y roles del oficio: Preparar productos gastronómicos básicos de cocina internacional, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: Italia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15654) · [Clase siguiente →](#cl-15656)
+[← Clase anterior](#cl-15972) · [Clase siguiente →](#cl-15974)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar productos gastronómicos básicos de cocina internacional {#cl-15656}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar productos gastronómicos básicos de cocina internacional {#cl-15974}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar productos gastronómicos básicos de cocina internacional a través de analizar un caso de trabajo en papel: Preparar productos gastronómicos básicos de cocina internacional, con una experiencia disciplinar específica, segura y revisable.
@@ -663,9 +663,9 @@ Respuesta: 250 g
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15655) · [Clase siguiente →](#cl-15657)
+[← Clase anterior](#cl-15973) · [Clase siguiente →](#cl-15975)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar productos gastronómicos básicos de cocina internacional {#cl-15657}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar productos gastronómicos básicos de cocina internacional {#cl-15975}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar productos gastronómicos básicos de cocina internacional a través de aplicar un criterio técnico con datos de ejemplo: Preparar productos gastronómicos básicos de cocina internacional, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: $600
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15656) · [Primera clase del OA siguiente →](tp-gaco-4-oam-03.md#cl-15658)
+[← Clase anterior](#cl-15974) · [Primera clase del OA siguiente →](tp-gaco-4-oam-03.md#cl-15976)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

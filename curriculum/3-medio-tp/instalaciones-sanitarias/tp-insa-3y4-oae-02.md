@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14928) · [Clase 2](#cl-14929) · [Clase 3](#cl-14930) · [Clase 4](#cl-14931)
+**Clases de este OA:** [Clase 1](#cl-15010) · [Clase 2](#cl-15011) · [Clase 3](#cl-15012) · [Clase 4](#cl-15013)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar digitalmente elementos y materiales {#cl-14928}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar digitalmente elementos y materiales {#cl-15010}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar digitalmente elementos y materiales a través de situar el contexto laboral, la norma y el riesgo: Cubicar digitalmente elementos y materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: No es razonable: hay que revisarlo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-insa-3y4-oae-01.md#cl-14927) · [Clase siguiente →](#cl-14929)
+[← Última clase del OA anterior](tp-insa-3y4-oae-01.md#cl-15009) · [Clase siguiente →](#cl-15011)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar digitalmente elementos y materiales {#cl-14929}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar digitalmente elementos y materiales {#cl-15011}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar digitalmente elementos y materiales a través de reconocer conceptos, documentos y roles del oficio: Cubicar digitalmente elementos y materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 5.000 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14928) · [Clase siguiente →](#cl-14930)
+[← Clase anterior](#cl-15010) · [Clase siguiente →](#cl-15012)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar digitalmente elementos y materiales {#cl-14930}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar digitalmente elementos y materiales {#cl-15012}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar digitalmente elementos y materiales a través de analizar un caso de trabajo en papel: Cubicar digitalmente elementos y materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 1.200 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14929) · [Clase siguiente →](#cl-14931)
+[← Clase anterior](#cl-15011) · [Clase siguiente →](#cl-15013)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar digitalmente elementos y materiales {#cl-14931}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar digitalmente elementos y materiales {#cl-15013}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar digitalmente elementos y materiales a través de aplicar un criterio técnico con datos de ejemplo: Cubicar digitalmente elementos y materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: Hay una fila duplicada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14930) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-03.md#cl-14932)
+[← Clase anterior](#cl-15012) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-03.md#cl-15014)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

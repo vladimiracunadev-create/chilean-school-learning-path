@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15832) · [Clase 2](#cl-15833) · [Clase 3](#cl-15834) · [Clase 4](#cl-15835)
+**Clases de este OA:** [Clase 1](#cl-16192) · [Clase 2](#cl-16193) · [Clase 3](#cl-16194) · [Clase 4](#cl-16195)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-15832}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16192}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de situar el contexto laboral, la norma y el riesgo: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -181,7 +181,7 @@ Respuesta: $2.400
 *Autoevaluación*
 
 - **E1.** En uso eficiente de recursos: ¿qué es el desperdicio?
-- **E2.** ¿Qué es la merma?
+- **E2.** En el mundo del trabajo: ¿qué es la merma?
 - **E3.** ¿Para qué sirve registrar el consumo de insumos?
 
 **Actividad abierta.** Caso de ejemplo. Una lavandería ficticia compra 200 litros de detergente líquido al mes. Se usan 170 litros en lavados, 10 litros se derraman al llenar los recipientes por apuro y 20 litros quedan con la fecha vencida. El litro cuesta $1.500 (valor de ejemplo). Escribe: (1) cuántos litros se desperdician, (2) cuánto dinero se pierde, (3) dos medidas para reducir el desperdicio, (4) qué registrarías cada semana.
@@ -251,9 +251,9 @@ Respuesta: $2.400
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-08.md#cl-15831) · [Clase siguiente →](#cl-15833)
+[← Última clase del OA anterior](tp-gene-3y4-oag-08.md#cl-16191) · [Clase siguiente →](#cl-16193)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-15833}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16193}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de reconocer conceptos, documentos y roles del oficio: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 25 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15832) · [Clase siguiente →](#cl-15834)
+[← Clase anterior](#cl-16192) · [Clase siguiente →](#cl-16194)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-15834}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16194}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de analizar un caso de trabajo en papel: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: $300
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15833) · [Clase siguiente →](#cl-15835)
+[← Clase anterior](#cl-16193) · [Clase siguiente →](#cl-16195)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-15835}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar eficientemente los insumos para los procesos productivos y disponer {#cl-16195}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar eficientemente los insumos para los procesos productivos y disponer a través de aplicar un criterio técnico con datos de ejemplo: Utilizar eficientemente los insumos para los procesos productivos y disponer, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 10 por cada 100
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15834) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-10.md#cl-15836)
+[← Clase anterior](#cl-16194) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-10.md#cl-16196)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14563) · [Clase 2](#cl-14564) · [Clase 3](#cl-14565) · [Clase 4](#cl-14566) · [Clase 5](#cl-14567)
+**Clases de este OA:** [Clase 1](#cl-14599) · [Clase 2](#cl-14600) · [Clase 3](#cl-14601) · [Clase 4](#cl-14602) · [Clase 5](#cl-14603)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14563}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14599}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar un programa de actividades operativas de un departamento o área de una empresa a través de situar el contexto laboral, la norma y el riesgo: Elaborar un programa de actividades operativas de un departamento o área de una empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 6 (caso de ejemplo, inventado). Empresa ficticia «Distribuidora Pampa Ver
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-admi-3-oae-01.md#cl-14562) · [Clase siguiente →](#cl-14564)
+[← Última clase del OA anterior](tp-admi-3-oae-01.md#cl-14598) · [Clase siguiente →](#cl-14600)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14564}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14600}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar un programa de actividades operativas de un departamento o área de una empresa a través de reconocer conceptos, documentos y roles del oficio: Elaborar un programa de actividades operativas de un departamento o área de una empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 7 (formatos de ejemplo, inventados) de «Distribuidora Pampa Verde Ltda.»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14563) · [Clase siguiente →](#cl-14565)
+[← Clase anterior](#cl-14599) · [Clase siguiente →](#cl-14601)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14565}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14601}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar un programa de actividades operativas de un departamento o área de una empresa a través de analizar un caso de trabajo en papel: Elaborar un programa de actividades operativas de un departamento o área de una empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 8 (caso de ejemplo, inventado) del área de ventas de «Distribuidora Pamp
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14564) · [Clase siguiente →](#cl-14566)
+[← Clase anterior](#cl-14600) · [Clase siguiente →](#cl-14602)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14566}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14602}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar un programa de actividades operativas de un departamento o área de una empresa a través de aplicar un criterio técnico con datos de ejemplo: Elaborar un programa de actividades operativas de un departamento o área de una empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -883,9 +883,9 @@ Ficha 9 (datos de ejemplo, inventados). Programa de apoyo administrativo de «Se
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14565) · [Clase siguiente →](#cl-14567)
+[← Clase anterior](#cl-14601) · [Clase siguiente →](#cl-14603)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14567}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Elaborar un programa de actividades operativas de un departamento o área de una empresa {#cl-14603}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar un programa de actividades operativas de un departamento o área de una empresa a través de comparar alternativas y verificar la calidad: Elaborar un programa de actividades operativas de un departamento o área de una empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -1093,7 +1093,7 @@ Ficha 10 (alternativas de ejemplo, inventadas) para «Servicios Maitén Ltda.».
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14566) · [Primera clase del OA siguiente →](tp-admi-3-oae-03.md#cl-14568)
+[← Clase anterior](#cl-14602) · [Primera clase del OA siguiente →](tp-admi-3-oae-03.md#cl-14604)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

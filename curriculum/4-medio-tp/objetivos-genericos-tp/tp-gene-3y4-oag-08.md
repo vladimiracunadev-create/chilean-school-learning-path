@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15828) · [Clase 2](#cl-15829) · [Clase 3](#cl-15830) · [Clase 4](#cl-15831)
+**Clases de este OA:** [Clase 1](#cl-16188) · [Clase 2](#cl-16189) · [Clase 3](#cl-16190) · [Clase 4](#cl-16191)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-15828}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-16188}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar tecnologías de la información y comunicación para obtener y procesar información a través de situar el contexto laboral, la norma y el riesgo: Manejar tecnologías de la información y comunicación para obtener y procesar información, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 30 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-07.md#cl-15827) · [Clase siguiente →](#cl-15829)
+[← Última clase del OA anterior](tp-gene-3y4-oag-07.md#cl-16187) · [Clase siguiente →](#cl-16189)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-15829}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-16189}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar tecnologías de la información y comunicación para obtener y procesar información a través de reconocer conceptos, documentos y roles del oficio: Manejar tecnologías de la información y comunicación para obtener y procesar información, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 3.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15828) · [Clase siguiente →](#cl-15830)
+[← Clase anterior](#cl-16188) · [Clase siguiente →](#cl-16190)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-15830}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-16190}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar tecnologías de la información y comunicación para obtener y procesar información a través de analizar un caso de trabajo en papel: Manejar tecnologías de la información y comunicación para obtener y procesar información, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 6 fuentes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15829) · [Clase siguiente →](#cl-15831)
+[← Clase anterior](#cl-16189) · [Clase siguiente →](#cl-16191)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-15831}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Manejar tecnologías de la información y comunicación para obtener y procesar información {#cl-16191}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar tecnologías de la información y comunicación para obtener y procesar información a través de aplicar un criterio técnico con datos de ejemplo: Manejar tecnologías de la información y comunicación para obtener y procesar información, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 1.200 MB
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15830) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-09.md#cl-15832)
+[← Clase anterior](#cl-16190) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-09.md#cl-16192)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -247,7 +247,7 @@ build(
     sc=[
         ("En Dibujo Técnico: ¿para qué sirve una lista de control?", "Para verificar la calidad antes de entregar", "Todo punto de la lista debe cumplir para entregar."),
         ("¿Cómo se comparan dos alternativas?", "Con los mismos criterios medibles", "Así la comparación entre opciones es justa y verificable."),
-        ("¿Qué es la trazabilidad?", "Poder seguir qué cambió, cuándo y quién lo hizo", "Se apoya en la tabla de revisiones."),
+        ("En dibujo técnico: ¿qué es la trazabilidad?", "Poder seguir qué cambió, cuándo y quién lo hizo", "Se apoya en la tabla de revisiones."),
     ],
     op=("Un terreno de ejemplo mide 300 m². La Alternativa 1 es una casa de un piso de 140 m². La Alternativa 2 es una casa de dos pisos de 90 m² y 70 m². Límites de ejemplo: ocupación 50 %, constructibilidad 60 %. Calcula ambos porcentajes en cada alternativa, indica cuál cumple y escribe tres puntos de una lista de control que revisarías.",
         "Alternativa 1: ocupación 140 ÷ 300 ≈ 47 %, constructibilidad 47 %: cumple los dos. Alternativa 2: ocupación 90 ÷ 300 = 30 %, constructibilidad 160 ÷ 300 ≈ 53 %: cumple los dos. Ambas cumplen. Lista: rótulo con revisión; cotas con unidad; coincidencia de medidas entre vistas. La decisión es de la arquitecta con la mandante.",

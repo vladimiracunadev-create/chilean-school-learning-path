@@ -32,6 +32,14 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Hotelería y Turismo** | | | | |
 | Servicios de Hotelería | bajo | 9 | 82 | [📘 Leer guía](servicios-de-hoteleria.md) |
 | Servicios de Turismo | bajo | 7 | 66 | [📘 Leer guía](servicios-de-turismo.md) |
+| **Maderero** | | | | |
+| Forestal | alto | 10 | 92 | [📘 Leer guía](forestal.md) |
+| Muebles y Terminaciones en Madera | alto | 10 | 84 | [📘 Leer guía](muebles-y-terminaciones-en-madera.md) |
+| **Marítimo** | | | | |
+| Acuicultura | alto | 8 | 72 | [📘 Leer guía](acuicultura.md) |
+| Operaciones Portuarias | alto | 7 | 68 | [📘 Leer guía](operaciones-portuarias.md) |
+| Pesquería | alto | 7 | 68 | [📘 Leer guía](pesqueria.md) |
+| Tripulación de Naves Mercantes y Especiales | alto | 9 | 88 | [📘 Leer guía](tripulacion-de-naves-mercantes-y-especiales.md) |
 | **Salud y Educación** | | | | |
 | Atención de Párvulos | medio | 10 | 86 | [📘 Leer guía](atencion-de-parvulos.md) |
 | **Tecnología y Comunicaciones** | | | | |
@@ -41,7 +49,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **206** | **1519** | |
+| **Total publicado** | | **257** | **1991** | |
 
 ## Lo que no cubren
 

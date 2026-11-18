@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15431) · [Clase 2](#cl-15432) · [Clase 3](#cl-15433) · [Clase 4](#cl-15434)
+**Clases de este OA:** [Clase 1](#cl-15703) · [Clase 2](#cl-15704) · [Clase 3](#cl-15705) · [Clase 4](#cl-15706)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15431}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15703}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las distintas partidas de proyectos viales de mediana envergadura a través de situar el contexto laboral, la norma y el riesgo: Verificar las distintas partidas de proyectos viales de mediana envergadura, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: $100.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-coov-4-oam-01.md#cl-15430) · [Clase siguiente →](#cl-15432)
+[← Última clase del OA anterior](tp-coov-4-oam-01.md#cl-15702) · [Clase siguiente →](#cl-15704)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15432}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15704}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las distintas partidas de proyectos viales de mediana envergadura a través de reconocer conceptos, documentos y roles del oficio: Verificar las distintas partidas de proyectos viales de mediana envergadura, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El ITO
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15431) · [Clase siguiente →](#cl-15433)
+[← Clase anterior](#cl-15703) · [Clase siguiente →](#cl-15705)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15433}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15705}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las distintas partidas de proyectos viales de mediana envergadura a través de analizar un caso de trabajo en papel: Verificar las distintas partidas de proyectos viales de mediana envergadura, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Conforme
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15432) · [Clase siguiente →](#cl-15434)
+[← Clase anterior](#cl-15704) · [Clase siguiente →](#cl-15706)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15434}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Verificar las distintas partidas de proyectos viales de mediana envergadura {#cl-15706}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar verificar las distintas partidas de proyectos viales de mediana envergadura a través de aplicar un criterio técnico con datos de ejemplo: Verificar las distintas partidas de proyectos viales de mediana envergadura, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 3 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15433) · [Primera clase del OA siguiente →](tp-coov-4-oam-03.md#cl-15435)
+[← Clase anterior](#cl-15705) · [Primera clase del OA siguiente →](tp-coov-4-oam-03.md#cl-15707)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

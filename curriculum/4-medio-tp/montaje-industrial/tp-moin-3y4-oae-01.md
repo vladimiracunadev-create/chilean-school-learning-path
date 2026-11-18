@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15757) · [Clase 2](#cl-15758) · [Clase 3](#cl-15759) · [Clase 4](#cl-15760)
+**Clases de este OA:** [Clase 1](#cl-16075) · [Clase 2](#cl-16076) · [Clase 3](#cl-16077) · [Clase 4](#cl-16078)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-15757}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16075}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -182,7 +182,7 @@ Respuesta: Sustitución
 *Autoevaluación*
 
 - **E1.** En Montaje Industrial: ¿qué es un peligro?
-- **E2.** ¿Qué nivel de la jerarquía de controles es el último?
+- **E2.** En montaje industrial: ¿qué nivel de la jerarquía de controles es el último?
 - **E3.** ¿Qué tipo de control es un cartel de advertencia?
 
 **Actividad abierta.** La empresa ficticia «Montajes Demo» anota una tarea de ejemplo: unir dos piezas de una estructura a gran altura. Peligros anotados: caída de la persona y caída de chispas sobre un pasillo. Escribe (a) cuál es el peligro de caída y cuál el riesgo asociado, (b) un control administrativo para el pasillo, (c) un control de ingeniería para el mismo pasillo, (d) por qué el EPP no basta.
@@ -252,9 +252,9 @@ Respuesta: Sustitución
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15758)
+[Clase siguiente →](#cl-16076)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-15758}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16076}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: 8 vigas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15757) · [Clase siguiente →](#cl-15759)
+[← Clase anterior](#cl-16075) · [Clase siguiente →](#cl-16077)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-15759}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16077}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de analizar un caso de trabajo en papel: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -671,9 +671,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15758) · [Clase siguiente →](#cl-15760)
+[← Clase anterior](#cl-16076) · [Clase siguiente →](#cl-16078)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-15760}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16078}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -879,7 +879,7 @@ Respuesta: 6 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15759) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-02.md#cl-15761)
+[← Clase anterior](#cl-16077) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-02.md#cl-16079)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -451,7 +451,7 @@ build(
     sc=[
         ("En Programación: ¿qué pasa con un UPDATE sin WHERE?", "Cambia todos los registros de la tabla", "WHERE limita a los registros que cumplen la condición."),
         ("¿Qué haces antes de cambiar datos reales?", "Hago un respaldo y pido autorización", "Así puedo recuperar los datos si algo falla."),
-        ("¿Para qué sirve la bitácora de cambios?", "Para saber quién cambió qué y cuándo", "Permite revisar lo hecho y corregir errores después."),
+        ("En programación: ¿para qué sirve la bitácora de cambios?", "Para saber quién cambió qué y cuándo", "Permite revisar lo hecho y corregir errores después."),
     ],
     op=("Un taller de ejemplo tiene la tabla «pedidos»: id 1, estado «pendiente»; id 2, «pendiente»; id 3, «listo» (datos inventados). Quieren marcar como «listo» solo el pedido 1. Escribe la instrucción UPDATE correcta, indica cómo quedaría la tabla, explica qué pasaría si olvidas el WHERE y escribe qué harías antes de ejecutarla.",
         "UPDATE pedidos SET estado = «listo» WHERE id = 1. La tabla queda: id 1 listo, id 2 pendiente, id 3 listo. Sin WHERE, los tres pedidos quedarían «listo», lo que sería un error. Antes haría un respaldo, probaría en una copia y anotaría el cambio en la bitácora.",

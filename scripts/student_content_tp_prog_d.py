@@ -351,7 +351,7 @@ build(
     sc=[
         ("En Programación: ¿cómo se calcula el costo mensual de una suite comercial?", "Costo por usuario por cantidad de usuarios", "El costo se compara con el presupuesto disponible."),
         ("¿Qué debe tener un programa para aceptarse?", "Cubrir el requerimiento y tener licencia legítima", "Ambas condiciones son obligatorias para aceptar un programa."),
-        ("¿Quién decide la compra?", "La jefatura", "El técnico entrega el análisis, pero decide la jefatura."),
+        ("En programación: ¿quién decide la compra?", "La jefatura", "El técnico entrega el análisis, pero decide la jefatura."),
     ],
     op=("Un taller de ejemplo tiene tres usuarias: Sofía (cartas), Raúl (planilla) y Clara (comprimir archivos y abrir PDF). Candidatos: Programa A, suite comercial $12.000 al mes por usuario; Programa B, suite libre $0; Programa C, lector de PDF libre $0; Programa D, compresor libre $0. Presupuesto $30.000. Escribe una tabla de requerimientos y programas, calcula el costo de dos opciones y elige una justificándola.",
         "Sofía y Raúl se cubren con la suite A o B; Clara con C y D. Opción 1: A para Sofía y Raúl (24.000) más C y D (0) = 24.000, cabe. Opción 2: B para Sofía y Raúl más C y D = 0, cabe. Elijo la opción 2 si cubre lo necesario, porque cuesta $0 y tiene licencia libre legítima; si necesitaran una función exclusiva de A, la opción 1 también cabe.",

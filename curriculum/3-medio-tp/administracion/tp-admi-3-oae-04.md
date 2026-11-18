@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14572) · [Clase 2](#cl-14573) · [Clase 3](#cl-14574) · [Clase 4](#cl-14575)
+**Clases de este OA:** [Clase 1](#cl-14608) · [Clase 2](#cl-14609) · [Clase 3](#cl-14610) · [Clase 4](#cl-14611)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Atender a clientes internos y externos de la empresa {#cl-14572}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Atender a clientes internos y externos de la empresa {#cl-14608}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a clientes internos y externos de la empresa a través de situar el contexto laboral, la norma y el riesgo: Atender a clientes internos y externos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 15 (caso de ejemplo, inventado). «Muebles Roble Ltda.» atiende a cliente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-admi-3-oae-03.md#cl-14571) · [Clase siguiente →](#cl-14573)
+[← Última clase del OA anterior](tp-admi-3-oae-03.md#cl-14607) · [Clase siguiente →](#cl-14609)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Atender a clientes internos y externos de la empresa {#cl-14573}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Atender a clientes internos y externos de la empresa {#cl-14609}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a clientes internos y externos de la empresa a través de reconocer conceptos, documentos y roles del oficio: Atender a clientes internos y externos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 16 (técnicas y formatos de ejemplo, inventados) de «Muebles Roble Ltda.�
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14572) · [Clase siguiente →](#cl-14574)
+[← Clase anterior](#cl-14608) · [Clase siguiente →](#cl-14610)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Atender a clientes internos y externos de la empresa {#cl-14574}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Atender a clientes internos y externos de la empresa {#cl-14610}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a clientes internos y externos de la empresa a través de analizar un caso de trabajo en papel: Atender a clientes internos y externos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 17 (conversación de ejemplo, inventada) en «Muebles Roble Ltda.». Clien
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14573) · [Clase siguiente →](#cl-14575)
+[← Clase anterior](#cl-14609) · [Clase siguiente →](#cl-14611)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Atender a clientes internos y externos de la empresa {#cl-14575}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Atender a clientes internos y externos de la empresa {#cl-14611}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a clientes internos y externos de la empresa a través de aplicar un criterio técnico con datos de ejemplo: Atender a clientes internos y externos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 18 (datos de ejemplo, inventados) del área de atención de «Muebles Robl
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14574) · [Primera clase del OA siguiente →](tp-admi-3-oae-05.md#cl-14576)
+[← Clase anterior](#cl-14610) · [Primera clase del OA siguiente →](tp-admi-3-oae-05.md#cl-14612)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

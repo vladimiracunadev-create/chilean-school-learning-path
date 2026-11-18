@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15650) · [Clase 2](#cl-15651) · [Clase 3](#cl-15652) · [Clase 4](#cl-15653)
+**Clases de este OA:** [Clase 1](#cl-15968) · [Clase 2](#cl-15969) · [Clase 3](#cl-15970) · [Clase 4](#cl-15971)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar una variedad de platos de cocina básica {#cl-15650}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar una variedad de platos de cocina básica {#cl-15968}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar una variedad de platos de cocina básica a través de situar el contexto laboral, la norma y el riesgo: Preparar una variedad de platos de cocina básica, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: A las 11:00
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15651)
+[Clase siguiente →](#cl-15969)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar una variedad de platos de cocina básica {#cl-15651}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar una variedad de platos de cocina básica {#cl-15969}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar una variedad de platos de cocina básica a través de reconocer conceptos, documentos y roles del oficio: Preparar una variedad de platos de cocina básica, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 25 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15650) · [Clase siguiente →](#cl-15652)
+[← Clase anterior](#cl-15968) · [Clase siguiente →](#cl-15970)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar una variedad de platos de cocina básica {#cl-15652}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar una variedad de platos de cocina básica {#cl-15970}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar una variedad de platos de cocina básica a través de analizar un caso de trabajo en papel: Preparar una variedad de platos de cocina básica, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: A las 11:45
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15651) · [Clase siguiente →](#cl-15653)
+[← Clase anterior](#cl-15969) · [Clase siguiente →](#cl-15971)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar una variedad de platos de cocina básica {#cl-15653}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar una variedad de platos de cocina básica {#cl-15971}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar una variedad de platos de cocina básica a través de aplicar un criterio técnico con datos de ejemplo: Preparar una variedad de platos de cocina básica, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: $600
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15652) · [Primera clase del OA siguiente →](tp-gaco-4-oam-02.md#cl-15654)
+[← Clase anterior](#cl-15970) · [Primera clase del OA siguiente →](tp-gaco-4-oam-02.md#cl-15972)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

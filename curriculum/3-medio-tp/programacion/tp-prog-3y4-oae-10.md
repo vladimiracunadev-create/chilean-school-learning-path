@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15088) · [Clase 2](#cl-15089) · [Clase 3](#cl-15090) · [Clase 4](#cl-15091)
+**Clases de este OA:** [Clase 1](#cl-15280) · [Clase 2](#cl-15281) · [Clase 3](#cl-15282) · [Clase 4](#cl-15283)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15088}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15280}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de situar el contexto laboral, la norma y el riesgo: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: De prueba
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-09.md#cl-15087) · [Clase siguiente →](#cl-15089)
+[← Última clase del OA anterior](tp-prog-3y4-oae-09.md#cl-15279) · [Clase siguiente →](#cl-15281)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15089}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15281}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de reconocer conceptos, documentos y roles del oficio: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No, no se instala
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15088) · [Clase siguiente →](#cl-15090)
+[← Clase anterior](#cl-15280) · [Clase siguiente →](#cl-15282)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15090}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15282}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de analizar un caso de trabajo en papel: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -597,7 +597,7 @@ Respuesta: Sí, cubre ambos requerimientos
 
 - **E1.** En Programación: ¿cómo se calcula el costo mensual de una suite comercial?
 - **E2.** ¿Qué debe tener un programa para aceptarse?
-- **E3.** ¿Quién decide la compra?
+- **E3.** En programación: ¿quién decide la compra?
 
 **Actividad abierta.** Un taller de ejemplo tiene tres usuarias: Sofía (cartas), Raúl (planilla) y Clara (comprimir archivos y abrir PDF). Candidatos: Programa A, suite comercial $12.000 al mes por usuario; Programa B, suite libre $0; Programa C, lector de PDF libre $0; Programa D, compresor libre $0. Presupuesto $30.000. Escribe una tabla de requerimientos y programas, calcula el costo de dos opciones y elige una justificándola.
 
@@ -666,9 +666,9 @@ Respuesta: Sí, cubre ambos requerimientos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15089) · [Clase siguiente →](#cl-15091)
+[← Clase anterior](#cl-15281) · [Clase siguiente →](#cl-15283)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15091}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15283}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de aplicar un criterio técnico con datos de ejemplo: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Rechaza y propone una alternativa legítima
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15090)
+[← Clase anterior](#cl-15282)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

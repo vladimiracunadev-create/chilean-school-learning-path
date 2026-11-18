@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15929) · [Clase 2](#cl-15930) · [Clase 3](#cl-15931) · [Clase 4](#cl-15932) · [Clase 5](#cl-15933)
+**Clases de este OA:** [Clase 1](#cl-16357) · [Clase 2](#cl-16358) · [Clase 3](#cl-16359) · [Clase 4](#cl-16360) · [Clase 5](#cl-16361)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Atender clientes de acuerdo a sus necesidades {#cl-15929}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Atender clientes de acuerdo a sus necesidades {#cl-16357}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender clientes de acuerdo a sus necesidades a través de situar el contexto laboral, la norma y el riesgo: Atender clientes de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 12 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15930)
+[Clase siguiente →](#cl-16358)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Atender clientes de acuerdo a sus necesidades {#cl-15930}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Atender clientes de acuerdo a sus necesidades {#cl-16358}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender clientes de acuerdo a sus necesidades a través de reconocer conceptos, documentos y roles del oficio: Atender clientes de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: «¿Qué le pareció la habitación?»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15929) · [Clase siguiente →](#cl-15931)
+[← Clase anterior](#cl-16357) · [Clase siguiente →](#cl-16359)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Atender clientes de acuerdo a sus necesidades {#cl-15931}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Atender clientes de acuerdo a sus necesidades {#cl-16359}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender clientes de acuerdo a sus necesidades a través de analizar un caso de trabajo en papel: Atender clientes de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Informar la limitación y ofrecer una habitación en el primer piso
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15930) · [Clase siguiente →](#cl-15932)
+[← Clase anterior](#cl-16358) · [Clase siguiente →](#cl-16360)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Atender clientes de acuerdo a sus necesidades {#cl-15932}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Atender clientes de acuerdo a sus necesidades {#cl-16360}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender clientes de acuerdo a sus necesidades a través de aplicar un criterio técnico con datos de ejemplo: Atender clientes de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 3 viajes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15931) · [Clase siguiente →](#cl-15933)
+[← Clase anterior](#cl-16359) · [Clase siguiente →](#cl-16361)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Atender clientes de acuerdo a sus necesidades {#cl-15933}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Atender clientes de acuerdo a sus necesidades {#cl-16361}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender clientes de acuerdo a sus necesidades a través de comparar alternativas y verificar la calidad: Atender clientes de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15932) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-02.md#cl-15934)
+[← Clase anterior](#cl-16360) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-02.md#cl-16362)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

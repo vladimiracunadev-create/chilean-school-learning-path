@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14689) · [Clase 2](#cl-14690) · [Clase 3](#cl-14691) · [Clase 4](#cl-14692)
+**Clases de este OA:** [Clase 1](#cl-14725) · [Clase 2](#cl-14726) · [Clase 3](#cl-14727) · [Clase 4](#cl-14728)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14689}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14725}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada a través de situar el contexto laboral, la norma y el riesgo: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: $60.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cons-3-oae-04.md#cl-14688) · [Clase siguiente →](#cl-14690)
+[← Última clase del OA anterior](tp-cons-3-oae-04.md#cl-14724) · [Clase siguiente →](#cl-14726)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14690}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14726}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada a través de reconocer conceptos, documentos y roles del oficio: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 3 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14689) · [Clase siguiente →](#cl-14691)
+[← Clase anterior](#cl-14725) · [Clase siguiente →](#cl-14727)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14691}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14727}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada a través de analizar un caso de trabajo en papel: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 5 cajas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14690) · [Clase siguiente →](#cl-14692)
+[← Clase anterior](#cl-14726) · [Clase siguiente →](#cl-14728)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14692}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada {#cl-14728}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada a través de aplicar un criterio técnico con datos de ejemplo: Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: 5 cajas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14691) · [Primera clase del OA siguiente →](tp-cons-3-oae-06.md#cl-14693)
+[← Clase anterior](#cl-14727) · [Primera clase del OA siguiente →](tp-cons-3-oae-06.md#cl-14729)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

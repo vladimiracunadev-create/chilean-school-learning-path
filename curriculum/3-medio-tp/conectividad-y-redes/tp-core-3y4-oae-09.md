@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14659) · [Clase 2](#cl-14660) · [Clase 3](#cl-14661) · [Clase 4](#cl-14662)
+**Clases de este OA:** [Clase 1](#cl-14695) · [Clase 2](#cl-14696) · [Clase 3](#cl-14697) · [Clase 4](#cl-14698)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14659}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14695}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y actualizar el hardware de los computadores personales y de comunicación a través de situar el contexto laboral, la norma y el riesgo: Mantener y actualizar el hardware de los computadores personales y de comunicación, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 180 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-08.md#cl-14658) · [Clase siguiente →](#cl-14660)
+[← Última clase del OA anterior](tp-core-3y4-oae-08.md#cl-14694) · [Clase siguiente →](#cl-14696)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14660}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14696}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y actualizar el hardware de los computadores personales y de comunicación a través de reconocer conceptos, documentos y roles del oficio: Mantener y actualizar el hardware de los computadores personales y de comunicación, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No es compatible
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14659) · [Clase siguiente →](#cl-14661)
+[← Clase anterior](#cl-14695) · [Clase siguiente →](#cl-14697)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14661}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14697}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y actualizar el hardware de los computadores personales y de comunicación a través de analizar un caso de trabajo en papel: Mantener y actualizar el hardware de los computadores personales y de comunicación, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 80 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14660) · [Clase siguiente →](#cl-14662)
+[← Clase anterior](#cl-14696) · [Clase siguiente →](#cl-14698)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14662}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Mantener y actualizar el hardware de los computadores personales y de comunicación {#cl-14698}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y actualizar el hardware de los computadores personales y de comunicación a través de aplicar un criterio técnico con datos de ejemplo: Mantener y actualizar el hardware de los computadores personales y de comunicación, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: No se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14661) · [Primera clase del OA siguiente →](tp-core-3y4-oae-10.md#cl-14663)
+[← Clase anterior](#cl-14697) · [Primera clase del OA siguiente →](tp-core-3y4-oae-10.md#cl-14699)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

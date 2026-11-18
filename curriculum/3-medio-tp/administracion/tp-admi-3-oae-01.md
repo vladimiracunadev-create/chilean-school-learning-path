@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14558) · [Clase 2](#cl-14559) · [Clase 3](#cl-14560) · [Clase 4](#cl-14561) · [Clase 5](#cl-14562)
+**Clases de este OA:** [Clase 1](#cl-14594) · [Clase 2](#cl-14595) · [Clase 3](#cl-14596) · [Clase 4](#cl-14597) · [Clase 5](#cl-14598)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14558}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14594}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable básica acerca de la marcha de la empresa a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar información contable básica acerca de la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 1 (caso de ejemplo, inventado). Empresa ficticia «Comercial Los Aromos Lt
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-14559)
+[Clase siguiente →](#cl-14595)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14559}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14595}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable básica acerca de la marcha de la empresa a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar información contable básica acerca de la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 2 (documentos de ejemplo, inventados) de «Comercial Los Aromos Ltda.». D
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14558) · [Clase siguiente →](#cl-14560)
+[← Clase anterior](#cl-14594) · [Clase siguiente →](#cl-14596)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14560}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14596}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable básica acerca de la marcha de la empresa a través de analizar un caso de trabajo en papel: Leer y utilizar información contable básica acerca de la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 3 (estados de ejemplo, inventados) de «Importadora Cordillera Ltda.» al 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14559) · [Clase siguiente →](#cl-14561)
+[← Clase anterior](#cl-14595) · [Clase siguiente →](#cl-14597)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14561}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14597}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable básica acerca de la marcha de la empresa a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información contable básica acerca de la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -883,9 +883,9 @@ Ficha 4 (datos de ejemplo, inventados). Importadora Cordillera Ltda. compra un l
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14560) · [Clase siguiente →](#cl-14562)
+[← Clase anterior](#cl-14596) · [Clase siguiente →](#cl-14598)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14562}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer y utilizar información contable básica acerca de la marcha de la empresa {#cl-14598}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable básica acerca de la marcha de la empresa a través de comparar alternativas y verificar la calidad: Leer y utilizar información contable básica acerca de la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -1093,7 +1093,7 @@ Ficha 5 (datos de ejemplo, inventados). Dos ofertas para el mismo lote de herram
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14561) · [Primera clase del OA siguiente →](tp-admi-3-oae-02.md#cl-14563)
+[← Clase anterior](#cl-14597) · [Primera clase del OA siguiente →](tp-admi-3-oae-02.md#cl-14599)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

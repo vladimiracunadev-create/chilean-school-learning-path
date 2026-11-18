@@ -44,7 +44,7 @@ build(
     ctx=("abc", "El dueño de una bodega de ejemplo te dice: «ponte un casco y sube a ayudar con el montaje, tú ya sabes leer planos». ¿Qué respondes?", "Que no, porque trabajar en un montaje exige instructor autorizado, norma vigente y permiso, y que consultarás a un adulto responsable", "Que sí, porque con casco basta", "Que sí, pero solo en la parte más baja de la estructura", "Leer planos no habilita para trabajar, y el casco por sí solo no reemplaza la autorización ni los controles."),
     sc=[
         ("En Montaje Industrial: ¿qué es un peligro?", "Una fuente que puede causar daño, como una carga suspendida", "El peligro es la fuente; el riesgo es la posibilidad de daño."),
-        ("¿Qué nivel de la jerarquía de controles es el último?", "El equipo de protección personal (EPP)", "El EPP va al final porque no elimina el peligro."),
+        ("En montaje industrial: ¿qué nivel de la jerarquía de controles es el último?", "El equipo de protección personal (EPP)", "El EPP va al final porque no elimina el peligro."),
         ("¿Qué tipo de control es un cartel de advertencia?", "Un control administrativo", "El cartel informa y ordena una conducta sin cambiar el lugar."),
     ],
     op=("La empresa ficticia «Montajes Demo» anota una tarea de ejemplo: unir dos piezas de una estructura a gran altura. Peligros anotados: caída de la persona y caída de chispas sobre un pasillo. Escribe (a) cuál es el peligro de caída y cuál el riesgo asociado, (b) un control administrativo para el pasillo, (c) un control de ingeniería para el mismo pasillo, (d) por qué el EPP no basta.",

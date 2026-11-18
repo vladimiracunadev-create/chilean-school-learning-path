@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15519) · [Clase 2](#cl-15520) · [Clase 3](#cl-15521) · [Clase 4](#cl-15522) · [Clase 5](#cl-15523)
+**Clases de este OA:** [Clase 1](#cl-15791) · [Clase 2](#cl-15792) · [Clase 3](#cl-15793) · [Clase 4](#cl-15794) · [Clase 5](#cl-15795)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15519}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15791}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y a través de situar el contexto laboral, la norma y el riesgo: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Ocultar las capas de cotas y de textos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-02.md#cl-15518) · [Clase siguiente →](#cl-15520)
+[← Última clase del OA anterior](tp-dite-3y4-oae-02.md#cl-15790) · [Clase siguiente →](#cl-15792)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15520}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15792}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y a través de reconocer conceptos, documentos y roles del oficio: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Detalle: escala mayor; plano general: escala menor
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15519) · [Clase siguiente →](#cl-15521)
+[← Clase anterior](#cl-15791) · [Clase siguiente →](#cl-15793)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15521}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15793}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y a través de analizar un caso de trabajo en papel: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: «Cuadro de superficies: total leído 30 m²; suma de ambientes 27 m�
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15520) · [Clase siguiente →](#cl-15522)
+[← Clase anterior](#cl-15792) · [Clase siguiente →](#cl-15794)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15522}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15794}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y a través de aplicar un criterio técnico con datos de ejemplo: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 25 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15521) · [Clase siguiente →](#cl-15523)
+[← Clase anterior](#cl-15793) · [Clase siguiente →](#cl-15795)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15523}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y {#cl-15795}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y a través de comparar alternativas y verificar la calidad: Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y, con una experiencia disciplinar específica, segura y revisable.
@@ -1013,7 +1013,7 @@ Respuesta: No, hay que corregir las cotas
 
 - **E1.** En Dibujo Técnico: ¿para qué sirve una lista de control?
 - **E2.** ¿Cómo se comparan dos alternativas?
-- **E3.** ¿Qué es la trazabilidad?
+- **E3.** En dibujo técnico: ¿qué es la trazabilidad?
 
 **Actividad abierta.** Un terreno de ejemplo mide 300 m². La Alternativa 1 es una casa de un piso de 140 m². La Alternativa 2 es una casa de dos pisos de 90 m² y 70 m². Límites de ejemplo: ocupación 50 %, constructibilidad 60 %. Calcula ambos porcentajes en cada alternativa, indica cuál cumple y escribe tres puntos de una lista de control que revisarías.
 
@@ -1082,7 +1082,7 @@ Respuesta: No, hay que corregir las cotas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15522) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-04.md#cl-15524)
+[← Clase anterior](#cl-15794) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-04.md#cl-15796)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

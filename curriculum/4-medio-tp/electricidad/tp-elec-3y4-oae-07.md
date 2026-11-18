@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15613) · [Clase 2](#cl-15614) · [Clase 3](#cl-15615) · [Clase 4](#cl-15616)
+**Clases de este OA:** [Clase 1](#cl-15885) · [Clase 2](#cl-15886) · [Clase 3](#cl-15887) · [Clase 4](#cl-15888)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar sistemas de control {#cl-15613}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar sistemas de control {#cl-15885}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar sistemas de control a través de situar el contexto laboral, la norma y el riesgo: Ejecutar sistemas de control, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 4 A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-elec-3y4-oae-06.md#cl-15612) · [Clase siguiente →](#cl-15614)
+[← Última clase del OA anterior](tp-elec-3y4-oae-06.md#cl-15884) · [Clase siguiente →](#cl-15886)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar sistemas de control {#cl-15614}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar sistemas de control {#cl-15886}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar sistemas de control a través de reconocer conceptos, documentos y roles del oficio: Ejecutar sistemas de control, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: No se enciende
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15613) · [Clase siguiente →](#cl-15615)
+[← Clase anterior](#cl-15885) · [Clase siguiente →](#cl-15887)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar sistemas de control {#cl-15615}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar sistemas de control {#cl-15887}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar sistemas de control a través de analizar un caso de trabajo en papel: Ejecutar sistemas de control, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 3 A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15614) · [Clase siguiente →](#cl-15616)
+[← Clase anterior](#cl-15886) · [Clase siguiente →](#cl-15888)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar sistemas de control {#cl-15616}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar sistemas de control {#cl-15888}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar sistemas de control a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar sistemas de control, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: 10 kWh
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15615) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-08.md#cl-15617)
+[← Clase anterior](#cl-15887) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-08.md#cl-15889)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

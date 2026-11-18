@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14992) · [Clase 2](#cl-14993) · [Clase 3](#cl-14994) · [Clase 4](#cl-14995)
+**Clases de este OA:** [Clase 1](#cl-15074) · [Clase 2](#cl-15075) · [Clase 3](#cl-15076) · [Clase 4](#cl-15077)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento básico de instrumentos {#cl-14992}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento básico de instrumentos {#cl-15074}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de instrumentos a través de situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento básico de instrumentos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 3 revisiones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-07.md#cl-14991) · [Clase siguiente →](#cl-14993)
+[← Última clase del OA anterior](tp-moin-3y4-oae-07.md#cl-15073) · [Clase siguiente →](#cl-15075)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento básico de instrumentos {#cl-14993}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento básico de instrumentos {#cl-15075}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de instrumentos a través de reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento básico de instrumentos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 5 registros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14992) · [Clase siguiente →](#cl-14994)
+[← Clase anterior](#cl-15074) · [Clase siguiente →](#cl-15076)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el mantenimiento básico de instrumentos {#cl-14994}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el mantenimiento básico de instrumentos {#cl-15076}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de instrumentos a través de analizar un caso de trabajo en papel: Realizar el mantenimiento básico de instrumentos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 150.000 pesos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14993) · [Clase siguiente →](#cl-14995)
+[← Clase anterior](#cl-15075) · [Clase siguiente →](#cl-15077)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento básico de instrumentos {#cl-14995}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento básico de instrumentos {#cl-15077}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de instrumentos a través de aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento básico de instrumentos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 6 sellos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14994) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-09.md#cl-14996)
+[← Clase anterior](#cl-15076) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-09.md#cl-15078)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

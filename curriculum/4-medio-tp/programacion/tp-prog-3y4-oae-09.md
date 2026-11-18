@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15880) · [Clase 2](#cl-15881) · [Clase 3](#cl-15882) · [Clase 4](#cl-15883)
+**Clases de este OA:** [Clase 1](#cl-16308) · [Clase 2](#cl-16309) · [Clase 3](#cl-16310) · [Clase 4](#cl-16311)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y configurar sistemas operativos en computadores personales {#cl-15880}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y configurar sistemas operativos en computadores personales {#cl-16308}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar sistemas operativos en computadores personales a través de situar el contexto laboral, la norma y el riesgo: Instalar y configurar sistemas operativos en computadores personales, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-08.md#cl-15879) · [Clase siguiente →](#cl-15881)
+[← Última clase del OA anterior](tp-prog-3y4-oae-08.md#cl-16307) · [Clase siguiente →](#cl-16309)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y configurar sistemas operativos en computadores personales {#cl-15881}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y configurar sistemas operativos en computadores personales {#cl-16309}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar sistemas operativos en computadores personales a través de reconocer conceptos, documentos y roles del oficio: Instalar y configurar sistemas operativos en computadores personales, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No, está en otra red
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15880) · [Clase siguiente →](#cl-15882)
+[← Clase anterior](#cl-16308) · [Clase siguiente →](#cl-16310)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y configurar sistemas operativos en computadores personales {#cl-15882}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y configurar sistemas operativos en computadores personales {#cl-16310}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar sistemas operativos en computadores personales a través de analizar un caso de trabajo en papel: Instalar y configurar sistemas operativos en computadores personales, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Ve a su red, pero no sale a internet
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15881) · [Clase siguiente →](#cl-15883)
+[← Clase anterior](#cl-16309) · [Clase siguiente →](#cl-16311)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y configurar sistemas operativos en computadores personales {#cl-15883}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y configurar sistemas operativos en computadores personales {#cl-16311}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar sistemas operativos en computadores personales a través de aplicar un criterio técnico con datos de ejemplo: Instalar y configurar sistemas operativos en computadores personales, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15882) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-10.md#cl-15884)
+[← Clase anterior](#cl-16310) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-10.md#cl-16312)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

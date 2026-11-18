@@ -40,11 +40,11 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué sirve la información contable, quiénes la usan, qué normas la ordenan y qué cuidados éticos exige. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14558) |
-| 2 | Aprenderé los conceptos de activo, pasivo y patrimonio, los documentos de respaldo más usados y los roles de quienes trabajan con la información contable. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14559) |
-| 3 | Aprenderás a leer un balance y un resultado del mes, a comprobar que cuadran y a sacar conclusiones simples sobre la marcha de la empresa. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14560) |
-| 4 | Aprenderás a calcular el costo de una mercadería importada y a usar el IVA débito y el IVA crédito con tasas de ejemplo. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14561) |
-| 5 | Aprenderás a comparar alternativas con el costo total y a verificar la calidad de una información contable con una lista de control. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14562) |
+| 1 | Aprenderé para qué sirve la información contable, quiénes la usan, qué normas la ordenan y qué cuidados éticos exige. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14594) |
+| 2 | Aprenderé los conceptos de activo, pasivo y patrimonio, los documentos de respaldo más usados y los roles de quienes trabajan con la información contable. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14595) |
+| 3 | Aprenderás a leer un balance y un resultado del mes, a comprobar que cuadran y a sacar conclusiones simples sobre la marcha de la empresa. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14596) |
+| 4 | Aprenderás a calcular el costo de una mercadería importada y a usar el IVA débito y el IVA crédito con tasas de ejemplo. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14597) |
+| 5 | Aprenderás a comparar alternativas con el costo total y a verificar la calidad de una información contable con una lista de control. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-01.md#cl-14598) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -56,11 +56,11 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un programa de actividades operativas, cómo se relaciona con el plan estratégico y con las orientaciones de la jefatura, y qué riesgos conviene prever. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14563) |
-| 2 | Aprenderé los documentos del programa operativo (cuadro de actividades, carta Gantt, cuadro de recursos e indicadores) y qué rol cumple cada persona al elaborarlo. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14564) |
-| 3 | Aprenderás a analizar un programa borrador en papel: encontrar sobrecargas, conflictos de recursos y vacíos antes de proponerlo a la jefatura. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14565) |
-| 4 | Aprenderás a calcular horas, costos de insumos y fechas de un programa con datos de ejemplo, y a decidir si el programa cabe en el tiempo y el presupuesto. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14566) |
-| 5 | Aprenderás a comparar dos alternativas de programa con criterios de la jefatura y a verificar su calidad con una lista de control. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14567) |
+| 1 | Aprenderé qué es un programa de actividades operativas, cómo se relaciona con el plan estratégico y con las orientaciones de la jefatura, y qué riesgos conviene prever. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14599) |
+| 2 | Aprenderé los documentos del programa operativo (cuadro de actividades, carta Gantt, cuadro de recursos e indicadores) y qué rol cumple cada persona al elaborarlo. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14600) |
+| 3 | Aprenderás a analizar un programa borrador en papel: encontrar sobrecargas, conflictos de recursos y vacíos antes de proponerlo a la jefatura. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14601) |
+| 4 | Aprenderás a calcular horas, costos de insumos y fechas de un programa con datos de ejemplo, y a decidir si el programa cabe en el tiempo y el presupuesto. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14602) |
+| 5 | Aprenderás a comparar dos alternativas de programa con criterios de la jefatura y a verificar su calidad con una lista de control. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-02.md#cl-14603) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -72,10 +72,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el seguimiento de un programa operativo, por qué se basa en evidencias y qué cuidados éticos exige al informar. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14568) |
-| 2 | Aprenderé los documentos del seguimiento (bitácora, lista de cotejo, informe y semáforo) y los roles de quienes registran, revisan e informan. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14569) |
-| 3 | Aprenderás a analizar una tabla de seguimiento en papel: calcular desviaciones, asignar colores y relacionar cada atraso con su causa y con el elemento del programa. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14570) |
-| 4 | Aprenderás a proyectar el cierre de un programa con el ritmo real, a calcular qué se necesita para cumplirlo y a redactar un informe breve con evidencias. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14571) |
+| 1 | Aprenderé qué es el seguimiento de un programa operativo, por qué se basa en evidencias y qué cuidados éticos exige al informar. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14604) |
+| 2 | Aprenderé los documentos del seguimiento (bitácora, lista de cotejo, informe y semáforo) y los roles de quienes registran, revisan e informan. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14605) |
+| 3 | Aprenderás a analizar una tabla de seguimiento en papel: calcular desviaciones, asignar colores y relacionar cada atraso con su causa y con el elemento del programa. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14606) |
+| 4 | Aprenderás a proyectar el cierre de un programa con el ritmo real, a calcular qué se necesita para cumplirlo y a redactar un informe breve con evidencias. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-03.md#cl-14607) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -87,10 +87,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé quiénes son los clientes internos y externos, qué canales se usan para atenderlos y qué cuidados éticos y de privacidad exige la atención. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14572) |
-| 2 | Aprenderé las técnicas de comunicación oral y escrita para atender, y los formatos y roles que ordenan la atención al cliente. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14573) |
-| 3 | Aprenderás a analizar una atención ya hecha, identificar lo que falló y proponer una mejor respuesta basada en técnicas y en la política de la empresa. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14574) |
-| 4 | Aprenderás a medir la atención con datos simples (porcentaje de respuestas en plazo, reclamos resueltos) y a priorizar solicitudes con un criterio claro. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14575) |
+| 1 | Aprenderé quiénes son los clientes internos y externos, qué canales se usan para atenderlos y qué cuidados éticos y de privacidad exige la atención. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14608) |
+| 2 | Aprenderé las técnicas de comunicación oral y escrita para atender, y los formatos y roles que ordenan la atención al cliente. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14609) |
+| 3 | Aprenderás a analizar una atención ya hecha, identificar lo que falló y proponer una mejor respuesta basada en técnicas y en la política de la empresa. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14610) |
+| 4 | Aprenderás a medir la atención con datos simples (porcentaje de respuestas en plazo, reclamos resueltos) y a priorizar solicitudes con un criterio claro. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-04.md#cl-14611) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -102,10 +102,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué el orden del lugar de trabajo importa para encontrar la información, cuidar la seguridad y proteger los datos reservados, y conoceré el método de las 5S. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14576) |
-| 2 | Aprenderé los sistemas de archivo, el rotulado, la hoja de control de salida y los roles que permiten disponer y recuperar la información a tiempo. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14577) |
-| 3 | Aprenderás a analizar un caso de desorden en papel: ordenar con un sistema de archivo y ubicar lo que más se consulta en el lugar más accesible. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14578) |
-| 4 | Aprenderás a calcular la capacidad de un archivo, a asignar códigos de ubicación y a estimar el tiempo que se ahorra al ordenar. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14579) |
+| 1 | Aprenderé por qué el orden del lugar de trabajo importa para encontrar la información, cuidar la seguridad y proteger los datos reservados, y conoceré el método de las 5S. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14612) |
+| 2 | Aprenderé los sistemas de archivo, el rotulado, la hoja de control de salida y los roles que permiten disponer y recuperar la información a tiempo. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14613) |
+| 3 | Aprenderás a analizar un caso de desorden en papel: ordenar con un sistema de archivo y ubicar lo que más se consulta en el lugar más accesible. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14614) |
+| 4 | Aprenderás a calcular la capacidad de un archivo, a asignar códigos de ubicación y a estimar el tiempo que se ahorra al ordenar. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-05.md#cl-14615) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -117,10 +117,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué equipos y herramientas usa la gestión administrativa, qué cuidados de seguridad, ergonomía y uso eficiente de energía, materiales e insumos corresponden, y cuándo pedir ayuda al soporte técnico. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14580) |
-| 2 | Aprenderé los conceptos de hardware y software, las herramientas de oficina más usadas y los documentos y roles que ordenan su uso. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14581) |
-| 3 | Aprenderás a leer un registro de consumo, a calcular energía y papel gastados con datos de ejemplo y a detectar dónde se puede ahorrar. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14582) |
-| 4 | Aprenderás a aplicar un criterio técnico y económico para elegir entre dos equipos considerando energía, materiales, seguridad y costo total. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14583) |
+| 1 | Aprenderé qué equipos y herramientas usa la gestión administrativa, qué cuidados de seguridad, ergonomía y uso eficiente de energía, materiales e insumos corresponden, y cuándo pedir ayuda al soporte técnico. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14616) |
+| 2 | Aprenderé los conceptos de hardware y software, las herramientas de oficina más usadas y los documentos y roles que ordenan su uso. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14617) |
+| 3 | Aprenderás a leer un registro de consumo, a calcular energía y papel gastados con datos de ejemplo y a detectar dónde se puede ahorrar. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14618) |
+| 4 | Aprenderás a aplicar un criterio técnico y económico para elegir entre dos equipos considerando energía, materiales, seguridad y costo total. | [3° medio](../../curriculum/3-medio-tp/administracion/tp-admi-3-oae-06.md#cl-14619) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -134,10 +134,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé el recorrido de un producto en la bodega (recepción, almacenamiento y despacho), por qué cada movimiento se registra y qué cuidados éticos y de seguridad exige. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15281) |
-| 2 | Aprenderé los documentos de entrada y salida, cómo se lleva un kárdex y qué hace cada rol en el control de existencias. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15282) |
-| 3 | Aprenderás a analizar una diferencia entre el kárdex y el conteo físico, a buscar su causa en los documentos y a corregirla con respaldo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15283) |
-| 4 | Aprenderás a aplicar criterios de control con datos: valorizar existencias, decidir cuándo reponer, medir la exactitud de las recepciones y verificar una salida. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15284) |
+| 1 | Aprenderé el recorrido de un producto en la bodega (recepción, almacenamiento y despacho), por qué cada movimiento se registra y qué cuidados éticos y de seguridad exige. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15553) |
+| 2 | Aprenderé los documentos de entrada y salida, cómo se lleva un kárdex y qué hace cada rol en el control de existencias. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15554) |
+| 3 | Aprenderás a analizar una diferencia entre el kárdex y el conteo físico, a buscar su causa en los documentos y a corregirla con respaldo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15555) |
+| 4 | Aprenderás a aplicar criterios de control con datos: valorizar existencias, decidir cuándo reponer, medir la exactitud de las recepciones y verificar una salida. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-01.md#cl-15556) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -149,10 +149,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué se almacena de forma ordenada, qué condiciones y riesgos importan y qué normas y cuidados éticos se aplican al manejo de existencias. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15285) |
-| 2 | Aprenderé los métodos de almacenamiento y de salida (PEPS, FEFO y clasificación ABC), el inventario cíclico y los registros de ubicación manuales y digitales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15286) |
-| 3 | Aprenderás a analizar un caso en papel: decidir de qué lotes sale un pedido con FEFO, hallar ubicaciones y detectar productos dañados. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15287) |
-| 4 | Aprenderás a medir la exactitud de un inventario, a calcular la rotación simple de un producto y a asignar ubicaciones con código en papel. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15288) |
+| 1 | Aprenderé para qué se almacena de forma ordenada, qué condiciones y riesgos importan y qué normas y cuidados éticos se aplican al manejo de existencias. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15557) |
+| 2 | Aprenderé los métodos de almacenamiento y de salida (PEPS, FEFO y clasificación ABC), el inventario cíclico y los registros de ubicación manuales y digitales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15558) |
+| 3 | Aprenderás a analizar un caso en papel: decidir de qué lotes sale un pedido con FEFO, hallar ubicaciones y detectar productos dañados. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15559) |
+| 4 | Aprenderás a medir la exactitud de un inventario, a calcular la rotación simple de un producto y a asignar ubicaciones con código en papel. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-02.md#cl-15560) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -164,10 +164,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es cubicar, para qué sirve en la bodega y cómo calcular el volumen de una caja y de un sector con medidas de ejemplo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15289) |
-| 2 | Aprenderás a calcular cuántas cajas caben en una paleta por capa y por altura, a comprobar el peso y los documentos que respaldan el cubicaje. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15290) |
-| 3 | Aprenderás a analizar dos disposiciones de cajas en un estante, elegir la que aprovecha mejor el espacio y comprobar que no supere la carga permitida. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15291) |
-| 4 | Aprenderás a aplicar el cubicaje para decidir cuántos sectores se necesitan y a comparar alternativas con un criterio de seguridad y de costo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15292) |
+| 1 | Aprenderé qué es cubicar, para qué sirve en la bodega y cómo calcular el volumen de una caja y de un sector con medidas de ejemplo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15561) |
+| 2 | Aprenderás a calcular cuántas cajas caben en una paleta por capa y por altura, a comprobar el peso y los documentos que respaldan el cubicaje. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15562) |
+| 3 | Aprenderás a analizar dos disposiciones de cajas en un estante, elegir la que aprovecha mejor el espacio y comprobar que no supere la carga permitida. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15563) |
+| 4 | Aprenderás a aplicar el cubicaje para decidir cuántos sectores se necesitan y a comparar alternativas con un criterio de seguridad y de costo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-03.md#cl-15564) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -179,10 +179,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué sirve comunicar los datos de la bodega, qué sistemas se usan (código de barras, radiofrecuencia y computación) y qué cuidados de exactitud y privacidad se aplican. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15293) |
-| 2 | Aprenderé los informes, las alertas y los formatos de mensaje de la bodega, y los roles de quienes capturan, revisan y usan los datos. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15294) |
-| 3 | Aprenderás a analizar un informe con datos que no coinciden, buscar la causa y redactar un mensaje claro y honesto a la persona que lo necesita. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15295) |
-| 4 | Aprenderás a armar un informe de existencias con datos, a detectar alertas, a medir la exactitud y a redactar un mensaje breve para el jefe de compras. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15296) |
+| 1 | Aprenderé para qué sirve comunicar los datos de la bodega, qué sistemas se usan (código de barras, radiofrecuencia y computación) y qué cuidados de exactitud y privacidad se aplican. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15565) |
+| 2 | Aprenderé los informes, las alertas y los formatos de mensaje de la bodega, y los roles de quienes capturan, revisan y usan los datos. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15566) |
+| 3 | Aprenderás a analizar un informe con datos que no coinciden, buscar la causa y redactar un mensaje claro y honesto a la persona que lo necesita. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15567) |
+| 4 | Aprenderás a armar un informe de existencias con datos, a detectar alertas, a medir la exactitud y a redactar un mensaje breve para el jefe de compras. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-04.md#cl-15568) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -194,10 +194,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son peligro, riesgo y accidente laboral, las normas básicas de seguridad en zonas de almacenamiento y distribución y por qué las condiciones inseguras se avisan. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15297) |
-| 2 | Aprenderé la señalética básica, los elementos de protección personal, la hoja de datos de seguridad y los roles de la prevención en una bodega. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15298) |
-| 3 | Aprenderás a analizar una inspección en papel: describir hallazgos, calcular su prioridad con un método simple de ejemplo y proponer acciones sin enfrentar peligros por cuenta propia. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15299) |
-| 4 | Aprenderás a reconocer la rotulación internacional de sustancias peligrosas (pictogramas del SGA) y a aplicar reglas generales de separación y de aviso en papel. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15300) |
+| 1 | Aprenderé qué son peligro, riesgo y accidente laboral, las normas básicas de seguridad en zonas de almacenamiento y distribución y por qué las condiciones inseguras se avisan. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15569) |
+| 2 | Aprenderé la señalética básica, los elementos de protección personal, la hoja de datos de seguridad y los roles de la prevención en una bodega. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15570) |
+| 3 | Aprenderás a analizar una inspección en papel: describir hallazgos, calcular su prioridad con un método simple de ejemplo y proponer acciones sin enfrentar peligros por cuenta propia. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15571) |
+| 4 | Aprenderás a reconocer la rotulación internacional de sustancias peligrosas (pictogramas del SGA) y a aplicar reglas generales de separación y de aviso en papel. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-logistica/tp-adlo-4-oam-05.md#cl-15572) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -211,10 +211,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un contrato de trabajo, qué significa llenarlo y tramitarlo, cómo se relaciona con las remuneraciones, el finiquito y la contabilidad, y qué cuidados éticos y de privacidad exige. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15301) |
-| 2 | Aprenderé el significado de los documentos del trabajo (contrato, anexo, liquidación y finiquito), los conceptos de remuneración bruta y líquida, y los roles que participan. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15302) |
-| 3 | Aprenderás a analizar documentos laborales con errores en papel: detectar datos faltantes o imposibles, comparar cifras y proponer correcciones sin inventar normas. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15303) |
-| 4 | Aprenderás a aplicar la tramitación con cálculos de ejemplo: bruto, descuentos, líquido y un finiquito con valores de ejemplo, sin usar cifras legales reales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15304) |
+| 1 | Aprenderé qué es un contrato de trabajo, qué significa llenarlo y tramitarlo, cómo se relaciona con las remuneraciones, el finiquito y la contabilidad, y qué cuidados éticos y de privacidad exige. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15573) |
+| 2 | Aprenderé el significado de los documentos del trabajo (contrato, anexo, liquidación y finiquito), los conceptos de remuneración bruta y líquida, y los roles que participan. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15574) |
+| 3 | Aprenderás a analizar documentos laborales con errores en papel: detectar datos faltantes o imposibles, comparar cifras y proponer correcciones sin inventar normas. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15575) |
+| 4 | Aprenderás a aplicar la tramitación con cálculos de ejemplo: bruto, descuentos, líquido y un finiquito con valores de ejemplo, sin usar cifras legales reales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-01.md#cl-15576) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -226,10 +226,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué el cálculo de remuneraciones es una obligación con consecuencias para las personas, qué papel tienen las obligaciones previsionales y tributarias y qué cuidados éticos se aplican. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15305) |
-| 2 | Aprenderé los conceptos de haberes imponibles y no imponibles, horas extraordinarias, libro de remuneraciones y registro contable básico, con valores de ejemplo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15306) |
-| 3 | Aprenderás a analizar una liquidación con errores en papel: recalcular, comparar con lo emitido y proponer la corrección con respaldo, sin usar cifras legales reales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15307) |
-| 4 | Aprenderás a aplicar un criterio completo de cálculo con una planilla de ejemplo: líquidos, total retenido a instituciones, costo de la remuneración para la empresa y un finiquito de ejemplo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15308) |
+| 1 | Aprenderé por qué el cálculo de remuneraciones es una obligación con consecuencias para las personas, qué papel tienen las obligaciones previsionales y tributarias y qué cuidados éticos se aplican. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15577) |
+| 2 | Aprenderé los conceptos de haberes imponibles y no imponibles, horas extraordinarias, libro de remuneraciones y registro contable básico, con valores de ejemplo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15578) |
+| 3 | Aprenderás a analizar una liquidación con errores en papel: recalcular, comparar con lo emitido y proponer la corrección con respaldo, sin usar cifras legales reales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15579) |
+| 4 | Aprenderás a aplicar un criterio completo de cálculo con una planilla de ejemplo: líquidos, total retenido a instituciones, costo de la remuneración para la empresa y un finiquito de ejemplo. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-02.md#cl-15580) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -241,10 +241,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué información de bienestar y desarrollo de las personas se ingresa, se archiva y se presenta, para qué sirve a las jefaturas y qué cuidados de privacidad y ética exige. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15309) |
-| 2 | Aprenderé los documentos y registros de bienestar y desarrollo (ficha de personal, plan de capacitación, evaluación y registro de movimientos) y los roles de quienes los ingresan y los usan. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15310) |
-| 3 | Aprenderás a analizar una tabla de desempeño y capacitación en papel, aplicar criterios acordados y presentar a la jefatura una lista fundada sin exponer datos innecesarios. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15311) |
-| 4 | Aprenderás a calcular indicadores simples de bienestar y desarrollo (promedios, porcentajes de cumplimiento y movimientos) y a presentarlos a una jefatura sin exponer datos personales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15312) |
+| 1 | Aprenderé qué información de bienestar y desarrollo de las personas se ingresa, se archiva y se presenta, para qué sirve a las jefaturas y qué cuidados de privacidad y ética exige. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15581) |
+| 2 | Aprenderé los documentos y registros de bienestar y desarrollo (ficha de personal, plan de capacitación, evaluación y registro de movimientos) y los roles de quienes los ingresan y los usan. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15582) |
+| 3 | Aprenderás a analizar una tabla de desempeño y capacitación en papel, aplicar criterios acordados y presentar a la jefatura una lista fundada sin exponer datos innecesarios. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15583) |
+| 4 | Aprenderás a calcular indicadores simples de bienestar y desarrollo (promedios, porcentajes de cumplimiento y movimientos) y a presentarlos a una jefatura sin exponer datos personales. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-03.md#cl-15584) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -256,10 +256,10 @@ Reúne 15 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son la descripción de cargos, el reclutamiento y la inducción básica, cómo se relacionan con las necesidades de la empresa y qué cuidados éticos y de privacidad se aplican. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15313) |
-| 2 | Aprenderé los documentos del reclutamiento y la inducción (descriptor, perfil, aviso, planilla, pauta y plan de inducción) y el rol de cada persona. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15314) |
-| 3 | Aprenderás a analizar un descriptor deficiente, corregir requisitos y aplicar una pauta de entrevista con puntajes para comparar postulaciones de forma justa y reservada. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15315) |
-| 4 | Aprenderás a aplicar el proceso completo con datos de ejemplo: embudo de postulaciones, puntajes, comparación justa y plan de inducción del primer día con sus tiempos. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15316) |
+| 1 | Aprenderé qué son la descripción de cargos, el reclutamiento y la inducción básica, cómo se relacionan con las necesidades de la empresa y qué cuidados éticos y de privacidad se aplican. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15585) |
+| 2 | Aprenderé los documentos del reclutamiento y la inducción (descriptor, perfil, aviso, planilla, pauta y plan de inducción) y el rol de cada persona. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15586) |
+| 3 | Aprenderás a analizar un descriptor deficiente, corregir requisitos y aplicar una pauta de entrevista con puntajes para comparar postulaciones de forma justa y reservada. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15587) |
+| 4 | Aprenderás a aplicar el proceso completo con datos de ejemplo: embudo de postulaciones, puntajes, comparación justa y plan de inducción del primer día con sus tiempos. | [4° medio](../../curriculum/4-medio-tp/administracion-mencion-recursos-humanos/tp-adrh-4-oam-04.md#cl-15588) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

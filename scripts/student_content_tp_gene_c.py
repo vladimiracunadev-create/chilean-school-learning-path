@@ -459,7 +459,7 @@ build(
     ctx=("abc", "{F} La jefa de cocina quiere bajar el desperdicio y pide una propuesta con datos. ¿Cuál es la mejor?", "Medir el desperdicio cada semana, ajustar las compras y usar primero lo almacenado antes", "Comprar más para que nunca falte", "Dejar de registrar para ahorrar tiempo", "Medir, ajustar compras y rotar productos ataca directamente el desperdicio."),
     sc=[
         ("En uso eficiente de recursos: ¿qué es el desperdicio?", "Una pérdida evitable de insumos", "Se puede reducir con planificación y buena conservación."),
-        ("¿Qué es la merma?", "Una pérdida natural del proceso", "Es inevitable, aunque se puede medir y planificar."),
+        ("En el mundo del trabajo: ¿qué es la merma?", "Una pérdida natural del proceso", "Es inevitable, aunque se puede medir y planificar."),
         ("¿Para qué sirve registrar el consumo de insumos?", "Para detectar pérdidas a tiempo", "Los datos permiten corregir antes de que el costo crezca."),
     ],
     op=("Caso de ejemplo. Una lavandería ficticia compra 200 litros de detergente líquido al mes. Se usan 170 litros en lavados, 10 litros se derraman al llenar los recipientes por apuro y 20 litros quedan con la fecha vencida. El litro cuesta $1.500 (valor de ejemplo). "

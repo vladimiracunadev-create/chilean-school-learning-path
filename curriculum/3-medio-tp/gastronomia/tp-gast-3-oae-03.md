@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14885) · [Clase 2](#cl-14886) · [Clase 3](#cl-14887) · [Clase 4](#cl-14888)
+**Clases de este OA:** [Clase 1](#cl-14967) · [Clase 2](#cl-14968) · [Clase 3](#cl-14969) · [Clase 4](#cl-14970)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar productos de baja complejidad gastronómica {#cl-14885}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar productos de baja complejidad gastronómica {#cl-14967}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar productos de baja complejidad gastronómica a través de situar el contexto laboral, la norma y el riesgo: Elaborar productos de baja complejidad gastronómica, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 60 porciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gast-3-oae-02.md#cl-14884) · [Clase siguiente →](#cl-14886)
+[← Última clase del OA anterior](tp-gast-3-oae-02.md#cl-14966) · [Clase siguiente →](#cl-14968)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar productos de baja complejidad gastronómica {#cl-14886}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar productos de baja complejidad gastronómica {#cl-14968}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar productos de baja complejidad gastronómica a través de reconocer conceptos, documentos y roles del oficio: Elaborar productos de baja complejidad gastronómica, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Indica qué producir, cuántas porciones y para cuándo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14885) · [Clase siguiente →](#cl-14887)
+[← Clase anterior](#cl-14967) · [Clase siguiente →](#cl-14969)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar productos de baja complejidad gastronómica {#cl-14887}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar productos de baja complejidad gastronómica {#cl-14969}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar productos de baja complejidad gastronómica a través de analizar un caso de trabajo en papel: Elaborar productos de baja complejidad gastronómica, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 250 g
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14886) · [Clase siguiente →](#cl-14888)
+[← Clase anterior](#cl-14968) · [Clase siguiente →](#cl-14970)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar productos de baja complejidad gastronómica {#cl-14888}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar productos de baja complejidad gastronómica {#cl-14970}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar productos de baja complejidad gastronómica a través de aplicar un criterio técnico con datos de ejemplo: Elaborar productos de baja complejidad gastronómica, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: 60 porciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14887) · [Primera clase del OA siguiente →](tp-gast-3-oae-04.md#cl-14889)
+[← Clase anterior](#cl-14969) · [Primera clase del OA siguiente →](tp-gast-3-oae-04.md#cl-14971)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

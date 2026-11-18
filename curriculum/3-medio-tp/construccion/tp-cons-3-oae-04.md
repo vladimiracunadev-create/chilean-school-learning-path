@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14685) · [Clase 2](#cl-14686) · [Clase 3](#cl-14687) · [Clase 4](#cl-14688)
+**Clases de este OA:** [Clase 1](#cl-14721) · [Clase 2](#cl-14722) · [Clase 3](#cl-14723) · [Clase 4](#cl-14724)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar obras de carpintería para la instalación de faenas {#cl-14685}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar obras de carpintería para la instalación de faenas {#cl-14721}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de carpintería para la instalación de faenas a través de situar el contexto laboral, la norma y el riesgo: Ejecutar obras de carpintería para la instalación de faenas, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 17 m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cons-3-oae-03.md#cl-14684) · [Clase siguiente →](#cl-14686)
+[← Última clase del OA anterior](tp-cons-3-oae-03.md#cl-14720) · [Clase siguiente →](#cl-14722)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar obras de carpintería para la instalación de faenas {#cl-14686}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar obras de carpintería para la instalación de faenas {#cl-14722}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de carpintería para la instalación de faenas a través de reconocer conceptos, documentos y roles del oficio: Ejecutar obras de carpintería para la instalación de faenas, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 50 cm²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14685) · [Clase siguiente →](#cl-14687)
+[← Clase anterior](#cl-14721) · [Clase siguiente →](#cl-14723)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar obras de carpintería para la instalación de faenas {#cl-14687}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar obras de carpintería para la instalación de faenas {#cl-14723}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de carpintería para la instalación de faenas a través de analizar un caso de trabajo en papel: Ejecutar obras de carpintería para la instalación de faenas, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 2 pares
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14686) · [Clase siguiente →](#cl-14688)
+[← Clase anterior](#cl-14722) · [Clase siguiente →](#cl-14724)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de carpintería para la instalación de faenas {#cl-14688}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de carpintería para la instalación de faenas {#cl-14724}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de carpintería para la instalación de faenas a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de carpintería para la instalación de faenas, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: 55 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14687) · [Primera clase del OA siguiente →](tp-cons-3-oae-05.md#cl-14689)
+[← Clase anterior](#cl-14723) · [Primera clase del OA siguiente →](tp-cons-3-oae-05.md#cl-14725)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
