@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16679) · [Clase 2](#cl-16680) · [Clase 3](#cl-16681) · [Clase 4](#cl-16682)
+**Clases de este OA:** [Clase 1](#cl-16776) · [Clase 2](#cl-16777) · [Clase 3](#cl-16778) · [Clase 4](#cl-16779)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16679}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16776}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para la fabricación y reparación de muebles a través de situar el contexto laboral, la norma y el riesgo: Cubicar materiales e insumos para la fabricación y reparación de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 55 m
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-02.md#cl-16678) · [Clase siguiente →](#cl-16680)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-02.md#cl-16775) · [Clase siguiente →](#cl-16777)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16680}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16777}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para la fabricación y reparación de muebles a través de reconocer conceptos, documentos y roles del oficio: Cubicar materiales e insumos para la fabricación y reparación de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 50 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16679) · [Clase siguiente →](#cl-16681)
+[← Clase anterior](#cl-16776) · [Clase siguiente →](#cl-16778)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16681}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16778}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para la fabricación y reparación de muebles a través de analizar un caso de trabajo en papel: Cubicar materiales e insumos para la fabricación y reparación de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 600 cm²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16680) · [Clase siguiente →](#cl-16682)
+[← Clase anterior](#cl-16777) · [Clase siguiente →](#cl-16779)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16682}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar materiales e insumos para la fabricación y reparación de muebles {#cl-16779}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para la fabricación y reparación de muebles a través de aplicar un criterio técnico con datos de ejemplo: Cubicar materiales e insumos para la fabricación y reparación de muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: $110.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16681) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-04.md#cl-16683)
+[← Clase anterior](#cl-16778) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-04.md#cl-16780)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

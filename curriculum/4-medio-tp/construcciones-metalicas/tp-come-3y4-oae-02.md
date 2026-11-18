@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16023) · [Clase 2](#cl-16024) · [Clase 3](#cl-16025) · [Clase 4](#cl-16026)
+**Clases de este OA:** [Clase 1](#cl-16084) · [Clase 2](#cl-16085) · [Clase 3](#cl-16086) · [Clase 4](#cl-16087)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Trazar piezas y partes de construcciones metálicas {#cl-16023}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Trazar piezas y partes de construcciones metálicas {#cl-16084}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar piezas y partes de construcciones metálicas a través de situar el contexto laboral, la norma y el riesgo: Trazar piezas y partes de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: $40.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-come-3y4-oae-01.md#cl-16022) · [Clase siguiente →](#cl-16024)
+[← Última clase del OA anterior](tp-come-3y4-oae-01.md#cl-16083) · [Clase siguiente →](#cl-16085)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Trazar piezas y partes de construcciones metálicas {#cl-16024}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Trazar piezas y partes de construcciones metálicas {#cl-16085}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar piezas y partes de construcciones metálicas a través de reconocer conceptos, documentos y roles del oficio: Trazar piezas y partes de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: 24 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16023) · [Clase siguiente →](#cl-16025)
+[← Clase anterior](#cl-16084) · [Clase siguiente →](#cl-16086)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Trazar piezas y partes de construcciones metálicas {#cl-16025}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Trazar piezas y partes de construcciones metálicas {#cl-16086}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar piezas y partes de construcciones metálicas a través de analizar un caso de trabajo en papel: Trazar piezas y partes de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -663,9 +663,9 @@ Respuesta: 4 planchas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16024) · [Clase siguiente →](#cl-16026)
+[← Clase anterior](#cl-16085) · [Clase siguiente →](#cl-16087)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Trazar piezas y partes de construcciones metálicas {#cl-16026}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Trazar piezas y partes de construcciones metálicas {#cl-16087}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar piezas y partes de construcciones metálicas a través de aplicar un criterio técnico con datos de ejemplo: Trazar piezas y partes de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: 100 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16025) · [Primera clase del OA siguiente →](tp-come-3y4-oae-03.md#cl-16027)
+[← Clase anterior](#cl-16086) · [Primera clase del OA siguiente →](tp-come-3y4-oae-03.md#cl-16088)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

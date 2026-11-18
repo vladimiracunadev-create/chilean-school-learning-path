@@ -29547,6 +29547,76 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Metalurgia Extractiva",
+      "subject_slug": "metalurgia-extractiva",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-METE-3y4-OAE-01",
+          "description": "Aplicar técnicas de chancado, molienda y clasificación hasta la liberación de la partícula, empleando equipos y maquinarias con sistemas de control y automatización, de acuerdo a procedimientos de operación, programas de producción y principios de calidad, de seguridad y resguardo del medio ambiente vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-02",
+          "description": "Aplicar técnicas de concentración de minerales metálicos y no metálicos, acondicionándolos previamente con la adición de reactivos según las características químicas de los minerales tratados, hasta la obtención del producto útil, de acuerdo a los requerimientos y estándares de calidad exigidos por la fundición, normas de seguridad y medio ambiente vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-03",
+          "description": "Aplicar técnicas de tratamiento de minerales solubles, metálicos y no metálicos, aplicando principios de disolución, purificación y recuperación, utilizando los materiales e insumos necesarios para este tipo de procesos químicos, de acuerdo a normas de calidad, de seguridad y resguardo del ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-04",
+          "description": "Aplicar técnicas de fundición, tostación y refinación de productos intermedios para la obtención de lingotes, de acuerdo a características físicoquímicas del mineral, principios y normas de calidad, de seguridad y resguardo del ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-05",
+          "description": "Tomar muestras de productos intermedios o finales de procesos productivos en plantas de procesamiento de minerales para su análisis, de acuerdo a requerimientos de control de procesos, protocolos de muestreo y rotulación, y normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-06",
+          "description": "Preparar equipos e instrumentos de laboratorio, muestras de minerales, productos intermedios y finales, pruebas metalúrgicas, análisis químicos para el control de operaciones y determinación de la ley del mineral, de acuerdo a las características geofísicas y químicas de los minerales, asegurando la representatividad de éstos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-07",
+          "description": "Controlar el inventario, pérdidas, recepción de minerales, insumos, materiales, despacho de productos finales y desechos de procesos productivos, registrándolos de acuerdo a formatos establecidos y normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-08",
+          "description": "Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales, considerando las responsabilidades individuales, colectivas y empresariales con respecto a la seguridad, prevención de riesgos y respeto al medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Montaje Industrial",
       "subject_slug": "montaje-industrial",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -30012,6 +30082,55 @@
         {
           "code": "TP-PROG-3y4-OAE-10",
           "description": "Instalar software de productividad y programas utilitarios en un equipo personal, de acuerdo a los requerimientos de los usuarios.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Química Industrial",
+      "subject_slug": "quimica-industrial",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-QUIN-3-OAE-01",
+          "description": "Ordenar y disponer materias primas, insumos, productos químicos, para ser utilizados en programas de producción de una planta química o para su almacenamiento, aplicando técnicas y protocolos de traslado, rotulación, layout (disposición) y preservación de productos químicos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QUIN-3-OAE-02",
+          "description": "Medir y registrar con precisión el comportamiento de variables e indicadores de los productos, muestras y procesos productivos, utilizando instrumentos como termómetros, manómetros, pHmetros, higrómetros, analizadores de gases, barómetros, flujómetros, romanas, pesas electrónicas y balanzas, entre otros.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QUIN-3-OAE-03",
+          "description": "Preparar informes de observaciones y mediciones realizadas acerca del comportamiento de variables e indicadores de los productos, muestras y procesos productivos, describiendo las tendencias, de acuerdo con formatos establecidos, manuales y digitales, para la consideración y aprobación del profesional especialista.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QUIN-3-OAE-04",
+          "description": "Vigilar constantemente el cumplimiento de estándares de seguridad de las condiciones físicas y de funcionamiento de instalaciones y equipos, de manejo de sustancias y productos químicos, así como de los procedimientos de trabajo que realizan, de acuerdo a normativas nacionales e internacionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QUIN-3-OAE-05",
+          "description": "Realizar el manejo de residuos industriales, sólidos y líquidos, previniendo incidentes o derrames, aplicando procedimientos de emergencia en caso de accidente, resguardando el cumplimiento de exigencias de identificación, la normativa ambiental y/o sanidad vigente, almacenamiento y disposición final de esos residuos.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -32305,6 +32424,76 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Metalurgia Extractiva",
+      "subject_slug": "metalurgia-extractiva",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-METE-3y4-OAE-01",
+          "description": "Aplicar técnicas de chancado, molienda y clasificación hasta la liberación de la partícula, empleando equipos y maquinarias con sistemas de control y automatización, de acuerdo a procedimientos de operación, programas de producción y principios de calidad, de seguridad y resguardo del medio ambiente vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-02",
+          "description": "Aplicar técnicas de concentración de minerales metálicos y no metálicos, acondicionándolos previamente con la adición de reactivos según las características químicas de los minerales tratados, hasta la obtención del producto útil, de acuerdo a los requerimientos y estándares de calidad exigidos por la fundición, normas de seguridad y medio ambiente vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-03",
+          "description": "Aplicar técnicas de tratamiento de minerales solubles, metálicos y no metálicos, aplicando principios de disolución, purificación y recuperación, utilizando los materiales e insumos necesarios para este tipo de procesos químicos, de acuerdo a normas de calidad, de seguridad y resguardo del ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-04",
+          "description": "Aplicar técnicas de fundición, tostación y refinación de productos intermedios para la obtención de lingotes, de acuerdo a características físicoquímicas del mineral, principios y normas de calidad, de seguridad y resguardo del ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-05",
+          "description": "Tomar muestras de productos intermedios o finales de procesos productivos en plantas de procesamiento de minerales para su análisis, de acuerdo a requerimientos de control de procesos, protocolos de muestreo y rotulación, y normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-06",
+          "description": "Preparar equipos e instrumentos de laboratorio, muestras de minerales, productos intermedios y finales, pruebas metalúrgicas, análisis químicos para el control de operaciones y determinación de la ley del mineral, de acuerdo a las características geofísicas y químicas de los minerales, asegurando la representatividad de éstos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-07",
+          "description": "Controlar el inventario, pérdidas, recepción de minerales, insumos, materiales, despacho de productos finales y desechos de procesos productivos, registrándolos de acuerdo a formatos establecidos y normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-METE-3y4-OAE-08",
+          "description": "Aplicar el marco legal del trabajo minero en las plantas de procesamiento de minerales, considerando las responsabilidades individuales, colectivas y empresariales con respecto a la seguridad, prevención de riesgos y respeto al medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Montaje Industrial",
       "subject_slug": "montaje-industrial",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -32771,6 +32960,90 @@
           "code": "TP-PROG-3y4-OAE-10",
           "description": "Instalar software de productividad y programas utilitarios en un equipo personal, de acuerdo a los requerimientos de los usuarios.",
           "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Química Industrial · mención Laboratorio Químico",
+      "subject_slug": "quimica-industrial-mencion-laboratorio-quimico",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-QULA-4-OAM-01",
+          "description": "Tomar muestras para análisis químico de materias primas, productos intermedios o finales, de acuerdo a protocolos establecidos y resguardando la integridad y representatividad de la muestra, las normas de seguridad, utilizando equipos auxiliares y materiales apropiados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QULA-4-OAM-02",
+          "description": "Clasificar y rotular muestras e insumos para análisis de laboratorio, resguardando la integridad del material, facilitando su identificación y trazabilidad, de acuerdo con protocolos y procedimientos de trabajo, estándares de calidad normativas nacionales e internacionales y normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QULA-4-OAM-03",
+          "description": "Preparar muestras para ejecución de ensayos de laboratorio, aplicando procedimientos y técnicas según la naturaleza de las muestras y del proceso que se va a realizar.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QULA-4-OAM-04",
+          "description": "Medir, registrar y verificar datos de los estados iniciales de las muestras y de los cambios físicos y químicos ocurridos durante los ensayos o análisis, utilizando equipos e instrumentos apropiados y controlando las variables que pudieran afectar o sesgar las observaciones y mediciones.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QULA-4-OAM-05",
+          "description": "Mantener y ajustar equipos e instrumentos de preparación y análisis de muestras, según especificaciones técnicas, instrucciones del fabricante y normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Química Industrial · mención Planta Química",
+      "subject_slug": "quimica-industrial-mencion-planta-quimica",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-QUPL-4-OAM-01",
+          "description": "Utilizar los equipos de producción de una planta química, siguiendo las instrucciones de producción, monitoreando los instrumentos de medición del proceso de producción, y ajustar parámetros de funcionamiento de equipos de acuerdo con el comportamiento observado.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QUPL-4-OAM-02",
+          "description": "Tomar y rotular muestras de productos intermedios o finales, utilizando equipos auxiliares y utensilios apropiados, de acuerdo con procedimientos establecidos de trabajo.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-QUPL-4-OAM-03",
+          "description": "Verificar el funcionamiento de equipos y maquinarias de una planta química, detectando pérdidas operacionales, realizando el mantenimiento básico, calibrando equipos e informando, de acuerdo con procedimientos de trabajo.",
+          "axis": "Objetivos de aprendizaje de la mención",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
         }

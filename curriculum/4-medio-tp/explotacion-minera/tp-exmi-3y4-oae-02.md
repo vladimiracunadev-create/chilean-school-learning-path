@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16308) · [Clase 2](#cl-16309) · [Clase 3](#cl-16310) · [Clase 4](#cl-16311) · [Clase 5](#cl-16312)
+**Clases de este OA:** [Clase 1](#cl-16369) · [Clase 2](#cl-16370) · [Clase 3](#cl-16371) · [Clase 4](#cl-16372) · [Clase 5](#cl-16373)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16308}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16369}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a a través de situar el contexto laboral, la norma y el riesgo: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Peligro: la grieta; riesgo: que se desprenda roca y cause daño
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-exmi-3y4-oae-01.md#cl-16307) · [Clase siguiente →](#cl-16309)
+[← Última clase del OA anterior](tp-exmi-3y4-oae-01.md#cl-16368) · [Clase siguiente →](#cl-16370)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16309}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16370}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a a través de reconocer conceptos, documentos y roles del oficio: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No, el cambio debe consultarse y documentarse
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16308) · [Clase siguiente →](#cl-16310)
+[← Clase anterior](#cl-16369) · [Clase siguiente →](#cl-16371)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16310}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16371}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a a través de analizar un caso de trabajo en papel: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 70 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16309) · [Clase siguiente →](#cl-16311)
+[← Clase anterior](#cl-16370) · [Clase siguiente →](#cl-16372)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16311}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16372}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a a través de aplicar un criterio técnico con datos de ejemplo: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 8 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16310) · [Clase siguiente →](#cl-16312)
+[← Clase anterior](#cl-16371) · [Clase siguiente →](#cl-16373)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16312}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a {#cl-16373}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a a través de comparar alternativas y verificar la calidad: Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: La que trae certificado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16311) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-03.md#cl-16313)
+[← Clase anterior](#cl-16372) · [Primera clase del OA siguiente →](tp-exmi-3y4-oae-03.md#cl-16374)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15770) · [Clase 2](#cl-15771) · [Clase 3](#cl-15772) · [Clase 4](#cl-15773) · [Clase 5](#cl-15774)
+**Clases de este OA:** [Clase 1](#cl-15831) · [Clase 2](#cl-15832) · [Clase 3](#cl-15833) · [Clase 4](#cl-15834) · [Clase 5](#cl-15835)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15770}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15831}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tareas subacuáticas en profundidad de hasta 20 metros a través de situar el contexto laboral, la norma y el riesgo: Realizar tareas subacuáticas en profundidad de hasta 20 metros, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-acui-3y4-oae-04.md#cl-15769) · [Clase siguiente →](#cl-15771)
+[← Última clase del OA anterior](tp-acui-3y4-oae-04.md#cl-15830) · [Clase siguiente →](#cl-15832)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15771}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15832}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tareas subacuáticas en profundidad de hasta 20 metros a través de reconocer conceptos, documentos y roles del oficio: Realizar tareas subacuáticas en profundidad de hasta 20 metros, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: El análisis de riesgos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15770) · [Clase siguiente →](#cl-15772)
+[← Clase anterior](#cl-15831) · [Clase siguiente →](#cl-15833)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15772}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15833}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tareas subacuáticas en profundidad de hasta 20 metros a través de analizar un caso de trabajo en papel: Realizar tareas subacuáticas en profundidad de hasta 20 metros, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: No se autoriza hasta que se cumpla
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15771) · [Clase siguiente →](#cl-15773)
+[← Clase anterior](#cl-15832) · [Clase siguiente →](#cl-15834)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15773}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15834}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tareas subacuáticas en profundidad de hasta 20 metros a través de aplicar un criterio técnico con datos de ejemplo: Realizar tareas subacuáticas en profundidad de hasta 20 metros, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 200 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15772) · [Clase siguiente →](#cl-15774)
+[← Clase anterior](#cl-15833) · [Clase siguiente →](#cl-15835)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15774}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar tareas subacuáticas en profundidad de hasta 20 metros {#cl-15835}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tareas subacuáticas en profundidad de hasta 20 metros a través de comparar alternativas y verificar la calidad: Realizar tareas subacuáticas en profundidad de hasta 20 metros, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: No alcanza, aunque cueste menos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15773) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-06.md#cl-15775)
+[← Clase anterior](#cl-15834) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-06.md#cl-15836)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

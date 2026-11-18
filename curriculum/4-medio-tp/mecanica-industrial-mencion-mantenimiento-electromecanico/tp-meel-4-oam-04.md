@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16539) · [Clase 2](#cl-16540) · [Clase 3](#cl-16541) · [Clase 4](#cl-16542) · [Clase 5](#cl-16543)
+**Clases de este OA:** [Clase 1](#cl-16600) · [Clase 2](#cl-16601) · [Clase 3](#cl-16602) · [Clase 4](#cl-16603) · [Clase 5](#cl-16604)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reponer o reparar partes y piezas de equipos {#cl-16539}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reponer o reparar partes y piezas de equipos {#cl-16600}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos a través de situar el contexto laboral, la norma y el riesgo: Reponer o reparar partes y piezas de equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Desgaste
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meel-4-oam-03.md#cl-16538) · [Clase siguiente →](#cl-16540)
+[← Última clase del OA anterior](tp-meel-4-oam-03.md#cl-16599) · [Clase siguiente →](#cl-16601)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reponer o reparar partes y piezas de equipos {#cl-16540}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reponer o reparar partes y piezas de equipos {#cl-16601}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos a través de reconocer conceptos, documentos y roles del oficio: Reponer o reparar partes y piezas de equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 8 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16539) · [Clase siguiente →](#cl-16541)
+[← Clase anterior](#cl-16600) · [Clase siguiente →](#cl-16602)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Reponer o reparar partes y piezas de equipos {#cl-16541}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Reponer o reparar partes y piezas de equipos {#cl-16602}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos a través de analizar un caso de trabajo en papel: Reponer o reparar partes y piezas de equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Reponerlo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16540) · [Clase siguiente →](#cl-16542)
+[← Clase anterior](#cl-16601) · [Clase siguiente →](#cl-16603)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reponer o reparar partes y piezas de equipos {#cl-16542}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reponer o reparar partes y piezas de equipos {#cl-16603}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos a través de aplicar un criterio técnico con datos de ejemplo: Reponer o reparar partes y piezas de equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: Sí, si el manual lo permite
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16541) · [Clase siguiente →](#cl-16543)
+[← Clase anterior](#cl-16602) · [Clase siguiente →](#cl-16604)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reponer o reparar partes y piezas de equipos {#cl-16543}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reponer o reparar partes y piezas de equipos {#cl-16604}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos a través de comparar alternativas y verificar la calidad: Reponer o reparar partes y piezas de equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: No, se descarta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16542) · [Primera clase del OA siguiente →](tp-meel-4-oam-05.md#cl-16544)
+[← Clase anterior](#cl-16603) · [Primera clase del OA siguiente →](tp-meel-4-oam-05.md#cl-16605)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

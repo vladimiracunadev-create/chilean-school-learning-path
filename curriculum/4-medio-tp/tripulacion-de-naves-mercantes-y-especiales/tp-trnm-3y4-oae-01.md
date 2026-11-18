@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17025) · [Clase 2](#cl-17026) · [Clase 3](#cl-17027) · [Clase 4](#cl-17028) · [Clase 5](#cl-17029)
+**Clases de este OA:** [Clase 1](#cl-17158) · [Clase 2](#cl-17159) · [Clase 3](#cl-17160) · [Clase 4](#cl-17161) · [Clase 5](#cl-17162)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17025}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17158}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas a través de situar el contexto laboral, la norma y el riesgo: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -254,9 +254,9 @@ Respuesta: Equipo de protección personal (EPP)
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-17026)
+[Clase siguiente →](#cl-17159)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17026}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17159}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas a través de reconocer conceptos, documentos y roles del oficio: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -464,9 +464,9 @@ Respuesta: Hacia el sur
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17025) · [Clase siguiente →](#cl-17027)
+[← Clase anterior](#cl-17158) · [Clase siguiente →](#cl-17160)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17027}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17160}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas a través de analizar un caso de trabajo en papel: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -671,9 +671,9 @@ Respuesta: Tendencia a subir, 6 °C en dos horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17026) · [Clase siguiente →](#cl-17028)
+[← Clase anterior](#cl-17159) · [Clase siguiente →](#cl-17161)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17028}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17161}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas a través de aplicar un criterio técnico con datos de ejemplo: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -878,9 +878,9 @@ Respuesta: 3 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17027) · [Clase siguiente →](#cl-17029)
+[← Clase anterior](#cl-17160) · [Clase siguiente →](#cl-17162)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17029}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas {#cl-17162}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas a través de comparar alternativas y verificar la calidad: Leer e informar los datos de instrumentos y equipos en el área de cubierta y de máquinas, con una experiencia disciplinar específica, segura y revisable.
@@ -1085,7 +1085,7 @@ Respuesta: Sí, de 3 bar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17028) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-02.md#cl-17030)
+[← Clase anterior](#cl-17161) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-02.md#cl-17163)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

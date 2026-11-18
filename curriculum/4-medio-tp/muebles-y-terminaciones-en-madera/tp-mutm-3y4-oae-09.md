@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16705) · [Clase 2](#cl-16706) · [Clase 3](#cl-16707) · [Clase 4](#cl-16708)
+**Clases de este OA:** [Clase 1](#cl-16802) · [Clase 2](#cl-16803) · [Clase 3](#cl-16804) · [Clase 4](#cl-16805)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16705}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16802}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte a través de situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 7 máquinas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-08.md#cl-16704) · [Clase siguiente →](#cl-16706)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-08.md#cl-16801) · [Clase siguiente →](#cl-16803)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16706}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16803}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte a través de reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: A las 240 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16705) · [Clase siguiente →](#cl-16707)
+[← Clase anterior](#cl-16802) · [Clase siguiente →](#cl-16804)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16707}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16804}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte a través de analizar un caso de trabajo en papel: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16706) · [Clase siguiente →](#cl-16708)
+[← Clase anterior](#cl-16803) · [Clase siguiente →](#cl-16805)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16708}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte {#cl-16805}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte a través de aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento básico de maquinaria y equipos y afilado de herramientas de corte, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 4 herramientas de reserva
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16707) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-10.md#cl-16709)
+[← Clase anterior](#cl-16804) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-10.md#cl-16806)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

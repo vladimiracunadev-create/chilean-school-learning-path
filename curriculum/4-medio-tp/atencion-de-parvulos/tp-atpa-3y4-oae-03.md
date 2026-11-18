@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15942) · [Clase 2](#cl-15943) · [Clase 3](#cl-15944) · [Clase 4](#cl-15945)
+**Clases de este OA:** [Clase 1](#cl-16003) · [Clase 2](#cl-16004) · [Clase 3](#cl-16005) · [Clase 4](#cl-16006)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-15942}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-16003}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en forma efectiva y afectiva con los niños y niñas a través de situar el contexto laboral, la norma y el riesgo: Comunicarse en forma efectiva y afectiva con los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Derivar a la educadora para conversarlo en privado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-02.md#cl-15941) · [Clase siguiente →](#cl-15943)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-02.md#cl-16002) · [Clase siguiente →](#cl-16004)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-15943}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-16004}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en forma efectiva y afectiva con los niños y niñas a través de reconocer conceptos, documentos y roles del oficio: Comunicarse en forma efectiva y afectiva con los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: La hora y lo que deben traer
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15942) · [Clase siguiente →](#cl-15944)
+[← Clase anterior](#cl-16003) · [Clase siguiente →](#cl-16005)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-15944}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-16005}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en forma efectiva y afectiva con los niños y niñas a través de analizar un caso de trabajo en papel: Comunicarse en forma efectiva y afectiva con los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Cada niño tiene su ritmo y seguiremos acompañándolo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15943) · [Clase siguiente →](#cl-15945)
+[← Clase anterior](#cl-16004) · [Clase siguiente →](#cl-16006)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-15945}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicarse en forma efectiva y afectiva con los niños y niñas {#cl-16006}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en forma efectiva y afectiva con los niños y niñas a través de aplicar un criterio técnico con datos de ejemplo: Comunicarse en forma efectiva y afectiva con los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 6 entrevistas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15944) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-04.md#cl-15946)
+[← Clase anterior](#cl-16005) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-04.md#cl-16007)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

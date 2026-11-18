@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15879) · [Clase 2](#cl-15880) · [Clase 3](#cl-15881) · [Clase 4](#cl-15882)
+**Clases de este OA:** [Clase 1](#cl-15940) · [Clase 2](#cl-15941) · [Clase 3](#cl-15942) · [Clase 4](#cl-15943)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar procedimientos de cosecha {#cl-15879}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar procedimientos de cosecha {#cl-15940}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos de cosecha a través de situar el contexto laboral, la norma y el riesgo: Ejecutar procedimientos de cosecha, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agvi-4-oam-01.md#cl-15878) · [Clase siguiente →](#cl-15880)
+[← Última clase del OA anterior](tp-agvi-4-oam-01.md#cl-15939) · [Clase siguiente →](#cl-15941)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar procedimientos de cosecha {#cl-15880}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar procedimientos de cosecha {#cl-15941}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos de cosecha a través de reconocer conceptos, documentos y roles del oficio: Ejecutar procedimientos de cosecha, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 4 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15879) · [Clase siguiente →](#cl-15881)
+[← Clase anterior](#cl-15940) · [Clase siguiente →](#cl-15942)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar procedimientos de cosecha {#cl-15881}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar procedimientos de cosecha {#cl-15942}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos de cosecha a través de analizar un caso de trabajo en papel: Ejecutar procedimientos de cosecha, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: B
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15880) · [Clase siguiente →](#cl-15882)
+[← Clase anterior](#cl-15941) · [Clase siguiente →](#cl-15943)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar procedimientos de cosecha {#cl-15882}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar procedimientos de cosecha {#cl-15943}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos de cosecha a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar procedimientos de cosecha, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 3.000 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15881) · [Primera clase del OA siguiente →](tp-agvi-4-oam-03.md#cl-15883)
+[← Clase anterior](#cl-15942) · [Primera clase del OA siguiente →](tp-agvi-4-oam-03.md#cl-15944)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

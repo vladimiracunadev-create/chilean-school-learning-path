@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15417) · [Clase 2](#cl-15418) · [Clase 3](#cl-15419) · [Clase 4](#cl-15420)
+**Clases de este OA:** [Clase 1](#cl-15453) · [Clase 2](#cl-15454) · [Clase 3](#cl-15455) · [Clase 4](#cl-15456)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar las operaciones de estiba y desestiba {#cl-15417}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar las operaciones de estiba y desestiba {#cl-15453}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las operaciones de estiba y desestiba a través de situar el contexto laboral, la norma y el riesgo: Realizar las operaciones de estiba y desestiba, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Peligro: el cable suelto; riesgo: que alguien tropiece y caiga
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-opor-3y4-oae-01.md#cl-15416) · [Clase siguiente →](#cl-15418)
+[← Última clase del OA anterior](tp-opor-3y4-oae-01.md#cl-15452) · [Clase siguiente →](#cl-15454)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar las operaciones de estiba y desestiba {#cl-15418}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar las operaciones de estiba y desestiba {#cl-15454}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las operaciones de estiba y desestiba a través de reconocer conceptos, documentos y roles del oficio: Realizar las operaciones de estiba y desestiba, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Que debe protegerse del agua y de la humedad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15417) · [Clase siguiente →](#cl-15419)
+[← Clase anterior](#cl-15453) · [Clase siguiente →](#cl-15455)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar las operaciones de estiba y desestiba {#cl-15419}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar las operaciones de estiba y desestiba {#cl-15455}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las operaciones de estiba y desestiba a través de analizar un caso de trabajo en papel: Realizar las operaciones de estiba y desestiba, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Sí cumple el equilibrio: la diferencia es 25 toneladas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15418) · [Clase siguiente →](#cl-15420)
+[← Clase anterior](#cl-15454) · [Clase siguiente →](#cl-15456)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar las operaciones de estiba y desestiba {#cl-15420}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar las operaciones de estiba y desestiba {#cl-15456}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar las operaciones de estiba y desestiba a través de aplicar un criterio técnico con datos de ejemplo: Realizar las operaciones de estiba y desestiba, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: No caben: 105 m³ superan los 100 m³ de la bodega
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15419) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-03.md#cl-15421)
+[← Clase anterior](#cl-15455) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-03.md#cl-15457)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

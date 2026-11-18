@@ -50,6 +50,9 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Minero** | | | | |
 | Asistencia en Geología | alto | 8 | 66 | [📘 Leer guía](asistencia-en-geologia.md) |
 | Explotación Minera | alto | 8 | 70 | [📘 Leer guía](explotacion-minera.md) |
+| Metalurgia Extractiva | alto | 8 | 72 | [📘 Leer guía](metalurgia-extractiva.md) |
+| **Química e Industria** | | | | |
+| Química Industrial | alto | 13 | 61 | [📘 Leer guía](quimica-industrial.md) |
 | **Salud y Educación** | | | | |
 | Atención de Párvulos | medio | 10 | 86 | [📘 Leer guía](atencion-de-parvulos.md) |
 | **Tecnología y Comunicaciones** | | | | |
@@ -59,7 +62,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **346** | **2544** | |
+| **Total publicado** | | **367** | **2677** | |
 
 ## Lo que no cubren
 

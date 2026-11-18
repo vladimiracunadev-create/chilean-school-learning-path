@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15621) · [Clase 2](#cl-15622) · [Clase 3](#cl-15623) · [Clase 4](#cl-15624) · [Clase 5](#cl-15625)
+**Clases de este OA:** [Clase 1](#cl-15682) · [Clase 2](#cl-15683) · [Clase 3](#cl-15684) · [Clase 4](#cl-15685) · [Clase 5](#cl-15686)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Manejar situaciones imprevistas {#cl-15621}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Manejar situaciones imprevistas {#cl-15682}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar situaciones imprevistas a través de situar el contexto laboral, la norma y el riesgo: Manejar situaciones imprevistas, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 4 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-setu-3y4-oae-04.md#cl-15620) · [Clase siguiente →](#cl-15622)
+[← Última clase del OA anterior](tp-setu-3y4-oae-04.md#cl-15681) · [Clase siguiente →](#cl-15683)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Manejar situaciones imprevistas {#cl-15622}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Manejar situaciones imprevistas {#cl-15683}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar situaciones imprevistas a través de reconocer conceptos, documentos y roles del oficio: Manejar situaciones imprevistas, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 6 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15621) · [Clase siguiente →](#cl-15623)
+[← Clase anterior](#cl-15682) · [Clase siguiente →](#cl-15684)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Manejar situaciones imprevistas {#cl-15623}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Manejar situaciones imprevistas {#cl-15684}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar situaciones imprevistas a través de analizar un caso de trabajo en papel: Manejar situaciones imprevistas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: $130.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15622) · [Clase siguiente →](#cl-15624)
+[← Clase anterior](#cl-15683) · [Clase siguiente →](#cl-15685)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Manejar situaciones imprevistas {#cl-15624}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Manejar situaciones imprevistas {#cl-15685}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar situaciones imprevistas a través de aplicar un criterio técnico con datos de ejemplo: Manejar situaciones imprevistas, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 17 personas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15623) · [Clase siguiente →](#cl-15625)
+[← Clase anterior](#cl-15684) · [Clase siguiente →](#cl-15686)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Manejar situaciones imprevistas {#cl-15625}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Manejar situaciones imprevistas {#cl-15686}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar situaciones imprevistas a través de comparar alternativas y verificar la calidad: Manejar situaciones imprevistas, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 4 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15624) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-06.md#cl-15626)
+[← Clase anterior](#cl-15685) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-06.md#cl-15687)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

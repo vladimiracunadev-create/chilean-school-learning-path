@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15789) · [Clase 2](#cl-15790) · [Clase 3](#cl-15791) · [Clase 4](#cl-15792)
+**Clases de este OA:** [Clase 1](#cl-15850) · [Clase 2](#cl-15851) · [Clase 3](#cl-15852) · [Clase 4](#cl-15853)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar la entrada y salida de productos {#cl-15789}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar la entrada y salida de productos {#cl-15850}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la entrada y salida de productos a través de situar el contexto laboral, la norma y el riesgo: Controlar la entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 27 (caso de ejemplo, inventado). Bodega de la empresa ficticia «Distribui
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15790)
+[Clase siguiente →](#cl-15851)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar la entrada y salida de productos {#cl-15790}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar la entrada y salida de productos {#cl-15851}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la entrada y salida de productos a través de reconocer conceptos, documentos y roles del oficio: Controlar la entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 28 (documentos y kárdex de ejemplo, inventados) de «Distribuidora Andes 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15789) · [Clase siguiente →](#cl-15791)
+[← Clase anterior](#cl-15850) · [Clase siguiente →](#cl-15852)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar la entrada y salida de productos {#cl-15791}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar la entrada y salida de productos {#cl-15852}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la entrada y salida de productos a través de analizar un caso de trabajo en papel: Controlar la entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 29 (caso de ejemplo, inventado) de «Distribuidora Andes del Sur». Produc
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15790) · [Clase siguiente →](#cl-15792)
+[← Clase anterior](#cl-15851) · [Clase siguiente →](#cl-15853)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar la entrada y salida de productos {#cl-15792}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar la entrada y salida de productos {#cl-15853}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar la entrada y salida de productos a través de aplicar un criterio técnico con datos de ejemplo: Controlar la entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 30 (datos de ejemplo, inventados) de «Distribuidora Andes del Sur». Prod
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15791) · [Primera clase del OA siguiente →](tp-adlo-4-oam-02.md#cl-15793)
+[← Clase anterior](#cl-15852) · [Primera clase del OA siguiente →](tp-adlo-4-oam-02.md#cl-15854)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

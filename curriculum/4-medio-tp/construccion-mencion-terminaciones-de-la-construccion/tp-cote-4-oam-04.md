@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16123) · [Clase 2](#cl-16124) · [Clase 3](#cl-16125) · [Clase 4](#cl-16126)
+**Clases de este OA:** [Clase 1](#cl-16184) · [Clase 2](#cl-16185) · [Clase 3](#cl-16186) · [Clase 4](#cl-16187)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16123}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16184}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar protecciones hídricas y cubiertas de diferentes materiales a través de situar el contexto laboral, la norma y el riesgo: Instalar protecciones hídricas y cubiertas de diferentes materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -254,9 +254,9 @@ Respuesta: 40 m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cote-4-oam-03.md#cl-16122) · [Clase siguiente →](#cl-16124)
+[← Última clase del OA anterior](tp-cote-4-oam-03.md#cl-16183) · [Clase siguiente →](#cl-16185)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16124}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16185}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar protecciones hídricas y cubiertas de diferentes materiales a través de reconocer conceptos, documentos y roles del oficio: Instalar protecciones hídricas y cubiertas de diferentes materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Respuesta: El supervisor
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16123) · [Clase siguiente →](#cl-16125)
+[← Clase anterior](#cl-16184) · [Clase siguiente →](#cl-16186)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16125}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16186}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar protecciones hídricas y cubiertas de diferentes materiales a través de analizar un caso de trabajo en papel: Instalar protecciones hídricas y cubiertas de diferentes materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -670,9 +670,9 @@ Respuesta: 16 m
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16124) · [Clase siguiente →](#cl-16126)
+[← Clase anterior](#cl-16185) · [Clase siguiente →](#cl-16187)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16126}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar protecciones hídricas y cubiertas de diferentes materiales {#cl-16187}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar protecciones hídricas y cubiertas de diferentes materiales a través de aplicar un criterio técnico con datos de ejemplo: Instalar protecciones hídricas y cubiertas de diferentes materiales, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 3 bajadas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16125) · [Primera clase del OA siguiente →](tp-cote-4-oam-05.md#cl-16127)
+[← Clase anterior](#cl-16186) · [Primera clase del OA siguiente →](tp-cote-4-oam-05.md#cl-16188)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

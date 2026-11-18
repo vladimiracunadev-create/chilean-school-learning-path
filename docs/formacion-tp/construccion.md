@@ -179,11 +179,11 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la enfierradura, para qué sirve en los elementos de hormigón, qué documentos la describen y qué riesgos tiene su manejo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16057) |
-| 2 | Aprenderás a leer un cuadro de armadura (marca, diámetro, cantidad y longitud), a calcular longitud y peso en una planilla y a reconocer los roles. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16058) |
-| 3 | Analizaré en papel un pedido de acero contra la guía de despacho, detectaré diferencias y decidiré a quién informar. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16059) |
-| 4 | Aplicaré criterios de ejemplo para cubicar el acero de una obra, sumar la merma, calcular el costo y estimar las horas y los días de trabajo en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16060) |
-| 5 | Compararé dos alternativas de abastecimiento de armadura por costo, riesgo y control de calidad, y leeré una lista de verificación previa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16061) |
+| 1 | Aprenderé qué es la enfierradura, para qué sirve en los elementos de hormigón, qué documentos la describen y qué riesgos tiene su manejo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16118) |
+| 2 | Aprenderás a leer un cuadro de armadura (marca, diámetro, cantidad y longitud), a calcular longitud y peso en una planilla y a reconocer los roles. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16119) |
+| 3 | Analizaré en papel un pedido de acero contra la guía de despacho, detectaré diferencias y decidiré a quién informar. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16120) |
+| 4 | Aplicaré criterios de ejemplo para cubicar el acero de una obra, sumar la merma, calcular el costo y estimar las horas y los días de trabajo en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16121) |
+| 5 | Compararé dos alternativas de abastecimiento de armadura por costo, riesgo y control de calidad, y leeré una lista de verificación previa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-01.md#cl-16122) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -195,11 +195,11 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé el vocabulario básico del hormigón, la diferencia entre hormigón premezclado y preparado en obra, y los riesgos de las obras de hormigón. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16062) |
-| 2 | Aprenderás a leer una guía de despacho de hormigón premezclado, a comparar el tipo y el plazo con la especificación y a reconocer los roles de la recepción. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16063) |
-| 3 | Analizaré en papel un registro de recepción de camiones de hormigón, identificaré cuáles se aceptan y cuántos m³ faltan por completar el pedido. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16064) |
-| 4 | Aplicaré criterios de ejemplo para cubicar el hormigón de una obra, agregar el desperdicio, calcular camiones y costo en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16065) |
-| 5 | Compararé hormigón premezclado y preparado en obra por costo, riesgo y control de calidad, y leeré un registro de control. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16066) |
+| 1 | Aprenderé el vocabulario básico del hormigón, la diferencia entre hormigón premezclado y preparado en obra, y los riesgos de las obras de hormigón. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16123) |
+| 2 | Aprenderás a leer una guía de despacho de hormigón premezclado, a comparar el tipo y el plazo con la especificación y a reconocer los roles de la recepción. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16124) |
+| 3 | Analizaré en papel un registro de recepción de camiones de hormigón, identificaré cuáles se aceptan y cuántos m³ faltan por completar el pedido. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16125) |
+| 4 | Aplicaré criterios de ejemplo para cubicar el hormigón de una obra, agregar el desperdicio, calcular camiones y costo en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16126) |
+| 5 | Compararé hormigón premezclado y preparado en obra por costo, riesgo y control de calidad, y leeré un registro de control. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-02.md#cl-16127) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -211,10 +211,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el hormigón, por qué su calidad depende de controles registrados y cuáles son los riesgos y los niveles de control de prevención en una obra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16067) |
-| 2 | Aprenderé qué significan resistencia, trabajabilidad, probeta y registro de control y cómo se lee una guía de despacho de hormigón premezclado. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16068) |
-| 3 | Aprenderás a analizar en papel un registro de resultados de probetas y a decidir a quién informar según una regla de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16069) |
-| 4 | Aprenderás a calcular en papel el volumen de un elemento, a agregar una pérdida y a estimar camiones y costo con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16070) |
+| 1 | Aprenderé qué es el hormigón, por qué su calidad depende de controles registrados y cuáles son los riesgos y los niveles de control de prevención en una obra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16128) |
+| 2 | Aprenderé qué significan resistencia, trabajabilidad, probeta y registro de control y cómo se lee una guía de despacho de hormigón premezclado. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16129) |
+| 3 | Aprenderás a analizar en papel un registro de resultados de probetas y a decidir a quién informar según una regla de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16130) |
+| 4 | Aprenderás a calcular en papel el volumen de un elemento, a agregar una pérdida y a estimar camiones y costo con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-03.md#cl-16131) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -226,10 +226,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la albañilería estructural y no estructural, qué riesgos tiene y qué medidas de prevención y roles aparecen en una obra de muros. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16071) |
-| 2 | Aprenderé el vocabulario de la albañilería (hilada, junta, aparejo, vano) y cómo se leen un plano de elevación y las especificaciones de un muro. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16072) |
-| 3 | Aprenderás a revisar en papel una planilla de muros, a descontar vanos y a detectar diferencias entre la planilla, el plano y las especificaciones. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16073) |
-| 4 | Aprenderás a cubicar unidades de un muro en una planilla, a agregar pérdida y costo y a registrar un control de verticalidad con una tolerancia de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16074) |
+| 1 | Aprenderé qué es la albañilería estructural y no estructural, qué riesgos tiene y qué medidas de prevención y roles aparecen en una obra de muros. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16132) |
+| 2 | Aprenderé el vocabulario de la albañilería (hilada, junta, aparejo, vano) y cómo se leen un plano de elevación y las especificaciones de un muro. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16133) |
+| 3 | Aprenderás a revisar en papel una planilla de muros, a descontar vanos y a detectar diferencias entre la planilla, el plano y las especificaciones. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16134) |
+| 4 | Aprenderás a cubicar unidades de un muro en una planilla, a agregar pérdida y costo y a registrar un control de verticalidad con una tolerancia de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-04.md#cl-16135) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -241,10 +241,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son los moldajes, la tabiquería y la techumbre, qué riesgos tienen (sobre todo la caída desde altura) y qué reglas generales de prevención se aplican. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16075) |
-| 2 | Aprenderé el vocabulario de moldajes, tabiquería y techumbres (pie derecho, solera, cercha, panel) y cómo se leen un despiece y los planos estructurales. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16076) |
-| 3 | Aprenderás a analizar en papel una lista de verificación de moldaje y un inventario de paneles, y a decidir qué se informa antes de que el responsable firme. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16077) |
-| 4 | Aprenderás a comparar con una planilla el costo de moldaje de madera e industrializado, y a calcular cantidades de pies derechos y metros lineales con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16078) |
+| 1 | Aprenderé qué son los moldajes, la tabiquería y la techumbre, qué riesgos tienen (sobre todo la caída desde altura) y qué reglas generales de prevención se aplican. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16136) |
+| 2 | Aprenderé el vocabulario de moldajes, tabiquería y techumbres (pie derecho, solera, cercha, panel) y cómo se leen un despiece y los planos estructurales. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16137) |
+| 3 | Aprenderás a analizar en papel una lista de verificación de moldaje y un inventario de paneles, y a decidir qué se informa antes de que el responsable firme. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16138) |
+| 4 | Aprenderás a comparar con una planilla el costo de moldaje de madera e industrializado, y a calcular cantidades de pies derechos y metros lineales con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-edificacion/tp-coed-4-oam-05.md#cl-16139) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -258,11 +258,11 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué documentos forman un proyecto vial, qué es un estándar de calidad y qué riesgos y controles hay que reconocer antes de interpretar planos, especificaciones y ensayos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16079) |
-| 2 | Aprenderás a leer la planta, el perfil longitudinal y las secciones transversales de un camino descrito por escrito, y qué rol cumple cada persona de la obra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16080) |
-| 3 | Aprenderás a leer un informe de ensayo de ejemplo, compararlo con lo exigido en las especificaciones y registrar un incumplimiento sin alterar resultados. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16081) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: comparar valores con lo exigido, calcular promedios, porcentajes y volúmenes en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16082) |
-| 5 | Aprenderás a comparar alternativas con un requisito de calidad primero y el costo y el plazo después, y a verificar la calidad con una lista de verificación. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16083) |
+| 1 | Aprenderé qué documentos forman un proyecto vial, qué es un estándar de calidad y qué riesgos y controles hay que reconocer antes de interpretar planos, especificaciones y ensayos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16140) |
+| 2 | Aprenderás a leer la planta, el perfil longitudinal y las secciones transversales de un camino descrito por escrito, y qué rol cumple cada persona de la obra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16141) |
+| 3 | Aprenderás a leer un informe de ensayo de ejemplo, compararlo con lo exigido en las especificaciones y registrar un incumplimiento sin alterar resultados. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16142) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: comparar valores con lo exigido, calcular promedios, porcentajes y volúmenes en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16143) |
+| 5 | Aprenderás a comparar alternativas con un requisito de calidad primero y el costo y el plazo después, y a verificar la calidad con una lista de verificación. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-01.md#cl-16144) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -274,10 +274,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es una partida de una obra vial, qué significa verificarla, quién participa y qué riesgos y reglas de seguridad rodean esa verificación. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16084) |
-| 2 | Aprenderé el vocabulario y los documentos que se usan para verificar partidas: estado de pago, libro de obra, cantidades, precios y roles. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16085) |
-| 3 | Aprenderás a analizar un caso de verificación de partidas en papel con una lista de chequeo: detectar diferencias, registrarlas e informarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16086) |
-| 4 | Aprenderás a calcular avance físico, saldos, montos y días de trabajo con datos de ejemplo para verificar las partidas de una obra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16087) |
+| 1 | Aprenderé qué es una partida de una obra vial, qué significa verificarla, quién participa y qué riesgos y reglas de seguridad rodean esa verificación. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16145) |
+| 2 | Aprenderé el vocabulario y los documentos que se usan para verificar partidas: estado de pago, libro de obra, cantidades, precios y roles. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16146) |
+| 3 | Aprenderás a analizar un caso de verificación de partidas en papel con una lista de chequeo: detectar diferencias, registrarlas e informarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16147) |
+| 4 | Aprenderás a calcular avance físico, saldos, montos y días de trabajo con datos de ejemplo para verificar las partidas de una obra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-02.md#cl-16148) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -289,10 +289,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el movimiento de tierra en una obra vial, qué significa controlarlo y qué riesgos y reglas de seguridad hay que reconocer. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16088) |
-| 2 | Aprenderé los documentos y conceptos del control del movimiento de tierra: perfiles transversales, volumen, esponjamiento, guías de despacho y botaderos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16089) |
-| 3 | Aprenderás a analizar en papel un registro semanal de movimiento de tierra: contar viajes, convertir volúmenes, comparar con el programa y detectar diferencias en horas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16090) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: cubicar entre perfiles, equilibrar corte y terraplén y estimar horas y costos de máquina en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16091) |
+| 1 | Aprenderé qué es el movimiento de tierra en una obra vial, qué significa controlarlo y qué riesgos y reglas de seguridad hay que reconocer. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16149) |
+| 2 | Aprenderé los documentos y conceptos del control del movimiento de tierra: perfiles transversales, volumen, esponjamiento, guías de despacho y botaderos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16150) |
+| 3 | Aprenderás a analizar en papel un registro semanal de movimiento de tierra: contar viajes, convertir volúmenes, comparar con el programa y detectar diferencias en horas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16151) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: cubicar entre perfiles, equilibrar corte y terraplén y estimar horas y costos de máquina en una planilla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-03.md#cl-16152) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -304,11 +304,11 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son los saneamientos, los muros de contención y las defensas fluviales y de talud, qué significa verificar sus faenas y qué riesgos y reglas de seguridad hay que reconocer. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16092) |
-| 2 | Aprenderás a leer planos de detalle y a calcular pendientes y tolerancias de obras de drenaje, con datos de ejemplo, para verificarlas en papel. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16093) |
-| 3 | Aprenderás a analizar en papel una lista de verificación de saneamientos, muros y defensas: detectar mediciones fuera de tolerancia y respaldos faltantes, y resumir los hallazgos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16094) |
-| 4 | Aprenderás a cubicar y presupuestar en una planilla de ejemplo un muro, una defensa de gaviones, una protección de talud y una cuneta, y a verificar el resultado contra lo aprobado. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16095) |
-| 5 | Aprenderás a comparar alternativas de defensa fluvial con un requisito de calidad primero y con costos de ejemplo después, y a verificar la calidad con una lista de verificación. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16096) |
+| 1 | Aprenderé qué son los saneamientos, los muros de contención y las defensas fluviales y de talud, qué significa verificar sus faenas y qué riesgos y reglas de seguridad hay que reconocer. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16153) |
+| 2 | Aprenderás a leer planos de detalle y a calcular pendientes y tolerancias de obras de drenaje, con datos de ejemplo, para verificarlas en papel. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16154) |
+| 3 | Aprenderás a analizar en papel una lista de verificación de saneamientos, muros y defensas: detectar mediciones fuera de tolerancia y respaldos faltantes, y resumir los hallazgos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16155) |
+| 4 | Aprenderás a cubicar y presupuestar en una planilla de ejemplo un muro, una defensa de gaviones, una protección de talud y una cuneta, y a verificar el resultado contra lo aprobado. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16156) |
+| 5 | Aprenderás a comparar alternativas de defensa fluvial con un requisito de calidad primero y con costos de ejemplo después, y a verificar la calidad con una lista de verificación. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-04.md#cl-16157) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -320,10 +320,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son las faenas de producción, transporte, colocación y compactación de una obra vial, qué documentos las respaldan y qué riesgos hay que reconocer antes de verificarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16097) |
-| 2 | Aprenderé el vocabulario y los roles de la verificación de una faena vial: espesor, tolerancia, ensayo y registro de control. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16098) |
-| 3 | Aprenderás a analizar en papel una planilla de control de espesor: comparar cada punto con la tolerancia, decidir si cumple y qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16099) |
-| 4 | Aprenderás a calcular en una planilla el volumen de una capa, los viajes de camión y un costo de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16100) |
+| 1 | Aprenderé qué son las faenas de producción, transporte, colocación y compactación de una obra vial, qué documentos las respaldan y qué riesgos hay que reconocer antes de verificarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16158) |
+| 2 | Aprenderé el vocabulario y los roles de la verificación de una faena vial: espesor, tolerancia, ensayo y registro de control. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16159) |
+| 3 | Aprenderás a analizar en papel una planilla de control de espesor: comparar cada punto con la tolerancia, decidir si cumple y qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16160) |
+| 4 | Aprenderás a calcular en una planilla el volumen de una capa, los viajes de camión y un costo de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-05.md#cl-16161) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -335,10 +335,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué una obra vial necesita señalización, qué riesgos busca reducir y qué documentos la respaldan, sin aprender a instalarla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16101) |
-| 2 | Aprenderás a leer la leyenda y las cantidades de un plano de señalización y los roles de quienes lo revisan. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16102) |
-| 3 | Aprenderás a analizar en papel una lista de verificación de señalización: qué cumple, qué falta y qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16103) |
-| 4 | Aprenderás a calcular en una planilla cuántos dispositivos y cuánto presupuesto necesita una señalización, con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16104) |
+| 1 | Aprenderé por qué una obra vial necesita señalización, qué riesgos busca reducir y qué documentos la respaldan, sin aprender a instalarla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16162) |
+| 2 | Aprenderás a leer la leyenda y las cantidades de un plano de señalización y los roles de quienes lo revisan. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16163) |
+| 3 | Aprenderás a analizar en papel una lista de verificación de señalización: qué cumple, qué falta y qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16164) |
+| 4 | Aprenderás a calcular en una planilla cuántos dispositivos y cuánto presupuesto necesita una señalización, con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-06.md#cl-16165) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -350,11 +350,11 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la conservación de un camino, qué tareas incluye, qué documentos la respaldan y qué riesgos hay que reconocer, sin aprender a ejecutarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16105) |
-| 2 | Aprenderé el vocabulario de las muestras y de los desplazamientos: estación, ficha de muestra, hito de control y referencia. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16106) |
-| 3 | Aprenderás a analizar en papel una planilla de lecturas de desplazamiento: ver la tendencia, comparar con el valor de alerta y decidir qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16107) |
-| 4 | Aprenderás a presupuestar en una planilla las partidas de conservación y a contar las muestras de un plan, con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16108) |
-| 5 | Aprenderás a comparar dos alternativas de conservación por costo por año y a verificar si un informe está completo antes de dar el trabajo por recibido. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16109) |
+| 1 | Aprenderé qué es la conservación de un camino, qué tareas incluye, qué documentos la respaldan y qué riesgos hay que reconocer, sin aprender a ejecutarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16166) |
+| 2 | Aprenderé el vocabulario de las muestras y de los desplazamientos: estación, ficha de muestra, hito de control y referencia. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16167) |
+| 3 | Aprenderás a analizar en papel una planilla de lecturas de desplazamiento: ver la tendencia, comparar con el valor de alerta y decidir qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16168) |
+| 4 | Aprenderás a presupuestar en una planilla las partidas de conservación y a contar las muestras de un plan, con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16169) |
+| 5 | Aprenderás a comparar dos alternativas de conservación por costo por año y a verificar si un informe está completo antes de dar el trabajo por recibido. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-obras-viales-e-infraestructura/tp-coov-4-oam-07.md#cl-16170) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -368,10 +368,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es impermeabilizar y aislar, qué riesgos tienen los productos y los trabajos en techumbres y cómo se leen las etiquetas y las hojas de datos de seguridad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16110) |
-| 2 | Aprenderás a leer una ficha técnica y una etiqueta: rendimiento, capas, vigencia, almacenamiento y pictogramas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16111) |
-| 3 | Aprenderás a analizar un caso en papel: comparar una planilla con las especificaciones, detectar sustituciones de productos y decidir qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16112) |
-| 4 | Aprenderás a calcular en una planilla la cantidad de producto y de paneles necesarios con rendimiento, capas y pérdida, y el costo con precios de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16113) |
+| 1 | Aprenderé qué es impermeabilizar y aislar, qué riesgos tienen los productos y los trabajos en techumbres y cómo se leen las etiquetas y las hojas de datos de seguridad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16171) |
+| 2 | Aprenderás a leer una ficha técnica y una etiqueta: rendimiento, capas, vigencia, almacenamiento y pictogramas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16172) |
+| 3 | Aprenderás a analizar un caso en papel: comparar una planilla con las especificaciones, detectar sustituciones de productos y decidir qué se informa. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16173) |
+| 4 | Aprenderás a calcular en una planilla la cantidad de producto y de paneles necesarios con rendimiento, capas y pérdida, y el costo con precios de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-01.md#cl-16174) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -383,10 +383,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es armar e instalar muebles, tabiques y hojas de puertas y ventanas, y cuáles son los riesgos y las reglas generales de prevención de estas tareas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16114) |
-| 2 | Aprenderás a leer un plano de detalle y un despiece de muebles: módulos, cotas, elevación, herrajes y holguras. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16115) |
-| 3 | Aprenderás a analizar un caso en papel: comparar el plano de un clóset con la medida del espacio, el despiece y la lista de materiales. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16116) |
-| 4 | Aprenderás a calcular módulos, herrajes y costos en una planilla y a registrar un control de holgura con un rango de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16117) |
+| 1 | Aprenderé qué es armar e instalar muebles, tabiques y hojas de puertas y ventanas, y cuáles son los riesgos y las reglas generales de prevención de estas tareas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16175) |
+| 2 | Aprenderás a leer un plano de detalle y un despiece de muebles: módulos, cotas, elevación, herrajes y holguras. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16176) |
+| 3 | Aprenderás a analizar un caso en papel: comparar el plano de un clóset con la medida del espacio, el despiece y la lista de materiales. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16177) |
+| 4 | Aprenderás a calcular módulos, herrajes y costos en una planilla y a registrar un control de holgura con un rango de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-02.md#cl-16178) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -398,11 +398,11 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es revestir pisos, muros y cielos, qué riesgos tiene la tarea y qué reglas generales de prevención y ergonomía se aplican. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16118) |
-| 2 | Aprenderás a leer un cuadro de acabados y un plano de detalle, y el vocabulario de revestimientos: acabado, formato, junta, zócalo, horizontalidad y verticalidad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16119) |
-| 3 | Aprenderás a analizar un caso en papel: calcular superficies de pisos y muros con vanos y detectar diferencias entre el cuadro de acabados y la planilla de compra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16120) |
-| 4 | Aprenderás a calcular piezas, pérdidas, cajas y costo de un revestimiento en una planilla y a registrar un control de horizontalidad con un máximo de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16121) |
-| 5 | Aprenderás a comparar dos alternativas de revestimiento por costo y a verificar la calidad con un registro de horizontalidad, sin olvidar que la decisión es del responsable. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16122) |
+| 1 | Aprenderé qué es revestir pisos, muros y cielos, qué riesgos tiene la tarea y qué reglas generales de prevención y ergonomía se aplican. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16179) |
+| 2 | Aprenderás a leer un cuadro de acabados y un plano de detalle, y el vocabulario de revestimientos: acabado, formato, junta, zócalo, horizontalidad y verticalidad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16180) |
+| 3 | Aprenderás a analizar un caso en papel: calcular superficies de pisos y muros con vanos y detectar diferencias entre el cuadro de acabados y la planilla de compra. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16181) |
+| 4 | Aprenderás a calcular piezas, pérdidas, cajas y costo de un revestimiento en una planilla y a registrar un control de horizontalidad con un máximo de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16182) |
+| 5 | Aprenderás a comparar dos alternativas de revestimiento por costo y a verificar la calidad con un registro de horizontalidad, sin olvidar que la decisión es del responsable. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-03.md#cl-16183) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -414,10 +414,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es una cubierta, para qué sirve la evacuación de aguas lluvia, qué documentos la respaldan y qué riesgos tiene el trabajo en techumbres, sin aprender a instalarla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16123) |
-| 2 | Aprenderé el vocabulario y los roles de las cubiertas: ancho útil, traslapo, pendiente y ficha técnica. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16124) |
-| 3 | Aprenderás a analizar un pedido de materiales frente al plano y las especificaciones, y a detectar faltas del plan de seguridad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16125) |
-| 4 | Aprenderás a calcular en una planilla la cantidad de planchas, de bajadas y el presupuesto de una cubierta con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16126) |
+| 1 | Aprenderé qué es una cubierta, para qué sirve la evacuación de aguas lluvia, qué documentos la respaldan y qué riesgos tiene el trabajo en techumbres, sin aprender a instalarla. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16184) |
+| 2 | Aprenderé el vocabulario y los roles de las cubiertas: ancho útil, traslapo, pendiente y ficha técnica. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16185) |
+| 3 | Aprenderás a analizar un pedido de materiales frente al plano y las especificaciones, y a detectar faltas del plan de seguridad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16186) |
+| 4 | Aprenderás a calcular en una planilla la cantidad de planchas, de bajadas y el presupuesto de una cubierta con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-04.md#cl-16187) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -429,10 +429,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé el vocabulario de puertas y ventanas, los documentos que las describen y los riesgos de su instalación, sin aprender a instalarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16127) |
-| 2 | Aprenderás a leer un cuadro de puertas y ventanas: códigos, medidas del vano, holgura, cantidades y revisión. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16128) |
-| 3 | Aprenderás a comparar un pedido de puertas y ventanas con el cuadro, detectar diferencias y registrar faltas del plan de seguridad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16129) |
-| 4 | Aprenderás a cubicar y presupuestar vidrios y quincallería en una planilla con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16130) |
+| 1 | Aprenderé el vocabulario de puertas y ventanas, los documentos que las describen y los riesgos de su instalación, sin aprender a instalarlas. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16188) |
+| 2 | Aprenderás a leer un cuadro de puertas y ventanas: códigos, medidas del vano, holgura, cantidades y revisión. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16189) |
+| 3 | Aprenderás a comparar un pedido de puertas y ventanas con el cuadro, detectar diferencias y registrar faltas del plan de seguridad. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16190) |
+| 4 | Aprenderás a cubicar y presupuestar vidrios y quincallería en una planilla con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-05.md#cl-16191) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -444,10 +444,10 @@ Reúne 27 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué documentos y señales avisan los riesgos de los productos de pintura y de papeles, y qué reglas generales evitan accidentes, sin aprender a aplicarlos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16131) |
-| 2 | Aprenderé el vocabulario de pintura y papeles: superficie, mano, rendimiento, rollo y condición de la superficie, y los roles de quienes revisan. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16132) |
-| 3 | Aprenderás a calcular la superficie de muros descontando vanos, a comparar el pedido con la necesidad y a registrar condiciones de la superficie y del plan. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16133) |
-| 4 | Aprenderás a calcular y comparar el costo de pintura y de papel mural en una planilla con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16134) |
+| 1 | Aprenderé qué documentos y señales avisan los riesgos de los productos de pintura y de papeles, y qué reglas generales evitan accidentes, sin aprender a aplicarlos. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16192) |
+| 2 | Aprenderé el vocabulario de pintura y papeles: superficie, mano, rendimiento, rollo y condición de la superficie, y los roles de quienes revisan. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16193) |
+| 3 | Aprenderás a calcular la superficie de muros descontando vanos, a comparar el pedido con la necesidad y a registrar condiciones de la superficie y del plan. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16194) |
+| 4 | Aprenderás a calcular y comparar el costo de pintura y de papel mural en una planilla con datos de ejemplo. | [4° medio](../../curriculum/4-medio-tp/construccion-mencion-terminaciones-de-la-construccion/tp-cote-4-oam-06.md#cl-16195) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

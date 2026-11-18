@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16412) · [Clase 2](#cl-16413) · [Clase 3](#cl-16414) · [Clase 4](#cl-16415)
+**Clases de este OA:** [Clase 1](#cl-16473) · [Clase 2](#cl-16474) · [Clase 3](#cl-16475) · [Clase 4](#cl-16476)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar y armar una variedad de tortas {#cl-16412}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar y armar una variedad de tortas {#cl-16473}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar y armar una variedad de tortas a través de situar el contexto laboral, la norma y el riesgo: Preparar y armar una variedad de tortas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 60 porciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gapr-4-oam-02.md#cl-16411) · [Clase siguiente →](#cl-16413)
+[← Última clase del OA anterior](tp-gapr-4-oam-02.md#cl-16472) · [Clase siguiente →](#cl-16474)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar y armar una variedad de tortas {#cl-16413}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar y armar una variedad de tortas {#cl-16474}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar y armar una variedad de tortas a través de reconocer conceptos, documentos y roles del oficio: Preparar y armar una variedad de tortas, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: La de 12 porciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16412) · [Clase siguiente →](#cl-16414)
+[← Clase anterior](#cl-16473) · [Clase siguiente →](#cl-16475)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar y armar una variedad de tortas {#cl-16414}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar y armar una variedad de tortas {#cl-16475}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar y armar una variedad de tortas a través de analizar un caso de trabajo en papel: Preparar y armar una variedad de tortas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: La opción Y
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16413) · [Clase siguiente →](#cl-16415)
+[← Clase anterior](#cl-16474) · [Clase siguiente →](#cl-16476)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar y armar una variedad de tortas {#cl-16415}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar y armar una variedad de tortas {#cl-16476}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar y armar una variedad de tortas a través de aplicar un criterio técnico con datos de ejemplo: Preparar y armar una variedad de tortas, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16414) · [Primera clase del OA siguiente →](tp-gapr-4-oam-04.md#cl-16416)
+[← Clase anterior](#cl-16475) · [Primera clase del OA siguiente →](tp-gapr-4-oam-04.md#cl-16477)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

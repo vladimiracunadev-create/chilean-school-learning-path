@@ -103,10 +103,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar la cocina básica: qué distingue las preparaciones rápidas de las lentas, cómo influye la zona del país, qué es una alimentación saludable y qué estándares de calidad se esperan. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16384) |
-| 2 | Aprenderás a leer una receta estándar y un plan de producción, a reconocer los roles de la brigada y a considerar la alimentación saludable al planificar. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16385) |
-| 3 | Aprenderás a analizar un caso de producción en papel: calcular capacidad, planificar los horarios hacia atrás y considerar requerimientos alimentarios especiales. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16386) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: costear una receta estándar, calcular el costo por porción y el precio de venta según un costo objetivo. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16387) |
+| 1 | Aprenderás a situar la cocina básica: qué distingue las preparaciones rápidas de las lentas, cómo influye la zona del país, qué es una alimentación saludable y qué estándares de calidad se esperan. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16445) |
+| 2 | Aprenderás a leer una receta estándar y un plan de producción, a reconocer los roles de la brigada y a considerar la alimentación saludable al planificar. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16446) |
+| 3 | Aprenderás a analizar un caso de producción en papel: calcular capacidad, planificar los horarios hacia atrás y considerar requerimientos alimentarios especiales. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16447) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: costear una receta estándar, calcular el costo por porción y el precio de venta según un costo objetivo. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-01.md#cl-16448) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -118,10 +118,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar la cocina internacional básica en un servicio: qué es una especificación, cómo se declaran los alérgenos y qué significa adaptar una preparación respetando su origen. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16388) |
-| 2 | Aprenderé el vocabulario básico de la cocina internacional, a leer una especificación y a reconocer quién aprueba, aplica y verifica cada documento. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16389) |
-| 3 | Aprenderás a analizar un caso: escalar una especificación, detectar faltantes y decidir con la jefatura si se pide más o se declara una variante. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16390) |
-| 4 | Aprenderás a convertir unidades de una receta extranjera y a calcular su costo, el costo por porción y el precio de venta con un costo objetivo. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16391) |
+| 1 | Aprenderás a situar la cocina internacional básica en un servicio: qué es una especificación, cómo se declaran los alérgenos y qué significa adaptar una preparación respetando su origen. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16449) |
+| 2 | Aprenderé el vocabulario básico de la cocina internacional, a leer una especificación y a reconocer quién aprueba, aplica y verifica cada documento. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16450) |
+| 3 | Aprenderás a analizar un caso: escalar una especificación, detectar faltantes y decidir con la jefatura si se pide más o se declara una variante. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16451) |
+| 4 | Aprenderás a convertir unidades de una receta extranjera y a calcular su costo, el costo por porción y el precio de venta con un costo objetivo. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-02.md#cl-16452) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -133,10 +133,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar el trabajo del bar: qué es un coctel, qué diferencia hay entre bebidas con y sin alcohol y qué responsabilidades y límites impone la norma. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16392) |
-| 2 | Aprenderás a leer una ficha de bebida, a distinguir los documentos del bar y a reconocer el rol de cada persona del servicio. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16393) |
-| 3 | Aprenderás a analizar un caso de bar en papel: calcular cuántas porciones rinde un envase, el costo por porción y el precio de venta de una bebida. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16394) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: fijar precios con un costo objetivo, calcular ventas y margen, y controlar el inventario de un bar. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16395) |
+| 1 | Aprenderás a situar el trabajo del bar: qué es un coctel, qué diferencia hay entre bebidas con y sin alcohol y qué responsabilidades y límites impone la norma. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16453) |
+| 2 | Aprenderás a leer una ficha de bebida, a distinguir los documentos del bar y a reconocer el rol de cada persona del servicio. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16454) |
+| 3 | Aprenderás a analizar un caso de bar en papel: calcular cuántas porciones rinde un envase, el costo por porción y el precio de venta de una bebida. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16455) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: fijar precios con un costo objetivo, calcular ventas y margen, y controlar el inventario de un bar. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-03.md#cl-16456) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -148,10 +148,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar las variaciones de recetas: por qué se hacen, quién las aprueba, cómo se registran y qué riesgos tienen. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16396) |
-| 2 | Aprenderás a leer un registro de versiones y a usar los conceptos de sustitución, versión y prueba sensorial para decidir si una variación se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16397) |
-| 3 | Aprenderás a analizar un caso de variación en papel: recalcular costo y alérgenos, evaluar la prueba sensorial y decidir si la versión se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16398) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: comparar variaciones con porcentajes y costos, y decidir cuál se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16399) |
+| 1 | Aprenderás a situar las variaciones de recetas: por qué se hacen, quién las aprueba, cómo se registran y qué riesgos tienen. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16457) |
+| 2 | Aprenderás a leer un registro de versiones y a usar los conceptos de sustitución, versión y prueba sensorial para decidir si una variación se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16458) |
+| 3 | Aprenderás a analizar un caso de variación en papel: recalcular costo y alérgenos, evaluar la prueba sensorial y decidir si la versión se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16459) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: comparar variaciones con porcentajes y costos, y decidir cuál se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-04.md#cl-16460) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -163,10 +163,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar la elaboración de cartas y menús: qué los distingue, qué es un ciclo de menús y qué factores se consideran en servicios de consumo frecuente o masivo. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16400) |
-| 2 | Aprenderé el vocabulario y los documentos de un menú: estructura, equilibrio, ficha de menú, costo objetivo y los roles que lo diseñan y revisan. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16401) |
-| 3 | Aprenderás a analizar un caso de menú en papel: combinar platos, comprobar un límite de costo y revisar las reglas de equilibrio y de opciones especiales. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16402) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: costear un menú semanal, calcular precios y verificar si cumple las metas de costo y de alimentación saludable. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16403) |
+| 1 | Aprenderás a situar la elaboración de cartas y menús: qué los distingue, qué es un ciclo de menús y qué factores se consideran en servicios de consumo frecuente o masivo. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16461) |
+| 2 | Aprenderé el vocabulario y los documentos de un menú: estructura, equilibrio, ficha de menú, costo objetivo y los roles que lo diseñan y revisan. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16462) |
+| 3 | Aprenderás a analizar un caso de menú en papel: combinar platos, comprobar un límite de costo y revisar las reglas de equilibrio y de opciones especiales. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16463) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: costear un menú semanal, calcular precios y verificar si cumple las metas de costo y de alimentación saludable. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-cocina/tp-gaco-4-oam-05.md#cl-16464) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -180,10 +180,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar el trabajo de masas y pastas: qué son, qué es una formulación, qué alérgenos son frecuentes y qué riesgos y normas existen. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16404) |
-| 2 | Aprenderás a leer una formulación en porcentajes, a reconocer la función de cada ingrediente y a calcular cantidades para distintos lotes. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16405) |
-| 3 | Aprenderás a analizar un caso de producción de masas en papel: calcular el factor de escala, las cantidades y los faltantes, y decidir con la jefa de producción. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16406) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: costear una formulación, calcular el costo y el precio por unidad y considerar la pérdida de producción. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16407) |
+| 1 | Aprenderás a situar el trabajo de masas y pastas: qué son, qué es una formulación, qué alérgenos son frecuentes y qué riesgos y normas existen. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16465) |
+| 2 | Aprenderás a leer una formulación en porcentajes, a reconocer la función de cada ingrediente y a calcular cantidades para distintos lotes. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16466) |
+| 3 | Aprenderás a analizar un caso de producción de masas en papel: calcular el factor de escala, las cantidades y los faltantes, y decidir con la jefa de producción. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16467) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: costear una formulación, calcular el costo y el precio por unidad y considerar la pérdida de producción. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-01.md#cl-16468) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -195,10 +195,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar la elaboración de dulces, cremas y glaseados: cómo se clasifican, qué riesgos tienen y por qué importan la vida útil y los alérgenos. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16408) |
-| 2 | Aprenderé el vocabulario de los productos compuestos: componentes, rótulo, vida útil del producto y los roles que preparan y controlan cada parte. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16409) |
-| 3 | Aprenderás a analizar un caso de componentes: calcular cantidades y faltantes y programar la elaboración de cada componente según su vida útil. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16410) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: costear un producto compuesto, calcular el costo por porción y el precio, y considerar las pérdidas. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16411) |
+| 1 | Aprenderás a situar la elaboración de dulces, cremas y glaseados: cómo se clasifican, qué riesgos tienen y por qué importan la vida útil y los alérgenos. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16469) |
+| 2 | Aprenderé el vocabulario de los productos compuestos: componentes, rótulo, vida útil del producto y los roles que preparan y controlan cada parte. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16470) |
+| 3 | Aprenderás a analizar un caso de componentes: calcular cantidades y faltantes y programar la elaboración de cada componente según su vida útil. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16471) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: costear un producto compuesto, calcular el costo por porción y el precio, y considerar las pérdidas. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-02.md#cl-16472) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -210,10 +210,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar la preparación y el armado de tortas, pasteles y postres: sus tipos, la influencia de las zonas del país y los estándares de calidad. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16412) |
-| 2 | Aprenderás a leer la especificación de una torta y a reconocer los roles que preparan, arman, verifican y venden. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16413) |
-| 3 | Aprenderás a analizar un pedido en papel: comparar opciones por porciones y costo, atender un requerimiento de alérgenos y confirmar los datos con el cliente. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16414) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: verificar si un producto cumple su especificación con tolerancias y calcular el porcentaje de conformidad. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16415) |
+| 1 | Aprenderás a situar la preparación y el armado de tortas, pasteles y postres: sus tipos, la influencia de las zonas del país y los estándares de calidad. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16473) |
+| 2 | Aprenderás a leer la especificación de una torta y a reconocer los roles que preparan, arman, verifican y venden. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16474) |
+| 3 | Aprenderás a analizar un pedido en papel: comparar opciones por porciones y costo, atender un requerimiento de alérgenos y confirmar los datos con el cliente. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16475) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: verificar si un producto cumple su especificación con tolerancias y calcular el porcentaje de conformidad. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-03.md#cl-16476) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -225,10 +225,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar el uso de máquinas, equipos e instrumental de un obrador: qué son, qué peligros tienen y qué reglas generales de seguridad se aplican. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16416) |
-| 2 | Aprenderé el vocabulario y los documentos de los equipos de un obrador: clasificación por función, ficha de equipo, mantención y bitácora, y quién responde por cada cosa. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16417) |
-| 3 | Aprenderás a analizar un caso con equipos en papel: calcular usos y tiempos según su capacidad y actuar correctamente ante una falla registrada en la bitácora. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16418) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: calcular cuándo corresponde la mantención de un equipo y comparar el costo de la mantención preventiva con el de las reparaciones. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16419) |
+| 1 | Aprenderás a situar el uso de máquinas, equipos e instrumental de un obrador: qué son, qué peligros tienen y qué reglas generales de seguridad se aplican. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16477) |
+| 2 | Aprenderé el vocabulario y los documentos de los equipos de un obrador: clasificación por función, ficha de equipo, mantención y bitácora, y quién responde por cada cosa. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16478) |
+| 3 | Aprenderás a analizar un caso con equipos en papel: calcular usos y tiempos según su capacidad y actuar correctamente ante una falla registrada en la bitácora. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16479) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: calcular cuándo corresponde la mantención de un equipo y comparar el costo de la mantención preventiva con el de las reparaciones. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-04.md#cl-16480) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -240,10 +240,10 @@ Reúne 14 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderás a situar las variaciones de productos de pastelería: por qué se hacen, qué efectos pueden tener los cambios y qué cuidados exigen los alérgenos. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16420) |
-| 2 | Aprenderás a leer un registro de versiones de un producto de pastelería y a usar porcentajes, pesos y evaluaciones para entender el efecto de cada variación. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16421) |
-| 3 | Aprenderás a analizar un caso de variación de formato: calcular el costo por porción con empaque, fijar precios y comparar el formato normal con el mini. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16422) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos: comparar variaciones por varias condiciones a la vez y decidir cuál se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16423) |
+| 1 | Aprenderás a situar las variaciones de productos de pastelería: por qué se hacen, qué efectos pueden tener los cambios y qué cuidados exigen los alérgenos. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16481) |
+| 2 | Aprenderás a leer un registro de versiones de un producto de pastelería y a usar porcentajes, pesos y evaluaciones para entender el efecto de cada variación. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16482) |
+| 3 | Aprenderás a analizar un caso de variación de formato: calcular el costo por porción con empaque, fijar precios y comparar el formato normal con el mini. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16483) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos: comparar variaciones por varias condiciones a la vez y decidir cuál se adopta. | [4° medio](../../curriculum/4-medio-tp/gastronomia-mencion-pasteleria-y-reposteria/tp-gapr-4-oam-05.md#cl-16484) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

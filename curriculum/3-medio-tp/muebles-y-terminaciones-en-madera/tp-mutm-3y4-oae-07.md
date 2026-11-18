@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15347) · [Clase 2](#cl-15348) · [Clase 3](#cl-15349) · [Clase 4](#cl-15350) · [Clase 5](#cl-15351)
+**Clases de este OA:** [Clase 1](#cl-15383) · [Clase 2](#cl-15384) · [Clase 3](#cl-15385) · [Clase 4](#cl-15386) · [Clase 5](#cl-15387)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15347}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15383}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y a través de situar el contexto laboral, la norma y el riesgo: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 14 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-06.md#cl-15346) · [Clase siguiente →](#cl-15348)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-06.md#cl-15382) · [Clase siguiente →](#cl-15384)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15348}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15384}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y a través de reconocer conceptos, documentos y roles del oficio: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 36 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15347) · [Clase siguiente →](#cl-15349)
+[← Clase anterior](#cl-15383) · [Clase siguiente →](#cl-15385)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15349}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15385}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y a través de analizar un caso de trabajo en papel: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Inspección al 100 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15348) · [Clase siguiente →](#cl-15350)
+[← Clase anterior](#cl-15384) · [Clase siguiente →](#cl-15386)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15350}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15386}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y a través de aplicar un criterio técnico con datos de ejemplo: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15349) · [Clase siguiente →](#cl-15351)
+[← Clase anterior](#cl-15385) · [Clase siguiente →](#cl-15387)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15351}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y {#cl-15387}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y a través de comparar alternativas y verificar la calidad: Resguardar el cumplimiento de los estándares de calidad de fabricación de las piezas y, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: No, queda fuera
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15350) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-08.md#cl-15352)
+[← Clase anterior](#cl-15386) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-08.md#cl-15388)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

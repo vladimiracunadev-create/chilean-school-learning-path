@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16611) · [Clase 2](#cl-16612) · [Clase 3](#cl-16613) · [Clase 4](#cl-16614)
+**Clases de este OA:** [Clase 1](#cl-16672) · [Clase 2](#cl-16673) · [Clase 3](#cl-16674) · [Clase 4](#cl-16675)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16611}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16672}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento de los controles de vuelo de la aeronave a través de situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento de los controles de vuelo de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Sí, puede conservar energía
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meae-3y4-oae-03.md#cl-16610) · [Clase siguiente →](#cl-16612)
+[← Última clase del OA anterior](tp-meae-3y4-oae-03.md#cl-16671) · [Clase siguiente →](#cl-16673)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16612}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16673}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento de los controles de vuelo de la aeronave a través de reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento de los controles de vuelo de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: El timón de dirección
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16611) · [Clase siguiente →](#cl-16613)
+[← Clase anterior](#cl-16672) · [Clase siguiente →](#cl-16674)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16613}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16674}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento de los controles de vuelo de la aeronave a través de analizar un caso de trabajo en papel: Realizar mantenimiento de los controles de vuelo de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: No; el candidato obvio es el timón de profundidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16612) · [Clase siguiente →](#cl-16614)
+[← Clase anterior](#cl-16673) · [Clase siguiente →](#cl-16675)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16614}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento de los controles de vuelo de la aeronave {#cl-16675}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento de los controles de vuelo de la aeronave a través de aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento de los controles de vuelo de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: Sí cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16613) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-05.md#cl-16615)
+[← Clase anterior](#cl-16674) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-05.md#cl-16676)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

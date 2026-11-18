@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17009) · [Clase 2](#cl-17010) · [Clase 3](#cl-17011) · [Clase 4](#cl-17012)
+**Clases de este OA:** [Clase 1](#cl-17142) · [Clase 2](#cl-17143) · [Clase 3](#cl-17144) · [Clase 4](#cl-17145)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17009}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17142}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar la normativa y los implementos de seguridad y protección relativos al montaje y a través de situar el contexto laboral, la norma y el riesgo: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 5 peligros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-tele-3y4-oae-06.md#cl-17008) · [Clase siguiente →](#cl-17010)
+[← Última clase del OA anterior](tp-tele-3y4-oae-06.md#cl-17141) · [Clase siguiente →](#cl-17143)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17010}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17143}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar la normativa y los implementos de seguridad y protección relativos al montaje y a través de reconocer conceptos, documentos y roles del oficio: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Es obligatorio usar casco
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17009) · [Clase siguiente →](#cl-17011)
+[← Clase anterior](#cl-17142) · [Clase siguiente →](#cl-17144)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17011}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17144}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar la normativa y los implementos de seguridad y protección relativos al montaje y a través de analizar un caso de trabajo en papel: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: A un gestor autorizado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17010) · [Clase siguiente →](#cl-17012)
+[← Clase anterior](#cl-17143) · [Clase siguiente →](#cl-17145)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17012}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y {#cl-17145}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar la normativa y los implementos de seguridad y protección relativos al montaje y a través de aplicar un criterio técnico con datos de ejemplo: Aplicar la normativa y los implementos de seguridad y protección relativos al montaje y, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-17011) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-08.md#cl-17013)
+[← Clase anterior](#cl-17144) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-08.md#cl-17146)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

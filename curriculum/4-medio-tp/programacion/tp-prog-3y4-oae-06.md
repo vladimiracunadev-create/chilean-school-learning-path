@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16849) · [Clase 2](#cl-16850) · [Clase 3](#cl-16851) · [Clase 4](#cl-16852)
+**Clases de este OA:** [Clase 1](#cl-16946) · [Clase 2](#cl-16947) · [Clase 3](#cl-16948) · [Clase 4](#cl-16949)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Implementar planes de mantención preventiva y correctiva de software {#cl-16849}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Implementar planes de mantención preventiva y correctiva de software {#cl-16946}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar implementar planes de mantención preventiva y correctiva de software a través de situar el contexto laboral, la norma y el riesgo: Implementar planes de mantención preventiva y correctiva de software, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Preventiva
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-05.md#cl-16848) · [Clase siguiente →](#cl-16850)
+[← Última clase del OA anterior](tp-prog-3y4-oae-05.md#cl-16945) · [Clase siguiente →](#cl-16947)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Implementar planes de mantención preventiva y correctiva de software {#cl-16850}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Implementar planes de mantención preventiva y correctiva de software {#cl-16947}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar implementar planes de mantención preventiva y correctiva de software a través de reconocer conceptos, documentos y roles del oficio: Implementar planes de mantención preventiva y correctiva de software, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Pasos para reproducir y resultados esperado y obtenido
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16849) · [Clase siguiente →](#cl-16851)
+[← Clase anterior](#cl-16946) · [Clase siguiente →](#cl-16948)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Implementar planes de mantención preventiva y correctiva de software {#cl-16851}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Implementar planes de mantención preventiva y correctiva de software {#cl-16948}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar implementar planes de mantención preventiva y correctiva de software a través de analizar un caso de trabajo en papel: Implementar planes de mantención preventiva y correctiva de software, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 0, 1 y 2; falta la última
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16850) · [Clase siguiente →](#cl-16852)
+[← Clase anterior](#cl-16947) · [Clase siguiente →](#cl-16949)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Implementar planes de mantención preventiva y correctiva de software {#cl-16852}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Implementar planes de mantención preventiva y correctiva de software {#cl-16949}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar implementar planes de mantención preventiva y correctiva de software a través de aplicar un criterio técnico con datos de ejemplo: Implementar planes de mantención preventiva y correctiva de software, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 25 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16851) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-07.md#cl-16853)
+[← Clase anterior](#cl-16948) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-07.md#cl-16950)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15548) · [Clase 2](#cl-15549) · [Clase 3](#cl-15550) · [Clase 4](#cl-15551)
+**Clases de este OA:** [Clase 1](#cl-15609) · [Clase 2](#cl-15610) · [Clase 3](#cl-15611) · [Clase 4](#cl-15612)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15548}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15609}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración a través de situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 2 mantenciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-recl-3y4-oae-06.md#cl-15547) · [Clase siguiente →](#cl-15549)
+[← Última clase del OA anterior](tp-recl-3y4-oae-06.md#cl-15608) · [Clase siguiente →](#cl-15610)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15549}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15610}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración a través de reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 6 limpiezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15548) · [Clase siguiente →](#cl-15550)
+[← Clase anterior](#cl-15609) · [Clase siguiente →](#cl-15611)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15550}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15611}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración a través de analizar un caso de trabajo en papel: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Filtro obstruido
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15549) · [Clase siguiente →](#cl-15551)
+[← Clase anterior](#cl-15610) · [Clase siguiente →](#cl-15612)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15551}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración {#cl-15612}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración a través de aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Prioridad media
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15550) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-08.md#cl-15552)
+[← Clase anterior](#cl-15611) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-08.md#cl-15613)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

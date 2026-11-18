@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15962) · [Clase 2](#cl-15963) · [Clase 3](#cl-15964) · [Clase 4](#cl-15965) · [Clase 5](#cl-15966)
+**Clases de este OA:** [Clase 1](#cl-16023) · [Clase 2](#cl-16024) · [Clase 3](#cl-16025) · [Clase 4](#cl-16026) · [Clase 5](#cl-16027)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Detectar síntomas de enfermedades más comunes {#cl-15962}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Detectar síntomas de enfermedades más comunes {#cl-16023}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar síntomas de enfermedades más comunes a través de situar el contexto laboral, la norma y el riesgo: Detectar síntomas de enfermedades más comunes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Acompañarlo y avisar a la educadora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-07.md#cl-15961) · [Clase siguiente →](#cl-15963)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-07.md#cl-16022) · [Clase siguiente →](#cl-16024)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Detectar síntomas de enfermedades más comunes {#cl-15963}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Detectar síntomas de enfermedades más comunes {#cl-16024}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar síntomas de enfermedades más comunes a través de reconocer conceptos, documentos y roles del oficio: Detectar síntomas de enfermedades más comunes, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: «Noa llora porque está celosa»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15962) · [Clase siguiente →](#cl-15964)
+[← Clase anterior](#cl-16023) · [Clase siguiente →](#cl-16025)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Detectar síntomas de enfermedades más comunes {#cl-15964}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Detectar síntomas de enfermedades más comunes {#cl-16025}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar síntomas de enfermedades más comunes a través de analizar un caso de trabajo en papel: Detectar síntomas de enfermedades más comunes, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Avisar a la educadora y no decir que tiene fiebre
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15963) · [Clase siguiente →](#cl-15965)
+[← Clase anterior](#cl-16024) · [Clase siguiente →](#cl-16026)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Detectar síntomas de enfermedades más comunes {#cl-15965}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Detectar síntomas de enfermedades más comunes {#cl-16026}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar síntomas de enfermedades más comunes a través de aplicar un criterio técnico con datos de ejemplo: Detectar síntomas de enfermedades más comunes, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: No hacerlo; avisar a la educadora o dirección
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15964) · [Clase siguiente →](#cl-15966)
+[← Clase anterior](#cl-16025) · [Clase siguiente →](#cl-16027)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Detectar síntomas de enfermedades más comunes {#cl-15966}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Detectar síntomas de enfermedades más comunes {#cl-16027}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar detectar síntomas de enfermedades más comunes a través de comparar alternativas y verificar la calidad: Detectar síntomas de enfermedades más comunes, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: Hora, hechos y a quién se avisó
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15965) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-09.md#cl-15967)
+[← Clase anterior](#cl-16026) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-09.md#cl-16028)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

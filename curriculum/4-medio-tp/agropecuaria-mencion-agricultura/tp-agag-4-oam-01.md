@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15825) · [Clase 2](#cl-15826) · [Clase 3](#cl-15827) · [Clase 4](#cl-15828) · [Clase 5](#cl-15829)
+**Clases de este OA:** [Clase 1](#cl-15886) · [Clase 2](#cl-15887) · [Clase 3](#cl-15888) · [Clase 4](#cl-15889) · [Clase 5](#cl-15890)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15825}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15886}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de cultivo de especies vegetales (hortícolas a través de situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de cultivo de especies vegetales (hortícolas, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15826)
+[Clase siguiente →](#cl-15887)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15826}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15887}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de cultivo de especies vegetales (hortícolas a través de reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de cultivo de especies vegetales (hortícolas, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Floración
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15825) · [Clase siguiente →](#cl-15827)
+[← Clase anterior](#cl-15886) · [Clase siguiente →](#cl-15888)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15827}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15888}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de cultivo de especies vegetales (hortícolas a través de analizar un caso de trabajo en papel: Aplicar técnicas de cultivo de especies vegetales (hortícolas, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Calor excesivo y humedad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15826) · [Clase siguiente →](#cl-15828)
+[← Clase anterior](#cl-15887) · [Clase siguiente →](#cl-15889)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15828}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15889}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de cultivo de especies vegetales (hortícolas a través de aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de cultivo de especies vegetales (hortícolas, con una experiencia disciplinar específica, segura y revisable.
@@ -876,9 +876,9 @@ Respuesta: $150 por kilo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15827) · [Clase siguiente →](#cl-15829)
+[← Clase anterior](#cl-15888) · [Clase siguiente →](#cl-15890)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15829}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de cultivo de especies vegetales (hortícolas {#cl-15890}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de cultivo de especies vegetales (hortícolas a través de comparar alternativas y verificar la calidad: Aplicar técnicas de cultivo de especies vegetales (hortícolas, con una experiencia disciplinar específica, segura y revisable.
@@ -1084,7 +1084,7 @@ Respuesta: 8 plantas por metro
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15828) · [Primera clase del OA siguiente →](tp-agag-4-oam-02.md#cl-15830)
+[← Clase anterior](#cl-15889) · [Primera clase del OA siguiente →](tp-agag-4-oam-02.md#cl-15891)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

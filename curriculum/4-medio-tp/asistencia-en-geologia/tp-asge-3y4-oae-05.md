@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15916) · [Clase 2](#cl-15917) · [Clase 3](#cl-15918) · [Clase 4](#cl-15919)
+**Clases de este OA:** [Clase 1](#cl-15977) · [Clase 2](#cl-15978) · [Clase 3](#cl-15979) · [Clase 4](#cl-15980)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15916}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15977}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar, rotular, envasar y almacenar muestras geológicas a través de situar el contexto laboral, la norma y el riesgo: Tomar, rotular, envasar y almacenar muestras geológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-asge-3y4-oae-04.md#cl-15915) · [Clase siguiente →](#cl-15917)
+[← Última clase del OA anterior](tp-asge-3y4-oae-04.md#cl-15976) · [Clase siguiente →](#cl-15978)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15917}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15978}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar, rotular, envasar y almacenar muestras geológicas a través de reconocer conceptos, documentos y roles del oficio: Tomar, rotular, envasar y almacenar muestras geológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: La cadena de custodia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15916) · [Clase siguiente →](#cl-15918)
+[← Clase anterior](#cl-15977) · [Clase siguiente →](#cl-15979)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15918}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15979}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar, rotular, envasar y almacenar muestras geológicas a través de analizar un caso de trabajo en papel: Tomar, rotular, envasar y almacenar muestras geológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No hay diferencia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15917) · [Clase siguiente →](#cl-15919)
+[← Clase anterior](#cl-15978) · [Clase siguiente →](#cl-15980)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15919}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar, rotular, envasar y almacenar muestras geológicas {#cl-15980}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar, rotular, envasar y almacenar muestras geológicas a través de aplicar un criterio técnico con datos de ejemplo: Tomar, rotular, envasar y almacenar muestras geológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 22 bolsas y 4 cajas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15918) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-06.md#cl-15920)
+[← Clase anterior](#cl-15979) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-06.md#cl-15981)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

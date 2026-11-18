@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15891) · [Clase 2](#cl-15892) · [Clase 3](#cl-15893) · [Clase 4](#cl-15894)
+**Clases de este OA:** [Clase 1](#cl-15952) · [Clase 2](#cl-15953) · [Clase 3](#cl-15954) · [Clase 4](#cl-15955)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15891}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15952}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado a través de situar el contexto laboral, la norma y el riesgo: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agvi-4-oam-04.md#cl-15890) · [Clase siguiente →](#cl-15892)
+[← Última clase del OA anterior](tp-agvi-4-oam-04.md#cl-15951) · [Clase siguiente →](#cl-15953)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15892}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15953}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado a través de reconocer conceptos, documentos y roles del oficio: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No, está fuera de rango
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15891) · [Clase siguiente →](#cl-15893)
+[← Clase anterior](#cl-15952) · [Clase siguiente →](#cl-15954)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15893}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15954}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado a través de analizar un caso de trabajo en papel: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: B
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15892) · [Clase siguiente →](#cl-15894)
+[← Clase anterior](#cl-15953) · [Clase siguiente →](#cl-15955)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15894}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado {#cl-15955}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar procedimientos técnicos de bodegaje y almacenamiento del vino envasado, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 30 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15893) · [Primera clase del OA siguiente →](tp-agvi-4-oam-06.md#cl-15895)
+[← Clase anterior](#cl-15954) · [Primera clase del OA siguiente →](tp-agvi-4-oam-06.md#cl-15956)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

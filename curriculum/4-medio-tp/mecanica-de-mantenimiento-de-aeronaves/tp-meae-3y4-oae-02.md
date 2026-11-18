@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16601) · [Clase 2](#cl-16602) · [Clase 3](#cl-16603) · [Clase 4](#cl-16604) · [Clase 5](#cl-16605)
+**Clases de este OA:** [Clase 1](#cl-16662) · [Clase 2](#cl-16663) · [Clase 3](#cl-16664) · [Clase 4](#cl-16665) · [Clase 5](#cl-16666)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16601}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16662}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento de los sistemas de la aeronave a través de situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento de los sistemas de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Es un sistema
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meae-3y4-oae-01.md#cl-16600) · [Clase siguiente →](#cl-16602)
+[← Última clase del OA anterior](tp-meae-3y4-oae-01.md#cl-16661) · [Clase siguiente →](#cl-16663)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16602}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16663}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento de los sistemas de la aeronave a través de reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento de los sistemas de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 3 flechas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16601) · [Clase siguiente →](#cl-16603)
+[← Clase anterior](#cl-16662) · [Clase siguiente →](#cl-16664)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16603}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16664}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento de los sistemas de la aeronave a través de analizar un caso de trabajo en papel: Realizar el mantenimiento de los sistemas de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Son menos sospechosos como causa del síntoma de otro equipo después
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16602) · [Clase siguiente →](#cl-16604)
+[← Clase anterior](#cl-16663) · [Clase siguiente →](#cl-16665)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16604}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16665}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento de los sistemas de la aeronave a través de aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento de los sistemas de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: Sí, por los 6 meses
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16603) · [Clase siguiente →](#cl-16605)
+[← Clase anterior](#cl-16664) · [Clase siguiente →](#cl-16666)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16605}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar el mantenimiento de los sistemas de la aeronave {#cl-16666}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento de los sistemas de la aeronave a través de comparar alternativas y verificar la calidad: Realizar el mantenimiento de los sistemas de la aeronave, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: Personal certificado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16604) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-03.md#cl-16606)
+[← Clase anterior](#cl-16665) · [Primera clase del OA siguiente →](tp-meae-3y4-oae-03.md#cl-16667)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15932) · [Clase 2](#cl-15933) · [Clase 3](#cl-15934) · [Clase 4](#cl-15935) · [Clase 5](#cl-15936) · [Clase 6](#cl-15937)
+**Clases de este OA:** [Clase 1](#cl-15993) · [Clase 2](#cl-15994) · [Clase 3](#cl-15995) · [Clase 4](#cl-15996) · [Clase 5](#cl-15997) · [Clase 6](#cl-15998)
 
-### Clase 1 de 6: Situar el contexto laboral, la norma y el riesgo: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15932}
+### Clase 1 de 6: Situar el contexto laboral, la norma y el riesgo: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15993}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar y evaluar actividades educativas con párvulos de los distintos niveles a través de situar el contexto laboral, la norma y el riesgo: Realizar y evaluar actividades educativas con párvulos de los distintos niveles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 20 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15933)
+[Clase siguiente →](#cl-15994)
 
-### Clase 2 de 6: Reconocer conceptos, documentos y roles del oficio: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15933}
+### Clase 2 de 6: Reconocer conceptos, documentos y roles del oficio: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15994}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar y evaluar actividades educativas con párvulos de los distintos niveles a través de reconocer conceptos, documentos y roles del oficio: Realizar y evaluar actividades educativas con párvulos de los distintos niveles, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 25 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15932) · [Clase siguiente →](#cl-15934)
+[← Clase anterior](#cl-15993) · [Clase siguiente →](#cl-15995)
 
-### Clase 3 de 6: Analizar un caso de trabajo en papel: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15934}
+### Clase 3 de 6: Analizar un caso de trabajo en papel: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15995}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar y evaluar actividades educativas con párvulos de los distintos niveles a través de analizar un caso de trabajo en papel: Realizar y evaluar actividades educativas con párvulos de los distintos niveles, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 6 niños por mesa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15933) · [Clase siguiente →](#cl-15935)
+[← Clase anterior](#cl-15994) · [Clase siguiente →](#cl-15996)
 
-### Clase 4 de 6: Aplicar un criterio técnico con datos de ejemplo: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15935}
+### Clase 4 de 6: Aplicar un criterio técnico con datos de ejemplo: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15996}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar y evaluar actividades educativas con párvulos de los distintos niveles a través de aplicar un criterio técnico con datos de ejemplo: Realizar y evaluar actividades educativas con párvulos de los distintos niveles, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 18 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15934) · [Clase siguiente →](#cl-15936)
+[← Clase anterior](#cl-15995) · [Clase siguiente →](#cl-15997)
 
-### Clase 5 de 6: Comparar alternativas y verificar la calidad: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15936}
+### Clase 5 de 6: Comparar alternativas y verificar la calidad: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15997}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar y evaluar actividades educativas con párvulos de los distintos niveles a través de comparar alternativas y verificar la calidad: Realizar y evaluar actividades educativas con párvulos de los distintos niveles, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,9 +1081,9 @@ Respuesta: Cambiar la cuerda a nivel del piso y consultar a la educadora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15935) · [Clase siguiente →](#cl-15937)
+[← Clase anterior](#cl-15996) · [Clase siguiente →](#cl-15998)
 
-### Clase 6 de 6: Registrar y comunicar el resultado: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15937}
+### Clase 6 de 6: Registrar y comunicar el resultado: Realizar y evaluar actividades educativas con párvulos de los distintos niveles {#cl-15998}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar y evaluar actividades educativas con párvulos de los distintos niveles a través de registrar y comunicar el resultado: Realizar y evaluar actividades educativas con párvulos de los distintos niveles, con una experiencia disciplinar específica, segura y revisable.
@@ -1288,7 +1288,7 @@ Respuesta: No cuadra: hay que revisar los datos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15936) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-02.md#cl-15938)
+[← Clase anterior](#cl-15997) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-02.md#cl-15999)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

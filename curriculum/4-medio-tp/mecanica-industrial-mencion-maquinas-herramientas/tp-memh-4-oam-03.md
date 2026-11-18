@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16582) · [Clase 2](#cl-16583) · [Clase 3](#cl-16584) · [Clase 4](#cl-16585) · [Clase 5](#cl-16586)
+**Clases de este OA:** [Clase 1](#cl-16643) · [Clase 2](#cl-16644) · [Clase 3](#cl-16645) · [Clase 4](#cl-16646) · [Clase 5](#cl-16647)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16582}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16643}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de a través de situar el contexto laboral, la norma y el riesgo: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Puede romperse y proyectar fragmentos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-memh-4-oam-02.md#cl-16581) · [Clase siguiente →](#cl-16583)
+[← Última clase del OA anterior](tp-memh-4-oam-02.md#cl-16642) · [Clase siguiente →](#cl-16644)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16583}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16644}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de a través de reconocer conceptos, documentos y roles del oficio: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: No es posible
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16582) · [Clase siguiente →](#cl-16584)
+[← Clase anterior](#cl-16643) · [Clase siguiente →](#cl-16645)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16584}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16645}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de a través de analizar un caso de trabajo en papel: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16583) · [Clase siguiente →](#cl-16585)
+[← Clase anterior](#cl-16644) · [Clase siguiente →](#cl-16646)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16585}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16646}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de a través de aplicar un criterio técnico con datos de ejemplo: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: $2.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16584) · [Clase siguiente →](#cl-16586)
+[← Clase anterior](#cl-16645) · [Clase siguiente →](#cl-16647)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16586}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de {#cl-16647}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de a través de comparar alternativas y verificar la calidad: Utilizar máquinas rectificadoras y taladradoras para la fabricación o reparación de, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: $20.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16585) · [Primera clase del OA siguiente →](tp-memh-4-oam-04.md#cl-16587)
+[← Clase anterior](#cl-16646) · [Primera clase del OA siguiente →](tp-memh-4-oam-04.md#cl-16648)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

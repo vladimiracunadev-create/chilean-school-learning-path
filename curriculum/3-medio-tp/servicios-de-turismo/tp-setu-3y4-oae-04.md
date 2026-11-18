@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15616) · [Clase 2](#cl-15617) · [Clase 3](#cl-15618) · [Clase 4](#cl-15619) · [Clase 5](#cl-15620)
+**Clases de este OA:** [Clase 1](#cl-15677) · [Clase 2](#cl-15678) · [Clase 3](#cl-15679) · [Clase 4](#cl-15680) · [Clase 5](#cl-15681)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15616}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15677}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar conducir grupos de turistas a través de las rutas establecidas y en distintos entornos a través de situar el contexto laboral, la norma y el riesgo: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 2 guías
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-setu-3y4-oae-03.md#cl-15615) · [Clase siguiente →](#cl-15617)
+[← Última clase del OA anterior](tp-setu-3y4-oae-03.md#cl-15676) · [Clase siguiente →](#cl-15678)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15617}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15678}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar conducir grupos de turistas a través de las rutas establecidas y en distintos entornos a través de reconocer conceptos, documentos y roles del oficio: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No enviarla al chat abierto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15616) · [Clase siguiente →](#cl-15618)
+[← Clase anterior](#cl-15677) · [Clase siguiente →](#cl-15679)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15618}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15679}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar conducir grupos de turistas a través de las rutas establecidas y en distintos entornos a través de analizar un caso de trabajo en papel: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: La ruta Y
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15617) · [Clase siguiente →](#cl-15619)
+[← Clase anterior](#cl-15678) · [Clase siguiente →](#cl-15680)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15619}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15680}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar conducir grupos de turistas a través de las rutas establecidas y en distintos entornos a través de aplicar un criterio técnico con datos de ejemplo: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: A las 10:10
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15618) · [Clase siguiente →](#cl-15620)
+[← Clase anterior](#cl-15679) · [Clase siguiente →](#cl-15681)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15620}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos {#cl-15681}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar conducir grupos de turistas a través de las rutas establecidas y en distintos entornos a través de comparar alternativas y verificar la calidad: Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15619) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-05.md#cl-15621)
+[← Clase anterior](#cl-15680) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-05.md#cl-15682)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

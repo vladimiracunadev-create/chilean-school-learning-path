@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16770) · [Clase 2](#cl-16771) · [Clase 3](#cl-16772) · [Clase 4](#cl-16773) · [Clase 5](#cl-16774)
+**Clases de este OA:** [Clase 1](#cl-16867) · [Clase 2](#cl-16868) · [Clase 3](#cl-16869) · [Clase 4](#cl-16870) · [Clase 5](#cl-16871)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Consolidar y desconsolidar contenedores {#cl-16770}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Consolidar y desconsolidar contenedores {#cl-16867}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar consolidar y desconsolidar contenedores a través de situar el contexto laboral, la norma y el riesgo: Consolidar y desconsolidar contenedores, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Peligro: la puerta abierta sobre el pasillo; riesgo: que alguien se g
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-opor-3y4-oae-02.md#cl-16769) · [Clase siguiente →](#cl-16771)
+[← Última clase del OA anterior](tp-opor-3y4-oae-02.md#cl-16866) · [Clase siguiente →](#cl-16868)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Consolidar y desconsolidar contenedores {#cl-16771}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Consolidar y desconsolidar contenedores {#cl-16868}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar consolidar y desconsolidar contenedores a través de reconocer conceptos, documentos y roles del oficio: Consolidar y desconsolidar contenedores, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: FCL
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16770) · [Clase siguiente →](#cl-16772)
+[← Clase anterior](#cl-16867) · [Clase siguiente →](#cl-16869)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Consolidar y desconsolidar contenedores {#cl-16772}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Consolidar y desconsolidar contenedores {#cl-16869}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar consolidar y desconsolidar contenedores a través de analizar un caso de trabajo en papel: Consolidar y desconsolidar contenedores, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 50 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16771) · [Clase siguiente →](#cl-16773)
+[← Clase anterior](#cl-16868) · [Clase siguiente →](#cl-16870)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Consolidar y desconsolidar contenedores {#cl-16773}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Consolidar y desconsolidar contenedores {#cl-16870}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar consolidar y desconsolidar contenedores a través de aplicar un criterio técnico con datos de ejemplo: Consolidar y desconsolidar contenedores, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 6 contenedores
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16772) · [Clase siguiente →](#cl-16774)
+[← Clase anterior](#cl-16869) · [Clase siguiente →](#cl-16871)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Consolidar y desconsolidar contenedores {#cl-16774}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Consolidar y desconsolidar contenedores {#cl-16871}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar consolidar y desconsolidar contenedores a través de comparar alternativas y verificar la calidad: Consolidar y desconsolidar contenedores, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: La alternativa X
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16773) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-04.md#cl-16775)
+[← Clase anterior](#cl-16870) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-04.md#cl-16872)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

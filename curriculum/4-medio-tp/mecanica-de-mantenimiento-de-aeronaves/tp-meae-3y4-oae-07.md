@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16624) · [Clase 2](#cl-16625) · [Clase 3](#cl-16626) · [Clase 4](#cl-16627)
+**Clases de este OA:** [Clase 1](#cl-16685) · [Clase 2](#cl-16686) · [Clase 3](#cl-16687) · [Clase 4](#cl-16688)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Registrar e informar las acciones del mantenimiento efectuado {#cl-16624}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Registrar e informar las acciones del mantenimiento efectuado {#cl-16685}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar e informar las acciones del mantenimiento efectuado a través de situar el contexto laboral, la norma y el riesgo: Registrar e informar las acciones del mantenimiento efectuado, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: La trazabilidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meae-3y4-oae-06.md#cl-16623) · [Clase siguiente →](#cl-16625)
+[← Última clase del OA anterior](tp-meae-3y4-oae-06.md#cl-16684) · [Clase siguiente →](#cl-16686)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Registrar e informar las acciones del mantenimiento efectuado {#cl-16625}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Registrar e informar las acciones del mantenimiento efectuado {#cl-16686}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar e informar las acciones del mantenimiento efectuado a través de reconocer conceptos, documentos y roles del oficio: Registrar e informar las acciones del mantenimiento efectuado, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: El certificado de liberación a servicio
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16624) · [Clase siguiente →](#cl-16626)
+[← Clase anterior](#cl-16685) · [Clase siguiente →](#cl-16687)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Registrar e informar las acciones del mantenimiento efectuado {#cl-16626}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Registrar e informar las acciones del mantenimiento efectuado {#cl-16687}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar e informar las acciones del mantenimiento efectuado a través de analizar un caso de trabajo en papel: Registrar e informar las acciones del mantenimiento efectuado, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: Una omisión
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16625) · [Clase siguiente →](#cl-16627)
+[← Clase anterior](#cl-16686) · [Clase siguiente →](#cl-16688)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Registrar e informar las acciones del mantenimiento efectuado {#cl-16627}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Registrar e informar las acciones del mantenimiento efectuado {#cl-16688}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar e informar las acciones del mantenimiento efectuado a través de aplicar un criterio técnico con datos de ejemplo: Registrar e informar las acciones del mantenimiento efectuado, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: 24 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16626)
+[← Clase anterior](#cl-16687)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

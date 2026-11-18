@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15793) · [Clase 2](#cl-15794) · [Clase 3](#cl-15795) · [Clase 4](#cl-15796)
+**Clases de este OA:** [Clase 1](#cl-15854) · [Clase 2](#cl-15855) · [Clase 3](#cl-15856) · [Clase 4](#cl-15857)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15793}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15854}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar las operaciones de almacenamiento y manejo de existencias a través de situar el contexto laboral, la norma y el riesgo: Controlar las operaciones de almacenamiento y manejo de existencias, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 31 (caso de ejemplo, inventado). Bodega de «Distribuidora Andes del Sur»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-adlo-4-oam-01.md#cl-15792) · [Clase siguiente →](#cl-15794)
+[← Última clase del OA anterior](tp-adlo-4-oam-01.md#cl-15853) · [Clase siguiente →](#cl-15855)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15794}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15855}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar las operaciones de almacenamiento y manejo de existencias a través de reconocer conceptos, documentos y roles del oficio: Controlar las operaciones de almacenamiento y manejo de existencias, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 32 (métodos de ejemplo, inventados) de «Distribuidora Andes del Sur». M
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15793) · [Clase siguiente →](#cl-15795)
+[← Clase anterior](#cl-15854) · [Clase siguiente →](#cl-15856)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15795}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15856}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar las operaciones de almacenamiento y manejo de existencias a través de analizar un caso de trabajo en papel: Controlar las operaciones de almacenamiento y manejo de existencias, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 33 (caso de ejemplo, inventado) de «Distribuidora Andes del Sur». Invent
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15794) · [Clase siguiente →](#cl-15796)
+[← Clase anterior](#cl-15855) · [Clase siguiente →](#cl-15857)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15796}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar las operaciones de almacenamiento y manejo de existencias {#cl-15857}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar las operaciones de almacenamiento y manejo de existencias a través de aplicar un criterio técnico con datos de ejemplo: Controlar las operaciones de almacenamiento y manejo de existencias, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 34 (datos de ejemplo, inventados) de «Distribuidora Andes del Sur». Inve
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15795) · [Primera clase del OA siguiente →](tp-adlo-4-oam-03.md#cl-15797)
+[← Clase anterior](#cl-15856) · [Primera clase del OA siguiente →](tp-adlo-4-oam-03.md#cl-15858)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

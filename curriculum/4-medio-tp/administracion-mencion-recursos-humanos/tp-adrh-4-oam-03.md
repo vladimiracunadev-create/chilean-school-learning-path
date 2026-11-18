@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15817) · [Clase 2](#cl-15818) · [Clase 3](#cl-15819) · [Clase 4](#cl-15820)
+**Clases de este OA:** [Clase 1](#cl-15878) · [Clase 2](#cl-15879) · [Clase 3](#cl-15880) · [Clase 4](#cl-15881)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15817}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15878}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas a través de situar el contexto laboral, la norma y el riesgo: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 55 (caso ficticio). «Servicios Quillay Ltda.» (60 personas, valor de eje
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-adrh-4-oam-02.md#cl-15816) · [Clase siguiente →](#cl-15818)
+[← Última clase del OA anterior](tp-adrh-4-oam-02.md#cl-15877) · [Clase siguiente →](#cl-15879)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15818}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15879}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas a través de reconocer conceptos, documentos y roles del oficio: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 56 (documentos y roles de ejemplo, inventados) de «Servicios Quillay Ltda
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15817) · [Clase siguiente →](#cl-15819)
+[← Clase anterior](#cl-15878) · [Clase siguiente →](#cl-15880)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15819}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15880}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas a través de analizar un caso de trabajo en papel: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 57 (tabla de ejemplo, inventada) del área de ventas y compras de «Servic
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15818) · [Clase siguiente →](#cl-15820)
+[← Clase anterior](#cl-15879) · [Clase siguiente →](#cl-15881)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15820}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas {#cl-15881}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas a través de aplicar un criterio técnico con datos de ejemplo: Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 58 (datos de ejemplo, inventados) de «Servicios Quillay Ltda.». Resultad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15819) · [Primera clase del OA siguiente →](tp-adrh-4-oam-04.md#cl-15821)
+[← Clase anterior](#cl-15880) · [Primera clase del OA siguiente →](tp-adrh-4-oam-04.md#cl-15882)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16775) · [Clase 2](#cl-16776) · [Clase 3](#cl-16777) · [Clase 4](#cl-16778) · [Clase 5](#cl-16779)
+**Clases de este OA:** [Clase 1](#cl-16872) · [Clase 2](#cl-16873) · [Clase 3](#cl-16874) · [Clase 4](#cl-16875) · [Clase 5](#cl-16876)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Organizar y almacenar diferentes tipos de cargas {#cl-16775}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Organizar y almacenar diferentes tipos de cargas {#cl-16872}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y almacenar diferentes tipos de cargas a través de situar el contexto laboral, la norma y el riesgo: Organizar y almacenar diferentes tipos de cargas, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Carga refrigerada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-opor-3y4-oae-03.md#cl-16774) · [Clase siguiente →](#cl-16776)
+[← Última clase del OA anterior](tp-opor-3y4-oae-03.md#cl-16871) · [Clase siguiente →](#cl-16873)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Organizar y almacenar diferentes tipos de cargas {#cl-16776}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Organizar y almacenar diferentes tipos de cargas {#cl-16873}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y almacenar diferentes tipos de cargas a través de reconocer conceptos, documentos y roles del oficio: Organizar y almacenar diferentes tipos de cargas, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Que la mercancía es tóxica
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16775) · [Clase siguiente →](#cl-16777)
+[← Clase anterior](#cl-16872) · [Clase siguiente →](#cl-16874)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Organizar y almacenar diferentes tipos de cargas {#cl-16777}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Organizar y almacenar diferentes tipos de cargas {#cl-16874}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y almacenar diferentes tipos de cargas a través de analizar un caso de trabajo en papel: Organizar y almacenar diferentes tipos de cargas, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Del lote M1
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16776) · [Clase siguiente →](#cl-16778)
+[← Clase anterior](#cl-16873) · [Clase siguiente →](#cl-16875)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Organizar y almacenar diferentes tipos de cargas {#cl-16778}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Organizar y almacenar diferentes tipos de cargas {#cl-16875}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y almacenar diferentes tipos de cargas a través de aplicar un criterio técnico con datos de ejemplo: Organizar y almacenar diferentes tipos de cargas, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: No caben: solo hay espacio para 18
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16777) · [Clase siguiente →](#cl-16779)
+[← Clase anterior](#cl-16874) · [Clase siguiente →](#cl-16876)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Organizar y almacenar diferentes tipos de cargas {#cl-16779}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Organizar y almacenar diferentes tipos de cargas {#cl-16876}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y almacenar diferentes tipos de cargas a través de comparar alternativas y verificar la calidad: Organizar y almacenar diferentes tipos de cargas, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16778) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-05.md#cl-16780)
+[← Clase anterior](#cl-16875) · [Primera clase del OA siguiente →](tp-opor-3y4-oae-05.md#cl-16877)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16805) · [Clase 2](#cl-16806) · [Clase 3](#cl-16807) · [Clase 4](#cl-16808) · [Clase 5](#cl-16809)
+**Clases de este OA:** [Clase 1](#cl-16902) · [Clase 2](#cl-16903) · [Clase 3](#cl-16904) · [Clase 4](#cl-16905) · [Clase 5](#cl-16906)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16805}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16902}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recopilar, registrar y dar cuenta de datos e información de las especies marinas y las a través de situar el contexto laboral, la norma y el riesgo: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 4 anotaciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-pesq-3y4-oae-02.md#cl-16804) · [Clase siguiente →](#cl-16806)
+[← Última clase del OA anterior](tp-pesq-3y4-oae-02.md#cl-16901) · [Clase siguiente →](#cl-16903)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16806}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16903}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recopilar, registrar y dar cuenta de datos e información de las especies marinas y las a través de reconocer conceptos, documentos y roles del oficio: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Respuesta: 24 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16805) · [Clase siguiente →](#cl-16807)
+[← Clase anterior](#cl-16902) · [Clase siguiente →](#cl-16904)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16807}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16904}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recopilar, registrar y dar cuenta de datos e información de las especies marinas y las a través de analizar un caso de trabajo en papel: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las, con una experiencia disciplinar específica, segura y revisable.
@@ -671,9 +671,9 @@ Respuesta: Primer rango: 2; segundo rango: 3
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16806) · [Clase siguiente →](#cl-16808)
+[← Clase anterior](#cl-16903) · [Clase siguiente →](#cl-16905)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16808}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16905}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recopilar, registrar y dar cuenta de datos e información de las especies marinas y las a través de aplicar un criterio técnico con datos de ejemplo: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las, con una experiencia disciplinar específica, segura y revisable.
@@ -878,9 +878,9 @@ Respuesta: Tendencia a la baja
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16807) · [Clase siguiente →](#cl-16809)
+[← Clase anterior](#cl-16904) · [Clase siguiente →](#cl-16906)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16809}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las {#cl-16906}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recopilar, registrar y dar cuenta de datos e información de las especies marinas y las a través de comparar alternativas y verificar la calidad: Recopilar, registrar y dar cuenta de datos e información de las especies marinas y las, con una experiencia disciplinar específica, segura y revisable.
@@ -1086,7 +1086,7 @@ Respuesta: Completitud
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16808) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-04.md#cl-16810)
+[← Clase anterior](#cl-16905) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-04.md#cl-16907)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

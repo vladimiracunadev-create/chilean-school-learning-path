@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15946) · [Clase 2](#cl-15947) · [Clase 3](#cl-15948) · [Clase 4](#cl-15949)
+**Clases de este OA:** [Clase 1](#cl-16007) · [Clase 2](#cl-16008) · [Clase 3](#cl-16009) · [Clase 4](#cl-16010)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Alimentar a niños y niñas menores de seis años {#cl-15946}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Alimentar a niños y niñas menores de seis años {#cl-16007}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar alimentar a niños y niñas menores de seis años a través de situar el contexto laboral, la norma y el riesgo: Alimentar a niños y niñas menores de seis años, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Avisar a la educadora y no darle la galleta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-03.md#cl-15945) · [Clase siguiente →](#cl-15947)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-03.md#cl-16006) · [Clase siguiente →](#cl-16008)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Alimentar a niños y niñas menores de seis años {#cl-15947}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Alimentar a niños y niñas menores de seis años {#cl-16008}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar alimentar a niños y niñas menores de seis años a través de reconocer conceptos, documentos y roles del oficio: Alimentar a niños y niñas menores de seis años, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: No hay conflicto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15946) · [Clase siguiente →](#cl-15948)
+[← Clase anterior](#cl-16007) · [Clase siguiente →](#cl-16009)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Alimentar a niños y niñas menores de seis años {#cl-15948}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Alimentar a niños y niñas menores de seis años {#cl-16009}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar alimentar a niños y niñas menores de seis años a través de analizar un caso de trabajo en papel: Alimentar a niños y niñas menores de seis años, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 4 comieron todo y 2 menos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15947) · [Clase siguiente →](#cl-15949)
+[← Clase anterior](#cl-16008) · [Clase siguiente →](#cl-16010)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Alimentar a niños y niñas menores de seis años {#cl-15949}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Alimentar a niños y niñas menores de seis años {#cl-16010}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar alimentar a niños y niñas menores de seis años a través de aplicar un criterio técnico con datos de ejemplo: Alimentar a niños y niñas menores de seis años, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: No: suman 15 y hay 16 presentes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15948) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-05.md#cl-15950)
+[← Clase anterior](#cl-16009) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-05.md#cl-16011)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

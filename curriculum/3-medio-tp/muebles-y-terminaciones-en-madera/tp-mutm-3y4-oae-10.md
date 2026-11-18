@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15360) · [Clase 2](#cl-15361) · [Clase 3](#cl-15362) · [Clase 4](#cl-15363)
+**Clases de este OA:** [Clase 1](#cl-15396) · [Clase 2](#cl-15397) · [Clase 3](#cl-15398) · [Clase 4](#cl-15399)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Embalar y rotular muebles {#cl-15360}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Embalar y rotular muebles {#cl-15396}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar embalar y rotular muebles a través de situar el contexto laboral, la norma y el riesgo: Embalar y rotular muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: La etiqueta o rótulo del bulto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-09.md#cl-15359) · [Clase siguiente →](#cl-15361)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-09.md#cl-15395) · [Clase siguiente →](#cl-15397)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Embalar y rotular muebles {#cl-15361}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Embalar y rotular muebles {#cl-15397}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar embalar y rotular muebles a través de reconocer conceptos, documentos y roles del oficio: Embalar y rotular muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 8 bultos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15360) · [Clase siguiente →](#cl-15362)
+[← Clase anterior](#cl-15396) · [Clase siguiente →](#cl-15398)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Embalar y rotular muebles {#cl-15362}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Embalar y rotular muebles {#cl-15398}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar embalar y rotular muebles a través de analizar un caso de trabajo en papel: Embalar y rotular muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No, superan la capacidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15361) · [Clase siguiente →](#cl-15363)
+[← Clase anterior](#cl-15397) · [Clase siguiente →](#cl-15399)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Embalar y rotular muebles {#cl-15363}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Embalar y rotular muebles {#cl-15399}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar embalar y rotular muebles a través de aplicar un criterio técnico con datos de ejemplo: Embalar y rotular muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 4 rollos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15362)
+[← Clase anterior](#cl-15398)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

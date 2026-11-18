@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16925) · [Clase 2](#cl-16926) · [Clase 3](#cl-16927) · [Clase 4](#cl-16928)
+**Clases de este OA:** [Clase 1](#cl-17058) · [Clase 2](#cl-17059) · [Clase 3](#cl-17060) · [Clase 4](#cl-17061)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Supervisar las actividades de servicio de habitaciones {#cl-16925}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Supervisar las actividades de servicio de habitaciones {#cl-17058}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar supervisar las actividades de servicio de habitaciones a través de situar el contexto laboral, la norma y el riesgo: Supervisar las actividades de servicio de habitaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No entra e informa según el protocolo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-seho-3y4-oae-03.md#cl-16924) · [Clase siguiente →](#cl-16926)
+[← Última clase del OA anterior](tp-seho-3y4-oae-03.md#cl-17057) · [Clase siguiente →](#cl-17059)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Supervisar las actividades de servicio de habitaciones {#cl-16926}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Supervisar las actividades de servicio de habitaciones {#cl-17059}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar supervisar las actividades de servicio de habitaciones a través de reconocer conceptos, documentos y roles del oficio: Supervisar las actividades de servicio de habitaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No cumple: excede en 1
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16925) · [Clase siguiente →](#cl-16927)
+[← Clase anterior](#cl-17058) · [Clase siguiente →](#cl-17060)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Supervisar las actividades de servicio de habitaciones {#cl-16927}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Supervisar las actividades de servicio de habitaciones {#cl-17060}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar supervisar las actividades de servicio de habitaciones a través de analizar un caso de trabajo en papel: Supervisar las actividades de servicio de habitaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: La que tiene un huésped esperando
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16926) · [Clase siguiente →](#cl-16928)
+[← Clase anterior](#cl-17059) · [Clase siguiente →](#cl-17061)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Supervisar las actividades de servicio de habitaciones {#cl-16928}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Supervisar las actividades de servicio de habitaciones {#cl-17061}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar supervisar las actividades de servicio de habitaciones a través de aplicar un criterio técnico con datos de ejemplo: Supervisar las actividades de servicio de habitaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 240 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16927) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-05.md#cl-16929)
+[← Clase anterior](#cl-17060) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-05.md#cl-17062)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

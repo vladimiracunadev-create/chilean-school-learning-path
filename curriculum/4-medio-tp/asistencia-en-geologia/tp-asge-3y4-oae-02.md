@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15903) · [Clase 2](#cl-15904) · [Clase 3](#cl-15905) · [Clase 4](#cl-15906) · [Clase 5](#cl-15907)
+**Clases de este OA:** [Clase 1](#cl-15964) · [Clase 2](#cl-15965) · [Clase 3](#cl-15966) · [Clase 4](#cl-15967) · [Clase 5](#cl-15968)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Transportar, instalar, armar y desarmar equipos {#cl-15903}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Transportar, instalar, armar y desarmar equipos {#cl-15964}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar transportar, instalar, armar y desarmar equipos a través de situar el contexto laboral, la norma y el riesgo: Transportar, instalar, armar y desarmar equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Peligro: carga sin sujetar; riesgo: que se desplace o caiga y cause d
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-asge-3y4-oae-01.md#cl-15902) · [Clase siguiente →](#cl-15904)
+[← Última clase del OA anterior](tp-asge-3y4-oae-01.md#cl-15963) · [Clase siguiente →](#cl-15965)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Transportar, instalar, armar y desarmar equipos {#cl-15904}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Transportar, instalar, armar y desarmar equipos {#cl-15965}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar transportar, instalar, armar y desarmar equipos a través de reconocer conceptos, documentos y roles del oficio: Transportar, instalar, armar y desarmar equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: La hoja de vida del equipo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15903) · [Clase siguiente →](#cl-15905)
+[← Clase anterior](#cl-15964) · [Clase siguiente →](#cl-15966)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Transportar, instalar, armar y desarmar equipos {#cl-15905}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Transportar, instalar, armar y desarmar equipos {#cl-15966}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar transportar, instalar, armar y desarmar equipos a través de analizar un caso de trabajo en papel: Transportar, instalar, armar y desarmar equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Sí, ambos viajes cumplen
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15904) · [Clase siguiente →](#cl-15906)
+[← Clase anterior](#cl-15965) · [Clase siguiente →](#cl-15967)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Transportar, instalar, armar y desarmar equipos {#cl-15906}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Transportar, instalar, armar y desarmar equipos {#cl-15967}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar transportar, instalar, armar y desarmar equipos a través de aplicar un criterio técnico con datos de ejemplo: Transportar, instalar, armar y desarmar equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 3 baterías
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15905) · [Clase siguiente →](#cl-15907)
+[← Clase anterior](#cl-15966) · [Clase siguiente →](#cl-15968)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Transportar, instalar, armar y desarmar equipos {#cl-15907}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Transportar, instalar, armar y desarmar equipos {#cl-15968}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar transportar, instalar, armar y desarmar equipos a través de comparar alternativas y verificar la calidad: Transportar, instalar, armar y desarmar equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Sí, con 9 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15906) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-03.md#cl-15908)
+[← Clase anterior](#cl-15967) · [Primera clase del OA siguiente →](tp-asge-3y4-oae-03.md#cl-15969)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

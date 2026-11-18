@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15887) · [Clase 2](#cl-15888) · [Clase 3](#cl-15889) · [Clase 4](#cl-15890)
+**Clases de este OA:** [Clase 1](#cl-15948) · [Clase 2](#cl-15949) · [Clase 3](#cl-15950) · [Clase 4](#cl-15951)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de envasado del vino {#cl-15887}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de envasado del vino {#cl-15948}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de envasado del vino a través de situar el contexto laboral, la norma y el riesgo: Ejecutar labores de envasado del vino, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agvi-4-oam-03.md#cl-15886) · [Clase siguiente →](#cl-15888)
+[← Última clase del OA anterior](tp-agvi-4-oam-03.md#cl-15947) · [Clase siguiente →](#cl-15949)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de envasado del vino {#cl-15888}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de envasado del vino {#cl-15949}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de envasado del vino a través de reconocer conceptos, documentos y roles del oficio: Ejecutar labores de envasado del vino, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15887) · [Clase siguiente →](#cl-15889)
+[← Clase anterior](#cl-15948) · [Clase siguiente →](#cl-15950)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar labores de envasado del vino {#cl-15889}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar labores de envasado del vino {#cl-15950}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de envasado del vino a través de analizar un caso de trabajo en papel: Ejecutar labores de envasado del vino, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: C
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15888) · [Clase siguiente →](#cl-15890)
+[← Clase anterior](#cl-15949) · [Clase siguiente →](#cl-15951)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de envasado del vino {#cl-15890}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de envasado del vino {#cl-15951}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de envasado del vino a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de envasado del vino, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 2.850 botellas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15889) · [Primera clase del OA siguiente →](tp-agvi-4-oam-05.md#cl-15891)
+[← Clase anterior](#cl-15950) · [Primera clase del OA siguiente →](tp-agvi-4-oam-05.md#cl-15952)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

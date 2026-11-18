@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16408) · [Clase 2](#cl-16409) · [Clase 3](#cl-16410) · [Clase 4](#cl-16411)
+**Clases de este OA:** [Clase 1](#cl-16469) · [Clase 2](#cl-16470) · [Clase 3](#cl-16471) · [Clase 4](#cl-16472)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar diferentes tipos de dulces {#cl-16408}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar diferentes tipos de dulces {#cl-16469}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diferentes tipos de dulces a través de situar el contexto laboral, la norma y el riesgo: Elaborar diferentes tipos de dulces, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Hasta el día 6
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gapr-4-oam-01.md#cl-16407) · [Clase siguiente →](#cl-16409)
+[← Última clase del OA anterior](tp-gapr-4-oam-01.md#cl-16468) · [Clase siguiente →](#cl-16470)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar diferentes tipos de dulces {#cl-16409}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar diferentes tipos de dulces {#cl-16470}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diferentes tipos de dulces a través de reconocer conceptos, documentos y roles del oficio: Elaborar diferentes tipos de dulces, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Sí, está dentro del plazo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16408) · [Clase siguiente →](#cl-16410)
+[← Clase anterior](#cl-16469) · [Clase siguiente →](#cl-16471)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar diferentes tipos de dulces {#cl-16410}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar diferentes tipos de dulces {#cl-16471}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diferentes tipos de dulces a través de analizar un caso de trabajo en papel: Elaborar diferentes tipos de dulces, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: Desde el día 7
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16409) · [Clase siguiente →](#cl-16411)
+[← Clase anterior](#cl-16470) · [Clase siguiente →](#cl-16472)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar diferentes tipos de dulces {#cl-16411}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar diferentes tipos de dulces {#cl-16472}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diferentes tipos de dulces a través de aplicar un criterio técnico con datos de ejemplo: Elaborar diferentes tipos de dulces, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: $48.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16410) · [Primera clase del OA siguiente →](tp-gapr-4-oam-03.md#cl-16412)
+[← Clase anterior](#cl-16471) · [Primera clase del OA siguiente →](tp-gapr-4-oam-03.md#cl-16473)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

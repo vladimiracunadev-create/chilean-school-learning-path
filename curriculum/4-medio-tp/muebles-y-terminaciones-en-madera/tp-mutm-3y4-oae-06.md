@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16691) · [Clase 2](#cl-16692) · [Clase 3](#cl-16693) · [Clase 4](#cl-16694) · [Clase 5](#cl-16695)
+**Clases de este OA:** [Clase 1](#cl-16788) · [Clase 2](#cl-16789) · [Clase 3](#cl-16790) · [Clase 4](#cl-16791) · [Clase 5](#cl-16792)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Proteger, embellecer y terminar muebles {#cl-16691}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Proteger, embellecer y terminar muebles {#cl-16788}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar proteger, embellecer y terminar muebles a través de situar el contexto laboral, la norma y el riesgo: Proteger, embellecer y terminar muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: La hoja de datos de seguridad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-05.md#cl-16690) · [Clase siguiente →](#cl-16692)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-05.md#cl-16787) · [Clase siguiente →](#cl-16789)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Proteger, embellecer y terminar muebles {#cl-16692}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Proteger, embellecer y terminar muebles {#cl-16789}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar proteger, embellecer y terminar muebles a través de reconocer conceptos, documentos y roles del oficio: Proteger, embellecer y terminar muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 2 partes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16691) · [Clase siguiente →](#cl-16693)
+[← Clase anterior](#cl-16788) · [Clase siguiente →](#cl-16790)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Proteger, embellecer y terminar muebles {#cl-16693}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Proteger, embellecer y terminar muebles {#cl-16790}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar proteger, embellecer y terminar muebles a través de analizar un caso de trabajo en papel: Proteger, embellecer y terminar muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 4 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16692) · [Clase siguiente →](#cl-16694)
+[← Clase anterior](#cl-16789) · [Clase siguiente →](#cl-16791)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Proteger, embellecer y terminar muebles {#cl-16694}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Proteger, embellecer y terminar muebles {#cl-16791}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar proteger, embellecer y terminar muebles a través de aplicar un criterio técnico con datos de ejemplo: Proteger, embellecer y terminar muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 3 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16693) · [Clase siguiente →](#cl-16695)
+[← Clase anterior](#cl-16790) · [Clase siguiente →](#cl-16792)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Proteger, embellecer y terminar muebles {#cl-16695}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Proteger, embellecer y terminar muebles {#cl-16792}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar proteger, embellecer y terminar muebles a través de comparar alternativas y verificar la calidad: Proteger, embellecer y terminar muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: La de 21 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16694) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-07.md#cl-16696)
+[← Clase anterior](#cl-16791) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-07.md#cl-16793)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

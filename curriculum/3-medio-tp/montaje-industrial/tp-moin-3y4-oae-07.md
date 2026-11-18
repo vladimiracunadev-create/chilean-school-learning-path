@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15305) · [Clase 2](#cl-15306) · [Clase 3](#cl-15307) · [Clase 4](#cl-15308) · [Clase 5](#cl-15309)
+**Clases de este OA:** [Clase 1](#cl-15341) · [Clase 2](#cl-15342) · [Clase 3](#cl-15343) · [Clase 4](#cl-15344) · [Clase 5](#cl-15345)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Fijar en su sitio estructuras metálicas {#cl-15305}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Fijar en su sitio estructuras metálicas {#cl-15341}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fijar en su sitio estructuras metálicas a través de situar el contexto laboral, la norma y el riesgo: Fijar en su sitio estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 4 tramos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-06.md#cl-15304) · [Clase siguiente →](#cl-15306)
+[← Última clase del OA anterior](tp-moin-3y4-oae-06.md#cl-15340) · [Clase siguiente →](#cl-15342)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Fijar en su sitio estructuras metálicas {#cl-15306}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Fijar en su sitio estructuras metálicas {#cl-15342}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fijar en su sitio estructuras metálicas a través de reconocer conceptos, documentos y roles del oficio: Fijar en su sitio estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 20 pernos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15305) · [Clase siguiente →](#cl-15307)
+[← Clase anterior](#cl-15341) · [Clase siguiente →](#cl-15343)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Fijar en su sitio estructuras metálicas {#cl-15307}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Fijar en su sitio estructuras metálicas {#cl-15343}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fijar en su sitio estructuras metálicas a través de analizar un caso de trabajo en papel: Fijar en su sitio estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 12 persona-días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15306) · [Clase siguiente →](#cl-15308)
+[← Clase anterior](#cl-15342) · [Clase siguiente →](#cl-15344)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Fijar en su sitio estructuras metálicas {#cl-15308}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Fijar en su sitio estructuras metálicas {#cl-15344}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fijar en su sitio estructuras metálicas a través de aplicar un criterio técnico con datos de ejemplo: Fijar en su sitio estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 6 uniones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15307) · [Clase siguiente →](#cl-15309)
+[← Clase anterior](#cl-15343) · [Clase siguiente →](#cl-15345)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Fijar en su sitio estructuras metálicas {#cl-15309}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Fijar en su sitio estructuras metálicas {#cl-15345}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fijar en su sitio estructuras metálicas a través de comparar alternativas y verificar la calidad: Fijar en su sitio estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: No, se descarta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15308) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-08.md#cl-15310)
+[← Clase anterior](#cl-15344) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-08.md#cl-15346)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
