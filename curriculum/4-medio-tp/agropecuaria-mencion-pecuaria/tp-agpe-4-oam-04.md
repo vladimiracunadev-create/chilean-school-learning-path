@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15686) · [Clase 2](#cl-15687) · [Clase 3](#cl-15688) · [Clase 4](#cl-15689)
+**Clases de este OA:** [Clase 1](#cl-15759) · [Clase 2](#cl-15760) · [Clase 3](#cl-15761) · [Clase 4](#cl-15762)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de producción lechera {#cl-15686}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de producción lechera {#cl-15759}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de producción lechera a través de situar el contexto laboral, la norma y el riesgo: Ejecutar labores de producción lechera, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agpe-4-oam-03.md#cl-15685) · [Clase siguiente →](#cl-15687)
+[← Última clase del OA anterior](tp-agpe-4-oam-03.md#cl-15758) · [Clase siguiente →](#cl-15760)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de producción lechera {#cl-15687}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de producción lechera {#cl-15760}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de producción lechera a través de reconocer conceptos, documentos y roles del oficio: Ejecutar labores de producción lechera, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 900 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15686) · [Clase siguiente →](#cl-15688)
+[← Clase anterior](#cl-15759) · [Clase siguiente →](#cl-15761)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar labores de producción lechera {#cl-15688}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar labores de producción lechera {#cl-15761}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de producción lechera a través de analizar un caso de trabajo en papel: Ejecutar labores de producción lechera, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 15
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15687) · [Clase siguiente →](#cl-15689)
+[← Clase anterior](#cl-15760) · [Clase siguiente →](#cl-15762)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de producción lechera {#cl-15689}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de producción lechera {#cl-15762}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de producción lechera a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de producción lechera, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: $80.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15688) · [Primera clase del OA siguiente →](tp-agpe-4-oam-05.md#cl-15690)
+[← Clase anterior](#cl-15761) · [Primera clase del OA siguiente →](tp-agpe-4-oam-05.md#cl-15763)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15628) · [Clase 2](#cl-15629) · [Clase 3](#cl-15630) · [Clase 4](#cl-15631)
+**Clases de este OA:** [Clase 1](#cl-15701) · [Clase 2](#cl-15702) · [Clase 3](#cl-15703) · [Clase 4](#cl-15704)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15628}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15701}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar informar y comunicar datos de almacenaje y de entrada y salida de productos a través de situar el contexto laboral, la norma y el riesgo: Informar y comunicar datos de almacenaje y de entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 39 (caso de ejemplo, inventado) de «Distribuidora Andes del Sur». Sistem
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-adlo-4-oam-03.md#cl-15627) · [Clase siguiente →](#cl-15629)
+[← Última clase del OA anterior](tp-adlo-4-oam-03.md#cl-15700) · [Clase siguiente →](#cl-15702)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15629}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15702}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar informar y comunicar datos de almacenaje y de entrada y salida de productos a través de reconocer conceptos, documentos y roles del oficio: Informar y comunicar datos de almacenaje y de entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 40 (formatos y roles de ejemplo, inventados) de «Distribuidora Andes del 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15628) · [Clase siguiente →](#cl-15630)
+[← Clase anterior](#cl-15701) · [Clase siguiente →](#cl-15703)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15630}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15703}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar informar y comunicar datos de almacenaje y de entrada y salida de productos a través de analizar un caso de trabajo en papel: Informar y comunicar datos de almacenaje y de entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 41 (caso de ejemplo, inventado) de «Distribuidora Andes del Sur». Conteo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15629) · [Clase siguiente →](#cl-15631)
+[← Clase anterior](#cl-15702) · [Clase siguiente →](#cl-15704)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15631}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Informar y comunicar datos de almacenaje y de entrada y salida de productos {#cl-15704}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar informar y comunicar datos de almacenaje y de entrada y salida de productos a través de aplicar un criterio técnico con datos de ejemplo: Informar y comunicar datos de almacenaje y de entrada y salida de productos, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 42 (datos de ejemplo, inventados) de «Distribuidora Andes del Sur», al c
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15630) · [Primera clase del OA siguiente →](tp-adlo-4-oam-05.md#cl-15632)
+[← Clase anterior](#cl-15703) · [Primera clase del OA siguiente →](tp-adlo-4-oam-05.md#cl-15705)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

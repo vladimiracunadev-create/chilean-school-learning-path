@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 12363 de 12.599 clases desarrolladas tienen cuaderno del estudiante (98,1 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 12509 de 12.745 clases desarrolladas tienen cuaderno del estudiante (98,1 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -26,8 +26,8 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio | 466 | 466 | 0 | completo | 0 | 7.923 | 932 | pendiente |
 | 3.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 | 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
-| 3.º medio TP | 1.022 | 1.022 | 0 | completo | 0 | 17.374 | 2.044 | pendiente |
-| 4.º medio TP | 1.176 | 1.176 | 0 | completo | 0 | 19.992 | 2.352 | pendiente |
+| 3.º medio TP | 1.095 | 1.095 | 0 | completo | 0 | 18.615 | 2.190 | pendiente |
+| 4.º medio TP | 1.249 | 1.249 | 0 | completo | 0 | 21.233 | 2.498 | pendiente |
 
 ## Objetivos con cuaderno
 
@@ -2225,6 +2225,24 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-03 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-04 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-03 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-03 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construcciones-metalicas | TP-COME-3y4-OAE-09 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | construccion | TP-CONS-3-OAE-01 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | construccion | TP-CONS-3-OAE-02 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | construccion | TP-CONS-3-OAE-03 | 5 | 5 | 85 | 10 |
@@ -2435,6 +2453,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-07 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-01 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-01 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-05 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-05 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-08 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-01 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-02 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | mecanica-industrial-mencion-mantenimiento-electromecanico | TP-MEEL-4-OAM-03 | 5 | 5 | 85 | 10 |

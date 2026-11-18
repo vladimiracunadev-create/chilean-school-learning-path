@@ -290,6 +290,8 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Operaciones Portuarias** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/operaciones-portuarias.md).
 - **Pesquería** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/pesqueria.md).
 - **Tripulación de Naves Mercantes y Especiales** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/tripulacion-de-naves-mercantes-y-especiales.md).
+- **Construcciones Metálicas** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/construcciones-metalicas.md).
+- **Mecánica Automotriz** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/mecanica-automotriz.md).
 - **Mecánica Industrial** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/mecanica-industrial.md).
 - **Atención de Párvulos** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/atencion-de-parvulos.md).
 - **Conectividad y Redes** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/conectividad-y-redes.md).

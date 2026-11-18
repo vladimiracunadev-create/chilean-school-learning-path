@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14902) · [Clase 2](#cl-14903) · [Clase 3](#cl-14904) · [Clase 4](#cl-14905)
+**Clases de este OA:** [Clase 1](#cl-14940) · [Clase 2](#cl-14941) · [Clase 3](#cl-14942) · [Clase 4](#cl-14943)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14902}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14940}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para instalaciones eléctricas de baja tensión a través de situar el contexto laboral, la norma y el riesgo: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 2 cajas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-elec-3y4-oae-04.md#cl-14901) · [Clase siguiente →](#cl-14903)
+[← Última clase del OA anterior](tp-elec-3y4-oae-04.md#cl-14939) · [Clase siguiente →](#cl-14941)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14903}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14941}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para instalaciones eléctricas de baja tensión a través de reconocer conceptos, documentos y roles del oficio: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -456,9 +456,9 @@ Respuesta: 33 m
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14902) · [Clase siguiente →](#cl-14904)
+[← Clase anterior](#cl-14940) · [Clase siguiente →](#cl-14942)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14904}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14942}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para instalaciones eléctricas de baja tensión a través de analizar un caso de trabajo en papel: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -662,9 +662,9 @@ Respuesta: 3 rollos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14903) · [Clase siguiente →](#cl-14905)
+[← Clase anterior](#cl-14941) · [Clase siguiente →](#cl-14943)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14905}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión {#cl-14943}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar materiales e insumos para instalaciones eléctricas de baja tensión a través de aplicar un criterio técnico con datos de ejemplo: Cubicar materiales e insumos para instalaciones eléctricas de baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -869,7 +869,7 @@ Respuesta: $330.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14904) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-06.md#cl-14906)
+[← Clase anterior](#cl-14942) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-06.md#cl-14944)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15661) · [Clase 2](#cl-15662) · [Clase 3](#cl-15663) · [Clase 4](#cl-15664)
+**Clases de este OA:** [Clase 1](#cl-15734) · [Clase 2](#cl-15735) · [Clase 3](#cl-15736) · [Clase 4](#cl-15737)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15661}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15734}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar prácticas de post cosecha dirigidas al fruto y al predio a través de situar el contexto laboral, la norma y el riesgo: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agag-4-oam-02.md#cl-15660) · [Clase siguiente →](#cl-15662)
+[← Última clase del OA anterior](tp-agag-4-oam-02.md#cl-15733) · [Clase siguiente →](#cl-15735)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15662}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15735}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar prácticas de post cosecha dirigidas al fruto y al predio a través de reconocer conceptos, documentos y roles del oficio: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 4 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15661) · [Clase siguiente →](#cl-15663)
+[← Clase anterior](#cl-15734) · [Clase siguiente →](#cl-15736)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15663}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15736}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar prácticas de post cosecha dirigidas al fruto y al predio a través de analizar un caso de trabajo en papel: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: 3 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15662) · [Clase siguiente →](#cl-15664)
+[← Clase anterior](#cl-15735) · [Clase siguiente →](#cl-15737)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15664}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio {#cl-15737}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar prácticas de post cosecha dirigidas al fruto y al predio a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar prácticas de post cosecha dirigidas al fruto y al predio, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: $480.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15663) · [Primera clase del OA siguiente →](tp-agag-4-oam-04.md#cl-15665)
+[← Clase anterior](#cl-15736) · [Primera clase del OA siguiente →](tp-agag-4-oam-04.md#cl-15738)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

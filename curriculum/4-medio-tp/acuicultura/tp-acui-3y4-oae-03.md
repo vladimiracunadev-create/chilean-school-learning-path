@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15589) · [Clase 2](#cl-15590) · [Clase 3](#cl-15591) · [Clase 4](#cl-15592)
+**Clases de este OA:** [Clase 1](#cl-15662) · [Clase 2](#cl-15663) · [Clase 3](#cl-15664) · [Clase 4](#cl-15665)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15589}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15662}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar labores de cosecha de las especies hidrobiológicas a través de situar el contexto laboral, la norma y el riesgo: Realizar labores de cosecha de las especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-acui-3y4-oae-02.md#cl-15588) · [Clase siguiente →](#cl-15590)
+[← Última clase del OA anterior](tp-acui-3y4-oae-02.md#cl-15661) · [Clase siguiente →](#cl-15663)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15590}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15663}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar labores de cosecha de las especies hidrobiológicas a través de reconocer conceptos, documentos y roles del oficio: Realizar labores de cosecha de las especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: La guía de despacho
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15589) · [Clase siguiente →](#cl-15591)
+[← Clase anterior](#cl-15662) · [Clase siguiente →](#cl-15664)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15591}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15664}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar labores de cosecha de las especies hidrobiológicas a través de analizar un caso de trabajo en papel: Realizar labores de cosecha de las especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: $300.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15590) · [Clase siguiente →](#cl-15592)
+[← Clase anterior](#cl-15663) · [Clase siguiente →](#cl-15665)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15592}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar labores de cosecha de las especies hidrobiológicas {#cl-15665}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar labores de cosecha de las especies hidrobiológicas a través de aplicar un criterio técnico con datos de ejemplo: Realizar labores de cosecha de las especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 3 camiones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15591) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-04.md#cl-15593)
+[← Clase anterior](#cl-15664) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-04.md#cl-15666)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

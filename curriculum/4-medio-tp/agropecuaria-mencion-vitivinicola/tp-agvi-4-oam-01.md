@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15702) · [Clase 2](#cl-15703) · [Clase 3](#cl-15704) · [Clase 4](#cl-15705)
+**Clases de este OA:** [Clase 1](#cl-15775) · [Clase 2](#cl-15776) · [Clase 3](#cl-15777) · [Clase 4](#cl-15778)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15702}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15775}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación a través de situar el contexto laboral, la norma y el riesgo: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15703)
+[Clase siguiente →](#cl-15776)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15703}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15776}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación a través de reconocer conceptos, documentos y roles del oficio: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 2.000 plantas por hectárea
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15702) · [Clase siguiente →](#cl-15704)
+[← Clase anterior](#cl-15775) · [Clase siguiente →](#cl-15777)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15704}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15777}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación a través de analizar un caso de trabajo en papel: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 2 °Brix
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15703) · [Clase siguiente →](#cl-15705)
+[← Clase anterior](#cl-15776) · [Clase siguiente →](#cl-15778)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15705}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación {#cl-15778}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación a través de aplicar un criterio técnico con datos de ejemplo: Vigilar y mantener en buen estado los cultivos de vides destinadas a la vinificación, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: 4 kg por planta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15704) · [Primera clase del OA siguiente →](tp-agvi-4-oam-02.md#cl-15706)
+[← Clase anterior](#cl-15777) · [Primera clase del OA siguiente →](tp-agvi-4-oam-02.md#cl-15779)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

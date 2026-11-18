@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15379) · [Clase 2](#cl-15380) · [Clase 3](#cl-15381) · [Clase 4](#cl-15382)
+**Clases de este OA:** [Clase 1](#cl-15452) · [Clase 2](#cl-15453) · [Clase 3](#cl-15454) · [Clase 4](#cl-15455)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15379}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15452}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración a través de situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Correctivo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-recl-3y4-oae-07.md#cl-15378) · [Clase siguiente →](#cl-15380)
+[← Última clase del OA anterior](tp-recl-3y4-oae-07.md#cl-15451) · [Clase siguiente →](#cl-15453)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15380}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15453}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración a través de reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15379) · [Clase siguiente →](#cl-15381)
+[← Clase anterior](#cl-15452) · [Clase siguiente →](#cl-15454)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15381}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15454}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración a través de analizar un caso de trabajo en papel: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15380) · [Clase siguiente →](#cl-15382)
+[← Clase anterior](#cl-15453) · [Clase siguiente →](#cl-15455)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15382}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración {#cl-15455}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración a través de aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: $100.000 por año
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15381) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-09.md#cl-15383)
+[← Clase anterior](#cl-15454) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-09.md#cl-15456)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

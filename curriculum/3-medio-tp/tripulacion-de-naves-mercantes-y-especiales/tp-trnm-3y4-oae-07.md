@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15532) · [Clase 2](#cl-15533) · [Clase 3](#cl-15534) · [Clase 4](#cl-15535) · [Clase 5](#cl-15536)
+**Clases de este OA:** [Clase 1](#cl-15605) · [Clase 2](#cl-15606) · [Clase 3](#cl-15607) · [Clase 4](#cl-15608) · [Clase 5](#cl-15609)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15532}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15605}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos de maniobra de cubierta a través de situar el contexto laboral, la norma y el riesgo: Reponer o reparar partes y piezas de equipos de maniobra de cubierta, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Peligro: el chorro de aceite a presión; riesgo: que lesione a una pe
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-trnm-3y4-oae-06.md#cl-15531) · [Clase siguiente →](#cl-15533)
+[← Última clase del OA anterior](tp-trnm-3y4-oae-06.md#cl-15604) · [Clase siguiente →](#cl-15606)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15533}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15606}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos de maniobra de cubierta a través de reconocer conceptos, documentos y roles del oficio: Reponer o reparar partes y piezas de equipos de maniobra de cubierta, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Una válvula; hay 2 en bodega
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15532) · [Clase siguiente →](#cl-15534)
+[← Clase anterior](#cl-15605) · [Clase siguiente →](#cl-15607)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15534}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15607}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos de maniobra de cubierta a través de analizar un caso de trabajo en papel: Reponer o reparar partes y piezas de equipos de maniobra de cubierta, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Sí, se programa la reposición
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15533) · [Clase siguiente →](#cl-15535)
+[← Clase anterior](#cl-15606) · [Clase siguiente →](#cl-15608)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15535}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15608}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos de maniobra de cubierta a través de aplicar un criterio técnico con datos de ejemplo: Reponer o reparar partes y piezas de equipos de maniobra de cubierta, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 2 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15534) · [Clase siguiente →](#cl-15536)
+[← Clase anterior](#cl-15607) · [Clase siguiente →](#cl-15609)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15536}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reponer o reparar partes y piezas de equipos de maniobra de cubierta {#cl-15609}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reponer o reparar partes y piezas de equipos de maniobra de cubierta a través de comparar alternativas y verificar la calidad: Reponer o reparar partes y piezas de equipos de maniobra de cubierta, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: No, se descarta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15535) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-08.md#cl-15537)
+[← Clase anterior](#cl-15608) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-08.md#cl-15610)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

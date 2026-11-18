@@ -28455,6 +28455,83 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Construcciones Metálicas",
+      "subject_slug": "construcciones-metalicas",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-COME-3y4-OAE-01",
+          "description": "Leer y utilizar planos técnicos de estructuras metálicas y sus componentes, simbología, instrumentos análogos y digitales, extrayendo información y realizando mediciones y controles de verificación de distintas magnitudes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-02",
+          "description": "Trazar piezas y partes de construcciones metálicas, para orientar la ejecución de trabajos de fabricación, mantenimiento y reparación, incluyendo uso de herramientas computacionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-03",
+          "description": "Fabricar, unir y reparar elementos de construcciones metálicas, mediante actividades de corte y soldadura en posición plana horizontal y vertical, utilizando equipos de oxigas y arco manual, soldadura TIG, MIG y MAG, uniones mecánicas, de acuerdo a las especificaciones técnicas del proyecto y normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-04",
+          "description": "Mecanizar y conformar partes, piezas y estructuras de construcciones metálicas de menor tamaño, con máquinas y herramientas, incluyendo taladrado, esmerilado, aserrado, plegado, cilindrado, doblado y forjadura, de acuerdo a los planos y a las especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-05",
+          "description": "Armar y montar en obra o taller, elementos, subconjuntos y estructuras de construcciones metálicas livianas para instalaciones industriales, tales como galpones, edificios, entre otras, de acuerdo a las especificaciones técnicas del proyecto.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-06",
+          "description": "Realizar el mantenimiento básico de instrumentos, herramientas, útiles, máquinas, equipos y componentes propios de la especialidad de construcciones metálicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-07",
+          "description": "Ejecutar tratamientos de protección de elementos de construcciones metálicas, mediante anticorrosivos, pinturas y otros, utilizando materiales, herramientas y equipos apropiados y respetando las normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-08",
+          "description": "Realizar el tratamiento de residuos y desechos de las construcciones metálicas, aplicando técnicas compatibles con el cuidado del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-09",
+          "description": "Calcular y cubicar materiales, insumos y otros elementos de construcciones metálicas, considerando los planos y las especificaciones técnicas de la obra.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Construcción",
       "subject_slug": "construccion",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -29123,6 +29200,76 @@
         {
           "code": "TP-INSA-3y4-OAE-08",
           "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica Automotriz",
+      "subject_slug": "mecanica-automotriz",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEAU-3y4-OAE-01",
+          "description": "Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico, eléctrico o electrónico de vehículos motorizados, identificando el o los sistemas y componentes comprometidos, realizando mediciones y controles de verificación de distintas magnitudes mediante instrumentos análogos y digitales, con referencia a las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-02",
+          "description": "Leer y utilizar la información contenida en manuales técnicos, planos y diagramas de vehículos motorizados, y normas nacionales e internacionales de emisiones de gases, para resolver diagnósticos o fallas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-03",
+          "description": "Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos, semipesados y pesados, de acuerdo a pautas de mantenimiento del fabricante, de inspección y diagnóstico de fallas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-04",
+          "description": "Reparar y probar el funcionamiento de motores de gasolina, diésel, gas e híbridos, tanto convencionales como de inyección electrónica, y sus sistemas de control de emisiones, conjunto o subconjuntos mecánicos del motor, de lubricación y refrigeración, entre otros, utilizando las herramientas e instrumentos apropiados, de acuerdo a especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-05",
+          "description": "Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en los vehículos, tales como suspensión, sistema de dirección, frenos y transmisión de potencia manual y automática, utilizando las herramientas e instrumentos apropiados, de acuerdo a especificaciones técnicas del fabricante y estándares internacionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-06",
+          "description": "Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices, tales como sistemas de carga, de arranque, de encendido, de alumbrado y señalización, de cierre centralizado, según indicaciones del fabricante y estándares internacionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-07",
+          "description": "Montar y desmontar sistemas de seguridad y de confortabilidad, tales como cinturones de seguridad, airbag, alarmas, aire acondicionado, sistema de audio, de acuerdo a las instrucciones del fabricante y la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-08",
+          "description": "Manipular residuos y desechos del mantenimiento de vehículos motorizados, aplicando técnicas compatibles con el cuidado del medio ambiente.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -30625,6 +30772,83 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Construcciones Metálicas",
+      "subject_slug": "construcciones-metalicas",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-COME-3y4-OAE-01",
+          "description": "Leer y utilizar planos técnicos de estructuras metálicas y sus componentes, simbología, instrumentos análogos y digitales, extrayendo información y realizando mediciones y controles de verificación de distintas magnitudes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-02",
+          "description": "Trazar piezas y partes de construcciones metálicas, para orientar la ejecución de trabajos de fabricación, mantenimiento y reparación, incluyendo uso de herramientas computacionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-03",
+          "description": "Fabricar, unir y reparar elementos de construcciones metálicas, mediante actividades de corte y soldadura en posición plana horizontal y vertical, utilizando equipos de oxigas y arco manual, soldadura TIG, MIG y MAG, uniones mecánicas, de acuerdo a las especificaciones técnicas del proyecto y normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-04",
+          "description": "Mecanizar y conformar partes, piezas y estructuras de construcciones metálicas de menor tamaño, con máquinas y herramientas, incluyendo taladrado, esmerilado, aserrado, plegado, cilindrado, doblado y forjadura, de acuerdo a los planos y a las especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-05",
+          "description": "Armar y montar en obra o taller, elementos, subconjuntos y estructuras de construcciones metálicas livianas para instalaciones industriales, tales como galpones, edificios, entre otras, de acuerdo a las especificaciones técnicas del proyecto.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-06",
+          "description": "Realizar el mantenimiento básico de instrumentos, herramientas, útiles, máquinas, equipos y componentes propios de la especialidad de construcciones metálicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-07",
+          "description": "Ejecutar tratamientos de protección de elementos de construcciones metálicas, mediante anticorrosivos, pinturas y otros, utilizando materiales, herramientas y equipos apropiados y respetando las normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-08",
+          "description": "Realizar el tratamiento de residuos y desechos de las construcciones metálicas, aplicando técnicas compatibles con el cuidado del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COME-3y4-OAE-09",
+          "description": "Calcular y cubicar materiales, insumos y otros elementos de construcciones metálicas, considerando los planos y las especificaciones técnicas de la obra.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Construcción · mención Edificación",
       "subject_slug": "construccion-mencion-edificacion",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -31440,6 +31664,76 @@
         {
           "code": "TP-INSA-3y4-OAE-08",
           "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica Automotriz",
+      "subject_slug": "mecanica-automotriz",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEAU-3y4-OAE-01",
+          "description": "Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico, eléctrico o electrónico de vehículos motorizados, identificando el o los sistemas y componentes comprometidos, realizando mediciones y controles de verificación de distintas magnitudes mediante instrumentos análogos y digitales, con referencia a las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-02",
+          "description": "Leer y utilizar la información contenida en manuales técnicos, planos y diagramas de vehículos motorizados, y normas nacionales e internacionales de emisiones de gases, para resolver diagnósticos o fallas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-03",
+          "description": "Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos, semipesados y pesados, de acuerdo a pautas de mantenimiento del fabricante, de inspección y diagnóstico de fallas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-04",
+          "description": "Reparar y probar el funcionamiento de motores de gasolina, diésel, gas e híbridos, tanto convencionales como de inyección electrónica, y sus sistemas de control de emisiones, conjunto o subconjuntos mecánicos del motor, de lubricación y refrigeración, entre otros, utilizando las herramientas e instrumentos apropiados, de acuerdo a especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-05",
+          "description": "Reparar y probar sistemas hidráulicos y neumáticos responsables de diversas funciones en los vehículos, tales como suspensión, sistema de dirección, frenos y transmisión de potencia manual y automática, utilizando las herramientas e instrumentos apropiados, de acuerdo a especificaciones técnicas del fabricante y estándares internacionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-06",
+          "description": "Reemplazar y probar sistemas eléctricos y electrónicos de los vehículos automotrices, tales como sistemas de carga, de arranque, de encendido, de alumbrado y señalización, de cierre centralizado, según indicaciones del fabricante y estándares internacionales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-07",
+          "description": "Montar y desmontar sistemas de seguridad y de confortabilidad, tales como cinturones de seguridad, airbag, alarmas, aire acondicionado, sistema de audio, de acuerdo a las instrucciones del fabricante y la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAU-3y4-OAE-08",
+          "description": "Manipular residuos y desechos del mantenimiento de vehículos motorizados, aplicando técnicas compatibles con el cuidado del medio ambiente.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"

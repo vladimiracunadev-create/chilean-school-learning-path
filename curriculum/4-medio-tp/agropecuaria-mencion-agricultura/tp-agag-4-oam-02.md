@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15657) · [Clase 2](#cl-15658) · [Clase 3](#cl-15659) · [Clase 4](#cl-15660)
+**Clases de este OA:** [Clase 1](#cl-15730) · [Clase 2](#cl-15731) · [Clase 3](#cl-15732) · [Clase 4](#cl-15733)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Podar, ralear y conducir frutales para optimizar la producción {#cl-15657}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Podar, ralear y conducir frutales para optimizar la producción {#cl-15730}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar podar, ralear y conducir frutales para optimizar la producción a través de situar el contexto laboral, la norma y el riesgo: Podar, ralear y conducir frutales para optimizar la producción, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agag-4-oam-01.md#cl-15656) · [Clase siguiente →](#cl-15658)
+[← Última clase del OA anterior](tp-agag-4-oam-01.md#cl-15729) · [Clase siguiente →](#cl-15731)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Podar, ralear y conducir frutales para optimizar la producción {#cl-15658}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Podar, ralear y conducir frutales para optimizar la producción {#cl-15731}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar podar, ralear y conducir frutales para optimizar la producción a través de reconocer conceptos, documentos y roles del oficio: Podar, ralear y conducir frutales para optimizar la producción, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 150.000 frutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15657) · [Clase siguiente →](#cl-15659)
+[← Clase anterior](#cl-15730) · [Clase siguiente →](#cl-15732)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Podar, ralear y conducir frutales para optimizar la producción {#cl-15659}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Podar, ralear y conducir frutales para optimizar la producción {#cl-15732}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar podar, ralear y conducir frutales para optimizar la producción a través de analizar un caso de trabajo en papel: Podar, ralear y conducir frutales para optimizar la producción, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Poda de aclareo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15658) · [Clase siguiente →](#cl-15660)
+[← Clase anterior](#cl-15731) · [Clase siguiente →](#cl-15733)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Podar, ralear y conducir frutales para optimizar la producción {#cl-15660}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Podar, ralear y conducir frutales para optimizar la producción {#cl-15733}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar podar, ralear y conducir frutales para optimizar la producción a través de aplicar un criterio técnico con datos de ejemplo: Podar, ralear y conducir frutales para optimizar la producción, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: $1.500.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15659) · [Primera clase del OA siguiente →](tp-agag-4-oam-03.md#cl-15661)
+[← Clase anterior](#cl-15732) · [Primera clase del OA siguiente →](tp-agag-4-oam-03.md#cl-15734)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

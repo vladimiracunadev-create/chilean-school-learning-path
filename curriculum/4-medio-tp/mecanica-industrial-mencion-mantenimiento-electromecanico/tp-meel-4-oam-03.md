@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16220) · [Clase 2](#cl-16221) · [Clase 3](#cl-16222) · [Clase 4](#cl-16223) · [Clase 5](#cl-16224)
+**Clases de este OA:** [Clase 1](#cl-16366) · [Clase 2](#cl-16367) · [Clase 3](#cl-16368) · [Clase 4](#cl-16369) · [Clase 5](#cl-16370)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar componentes, equipos {#cl-16220}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Instalar componentes, equipos {#cl-16366}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar componentes, equipos a través de situar el contexto laboral, la norma y el riesgo: Instalar componentes, equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El registro de pruebas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meel-4-oam-02.md#cl-16219) · [Clase siguiente →](#cl-16221)
+[← Última clase del OA anterior](tp-meel-4-oam-02.md#cl-16365) · [Clase siguiente →](#cl-16367)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar componentes, equipos {#cl-16221}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Instalar componentes, equipos {#cl-16367}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar componentes, equipos a través de reconocer conceptos, documentos y roles del oficio: Instalar componentes, equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 8 componentes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16220) · [Clase siguiente →](#cl-16222)
+[← Clase anterior](#cl-16366) · [Clase siguiente →](#cl-16368)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar componentes, equipos {#cl-16222}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Instalar componentes, equipos {#cl-16368}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar componentes, equipos a través de analizar un caso de trabajo en papel: Instalar componentes, equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Las de 12 A y 20 A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16221) · [Clase siguiente →](#cl-16223)
+[← Clase anterior](#cl-16367) · [Clase siguiente →](#cl-16369)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar componentes, equipos {#cl-16223}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Instalar componentes, equipos {#cl-16369}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar componentes, equipos a través de aplicar un criterio técnico con datos de ejemplo: Instalar componentes, equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16222) · [Clase siguiente →](#cl-16224)
+[← Clase anterior](#cl-16368) · [Clase siguiente →](#cl-16370)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar componentes, equipos {#cl-16224}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Instalar componentes, equipos {#cl-16370}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar componentes, equipos a través de comparar alternativas y verificar la calidad: Instalar componentes, equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: Sí, se descarta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16223) · [Primera clase del OA siguiente →](tp-meel-4-oam-04.md#cl-16225)
+[← Clase anterior](#cl-16369) · [Primera clase del OA siguiente →](tp-meel-4-oam-04.md#cl-16371)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

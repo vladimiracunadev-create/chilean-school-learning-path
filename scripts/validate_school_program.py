@@ -756,7 +756,7 @@ def validate(root: Path = ROOT) -> list[str]:
     if documentation_html.count("Leer guía de 4° medio") != 17:
         errors.append("La portada documental no presenta las diecisiete guías desarrolladas de 4° medio")
     required_docs = {
-        "README.md": ("16.755", "3.660", "12.599", "4.156", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "760 de 7°", "771 de 8°", "753 clases disciplinares", "147 OA de contenido + 106 OA transversales", "744 clases disciplinares", "142 OA de contenido + 106 OA transversales", "495 clases", "466 clases", "0 propuestas pendientes", "6° básico · desarrollo OA por OA", "7° básico · desarrollo OA por OA", "8° básico · desarrollo OA por OA", "1° medio completo · once denominaciones", "2° medio completo · once denominaciones", "3° medio completo", "4° medio completo", "portal público de GitHub Pages", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
+        "README.md": ("16.901", "3.694", "12.745", "4.156", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "760 de 7°", "771 de 8°", "753 clases disciplinares", "147 OA de contenido + 106 OA transversales", "744 clases disciplinares", "142 OA de contenido + 106 OA transversales", "495 clases", "466 clases", "0 propuestas pendientes", "6° básico · desarrollo OA por OA", "7° básico · desarrollo OA por OA", "8° básico · desarrollo OA por OA", "1° medio completo · once denominaciones", "2° medio completo · once denominaciones", "3° medio completo", "4° medio completo", "portal público de GitHub Pages", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("1° básico a 4° medio completos internamente", "1° medio completo", "2° medio completo", "3° medio completo", "4° medio completo", "149 guías disponibles", "Estado verificable", "Cómo leer los estados", "Protocolo de pilotaje"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
@@ -857,19 +857,19 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/GLOSARIO.md": ("Glosario educativo", "Códigos rápidos"),
         "docs/ROLES_DOCENTES.md": ("Roles profesionales dentro del aula", "Antes, durante y después"),
         "docs/DIFICULTADES_EN_EL_AULA.md": ("Control de dificultades en el aula con acciones", "observar → actuar → comprobar → decidir"),
-        "docs/COBERTURA.md": ("Cobertura completa y navegable", "16.755"),
+        "docs/COBERTURA.md": ("Cobertura completa y navegable", "16.901"),
         "docs/PLAN_DESARROLLO.md": ("Plan maestro de desarrollo y control profesional", "4° medio — desarrollo interno completo", "Ninguna", "Definición y orden editorial de 1° básico a 4° medio", "MA2M OA 12", "LE2M OA 24", "FG-MATE-4M-OAC-04", "FG-LELI-4M-OAC-08", "FG-CIAS-3y4-OAC-01", "Gates del desarrollo interno", "- [x] Todos los OA disciplinares"),
-        "docs/FORMATOS.md": ("Registros pedagógicos en Markdown y HTML", "12.599 clases disciplinares", "4.156 experiencias de integración transversal", "16.755 registros pedagógicos"),
+        "docs/FORMATOS.md": ("Registros pedagógicos en Markdown y HTML", "12.745 clases disciplinares", "4.156 experiencias de integración transversal", "16.901 registros pedagógicos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para el contenido desarrollado de 1° básico a 4° medio", "doce niveles completos", "calidad de fuentes"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
         "LEARNING_PATHS.md": ("Docente de contenido desarrollado · 1° básico a 4° medio", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("12.599 clases desarrolladas", "Completo: 952 desarrolladas + 422 integradas", "Completo: 760 desarrolladas + 515 integradas", "Completo: 771 desarrolladas + 430 integradas", "Completo: 753 desarrolladas + 456 integradas", "Completo: 744 desarrolladas + 456 integradas", "495 desarrolladas", "466 desarrolladas", "0 pendientes", "Criterio para declarar un nivel completo"),
+        "ROADMAP.md": ("12.745 clases desarrolladas", "Completo: 952 desarrolladas + 422 integradas", "Completo: 760 desarrolladas + 515 integradas", "Completo: 771 desarrolladas + 430 integradas", "Completo: 753 desarrolladas + 456 integradas", "Completo: 744 desarrolladas + 456 integradas", "495 desarrolladas", "466 desarrolladas", "0 pendientes", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),
-        "site/index.html": ("Desde 1° básico hasta 4° medio", "Trayectoria completa hasta 4° medio", "12.599 clases", "4.156 experiencias integradas", "levels/7-basico.html", "levels/8-basico.html", "levels/1-medio.html", "levels/2-medio.html", "levels/3-medio.html", "levels/4-medio.html"),
+        "site/index.html": ("Desde 1° básico hasta 4° medio", "Trayectoria completa hasta 4° medio", "12.745 clases", "4.156 experiencias integradas", "levels/7-basico.html", "levels/8-basico.html", "levels/1-medio.html", "levels/2-medio.html", "levels/3-medio.html", "levels/4-medio.html"),
     }
     for relative_path, tokens in required_docs.items():
         document_path = root / relative_path
@@ -881,14 +881,14 @@ def validate(root: Path = ROOT) -> list[str]:
             if token not in document:
                 errors.append(f"{relative_path} incompleto: falta {token}")
     stale_current_claims = {
-        "README.md": ("Siete asignaturas de 7°", "Cinco denominaciones pendientes de 7° básico", "7 clases piloto en 8° básico", "Desde 8° básico hasta 4° medio", "Desde 1° hasta 4° medio", "8° básico en desarrollo", "seis asignaturas de 8°", "Seis asignaturas desarrolladas de 8° básico", "Una mejora de 1°, 2°, 3°, 4° o 5° básico", "Docente de 1°, 2° o 3° básico", "6.094 clases desarrolladas", "3.179 experiencias integradas", "6.383 clases desarrolladas", "3.660 experiencias integradas", "3.370 propuestas secuenciadas", "6.592 clases desarrolladas", "3.366 experiencias integradas", "878 propuestas", "6.969 clases desarrolladas", "3.583 experiencias integradas", "284 propuestas", "7.136 clases desarrolladas", "3.700 experiencias integradas", "2.161 propuestas", "8.375 clases desarrolladas", "466 propuestas pendientes"),
-        "docs/README.md": ("Siete asignaturas de 7°", "Las 86 guías disponibles", "Las 92 guías disponibles", "Las 94 guías disponibles", "Las 98 guías disponibles", "103 guías disponibles", "132 guías disponibles", "seis asignaturas desarrolladas de 8°", "8° básico en desarrollo", "6.383", "3.660 experiencias integradas", "6.592", "3.366", "878 propuestas", "6.969", "3.583", "284 propuestas", "7.136", "3.700", "2.161 propuestas", "1° básico a 3° medio completos internamente"),
+        "README.md": ("Siete asignaturas de 7°", "Cinco denominaciones pendientes de 7° básico", "7 clases piloto en 8° básico", "Desde 8° básico hasta 4° medio", "Desde 1° hasta 4° medio", "8° básico en desarrollo", "seis asignaturas de 8°", "Seis asignaturas desarrolladas de 8° básico", "Una mejora de 1°, 2°, 3°, 4° o 5° básico", "Docente de 1°, 2° o 3° básico", "6.094 clases desarrolladas", "3.179 experiencias integradas", "6.383 clases desarrolladas", "3.694 experiencias integradas", "3.370 propuestas secuenciadas", "6.592 clases desarrolladas", "3.366 experiencias integradas", "878 propuestas", "6.969 clases desarrolladas", "3.583 experiencias integradas", "284 propuestas", "7.136 clases desarrolladas", "3.700 experiencias integradas", "2.161 propuestas", "8.375 clases desarrolladas", "466 propuestas pendientes"),
+        "docs/README.md": ("Siete asignaturas de 7°", "Las 86 guías disponibles", "Las 92 guías disponibles", "Las 94 guías disponibles", "Las 98 guías disponibles", "103 guías disponibles", "132 guías disponibles", "seis asignaturas desarrolladas de 8°", "8° básico en desarrollo", "6.383", "3.694 experiencias integradas", "6.592", "3.366", "878 propuestas", "6.969", "3.583", "284 propuestas", "7.136", "3.700", "2.161 propuestas", "1° básico a 3° medio completos internamente"),
         "docs/SYLLABUS.md": ("Siete asignaturas de 7°", "núcleo de 8°", "seis asignaturas desarrolladas de 8°", "354 propuestas pendientes"),
         "docs/PLAN_DESARROLLO.md": ("7° básico — siguiente nivel por desarrollar", "Definición y orden editorial de 1° a 6° básico", "control interno completo niveles 1 a 6", "control interno completo niveles 1 a 7 y seis asignaturas 8"),
         "EDITORIAL_STATUS.md": ("Desarrollo parcial de 8° básico", "Otras asignaturas del nivel", "354 propuestas secuenciadas"),
-        "ROADMAP.md": ("En desarrollo: 482 desarrolladas + 365 integradas", "354 pendientes en 8° básico", "6.383 clases desarrolladas", "3.660 experiencias integradas", "7.136 clases desarrolladas", "3.700 experiencias integradas", "2.161 propuestas", "8.375 clases desarrolladas", "466 pendientes"),
-        "VALIDATION_REPORT.md": ("Seis asignaturas de 8° completas", "6.094 desarrolladas en total", "6.383 desarrolladas en total", "3.660 experiencias", "7.136 desarrolladas", "3.700 experiencias", "2.161 propuestas"),
-        "site/index.html": ("1° a 6° básico con desarrollo pedagógico interno completo", "1° a 7° básico con desarrollo pedagógico interno completo", "4.859 clases desarrolladas", "6.094 clases desarrolladas", "6.383 clases desarrolladas", "2.299 experiencias integradas", "3.179 experiencias integradas", "3.660 experiencias integradas", "7.136 clases", "3.700 experiencias", "2.161 propuestas", "Seis niveles completos", "siete niveles completos", "Once niveles completos", "8.375 clases"),
+        "ROADMAP.md": ("En desarrollo: 482 desarrolladas + 365 integradas", "354 pendientes en 8° básico", "6.383 clases desarrolladas", "3.694 experiencias integradas", "7.136 clases desarrolladas", "3.700 experiencias integradas", "2.161 propuestas", "8.375 clases desarrolladas", "466 pendientes"),
+        "VALIDATION_REPORT.md": ("Seis asignaturas de 8° completas", "6.094 desarrolladas en total", "6.383 desarrolladas en total", "3.694 experiencias", "7.136 desarrolladas", "3.700 experiencias", "2.161 propuestas"),
+        "site/index.html": ("1° a 6° básico con desarrollo pedagógico interno completo", "1° a 7° básico con desarrollo pedagógico interno completo", "4.859 clases desarrolladas", "6.094 clases desarrolladas", "6.383 clases desarrolladas", "2.299 experiencias integradas", "3.179 experiencias integradas", "3.694 experiencias integradas", "7.136 clases", "3.700 experiencias", "2.161 propuestas", "Seis niveles completos", "siete niveles completos", "Once niveles completos", "8.375 clases"),
     }
     for relative_path, stale_tokens in stale_current_claims.items():
         document = (root / relative_path).read_text(encoding="utf-8")
@@ -897,7 +897,7 @@ def validate(root: Path = ROOT) -> list[str]:
                 errors.append(f"{relative_path} conserva una afirmación vigente obsoleta: {token}")
     for relative_path in ("README.md", "CURRICULUM.md", "EDITORIAL_STATUS.md", "VALIDATION_REPORT.md", "docs/COBERTURA.md", "docs/FORMATOS.md", "docs/README.md"):
         document = (root / relative_path).read_text(encoding="utf-8")
-        if "16.755 clases" in document:
+        if "16.901 clases" in document:
             errors.append(f"{relative_path} confunde registros pedagógicos con clases independientes")
     for document_path in (root / "docs").rglob("*.md"):
         document = document_path.read_text(encoding="utf-8")
@@ -916,7 +916,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md",
         "Tarea “El recreo bajo la lluvia”",
         "Qué relación es oficial y cuál no",
-        "no un mapeo exhaustivo de los 3.660 OA",
+        "no un mapeo exhaustivo de los 3.694 OA",
     )
     for token in competency_readme_tokens:
         if token not in main_readme:
@@ -927,10 +927,10 @@ def validate(root: Path = ROOT) -> list[str]:
     except IndexError:
         errors.append("README.md no conserva la separación explícita entre alcance y límites")
     else:
-        for token in ("12.599 clases disciplinares", "4.156 experiencias de integración transversal"):
+        for token in ("12.745 clases disciplinares", "4.156 experiencias de integración transversal"):
             if token not in positive_section:
                 errors.append(f"README.md omite un hecho actual en la sección Sí es: {token}")
-        for token in ("12.599 clases disciplinares", "4.156 experiencias"):
+        for token in ("12.745 clases disciplinares", "4.156 experiencias"):
             if token in negative_section:
                 errors.append(f"README.md contradice el estado actual dentro de No es: {token}")
     if "sirve hoy para cuatro cosas" in main_readme:
@@ -940,7 +940,7 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"README.md omite el alcance vigente: {token}")
 
     syllabus = (root / "docs/SYLLABUS.md").read_text(encoding="utf-8")
-    for token in ("3.660 OA", "16.755 registros pedagógicos", "12.599 clases disciplinares", "4.156 experiencias"):
+    for token in ("3.694 OA", "16.901 registros pedagógicos", "12.745 clases disciplinares", "4.156 experiencias"):
         if token not in syllabus:
             errors.append(f"docs/SYLLABUS.md omite el hecho vigente: {token}")
     level_folders = (
@@ -959,7 +959,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "EDITORIAL_STATUS.md", "VALIDATION_REPORT.md",
     ):
         surface = (root / relative_path).read_text(encoding="utf-8")
-        for token in ("3.660", "16.755", "12.599", "4.156"):
+        for token in ("3.694", "16.901", "12.745", "4.156"):
             if token not in surface:
                 errors.append(f"{relative_path} omite la cifra canónica vigente: {token}")
     try:

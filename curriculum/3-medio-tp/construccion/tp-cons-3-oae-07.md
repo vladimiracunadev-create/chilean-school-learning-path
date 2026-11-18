@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14768) · [Clase 2](#cl-14769) · [Clase 3](#cl-14770) · [Clase 4](#cl-14771)
+**Clases de este OA:** [Clase 1](#cl-14806) · [Clase 2](#cl-14807) · [Clase 3](#cl-14808) · [Clase 4](#cl-14809)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar muestras de hormigón {#cl-14768}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Preparar muestras de hormigón {#cl-14806}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras de hormigón a través de situar el contexto laboral, la norma y el riesgo: Preparar muestras de hormigón, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 5 rótulos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cons-3-oae-06.md#cl-14767) · [Clase siguiente →](#cl-14769)
+[← Última clase del OA anterior](tp-cons-3-oae-06.md#cl-14805) · [Clase siguiente →](#cl-14807)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar muestras de hormigón {#cl-14769}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Preparar muestras de hormigón {#cl-14807}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras de hormigón a través de reconocer conceptos, documentos y roles del oficio: Preparar muestras de hormigón, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: No: aún no se puede concluir porque la edad es distinta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14768) · [Clase siguiente →](#cl-14770)
+[← Clase anterior](#cl-14806) · [Clase siguiente →](#cl-14808)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar muestras de hormigón {#cl-14770}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Preparar muestras de hormigón {#cl-14808}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras de hormigón a través de analizar un caso de trabajo en papel: Preparar muestras de hormigón, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 4 muestras
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14769) · [Clase siguiente →](#cl-14771)
+[← Clase anterior](#cl-14807) · [Clase siguiente →](#cl-14809)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar muestras de hormigón {#cl-14771}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Preparar muestras de hormigón {#cl-14809}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar muestras de hormigón a través de aplicar un criterio técnico con datos de ejemplo: Preparar muestras de hormigón, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 22 u.e.
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14770) · [Primera clase del OA siguiente →](tp-cons-3-oae-08.md#cl-14772)
+[← Clase anterior](#cl-14808) · [Primera clase del OA siguiente →](tp-cons-3-oae-08.md#cl-14810)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

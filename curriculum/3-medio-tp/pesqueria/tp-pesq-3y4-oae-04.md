@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15288) · [Clase 2](#cl-15289) · [Clase 3](#cl-15290) · [Clase 4](#cl-15291)
+**Clases de este OA:** [Clase 1](#cl-15361) · [Clase 2](#cl-15362) · [Clase 3](#cl-15363) · [Clase 4](#cl-15364)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15288}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15361}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos a través de situar el contexto laboral, la norma y el riesgo: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 4 viajes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-pesq-3y4-oae-03.md#cl-15287) · [Clase siguiente →](#cl-15289)
+[← Última clase del OA anterior](tp-pesq-3y4-oae-03.md#cl-15360) · [Clase siguiente →](#cl-15362)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15289}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15362}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos a través de reconocer conceptos, documentos y roles del oficio: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: El lote que ingresó el día 2
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15288) · [Clase siguiente →](#cl-15290)
+[← Clase anterior](#cl-15361) · [Clase siguiente →](#cl-15363)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15290}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15363}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos a través de analizar un caso de trabajo en papel: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Retener el lote e informar al encargado de calidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15289) · [Clase siguiente →](#cl-15291)
+[← Clase anterior](#cl-15362) · [Clase siguiente →](#cl-15364)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15291}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos {#cl-15364}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos a través de aplicar un criterio técnico con datos de ejemplo: Realizar tratamientos de conservación y manipulación de los recursos hidrobiológicos, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 15.000 pesos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15290) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-05.md#cl-15292)
+[← Clase anterior](#cl-15363) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-05.md#cl-15365)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

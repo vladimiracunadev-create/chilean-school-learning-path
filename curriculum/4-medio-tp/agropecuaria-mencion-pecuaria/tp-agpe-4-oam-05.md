@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15690) · [Clase 2](#cl-15691) · [Clase 3](#cl-15692) · [Clase 4](#cl-15693)
+**Clases de este OA:** [Clase 1](#cl-15763) · [Clase 2](#cl-15764) · [Clase 3](#cl-15765) · [Clase 4](#cl-15766)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15690}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15763}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar planes sanitarios y de bienestar animal en una explotación pecuaria a través de situar el contexto laboral, la norma y el riesgo: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agpe-4-oam-04.md#cl-15689) · [Clase siguiente →](#cl-15691)
+[← Última clase del OA anterior](tp-agpe-4-oam-04.md#cl-15762) · [Clase siguiente →](#cl-15764)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15691}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15764}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar planes sanitarios y de bienestar animal en una explotación pecuaria a través de reconocer conceptos, documentos y roles del oficio: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: El día 40
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15690) · [Clase siguiente →](#cl-15692)
+[← Clase anterior](#cl-15763) · [Clase siguiente →](#cl-15765)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15692}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15765}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar planes sanitarios y de bienestar animal en una explotación pecuaria a través de analizar un caso de trabajo en papel: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: La falta de agua
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15691) · [Clase siguiente →](#cl-15693)
+[← Clase anterior](#cl-15764) · [Clase siguiente →](#cl-15766)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15693}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria {#cl-15766}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar planes sanitarios y de bienestar animal en una explotación pecuaria a través de aplicar un criterio técnico con datos de ejemplo: Aplicar planes sanitarios y de bienestar animal en una explotación pecuaria, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: $100.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15692) · [Primera clase del OA siguiente →](tp-agpe-4-oam-06.md#cl-15694)
+[← Clase anterior](#cl-15765) · [Primera clase del OA siguiente →](tp-agpe-4-oam-06.md#cl-15767)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

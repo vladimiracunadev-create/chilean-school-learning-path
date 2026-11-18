@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16252) · [Clase 2](#cl-16253) · [Clase 3](#cl-16254) · [Clase 4](#cl-16255)
+**Clases de este OA:** [Clase 1](#cl-16398) · [Clase 2](#cl-16399) · [Clase 3](#cl-16400) · [Clase 4](#cl-16401)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dibujar moldes mediante el uso de software de diseño {#cl-16252}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dibujar moldes mediante el uso de software de diseño {#cl-16398}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar moldes a través de el uso de software de diseño mediante situar el contexto laboral, la norma y el riesgo: Dibujar moldes mediante el uso de software de diseño, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No corresponde
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mema-4-oam-04.md#cl-16251) · [Clase siguiente →](#cl-16253)
+[← Última clase del OA anterior](tp-mema-4-oam-04.md#cl-16397) · [Clase siguiente →](#cl-16399)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dibujar moldes mediante el uso de software de diseño {#cl-16253}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dibujar moldes mediante el uso de software de diseño {#cl-16399}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar moldes a través de el uso de software de diseño mediante reconocer conceptos, documentos y roles del oficio: Dibujar moldes mediante el uso de software de diseño, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El ángulo de desmoldeo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16252) · [Clase siguiente →](#cl-16254)
+[← Clase anterior](#cl-16398) · [Clase siguiente →](#cl-16400)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Dibujar moldes mediante el uso de software de diseño {#cl-16254}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Dibujar moldes mediante el uso de software de diseño {#cl-16400}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar moldes a través de el uso de software de diseño mediante analizar un caso de trabajo en papel: Dibujar moldes mediante el uso de software de diseño, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Una incoherencia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16253) · [Clase siguiente →](#cl-16255)
+[← Clase anterior](#cl-16399) · [Clase siguiente →](#cl-16401)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dibujar moldes mediante el uso de software de diseño {#cl-16255}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dibujar moldes mediante el uso de software de diseño {#cl-16401}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar moldes a través de el uso de software de diseño mediante aplicar un criterio técnico con datos de ejemplo: Dibujar moldes mediante el uso de software de diseño, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 2.000 ciclos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16254) · [Primera clase del OA siguiente →](tp-mema-4-oam-06.md#cl-16256)
+[← Clase anterior](#cl-16400) · [Primera clase del OA siguiente →](tp-mema-4-oam-06.md#cl-16402)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

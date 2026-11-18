@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16069) · [Clase 2](#cl-16070) · [Clase 3](#cl-16071) · [Clase 4](#cl-16072) · [Clase 5](#cl-16073)
+**Clases de este OA:** [Clase 1](#cl-16180) · [Clase 2](#cl-16181) · [Clase 3](#cl-16182) · [Clase 4](#cl-16183) · [Clase 5](#cl-16184)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16069}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16180}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos a través de situar el contexto laboral, la norma y el riesgo: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 12.000 árboles
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-fore-3y4-oae-02.md#cl-16068) · [Clase siguiente →](#cl-16070)
+[← Última clase del OA anterior](tp-fore-3y4-oae-02.md#cl-16179) · [Clase siguiente →](#cl-16181)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16070}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16181}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos a través de reconocer conceptos, documentos y roles del oficio: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: En el plan de manejo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16069) · [Clase siguiente →](#cl-16071)
+[← Clase anterior](#cl-16180) · [Clase siguiente →](#cl-16182)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16071}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16182}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos a través de analizar un caso de trabajo en papel: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Sí, se cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16070) · [Clase siguiente →](#cl-16072)
+[← Clase anterior](#cl-16181) · [Clase siguiente →](#cl-16183)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16072}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16183}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos a través de aplicar un criterio técnico con datos de ejemplo: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: $500.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16071) · [Clase siguiente →](#cl-16073)
+[← Clase anterior](#cl-16182) · [Clase siguiente →](#cl-16184)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16073}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos {#cl-16184}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos a través de comparar alternativas y verificar la calidad: Realizar manejos culturales de bosque nativo y plantaciones forestales con propósitos, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: No es aceptable
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16072) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-04.md#cl-16074)
+[← Clase anterior](#cl-16183) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-04.md#cl-16185)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

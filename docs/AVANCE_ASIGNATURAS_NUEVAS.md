@@ -104,16 +104,16 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Tripulación de Naves Mercantes y Especiales | 9 | 88 | 88 | 88 | 88 | 100 % |
 | *Subtotal Marítimo* | 31 | 296 | 296 | 296 | 296 | 100 % |
 | **Metalmecánica** | | | | | | |
-| Construcciones Metálicas | 9 | 76 | 8 | 0 | 0 | 0 % |
-| Mecánica Automotriz | 8 | 70 | 0 | 0 | 0 | 0 % |
-| Mecánica de Mantenimiento de Aeronaves | 7 | 64 | 0 | 0 | 0 | 0 % |
+| Construcciones Metálicas | 9 | 76 | 76 | 76 | 76 | 100 % |
+| Mecánica Automotriz | 8 | 70 | 70 | 70 | 70 | 100 % |
+| Mecánica de Mantenimiento de Aeronaves | 7 | 64 | 64 | 0 | 0 | 0 % |
 | Mecánica Industrial (con 3 menciones: Mantenimiento Electromecánico, Máquinas-Herramientas, Matricería) | 23 | 98 | 98 | 98 | 98 | 100 % |
-| *Subtotal Metalmecánica* | 47 | 308 | 106 | 98 | 98 | 32 % |
+| *Subtotal Metalmecánica* | 47 | 308 | 308 | 244 | 244 | 79 % |
 | **Minero** | | | | | | |
-| Asistencia en Geología | 8 | 66 | 0 | 0 | 0 | 0 % |
+| Asistencia en Geología | 8 | 66 | 30 | 0 | 0 | 0 % |
 | Explotación Minera | 8 | 70 | 0 | 0 | 0 | 0 % |
 | Metalurgia Extractiva | 8 | 72 | 0 | 0 | 0 | 0 % |
-| *Subtotal Minero* | 24 | 208 | 0 | 0 | 0 | 0 % |
+| *Subtotal Minero* | 24 | 208 | 30 | 0 | 0 | 0 % |
 | **Química e Industria** | | | | | | |
 | Química Industrial (con 2 menciones: Laboratorio Químico, Planta Química) | 13 | 61 | 0 | 0 | 0 | 0 % |
 | *Subtotal Química e Industria* | 13 | 61 | 0 | 0 | 0 | 0 % |
@@ -129,7 +129,7 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | **Transversal** | | | | | | |
 | Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 96 | 96 | 96 | 100 % |
 | *Subtotal Transversal* | 12 | 96 | 96 | 96 | 96 | 100 % |
-| **TOTAL FASE B** | 382 | 2745 | 2206 | 2198 | 2198 | **80 %** |
+| **TOTAL FASE B** | 382 | 2745 | 2438 | 2344 | 2344 | **85 %** |
 
 ## Fase C · EPJA
 

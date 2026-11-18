@@ -38,10 +38,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un requerimiento, qué piezas básicas tiene un programa (variables y estructuras) y qué cuidados exige trabajar con datos de una empresa. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15307) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16483) |
-| 2 | Aprenderé los conceptos de bases de datos y estructuras de datos, los documentos del trabajo de programar y los roles de un equipo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15308) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16484) |
-| 3 | Aprenderás a seguir una rutina con repetición y condicional a mano (traza) y a comprobar si cumple el requerimiento. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15309) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16485) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: elegir la estructura adecuada, leer una consulta a una base de datos y cuidar los datos personales. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15310) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16486) |
+| 1 | Aprenderé qué es un requerimiento, qué piezas básicas tiene un programa (variables y estructuras) y qué cuidados exige trabajar con datos de una empresa. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15380) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16629) |
+| 2 | Aprenderé los conceptos de bases de datos y estructuras de datos, los documentos del trabajo de programar y los roles de un equipo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15381) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16630) |
+| 3 | Aprenderás a seguir una rutina con repetición y condicional a mano (traza) y a comprobar si cumple el requerimiento. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15382) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16631) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: elegir la estructura adecuada, leer una consulta a una base de datos y cuidar los datos personales. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-15383) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-01.md#cl-16632) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -53,10 +53,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un sistema de información manufacturado, qué riesgos hay al instalarlo y qué cuidados hay que tener antes de empezar. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15311) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16487) |
-| 2 | Aprenderé los conceptos y documentos de una instalación de software y los roles de quienes participan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15312) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16488) |
-| 3 | Aprenderás a analizar en papel qué sistema manufacturado cumple los requerimientos de una empresa y a justificar la elección. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15313) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16489) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: ordenar un plan de instalación, calcular el espacio necesario y decidir con registro. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15314) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16490) |
+| 1 | Aprenderé qué es un sistema de información manufacturado, qué riesgos hay al instalarlo y qué cuidados hay que tener antes de empezar. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15384) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16633) |
+| 2 | Aprenderé los conceptos y documentos de una instalación de software y los roles de quienes participan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15385) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16634) |
+| 3 | Aprenderás a analizar en papel qué sistema manufacturado cumple los requerimientos de una empresa y a justificar la elección. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15386) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16635) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: ordenar un plan de instalación, calcular el espacio necesario y decidir con registro. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-15387) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-02.md#cl-16636) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -68,10 +68,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el mantenimiento de una base de datos, por qué hay que actualizarla con cuidado y qué normas de privacidad y seguridad se respetan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15315) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16491) |
-| 2 | Aprenderé los conceptos de la integridad de los datos, los documentos de mantención y los roles de quienes cuidan una base de datos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15316) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16492) |
-| 3 | Aprenderás a analizar en papel qué efecto tiene una rutina o una instrucción de mantenimiento sobre una tabla y a verificar el resultado. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15317) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16493) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: depurar una base, decidir con el menor riesgo y respetar el permiso de las personas. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15318) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16494) |
+| 1 | Aprenderé qué es el mantenimiento de una base de datos, por qué hay que actualizarla con cuidado y qué normas de privacidad y seguridad se respetan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15388) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16637) |
+| 2 | Aprenderé los conceptos de la integridad de los datos, los documentos de mantención y los roles de quienes cuidan una base de datos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15389) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16638) |
+| 3 | Aprenderás a analizar en papel qué efecto tiene una rutina o una instrucción de mantenimiento sobre una tabla y a verificar el resultado. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15390) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16639) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: depurar una base, decidir con el menor riesgo y respetar el permiso de las personas. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-15391) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-03.md#cl-16640) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -83,10 +83,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé la idea de programar con objetos, qué exigencias debe cumplir una aplicación y qué cuidados con los datos corresponden. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15319) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16495) |
-| 2 | Aprenderé herencia y encapsulamiento, y los documentos y roles que acompañan una aplicación orientada a objetos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15320) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16496) |
-| 3 | Aprenderás a seguir a mano un programa con objetos, anotando el estado del objeto, y a comprobar si cumple las exigencias. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15321) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16497) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para elegir un diseño orientado a objetos y justificarlo con las exigencias. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15322) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16498) |
+| 1 | Aprenderé la idea de programar con objetos, qué exigencias debe cumplir una aplicación y qué cuidados con los datos corresponden. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15392) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16641) |
+| 2 | Aprenderé herencia y encapsulamiento, y los documentos y roles que acompañan una aplicación orientada a objetos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15393) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16642) |
+| 3 | Aprenderás a seguir a mano un programa con objetos, anotando el estado del objeto, y a comprobar si cumple las exigencias. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15394) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16643) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para elegir un diseño orientado a objetos y justificarlo con las exigencias. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-15395) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-04.md#cl-16644) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -98,10 +98,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé cómo funciona una aplicación web, qué hace cada parte y qué cuidados exigen los datos de las personas que la usan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15323) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16499) |
-| 2 | Aprenderé las etiquetas básicas de HTML, los documentos de un proyecto web y los roles del equipo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15324) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16500) |
-| 3 | Aprenderás a seguir a mano la validación de un formulario web y a decidir qué respuesta recibe cada persona. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15325) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16501) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para decidir si un sitio está listo para publicarse, cuidando seguridad, privacidad y rendimiento. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15326) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16502) |
+| 1 | Aprenderé cómo funciona una aplicación web, qué hace cada parte y qué cuidados exigen los datos de las personas que la usan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15396) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16645) |
+| 2 | Aprenderé las etiquetas básicas de HTML, los documentos de un proyecto web y los roles del equipo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15397) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16646) |
+| 3 | Aprenderás a seguir a mano la validación de un formulario web y a decidir qué respuesta recibe cada persona. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15398) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16647) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para decidir si un sitio está listo para publicarse, cuidando seguridad, privacidad y rendimiento. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-15399) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-05.md#cl-16648) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -113,10 +113,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la mantención de software, qué tipos existen y por qué se hace con registro, autorización y cuidado de los datos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15327) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16503) |
-| 2 | Aprenderé los documentos de la mantención (reporte de error, registro de versiones, plan y bitácora) y los roles de quienes participan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15328) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16504) |
-| 3 | Aprenderás a analizar en papel una falla, encontrar su causa con una traza y proponer una corrección segura. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15329) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16505) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: priorizar fallas, calcular indicadores simples de mantención y planificar lo preventivo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15330) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16506) |
+| 1 | Aprenderé qué es la mantención de software, qué tipos existen y por qué se hace con registro, autorización y cuidado de los datos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15400) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16649) |
+| 2 | Aprenderé los documentos de la mantención (reporte de error, registro de versiones, plan y bitácora) y los roles de quienes participan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15401) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16650) |
+| 3 | Aprenderás a analizar en papel una falla, encontrar su causa con una traza y proponer una corrección segura. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15402) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16651) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: priorizar fallas, calcular indicadores simples de mantención y planificar lo preventivo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-15403) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-06.md#cl-16652) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -128,10 +128,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé en qué consiste el soporte técnico, cómo se atiende de forma local o remota y qué cuidados de privacidad y seguridad exige. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15331) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16507) |
-| 2 | Aprenderé los conceptos y documentos del soporte (niveles, escalamiento, SLA y base de conocimiento) y los roles de la mesa de ayuda. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15332) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16508) |
-| 3 | Aprenderás a diagnosticar un problema en papel, descartando causas con evidencia, y a comunicar la solución a la usuaria. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15333) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16509) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: priorizar tickets, medir el cumplimiento del servicio y responder con seguridad a pedidos riesgosos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15334) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16510) |
+| 1 | Aprenderé en qué consiste el soporte técnico, cómo se atiende de forma local o remota y qué cuidados de privacidad y seguridad exige. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15404) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16653) |
+| 2 | Aprenderé los conceptos y documentos del soporte (niveles, escalamiento, SLA y base de conocimiento) y los roles de la mesa de ayuda. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15405) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16654) |
+| 3 | Aprenderás a diagnosticar un problema en papel, descartando causas con evidencia, y a comunicar la solución a la usuaria. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15406) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16655) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: priorizar tickets, medir el cumplimiento del servicio y responder con seguridad a pedidos riesgosos. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-15407) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-07.md#cl-16656) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -143,10 +143,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es instalar y actualizar hardware y software, para qué se hace y qué cuidados de seguridad y de registro se exigen. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15335) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16511) |
-| 2 | Aprenderé los conceptos de la actualización de equipos (controlador, firmware, parche y versión), los documentos y los roles. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15336) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16512) |
-| 3 | Aprenderás a relacionar un síntoma con la mejora adecuada de hardware o software y a justificarla con datos de un caso en papel. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15337) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16513) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: planificar una ventana de actualización, calcular costos y priorizar por seguridad. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15338) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16514) |
+| 1 | Aprenderé qué es instalar y actualizar hardware y software, para qué se hace y qué cuidados de seguridad y de registro se exigen. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15408) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16657) |
+| 2 | Aprenderé los conceptos de la actualización de equipos (controlador, firmware, parche y versión), los documentos y los roles. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15409) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16658) |
+| 3 | Aprenderás a relacionar un síntoma con la mejora adecuada de hardware o software y a justificarla con datos de un caso en papel. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15410) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16659) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo: planificar una ventana de actualización, calcular costos y priorizar por seguridad. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-15411) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-08.md#cl-16660) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -158,10 +158,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es un sistema operativo, qué es una red LAN y qué estándares de calidad y seguridad se exigen al configurar un equipo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15339) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16515) |
-| 2 | Aprenderé los conceptos de direccionamiento de una red LAN (dirección IP, máscara, puerta de enlace y DHCP), los documentos y los roles. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15340) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16516) |
-| 3 | Aprenderás a revisar en papel la configuración de varios equipos, detectar errores y proponer una corrección sin riesgo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15341) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16517) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para aceptar o rechazar un equipo en la red y justificar la decisión con evidencia. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15342) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16518) |
+| 1 | Aprenderé qué es un sistema operativo, qué es una red LAN y qué estándares de calidad y seguridad se exigen al configurar un equipo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15412) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16661) |
+| 2 | Aprenderé los conceptos de direccionamiento de una red LAN (dirección IP, máscara, puerta de enlace y DHCP), los documentos y los roles. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15413) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16662) |
+| 3 | Aprenderás a revisar en papel la configuración de varios equipos, detectar errores y proponer una corrección sin riesgo. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15414) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16663) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para aceptar o rechazar un equipo en la red y justificar la decisión con evidencia. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-15415) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-09.md#cl-16664) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -173,10 +173,10 @@ Reúne 10 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el software de productividad y los utilitarios, qué tipos de licencia existen y qué cuidados exige instalar programas en un equipo ajeno. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15343) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16519) |
-| 2 | Aprenderé los conceptos y documentos para instalar programas (licencias, inventario, huella de verificación) y los roles de quienes participan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15344) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16520) |
-| 3 | Aprenderás a analizar en papel qué programas cubren los requerimientos de cada usuaria, comparando costos y licencias. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15345) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16521) |
-| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para aprobar o rechazar solicitudes de instalación y calcular costos con seguridad. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15346) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16522) |
+| 1 | Aprenderé qué es el software de productividad y los utilitarios, qué tipos de licencia existen y qué cuidados exige instalar programas en un equipo ajeno. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15416) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16665) |
+| 2 | Aprenderé los conceptos y documentos para instalar programas (licencias, inventario, huella de verificación) y los roles de quienes participan. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15417) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16666) |
+| 3 | Aprenderás a analizar en papel qué programas cubren los requerimientos de cada usuaria, comparando costos y licencias. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15418) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16667) |
+| 4 | Aprenderás a aplicar criterios técnicos con datos de ejemplo para aprobar o rechazar solicitudes de instalación y calcular costos con seguridad. | [3° medio](../../curriculum/3-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-15419) · [4° medio](../../curriculum/4-medio-tp/programacion/tp-prog-3y4-oae-10.md#cl-16668) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

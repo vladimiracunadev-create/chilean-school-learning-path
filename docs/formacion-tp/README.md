@@ -43,6 +43,8 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | Pesquería | alto | 7 | 68 | [📘 Leer guía](pesqueria.md) |
 | Tripulación de Naves Mercantes y Especiales | alto | 9 | 88 | [📘 Leer guía](tripulacion-de-naves-mercantes-y-especiales.md) |
 | **Metalmecánica** | | | | |
+| Construcciones Metálicas | alto | 9 | 76 | [📘 Leer guía](construcciones-metalicas.md) |
+| Mecánica Automotriz | alto | 8 | 70 | [📘 Leer guía](mecanica-automotriz.md) |
 | Mecánica Industrial | alto | 23 | 98 | [📘 Leer guía](mecanica-industrial.md) |
 | **Salud y Educación** | | | | |
 | Atención de Párvulos | medio | 10 | 86 | [📘 Leer guía](atencion-de-parvulos.md) |
@@ -53,7 +55,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **306** | **2198** | |
+| **Total publicado** | | **323** | **2344** | |
 
 ## Lo que no cubren
 

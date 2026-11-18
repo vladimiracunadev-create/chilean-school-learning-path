@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15119) · [Clase 2](#cl-15120) · [Clase 3](#cl-15121) · [Clase 4](#cl-15122) · [Clase 5](#cl-15123)
+**Clases de este OA:** [Clase 1](#cl-15192) · [Clase 2](#cl-15193) · [Clase 3](#cl-15194) · [Clase 4](#cl-15195) · [Clase 5](#cl-15196)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Unir y reparar elementos metálicos del montaje {#cl-15119}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Unir y reparar elementos metálicos del montaje {#cl-15192}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar unir y reparar elementos metálicos del montaje a través de situar el contexto laboral, la norma y el riesgo: Unir y reparar elementos metálicos del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 15 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-03.md#cl-15118) · [Clase siguiente →](#cl-15120)
+[← Última clase del OA anterior](tp-moin-3y4-oae-03.md#cl-15191) · [Clase siguiente →](#cl-15193)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Unir y reparar elementos metálicos del montaje {#cl-15120}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Unir y reparar elementos metálicos del montaje {#cl-15193}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar unir y reparar elementos metálicos del montaje a través de reconocer conceptos, documentos y roles del oficio: Unir y reparar elementos metálicos del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 700 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15119) · [Clase siguiente →](#cl-15121)
+[← Clase anterior](#cl-15192) · [Clase siguiente →](#cl-15194)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Unir y reparar elementos metálicos del montaje {#cl-15121}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Unir y reparar elementos metálicos del montaje {#cl-15194}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar unir y reparar elementos metálicos del montaje a través de analizar un caso de trabajo en papel: Unir y reparar elementos metálicos del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Sí, se acepta y se registra
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15120) · [Clase siguiente →](#cl-15122)
+[← Clase anterior](#cl-15193) · [Clase siguiente →](#cl-15195)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Unir y reparar elementos metálicos del montaje {#cl-15122}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Unir y reparar elementos metálicos del montaje {#cl-15195}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar unir y reparar elementos metálicos del montaje a través de aplicar un criterio técnico con datos de ejemplo: Unir y reparar elementos metálicos del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -876,9 +876,9 @@ Respuesta: 28 pernos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15121) · [Clase siguiente →](#cl-15123)
+[← Clase anterior](#cl-15194) · [Clase siguiente →](#cl-15196)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Unir y reparar elementos metálicos del montaje {#cl-15123}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Unir y reparar elementos metálicos del montaje {#cl-15196}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar unir y reparar elementos metálicos del montaje a través de comparar alternativas y verificar la calidad: Unir y reparar elementos metálicos del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -1083,7 +1083,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15122) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-05.md#cl-15124)
+[← Clase anterior](#cl-15195) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-05.md#cl-15197)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

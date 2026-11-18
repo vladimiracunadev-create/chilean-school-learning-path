@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14906) · [Clase 2](#cl-14907) · [Clase 3](#cl-14908) · [Clase 4](#cl-14909) · [Clase 5](#cl-14910)
+**Clases de este OA:** [Clase 1](#cl-14944) · [Clase 2](#cl-14945) · [Clase 3](#cl-14946) · [Clase 4](#cl-14947) · [Clase 5](#cl-14948)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Mantener y reemplazar componentes {#cl-14906}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Mantener y reemplazar componentes {#cl-14944}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reemplazar componentes a través de situar el contexto laboral, la norma y el riesgo: Mantener y reemplazar componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Correctivo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-elec-3y4-oae-05.md#cl-14905) · [Clase siguiente →](#cl-14907)
+[← Última clase del OA anterior](tp-elec-3y4-oae-05.md#cl-14943) · [Clase siguiente →](#cl-14945)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Mantener y reemplazar componentes {#cl-14907}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Mantener y reemplazar componentes {#cl-14945}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reemplazar componentes a través de reconocer conceptos, documentos y roles del oficio: Mantener y reemplazar componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: No, falta la firma del permiso
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14906) · [Clase siguiente →](#cl-14908)
+[← Clase anterior](#cl-14944) · [Clase siguiente →](#cl-14946)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Mantener y reemplazar componentes {#cl-14908}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Mantener y reemplazar componentes {#cl-14946}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reemplazar componentes a través de analizar un caso de trabajo en papel: Mantener y reemplazar componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: $60.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14907) · [Clase siguiente →](#cl-14909)
+[← Clase anterior](#cl-14945) · [Clase siguiente →](#cl-14947)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Mantener y reemplazar componentes {#cl-14909}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Mantener y reemplazar componentes {#cl-14947}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reemplazar componentes a través de aplicar un criterio técnico con datos de ejemplo: Mantener y reemplazar componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: Azul
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14908) · [Clase siguiente →](#cl-14910)
+[← Clase anterior](#cl-14946) · [Clase siguiente →](#cl-14948)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Mantener y reemplazar componentes {#cl-14910}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Mantener y reemplazar componentes {#cl-14948}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reemplazar componentes a través de comparar alternativas y verificar la calidad: Mantener y reemplazar componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: $600.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14909) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-07.md#cl-14911)
+[← Clase anterior](#cl-14947) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-07.md#cl-14949)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

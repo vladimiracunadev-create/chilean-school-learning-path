@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16260) · [Clase 2](#cl-16261) · [Clase 3](#cl-16262) · [Clase 4](#cl-16263)
+**Clases de este OA:** [Clase 1](#cl-16406) · [Clase 2](#cl-16407) · [Clase 3](#cl-16408) · [Clase 4](#cl-16409)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16260}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16406}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales a través de situar el contexto laboral, la norma y el riesgo: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16261)
+[Clase siguiente →](#cl-16407)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16261}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16407}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales a través de reconocer conceptos, documentos y roles del oficio: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 40 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16260) · [Clase siguiente →](#cl-16262)
+[← Clase anterior](#cl-16406) · [Clase siguiente →](#cl-16408)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16262}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16408}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales a través de analizar un caso de trabajo en papel: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No, la suma correcta es 30
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16261) · [Clase siguiente →](#cl-16263)
+[← Clase anterior](#cl-16407) · [Clase siguiente →](#cl-16409)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16263}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales {#cl-16409}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales a través de aplicar un criterio técnico con datos de ejemplo: Fabricar partes y piezas de conjuntos mecánicos con máquinas-herramientas convencionales, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 45 piezas buenas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16262) · [Primera clase del OA siguiente →](tp-memh-4-oam-02.md#cl-16264)
+[← Clase anterior](#cl-16408) · [Primera clase del OA siguiente →](tp-memh-4-oam-02.md#cl-16410)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

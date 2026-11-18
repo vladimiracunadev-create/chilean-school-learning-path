@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16264) · [Clase 2](#cl-16265) · [Clase 3](#cl-16266) · [Clase 4](#cl-16267)
+**Clases de este OA:** [Clase 1](#cl-16410) · [Clase 2](#cl-16411) · [Clase 3](#cl-16412) · [Clase 4](#cl-16413)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16264}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16410}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con fresadora universal a través de situar el contexto laboral, la norma y el riesgo: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: En el eje Z
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-memh-4-oam-01.md#cl-16263) · [Clase siguiente →](#cl-16265)
+[← Última clase del OA anterior](tp-memh-4-oam-01.md#cl-16409) · [Clase siguiente →](#cl-16411)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16265}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16411}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con fresadora universal a través de reconocer conceptos, documentos y roles del oficio: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 40 mm por minuto
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16264) · [Clase siguiente →](#cl-16266)
+[← Clase anterior](#cl-16410) · [Clase siguiente →](#cl-16412)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16266}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16412}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con fresadora universal a través de analizar un caso de trabajo en papel: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No es coherente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16265) · [Clase siguiente →](#cl-16267)
+[← Clase anterior](#cl-16411) · [Clase siguiente →](#cl-16413)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16267}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal {#cl-16413}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar fabricar partes y piezas de conjuntos mecánicos con fresadora universal a través de aplicar un criterio técnico con datos de ejemplo: Fabricar partes y piezas de conjuntos mecánicos con fresadora universal, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 2 turnos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16266) · [Primera clase del OA siguiente →](tp-memh-4-oam-03.md#cl-16268)
+[← Clase anterior](#cl-16412) · [Primera clase del OA siguiente →](tp-memh-4-oam-03.md#cl-16414)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

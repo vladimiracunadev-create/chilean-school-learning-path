@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14831) · [Clase 2](#cl-14832) · [Clase 3](#cl-14833) · [Clase 4](#cl-14834) · [Clase 5](#cl-14835)
+**Clases de este OA:** [Clase 1](#cl-14869) · [Clase 2](#cl-14870) · [Clase 3](#cl-14871) · [Clase 4](#cl-14872) · [Clase 5](#cl-14873)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14831}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14869}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital planos de montaje industrial a través de situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital planos de montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Informa por escrito a la calculista; no cambia el perfil
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-05.md#cl-14830) · [Clase siguiente →](#cl-14832)
+[← Última clase del OA anterior](tp-dite-3y4-oae-05.md#cl-14868) · [Clase siguiente →](#cl-14870)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14832}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14870}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital planos de montaje industrial a través de reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital planos de montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 450 cm²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14831) · [Clase siguiente →](#cl-14833)
+[← Clase anterior](#cl-14869) · [Clase siguiente →](#cl-14871)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14833}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14871}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital planos de montaje industrial a través de analizar un caso de trabajo en papel: Dibujar en forma gráfica digital planos de montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Sí, coinciden
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14832) · [Clase siguiente →](#cl-14834)
+[← Clase anterior](#cl-14870) · [Clase siguiente →](#cl-14872)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14834}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14872}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital planos de montaje industrial a través de aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital planos de montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 3 barras
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14833) · [Clase siguiente →](#cl-14835)
+[← Clase anterior](#cl-14871) · [Clase siguiente →](#cl-14873)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14835}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Dibujar en forma gráfica digital planos de montaje industrial {#cl-14873}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital planos de montaje industrial a través de comparar alternativas y verificar la calidad: Dibujar en forma gráfica digital planos de montaje industrial, con una experiencia disciplinar específica, segura y revisable.
@@ -1078,7 +1078,7 @@ Respuesta: No se entrega
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14834) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-07.md#cl-14836)
+[← Clase anterior](#cl-14872) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-07.md#cl-14874)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

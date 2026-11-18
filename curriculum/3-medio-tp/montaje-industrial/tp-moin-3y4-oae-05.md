@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15124) · [Clase 2](#cl-15125) · [Clase 3](#cl-15126) · [Clase 4](#cl-15127)
+**Clases de este OA:** [Clase 1](#cl-15197) · [Clase 2](#cl-15198) · [Clase 3](#cl-15199) · [Clase 4](#cl-15200)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar tratamientos de protección de componentes del montaje {#cl-15124}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar tratamientos de protección de componentes del montaje {#cl-15197}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de componentes del montaje a través de situar el contexto laboral, la norma y el riesgo: Ejecutar tratamientos de protección de componentes del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 10 m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-04.md#cl-15123) · [Clase siguiente →](#cl-15125)
+[← Última clase del OA anterior](tp-moin-3y4-oae-04.md#cl-15196) · [Clase siguiente →](#cl-15198)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar tratamientos de protección de componentes del montaje {#cl-15125}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar tratamientos de protección de componentes del montaje {#cl-15198}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de componentes del montaje a través de reconocer conceptos, documentos y roles del oficio: Ejecutar tratamientos de protección de componentes del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 3.000 µm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15124) · [Clase siguiente →](#cl-15126)
+[← Clase anterior](#cl-15197) · [Clase siguiente →](#cl-15199)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar tratamientos de protección de componentes del montaje {#cl-15126}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar tratamientos de protección de componentes del montaje {#cl-15199}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de componentes del montaje a través de analizar un caso de trabajo en papel: Ejecutar tratamientos de protección de componentes del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Sí, la condición se cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15125) · [Clase siguiente →](#cl-15127)
+[← Clase anterior](#cl-15198) · [Clase siguiente →](#cl-15200)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tratamientos de protección de componentes del montaje {#cl-15127}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tratamientos de protección de componentes del montaje {#cl-15200}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tratamientos de protección de componentes del montaje a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar tratamientos de protección de componentes del montaje, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 3 tarros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15126) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-06.md#cl-15128)
+[← Clase anterior](#cl-15199) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-06.md#cl-15201)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

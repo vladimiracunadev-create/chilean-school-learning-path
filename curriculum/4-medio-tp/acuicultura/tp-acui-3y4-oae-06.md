@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15602) · [Clase 2](#cl-15603) · [Clase 3](#cl-15604) · [Clase 4](#cl-15605)
+**Clases de este OA:** [Clase 1](#cl-15675) · [Clase 2](#cl-15676) · [Clase 3](#cl-15677) · [Clase 4](#cl-15678)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15602}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15675}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies a través de situar el contexto laboral, la norma y el riesgo: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-acui-3y4-oae-05.md#cl-15601) · [Clase siguiente →](#cl-15603)
+[← Última clase del OA anterior](tp-acui-3y4-oae-05.md#cl-15674) · [Clase siguiente →](#cl-15676)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15603}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15676}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies a través de reconocer conceptos, documentos y roles del oficio: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: El registro de uso
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15602) · [Clase siguiente →](#cl-15604)
+[← Clase anterior](#cl-15675) · [Clase siguiente →](#cl-15677)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15604}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15677}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies a través de analizar un caso de trabajo en papel: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15603) · [Clase siguiente →](#cl-15605)
+[← Clase anterior](#cl-15676) · [Clase siguiente →](#cl-15678)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15605}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies {#cl-15678}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies a través de aplicar un criterio técnico con datos de ejemplo: Utilizar sistemas, equipos y maquinarias propias de las labores de cultivo de especies, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: $880.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15604) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-07.md#cl-15606)
+[← Clase anterior](#cl-15677) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-07.md#cl-15679)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

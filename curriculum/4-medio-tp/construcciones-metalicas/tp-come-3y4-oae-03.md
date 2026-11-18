@@ -1,0 +1,1092 @@
+# TP-COME-3y4-OAE-03 — Fabricar, unir y reparar elementos de construcciones metálicas
+| Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
+|---|---|---|---|---|
+| 4° medio · Formación Diferenciada TP | Construcciones Metálicas | Objetivos de aprendizaje de la especialidad | formacion-diferenciada-tp | 5 clases de 90 min |
+
+[📘 Guía de la especialidad](../../../docs/formacion-tp/construcciones-metalicas.md) · [← OA anterior (TP-COME-3y4-OAE-02)](tp-come-3y4-oae-02.md) · [OA siguiente (TP-COME-3y4-OAE-04) →](tp-come-3y4-oae-04.md)
+
+## Qué se debe aprender
+> Fabricar, unir y reparar elementos de construcciones metálicas, mediante actividades de corte y soldadura en posición plana horizontal y vertical, utilizando equipos de oxigas y arco manual, soldadura TIG, MIG y MAG, uniones mecánicas, de acuerdo a las especificaciones técnicas del proyecto y normas de higiene, seguridad industrial y medio ambiente.
+
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
+**Explicación pedagógica.** Fabricar, unir y reparar elementos de construcciones metálicas recupera aprendizajes de 2.º medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «dar por bueno un resultado sin registro, verificación ni responsable».
+
+**Antes de comenzar.** Retoma la Formación General y la orientación hacia el trabajo y profundiza en un campo técnico-profesional: Construcciones Metálicas.
+
+**Vocabulario explícito:** perfil de egreso, competencia, norma, documento técnico, registro, calidad, riesgo, prevención, equipo de trabajo, responsabilidad.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión pedagógica interna en 5 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas.
+- Reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas.
+- Analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
+
+## Lecturas y textos
+La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
+
+Estos recursos asociados no constituyen una lista nacional obligatoria. Este repositorio enlaza y no reproduce obras protegidas.
+
+## Planificación clase a clase
+La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-15894) · [Clase 2](#cl-15895) · [Clase 3](#cl-15896) · [Clase 4](#cl-15897) · [Clase 5](#cl-15898)
+
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-15894}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «dar por bueno un resultado sin registro, verificación ni responsable». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de fabricar, unir y reparar elementos de construcciones metálicas; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla situar el contexto laboral, la norma y el riesgo: Fabricar, unir y reparar elementos de construcciones metálicas en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas piezas, perfiles, planchas, máquinas, herramientas, instrumentos, equipos, pinturas, computador ni internet: los planos (descritos por escrito con listas de piezas y cotas), las planillas, las pautas, los registros y los documentos de la obra o del taller están escritos en el enunciado, son inventados y están rotulados «de ejemplo». Las medidas, masas por metro, rendimientos, espesores, tolerancias, consumos, tiempos y precios son números de ejemplo para calcular en una planilla; los valores reales los fijan el proyecto, el fabricante y «la norma vigente». Este cuaderno no contiene procedimientos para trazar, cortar, soldar, esmerilar, taladrar, doblar, forjar, armar, montar, izar, trabajar en altura, preparar superficies, pintar, manipular residuos peligrosos ni operar herramientas, máquinas o equipos. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias.
+
+**Consigna exacta:** Caso de ejemplo: un taller planea unir dos piezas de una baranda con soldadura en el pasillo principal. Peligros anotados: chispas sobre el pasillo, humos y un cilindro de gas cercano. Escribe (a) qué documento debe autorizar la tarea, (b) un control de ingeniería para el pasillo, (c) una alternativa que evitaría el trabajo en caliente, (d) por qué el EPP no basta.
+
+**Referencia para modelar y corregir:** (a) El permiso de trabajo en caliente. (b) Una cortina o pantalla que no se queme y retenga las chispas, o una extracción de humos. (c) Una unión mecánica, si el proyecto lo permite, o hacer la unión en el taller y no en el pasillo. (d) Porque el EPP es la última barrera: no quita el peligro y protege solo a quien lo usa. La tarea la hace personal calificado.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (a) El permiso de trabajo en caliente. (b) Una cortina o pantalla que no se queme y retenga las chispas, o una extracción de humos. (c) Una unión mecánica, si el proyecto lo permite, o hacer la unión en el taller y no en el pasillo. (d) Porque el EPP es la última barrera: no quita el peligro y protege solo a quien lo usa. La tarea la hace personal calificado. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé qué son los trabajos en caliente, qué peligros tienen, qué papel cumplen el permiso, el vigilante de fuego y la calificación, y cómo se ordenan los controles.
+
+**Lo que ya debo saber.** Sé qué es un peligro, un riesgo y la jerarquía de controles. Sé multiplicar y calcular porcentajes sencillos. Sé que una tarea de riesgo exige autorización.
+
+**Explicación.**
+
+Fabricar, unir y reparar elementos metálicos incluye trabajos en caliente: tareas que producen chispas, llama o calor y pueden iniciar un fuego, como el corte con gas, la soldadura y el esmerilado. Sus peligros son la radiación luminosa del arco, los humos metálicos, las chispas, las quemaduras, los cilindros de gas combustible y de oxígeno, la descarga eléctrica y el fuego en materiales cercanos. Este cuaderno no enseña a ejecutar esas tareas: enseña los conceptos, los documentos y las reglas de seguridad.
+
+El permiso de trabajo en caliente autoriza la tarea después de revisar el lugar y las condiciones. El vigilante de fuego es una persona que observa la zona durante y después del trabajo para detectar un inicio de fuego y avisar. Entre los controles, la extracción de humos desde su origen es de ingeniería, el permiso y los carteles son administrativos, y la careta con filtro, los guantes y la ropa de cuero son EPP. Cuando el proyecto lo permite, una unión mecánica evita el trabajo en caliente. Solo personal con calificación vigente, formado y autorizado ejecuta estas tareas, y la Dirección del Trabajo fiscaliza la normativa laboral.
+
+Los cilindros de gas y los equipos los maneja solo personal capacitado, según la norma vigente. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| trabajo en caliente | tarea que produce chispas, llama o calor y puede iniciar un fuego |
+| permiso de trabajo en caliente | documento que autoriza la tarea tras revisar el lugar |
+| vigilante de fuego | persona que observa la zona para detectar un inicio de fuego y avisar |
+| calificación vigente | reconocimiento de que una persona está habilitada según la norma para una tarea |
+| extracción de humos | sistema que retira los humos desde donde se producen |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Clasificar un control*
+
+Problema: En otra zona de ejemplo se instala una pantalla que protege del arco a las personas que pasan. ¿Qué tipo de control es?
+
+1. La pantalla cambia físicamente el lugar.
+2. Una barrera física es un control de ingeniería.
+
+Respuesta: De ingeniería
+
+*Ejemplo 2. Permisos por semana*
+
+Problema: Otra zona de ejemplo emite 2 permisos por día y trabaja 6 días. ¿Cuántos permisos emite en la semana?
+
+1. Se multiplican los permisos diarios por los días.
+2. 2 por 6 son 12.
+
+Respuesta: 12 permisos
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Creer que la careta y los guantes bastan para realizar un trabajo en caliente. **Por qué ocurre:** El EPP es la última barrera: no reemplaza el permiso, la calificación ni los controles del lugar. **Cómo corregirlo:** Primero se controla el lugar y la tarea; el EPP se suma a eso.
+- **Error:** Creer que quien vio hacer una soldadura puede hacerla. **Por qué ocurre:** La tarea exige formación, calificación vigente, autorización y permiso. **Cómo corregirlo:** Aprende el concepto aquí y deja la tarea a personal calificado.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Construcciones Metálicas: ¿qué es un trabajo en caliente? A) Una tarea que se hace al aire libre bajo el sol B) Una tarea con herramientas eléctricas pesadas, aunque no produzca chispas C) Una tarea que produce chispas, llama o calor y puede iniciar un fuego
+- **R2.** En Construcciones Metálicas: ¿para qué sirve el permiso de trabajo en caliente? A) Para certificar que la persona sabe soldar B) Para autorizar la tarea después de revisar el lugar y las condiciones de seguridad C) Para reservar la máquina durante el turno
+- **R3.** En Construcciones Metálicas: ¿qué hace el vigilante de fuego? A) Revisa que los planos estén vigentes B) Suelda mientras otra persona descansa C) Observa la zona durante y después del trabajo para detectar un inicio de fuego y avisar
+
+*Comprensión*
+
+- **C1.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. ¿Cuántos permisos de trabajo en caliente se emiten en una semana?
+- **C2.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. ¿Cuántos extintores hay en total en la zona?
+- **C3.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. El taller instala un sistema que extrae los humos desde el lugar donde se producen. ¿Qué tipo de control es? A) De ingeniería, porque cambia físicamente el lugar de trabajo B) Administrativo, porque ordena una conducta C) EPP, porque protege a una persona
+
+*Aplicación*
+
+- **A1.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. La careta con filtro y los guantes de cuero que usa una persona calificada son: A) Controles de ingeniería, porque son objetos físicos B) EPP, la última barrera de la jerarquía C) Controles administrativos, porque los entrega el taller
+- **A2.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. ¿Qué porcentaje del personal de la zona tiene calificación vigente?
+- **A3.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. Una persona sin calificación vigente propone soldar «solo un punto pequeño» porque ya vio cómo se hace. ¿Qué corresponde? A) Hacerlo si usa careta B) Hacerlo si es muy rápido C) No hacerlo: esa tarea solo la hace personal calificado y con permiso
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. ¿Por qué conviene, cuando el proyecto lo permite, usar una unión mecánica en vez de una soldada en terreno? A) Porque evita o reduce el trabajo en caliente y con él sus peligros B) Porque la unión mecánica siempre resiste más carga C) Porque no necesita planos
+- **Z2.** Una chispa prende un material cercano y aparece fuego en una zona de ejemplo. ¿Qué corresponde según las reglas generales? A) Acercarte a apagarlo con lo que haya B) No acercarte a la zona de riesgo, dar la alarma y avisar a un adulto responsable y a emergencias C) Seguir trabajando hasta terminar la pieza
+
+*Desafío*
+
+- **D1.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. El taller cambia algunas uniones soldadas por mecánicas y baja de 15 a 9 los permisos semanales. ¿Cuántos permisos menos se emiten?
+- **D2.** Ficha 9 (caso de ejemplo, inventado). En «Estructuras Demo» hay una zona de trabajos en caliente, es decir, tareas que producen chispas, llama o calor: corte con gas, soldadura con arco eléctrico y esmerilado. Peligros anotados: radiación luminosa del arco, humos metálicos, chispas, quemaduras, cilindros de gas combustible y de oxígeno, descarga eléctrica y fuego en materiales cercanos. Datos de ejemplo: la zona emite 3 permisos de trabajo en caliente por día y opera 5 días a la semana; tiene 4 sectores y cada sector cuenta con 2 extintores. Personal con calificación vigente: 7 de las 10 personas de la zona. Para el riesgo de chispas sobre un pasillo se discute entre un cartel de «prohibido el paso» y una cortina que no se quema y retiene las chispas. ¿Cuál es más efectiva según la jerarquía? A) Ambas igual, porque las dos avisan del peligro B) El cartel, porque es más barato C) La cortina, porque es un control de ingeniería y no depende de que cada persona obedezca
+
+*Situaciones auténticas*
+
+- **S1.** Un compañero de práctica te ofrece su careta y te propone «probar» soldar un rato mientras nadie mira. ¿Qué respondes? A) Que sí, si él te mira B) Que sí, pero solo un minuto C) Que no, porque soldar exige formación, autorización, permiso y supervisión, y que avisarás a un adulto responsable
+
+*Autoevaluación*
+
+- **E1.** En Construcciones Metálicas: ¿qué es un trabajo en caliente?
+- **E2.** ¿Qué función cumple el vigilante de fuego?
+- **E3.** ¿Qué tipo de control es una extracción de humos?
+
+**Actividad abierta.** Caso de ejemplo: un taller planea unir dos piezas de una baranda con soldadura en el pasillo principal. Peligros anotados: chispas sobre el pasillo, humos y un cilindro de gas cercano. Escribe (a) qué documento debe autorizar la tarea, (b) un control de ingeniería para el pasillo, (c) una alternativa que evitaría el trabajo en caliente, (d) por qué el EPP no basta.
+
+**Solucionario razonado**
+
+- **R1.** C) Una tarea que produce chispas, llama o calor y puede iniciar un fuego. Lo que define el trabajo en caliente es la chispa, la llama o el calor que puede iniciar fuego.
+- **R2.** B) Para autorizar la tarea después de revisar el lugar y las condiciones de seguridad. El permiso autoriza la tarea y el lugar; la calificación certifica a la persona.
+- **R3.** C) Observa la zona durante y después del trabajo para detectar un inicio de fuego y avisar. Su función es vigilar y avisar, no ejecutar la tarea.
+- **C1.** 15 permisos. Se multiplican los permisos diarios por los días de la semana. Cálculo: 3 × 5 = 15.
+- **C2.** 8 extintores. Se multiplican los sectores por los extintores de cada sector. Cálculo: 4 × 2 = 8.
+- **C3.** A) De ingeniería, porque cambia físicamente el lugar de trabajo. La extracción actúa sobre el peligro en su origen, sin depender de cada persona.
+- **A1.** B) EPP, la última barrera de la jerarquía. Lo que protege a una sola persona es EPP, aunque sea un objeto físico.
+- **A2.** 70 %. Se multiplican por 100 las personas calificadas y se divide entre el total. Cálculo: 7 × 100 ÷ 10 = 70.
+- **A3.** C) No hacerlo: esa tarea solo la hace personal calificado y con permiso. Ni la rapidez ni el EPP reemplazan la calificación y el permiso.
+- **Z1.** A) Porque evita o reduce el trabajo en caliente y con él sus peligros. Evitar la tarea de riesgo es el nivel más alto de prevención.
+- **Z2.** B) No acercarte a la zona de riesgo, dar la alarma y avisar a un adulto responsable y a emergencias. Un fuego exige avisar a quienes están capacitados; acercarse sin formación aumenta el peligro.
+- **D1.** 6 permisos. Se resta a los permisos semanales actuales los que quedan. Cálculo: 3 × 5 − 9 = 6.
+- **D2.** C) La cortina, porque es un control de ingeniería y no depende de que cada persona obedezca. La jerarquía prefiere el control físico al aviso, que depende de la conducta.
+- **S1.** C) Que no, porque soldar exige formación, autorización, permiso y supervisión, y que avisarás a un adulto responsable. Una tarea de riesgo no se prueba a escondidas; exige autorización y supervisión.
+- **E1.** Una tarea que produce chispas, llama o calor. Esa característica la hace capaz de iniciar un fuego.
+- **E2.** Observar la zona y avisar ante un inicio de fuego. Vigila durante y después del trabajo, sin ejecutarlo.
+- **E3.** Un control de ingeniería. Cambia el lugar y retira el peligro desde su origen.
+
+**Actividad abierta · ejemplo de respuesta.** (a) El permiso de trabajo en caliente. (b) Una cortina o pantalla que no se queme y retenga las chispas, o una extracción de humos. (c) Una unión mecánica, si el proyecto lo permite, o hacer la unión en el taller y no en el pasillo. (d) Porque el EPP es la última barrera: no quita el peligro y protege solo a quien lo usa. La tarea la hace personal calificado.
+
+**Criterios para evaluarla:** nombra el permiso; propone un control de ingeniería; propone una alternativa que evita el trabajo en caliente; explica por qué el EPP no basta.
+
+**Evidencias aceptables:** hoja con las cuatro respuestas.
+
+**Errores que conviene detectar:** proponer solo el EPP; confundir un cartel con un control de ingeniería; no aclarar que la tarea la hace personal calificado.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué nivel de la jerarquía elimina el peligro?». Si no responde, pídele que relea el primer nivel.
+
+**Refuerzo.** Escribe tres peligros de un trabajo en caliente y un control para cada uno, indicando su nivel en la jerarquía.
+
+**Profundización.** Explica con un ejemplo por qué el vigilante de fuego sigue observando un rato después de terminar el trabajo.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «situar el contexto laboral, la norma y el riesgo: fabricar, unir y reparar elementos de construcciones metálicas» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «situar el contexto laboral, la norma y el riesgo: fabricar, unir y reparar elementos de construcciones metálicas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: dar por bueno un resultado sin registro, verificación ni responsable.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Dar por bueno un resultado sin registro, verificación ni responsable | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Última clase del OA anterior](tp-come-3y4-oae-02.md#cl-15893) · [Clase siguiente →](#cl-15895)
+
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-15895}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «dar por bueno un resultado sin registro, verificación ni responsable». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de fabricar, unir y reparar elementos de construcciones metálicas; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla reconocer conceptos, documentos y roles del oficio: Fabricar, unir y reparar elementos de construcciones metálicas en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas piezas, perfiles, planchas, máquinas, herramientas, instrumentos, equipos, pinturas, computador ni internet: los planos (descritos por escrito con listas de piezas y cotas), las planillas, las pautas, los registros y los documentos de la obra o del taller están escritos en el enunciado, son inventados y están rotulados «de ejemplo». Las medidas, masas por metro, rendimientos, espesores, tolerancias, consumos, tiempos y precios son números de ejemplo para calcular en una planilla; los valores reales los fijan el proyecto, el fabricante y «la norma vigente». Este cuaderno no contiene procedimientos para trazar, cortar, soldar, esmerilar, taladrar, doblar, forjar, armar, montar, izar, trabajar en altura, preparar superficies, pintar, manipular residuos peligrosos ni operar herramientas, máquinas o equipos. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias.
+
+**Consigna exacta:** Documento de ejemplo: unión V-1, a tope, posición vertical, proceso MAG; unión V-2, por traslape con 6 pernos. La obra lleva 3 uniones V-1 y 7 uniones V-2. Escribe (a) cuál unión es mecánica, (b) cuántos pernos hay en total, (c) qué caracteriza al proceso MAG, (d) qué documento fija los parámetros y quién puede aplicarlos.
+
+**Referencia para modelar y corregir:** (a) V-2, porque usa pernos. (b) 7 × 6 = 42 pernos. (c) Usa un alambre continuo que se consume, con gas activo. (d) El WPS del proyecto; solo lo aplica personal con calificación vigente, autorizado y con permiso.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (a) V-2, porque usa pernos. (b) 7 × 6 = 42 pernos. (c) Usa un alambre continuo que se consume, con gas activo. (d) El WPS del proyecto; solo lo aplica personal con calificación vigente, autorizado y con permiso. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé los conceptos de los procesos de corte y soldadura, los tipos de unión, las posiciones, las uniones mecánicas y los documentos que mandan, sin aprender a ejecutarlos.
+
+**Lo que ya debo saber.** Sé qué es un trabajo en caliente. Sé leer una tabla. Sé qué es un plano y una especificación técnica.
+
+**Explicación.**
+
+Una unión se describe por su geometría: a tope, cuando dos piezas se unen extremo con extremo en un mismo plano; en T, cuando una pieza se une perpendicular a otra; y por traslape, cuando una pieza se superpone a otra. Los procesos se distinguen por cómo se forma la unión: el oxigás usa la llama de un gas combustible con oxígeno para calentar o cortar; el arco manual usa un arco eléctrico entre un electrodo revestido y la pieza; el TIG usa un electrodo de tungsteno que no se consume y un gas inerte; el MIG y el MAG usan un alambre continuo que se consume, con gas inerte (MIG) o gas activo (MAG).
+
+La posición describe cómo queda la unión: plana, si queda sobre una superficie horizontal y se trabaja desde arriba; horizontal, si la línea de unión es horizontal sobre una superficie vertical; y vertical, si la línea de unión sube o baja sobre una superficie vertical. Las uniones mecánicas usan pernos, tornillos o remaches; los pernos permiten desarmar la unión sin dañar las piezas, y una soldadura es permanente.
+
+El WPS es la especificación del procedimiento de soldadura: el documento del proyecto que fija el proceso y los parámetros aprobados. Este cuaderno no los entrega ni los enseña a usar, porque solo los aplica personal con calificación vigente. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| unión a tope | dos piezas unidas extremo con extremo en un mismo plano |
+| unión en T | una pieza unida perpendicular a otra |
+| traslape | una pieza superpuesta sobre otra |
+| TIG | proceso con electrodo de tungsteno que no se consume y gas inerte |
+| MIG / MAG | procesos con alambre continuo que se consume; gas inerte en MIG y gas activo en MAG |
+| WPS | especificación del procedimiento de soldadura del proyecto |
+| unión mecánica | unión hecha con pernos, tornillos o remaches |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Leer una unión*
+
+Problema: Un documento de ejemplo dice «unión por traslape, 6 pernos». ¿Es una unión soldada o mecánica?
+
+1. Los pernos son elementos mecánicos.
+2. Una unión con pernos es mecánica.
+
+Respuesta: Mecánica
+
+*Ejemplo 2. Contar pernos*
+
+Problema: Una estructura de ejemplo lleva 5 uniones con 8 pernos cada una. ¿Cuántos pernos son?
+
+1. Se multiplican las uniones por los pernos de cada una.
+2. 5 por 8 son 40.
+
+Respuesta: 40 pernos
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Creer que dos uniones en T se sueldan igual. **Por qué ocurre:** La posición, el espesor y el proceso pueden ser distintos y cada una sigue su especificación. **Cómo corregirlo:** Lee en la especificación el proceso y la posición de cada unión.
+- **Error:** Creer que conocer los nombres de los procesos habilita para soldar. **Por qué ocurre:** La ejecución exige calificación vigente, WPS y permiso. **Cómo corregirlo:** Usa los nombres para leer documentos, no para ejecutar.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Construcciones Metálicas: ¿qué es una unión a tope? A) Dos piezas que se unen extremo con extremo en un mismo plano B) Una pieza que se une perpendicular a otra C) Dos piezas superpuestas una sobre otra
+- **R2.** En Construcciones Metálicas: ¿qué es una unión en T? A) Una pieza que se une perpendicular a otra, formando una T B) Dos piezas unidas extremo con extremo C) Dos piezas superpuestas
+- **R3.** En Construcciones Metálicas: ¿qué caracteriza al proceso de arco manual? A) Un alambre continuo protegido por gas B) Una llama de gas combustible con oxígeno C) Un arco eléctrico entre un electrodo revestido y la pieza
+
+*Comprensión*
+
+- **C1.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». ¿Qué proceso indica la unión U-2 y qué lo caracteriza? A) MIG: llama de gas combustible con oxígeno B) MIG: electrodo de tungsteno que no se consume C) MIG: alambre continuo que se consume, con gas inerte
+- **C2.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». ¿Qué proceso indica la unión U-4 y qué lo caracteriza? A) TIG: llama de gas combustible con oxígeno B) TIG: alambre continuo con gas activo C) TIG: electrodo de tungsteno que no se consume, con gas inerte
+- **C3.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». La unión U-1 está en posición plana. ¿Qué significa? A) Que la unión es una línea horizontal sobre una pared B) Que la unión sube por una superficie vertical C) Que la unión queda sobre una superficie horizontal y se trabaja desde arriba
+
+*Aplicación*
+
+- **A1.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». ¿Cuántos pernos llevan en total las uniones U-3 de la escalera?
+- **A2.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». ¿Qué documento del proyecto fija los procesos y parámetros aprobados para soldar? A) El permiso de trabajo en caliente B) La lista de piezas de la lámina C) El WPS, la especificación del procedimiento de soldadura
+- **A3.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». ¿Por qué este cuaderno no entrega los parámetros de soldadura? A) Porque la soldadura no tiene parámetros B) Porque los fija el WPS del proyecto y la norma vigente, y su uso exige personal calificado C) Porque son iguales en todas las obras
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». ¿Qué ventaja suele tener la unión con pernos U-3 sobre una soldada si hay que desmontar una pieza? A) No necesita ningún documento B) Siempre resiste más carga C) Puede desarmarse sin dañar las piezas, a diferencia de una soldadura permanente
+- **Z2.** En Construcciones Metálicas: ¿quién puede ejecutar una soldadura en una obra? A) Cualquier persona que haya leído el WPS B) Solo personal con calificación vigente, autorizado y con permiso C) Quien tenga careta y guantes
+
+*Desafío*
+
+- **D1.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». ¿Cuántas uniones soldadas lleva la escalera, sumando las uniones de tipo U-1, U-2 y U-4?
+- **D2.** Ficha 10 (especificación técnica de ejemplo, inventada) de una escalera metálica. Tabla de uniones: U-1, unión a tope, posición plana, proceso arco manual; U-2, unión en T, posición horizontal, proceso MIG; U-3, unión por traslape con pernos (unión mecánica), 4 pernos por unión; U-4, unión en T, posición vertical, proceso TIG. La escalera lleva 5 uniones U-1, 10 uniones U-2, 6 uniones U-3 y 8 uniones U-4. Nota del documento: «los procesos y parámetros aprobados constan en el WPS del proyecto; solo ejecutan soldadores con calificación vigente». Un compañero dice: «U-2 y U-4 son uniones en T, así que se ejecutan igual». ¿Qué corresponde responder? A) Que ambas son mecánicas B) Que tienen el mismo proceso y la misma posición C) Que tienen la misma forma pero distinta posición y proceso, y cada una sigue su especificación
+
+*Situaciones auténticas*
+
+- **S1.** Una compañera ve que la unión U-1 pide arco manual, pero el taller solo tiene personal calificado en MIG. ¿Qué haces? A) Usar el proceso que haya a mano B) Cambiar a MIG, que es parecido C) Avisar al responsable para que lo resuelva con el proyectista, sin cambiar el proceso por cuenta propia
+
+*Autoevaluación*
+
+- **E1.** En Construcciones Metálicas: ¿qué es el WPS?
+- **E2.** ¿Qué es una unión por traslape?
+- **E3.** ¿Qué ventaja tiene una unión con pernos?
+
+**Actividad abierta.** Documento de ejemplo: unión V-1, a tope, posición vertical, proceso MAG; unión V-2, por traslape con 6 pernos. La obra lleva 3 uniones V-1 y 7 uniones V-2. Escribe (a) cuál unión es mecánica, (b) cuántos pernos hay en total, (c) qué caracteriza al proceso MAG, (d) qué documento fija los parámetros y quién puede aplicarlos.
+
+**Solucionario razonado**
+
+- **R1.** A) Dos piezas que se unen extremo con extremo en un mismo plano. La unión a tope junta extremos; la perpendicular es en T y la superpuesta es traslape.
+- **R2.** A) Una pieza que se une perpendicular a otra, formando una T. La forma de T viene de la pieza perpendicular.
+- **R3.** C) Un arco eléctrico entre un electrodo revestido y la pieza. El arco manual usa electrodo revestido; la llama es oxigás y el alambre continuo es MIG o MAG.
+- **C1.** C) MIG: alambre continuo que se consume, con gas inerte. El electrodo de tungsteno es de TIG; MIG usa alambre continuo.
+- **C2.** C) TIG: electrodo de tungsteno que no se consume, con gas inerte. TIG se reconoce por su electrodo de tungsteno que no se consume.
+- **C3.** C) Que la unión queda sobre una superficie horizontal y se trabaja desde arriba. Plana es sobre superficie horizontal; la línea sobre pared es horizontal y la que sube es vertical.
+- **A1.** 24 pernos. Se multiplican las uniones por los pernos de cada una. Cálculo: 6 × 4 = 24.
+- **A2.** C) El WPS, la especificación del procedimiento de soldadura. El WPS fija el procedimiento; el permiso autoriza la tarea en un lugar.
+- **A3.** B) Porque los fija el WPS del proyecto y la norma vigente, y su uso exige personal calificado. Los parámetros dependen del proyecto y solo los aplica quien está calificado.
+- **Z1.** C) Puede desarmarse sin dañar las piezas, a diferencia de una soldadura permanente. Los pernos se sueltan; una soldadura se funde con las piezas.
+- **Z2.** B) Solo personal con calificación vigente, autorizado y con permiso. Leer un documento o tener EPP no reemplaza la calificación y la autorización.
+- **D1.** 23 uniones. Se suman las uniones que no son mecánicas. Cálculo: 5 + 10 + 8 = 23.
+- **D2.** C) Que tienen la misma forma pero distinta posición y proceso, y cada una sigue su especificación. Dos uniones en T pueden diferir en posición y proceso; la tabla de la especificación manda.
+- **S1.** C) Avisar al responsable para que lo resuelva con el proyectista, sin cambiar el proceso por cuenta propia. El proceso lo fija el proyecto; un cambio lo decide quien lo emite.
+- **E1.** La especificación del procedimiento de soldadura del proyecto. Es el documento que fija proceso y parámetros aprobados.
+- **E2.** Una pieza superpuesta sobre otra. El traslape superpone piezas en lugar de juntar extremos.
+- **E3.** Puede desarmarse sin dañar las piezas. Los pernos permiten desmontar, a diferencia de una soldadura.
+
+**Actividad abierta · ejemplo de respuesta.** (a) V-2, porque usa pernos. (b) 7 × 6 = 42 pernos. (c) Usa un alambre continuo que se consume, con gas activo. (d) El WPS del proyecto; solo lo aplica personal con calificación vigente, autorizado y con permiso.
+
+**Criterios para evaluarla:** identifica la unión mecánica; calcula los pernos; describe el proceso; nombra el documento y quién aplica.
+
+**Evidencias aceptables:** hoja con las cuatro respuestas.
+
+**Errores que conviene detectar:** confundir MAG con TIG; multiplicar por las uniones equivocadas; decir que cualquiera puede aplicar el WPS.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué diferencia hay entre gas inerte y gas activo?». Si no responde, pídele que relea la explicación.
+
+**Refuerzo.** Haz una tabla con las columnas unión, tipo, posición y proceso, e inventa cuatro filas para una baranda.
+
+**Profundización.** Explica con un ejemplo por qué una unión soldada es permanente y una con pernos permite desarmar.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «reconocer conceptos, documentos y roles del oficio: fabricar, unir y reparar elementos de construcciones metálicas» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «reconocer conceptos, documentos y roles del oficio: fabricar, unir y reparar elementos de construcciones metálicas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: dar por bueno un resultado sin registro, verificación ni responsable.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Dar por bueno un resultado sin registro, verificación ni responsable | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-15894) · [Clase siguiente →](#cl-15896)
+
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-15896}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «dar por bueno un resultado sin registro, verificación ni responsable». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de fabricar, unir y reparar elementos de construcciones metálicas; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla analizar un caso de trabajo en papel: Fabricar, unir y reparar elementos de construcciones metálicas en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas piezas, perfiles, planchas, máquinas, herramientas, instrumentos, equipos, pinturas, computador ni internet: los planos (descritos por escrito con listas de piezas y cotas), las planillas, las pautas, los registros y los documentos de la obra o del taller están escritos en el enunciado, son inventados y están rotulados «de ejemplo». Las medidas, masas por metro, rendimientos, espesores, tolerancias, consumos, tiempos y precios son números de ejemplo para calcular en una planilla; los valores reales los fijan el proyecto, el fabricante y «la norma vigente». Este cuaderno no contiene procedimientos para trazar, cortar, soldar, esmerilar, taladrar, doblar, forjar, armar, montar, izar, trabajar en altura, preparar superficies, pintar, manipular residuos peligrosos ni operar herramientas, máquinas o equipos. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias.
+
+**Consigna exacta:** Lista de ejemplo: S-A «A4, taller», 400 mm, 5 unidades; S-B «T3, taller», 500 mm, 4 unidades. Consumo de ejemplo: 200 g de aporte por metro. Escribe (a) los milímetros de cordón de cada tipo, (b) los metros totales, (c) los gramos de aporte, (d) qué harías si el código de S-A dijera «terreno» y el taller propusiera cambiarlo.
+
+**Referencia para modelar y corregir:** (a) S-A: 400 × 5 = 2.000 mm; S-B: 500 × 4 = 2.000 mm. (b) 4.000 mm son 4 m. (c) 4 × 200 = 800 g. (d) Consultaría al proyectista antes de cambiar dónde se ejecuta, sin decidirlo por mi cuenta.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (a) S-A: 400 × 5 = 2.000 mm; S-B: 500 × 4 = 2.000 mm. (b) 4.000 mm son 4 m. (c) 4 × 200 = 800 g. (d) Consultaría al proyectista antes de cambiar dónde se ejecuta, sin decidirlo por mi cuenta. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a leer en papel el símbolo de una soldadura, a calcular la longitud total de cordón y el material de aporte de una planilla y a decidir dónde conviene ejecutar cada unión.
+
+**Lo que ya debo saber.** Sé qué es una unión en ángulo y una unión a tope. Sé multiplicar y pasar de mm a m. Sé que una planilla guarda un cálculo revisable.
+
+**Explicación.**
+
+Un símbolo de soldadura es una anotación del plano que indica el tipo de cordón, su tamaño y, a veces, dónde se ejecuta. Los símbolos reales los define la norma vigente; en esta clase se usa una convención de ejemplo escrita en la ficha. El cordón es el depósito de metal que forma la unión, y el material de aporte es el metal que se agrega para formarlo. Una lista de soldaduras anota para cada cordón su código, su largo y su cantidad.
+
+Para calcular el largo total de cordón se multiplica cada largo por su cantidad y se suman los resultados; no se usa un solo largo para cordones distintos. Después se pasa a metros, dividiendo los milímetros entre 1.000. El material de aporte se estima multiplicando los metros de cordón por el consumo de la planilla, y el costo multiplicando los kilogramos por el precio de ejemplo. Un cordón de terreno es más riesgoso que uno de taller, porque el lugar tiene menos condiciones controladas; por eso se prefiere el taller cuando el proyecto lo permite.
+
+Es una estimación de planilla con valores de ejemplo: la cantidad real la define el responsable según el proyecto. Aquí no se enseña a soldar. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| símbolo de soldadura | anotación del plano con el tipo, tamaño y lugar de un cordón |
+| cordón | depósito de metal que forma la unión |
+| material de aporte | metal que se agrega para formar el cordón |
+| cordón en ángulo | cordón entre dos piezas que forman un ángulo |
+| cordón a tope | cordón entre dos piezas unidas extremo con extremo |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Largo total de un tipo*
+
+Problema: Un cordón de ejemplo mide 250 mm y hay 8 unidades. ¿Cuántos milímetros suman?
+
+1. Se multiplica el largo por la cantidad.
+2. 250 por 8 son 2.000.
+
+Respuesta: 2.000 mm
+
+*Ejemplo 2. Aporte estimado*
+
+Problema: Con una regla de ejemplo de 150 g por metro, ¿cuántos gramos se estiman para 4 m de cordón?
+
+1. Se multiplican los metros por el consumo por metro.
+2. 4 por 150 son 600.
+
+Respuesta: 600 g
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Multiplicar la suma de unidades por un solo largo de cordón. **Por qué ocurre:** Los cordones distintos tienen largos distintos. **Cómo corregirlo:** Multiplica cada largo por su cantidad y luego suma.
+- **Error:** Olvidar pasar los milímetros a metros antes de usar el consumo por metro. **Por qué ocurre:** El consumo está dado por metro y el resultado queda 1.000 veces mayor. **Cómo corregirlo:** Divide los milímetros entre 1.000 primero.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Construcciones Metálicas: ¿qué indica un símbolo de soldadura en un plano? A) El tipo de cordón, su tamaño y dónde se ejecuta, según la norma vigente B) La marca comercial del electrodo C) El nombre de la persona que soldará
+- **R2.** En Construcciones Metálicas: ¿qué es el material de aporte? A) La pintura que protege la unión B) El metal de las piezas que se unen C) El metal que se agrega para formar el cordón de la unión
+- **R3.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. Según la convención de la ficha, ¿qué significa «A5, taller»? A) Cordón a tope de 5 mm que se ejecuta en terreno B) Cordón en ángulo de tamaño 5 mm, que se ejecuta en el taller C) Cordón en ángulo de 5 cm que se ejecuta en terreno
+
+*Comprensión*
+
+- **C1.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. ¿Cuántos milímetros de cordón suman las unidades de S-1?
+- **C2.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. ¿Cuántos milímetros de cordón suman las unidades de S-2?
+- **C3.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. ¿Cuántos metros de cordón suma todo el soporte?
+
+*Aplicación*
+
+- **A1.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. ¿Cuántos gramos de material de aporte se estiman para todo el soporte?
+- **A2.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. ¿Cuál es el cordón del soporte que se ejecuta en terreno? A) S-1, porque es el más largo B) S-3, porque su código dice «terreno» C) S-2, porque es a tope
+- **A3.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. ¿Cuántos pesos cuesta el material de aporte de todo el soporte?
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. ¿Por qué el taller prefiere ejecutar los cordones en taller y no en terreno, cuando el proyecto lo permite? A) Porque en el taller las condiciones están más controladas y hay menos peligros del lugar B) Porque en terreno no se usan planos C) Porque en el taller no hace falta ningún permiso
+- **Z2.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. Un compañero suma 4 + 6 + 2 = 12 unidades y multiplica por 500 mm para estimar el cordón. ¿Qué error cometió? A) Usó un solo largo para cordones de largos distintos; debía multiplicar cada tipo por su largo B) Debió restar las unidades C) Debió dividir entre 12
+
+*Desafío*
+
+- **D1.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. El proyecto cambia S-3 a 3 unidades. ¿Cuántos milímetros de cordón suma ahora el soporte?
+- **D2.** Ficha 11 (datos de ejemplo, inventados). Lista de soldaduras de un soporte, con la convención del taller, que no es normativa: A = cordón en ángulo; T = cordón a tope; el número es el tamaño en mm; «taller» o «terreno» indica dónde se ejecuta. S-1: «A5, taller», 500 mm de cordón, 4 unidades. S-2: «T4, taller», 300 mm de cordón, 6 unidades. S-3: «A6, terreno», 600 mm de cordón, 2 unidades. Reglas de la planilla de ejemplo: cada metro de cordón usa 200 g de material de aporte; el material de aporte cuesta $8.000 el kilogramo. Una compañera dice: «con 1.000 g alcanza justo; mejor pedir menos y completar después». ¿Qué corresponde responder? A) Que no pida nada y cuente al final B) Que pida el doble sin consultar C) Que es una estimación de planilla de ejemplo y que la cantidad real la define el responsable según el proyecto
+
+*Situaciones auténticas*
+
+- **S1.** El código de un cordón en un plano dice «A6, terreno» y el taller propone ejecutarlo en el taller «para que sea más seguro». ¿Qué respondes? A) Que lo cambien sin avisar si es más seguro B) Que sí, porque en el taller siempre es mejor C) Que se consulta al proyectista antes, porque cambiar dónde se ejecuta una unión puede alterar el diseño
+
+*Autoevaluación*
+
+- **E1.** En Construcciones Metálicas: ¿cómo se calcula el largo total de un tipo de cordón?
+- **E2.** ¿Cómo se pasan milímetros a metros?
+- **E3.** ¿Qué es el cordón de una soldadura?
+
+**Actividad abierta.** Lista de ejemplo: S-A «A4, taller», 400 mm, 5 unidades; S-B «T3, taller», 500 mm, 4 unidades. Consumo de ejemplo: 200 g de aporte por metro. Escribe (a) los milímetros de cordón de cada tipo, (b) los metros totales, (c) los gramos de aporte, (d) qué harías si el código de S-A dijera «terreno» y el taller propusiera cambiarlo.
+
+**Solucionario razonado**
+
+- **R1.** A) El tipo de cordón, su tamaño y dónde se ejecuta, según la norma vigente. El símbolo comunica el cordón que pide el proyecto, no marcas ni nombres.
+- **R2.** C) El metal que se agrega para formar el cordón de la unión. El aporte es el metal agregado; el de las piezas es el metal base.
+- **R3.** B) Cordón en ángulo de tamaño 5 mm, que se ejecuta en el taller. A es ángulo, 5 es el tamaño en mm y taller indica el lugar.
+- **C1.** 2.000 mm. Se multiplica el largo del cordón por su cantidad. Cálculo: 500 × 4 = 2.000.
+- **C2.** 1.800 mm. Se multiplica el largo del cordón por su cantidad. Cálculo: 300 × 6 = 1.800.
+- **C3.** 5 m. Se suman los tres totales y se pasan a metros. Cálculo: (500 × 4 + 300 × 6 + 600 × 2) ÷ 1000 = 5.
+- **A1.** 1.000 g. Se multiplican los metros de cordón por el consumo por metro. Cálculo: (500 × 4 + 300 × 6 + 600 × 2) × 200 ÷ 1000 = 1.000.
+- **A2.** B) S-3, porque su código dice «terreno». El lugar se lee en el código, no en el largo ni en el tipo.
+- **A3.** 8.000 pesos. Se pasan los gramos a kilogramos y se multiplican por el precio. Cálculo: (500 × 4 + 300 × 6 + 600 × 2) × 200 × 8000 ÷ 1000000 = 8.000.
+- **Z1.** A) Porque en el taller las condiciones están más controladas y hay menos peligros del lugar. Un lugar controlado reduce el riesgo; el permiso se exige igualmente.
+- **Z2.** A) Usó un solo largo para cordones de largos distintos; debía multiplicar cada tipo por su largo. Cada tipo de cordón tiene su largo y su cantidad.
+- **D1.** 5.600 mm. Se multiplica cada largo por su cantidad y se suman. Cálculo: 500 × 4 + 300 × 6 + 600 × 3 = 5.600.
+- **D2.** C) Que es una estimación de planilla de ejemplo y que la cantidad real la define el responsable según el proyecto. La planilla estima; las cantidades de compra las decide quien responde del proyecto.
+- **S1.** C) Que se consulta al proyectista antes, porque cambiar dónde se ejecuta una unión puede alterar el diseño. Un cambio respecto del plano lo decide quien emite el proyecto, aunque la intención sea buena.
+- **E1.** Multiplicando su largo por su cantidad. Cada tipo tiene su largo y su cantidad.
+- **E2.** Dividiendo entre 1.000. Un metro equivale a mil milímetros exactos.
+- **E3.** El depósito de metal que forma la unión. El cordón es el metal depositado entre las piezas.
+
+**Actividad abierta · ejemplo de respuesta.** (a) S-A: 400 × 5 = 2.000 mm; S-B: 500 × 4 = 2.000 mm. (b) 4.000 mm son 4 m. (c) 4 × 200 = 800 g. (d) Consultaría al proyectista antes de cambiar dónde se ejecuta, sin decidirlo por mi cuenta.
+
+**Criterios para evaluarla:** multiplica cada largo por su cantidad; pasa a metros; calcula el aporte; propone consultar al proyectista.
+
+**Evidencias aceptables:** hoja con las cuatro respuestas.
+
+**Errores que conviene detectar:** usar un solo largo para ambos cordones; olvidar pasar a metros; cambiar el lugar sin consultar.
+
+**Retroalimentación constructiva:** Pregunta: «¿cuántos milímetros son 4 m?». Si no responde, pídele que relea la conversión.
+
+**Refuerzo.** Inventa una lista de dos cordones con código, largo y cantidad, y calcula los metros totales.
+
+**Profundización.** Explica con un ejemplo por qué cambiar un cordón de terreno a taller puede requerir consultar al proyectista.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «analizar un caso de trabajo en papel: fabricar, unir y reparar elementos de construcciones metálicas» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «analizar un caso de trabajo en papel: fabricar, unir y reparar elementos de construcciones metálicas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: dar por bueno un resultado sin registro, verificación ni responsable.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Dar por bueno un resultado sin registro, verificación ni responsable | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-15895) · [Clase siguiente →](#cl-15897)
+
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-15897}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «dar por bueno un resultado sin registro, verificación ni responsable». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de fabricar, unir y reparar elementos de construcciones metálicas; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla aplicar un criterio técnico con datos de ejemplo: Fabricar, unir y reparar elementos de construcciones metálicas en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas piezas, perfiles, planchas, máquinas, herramientas, instrumentos, equipos, pinturas, computador ni internet: los planos (descritos por escrito con listas de piezas y cotas), las planillas, las pautas, los registros y los documentos de la obra o del taller están escritos en el enunciado, son inventados y están rotulados «de ejemplo». Las medidas, masas por metro, rendimientos, espesores, tolerancias, consumos, tiempos y precios son números de ejemplo para calcular en una planilla; los valores reales los fijan el proyecto, el fabricante y «la norma vigente». Este cuaderno no contiene procedimientos para trazar, cortar, soldar, esmerilar, taladrar, doblar, forjar, armar, montar, izar, trabajar en altura, preparar superficies, pintar, manipular residuos peligrosos ni operar herramientas, máquinas o equipos. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias.
+
+**Consigna exacta:** Criterios de ejemplo de la ficha. Casos nuevos: F, una pasarela modular que se desarma y se traslada cada temporada; G, una escalera permanente de piezas gruesas fabricada en el taller; H, la unión de 12 vigas en terreno que el proyecto permite hacer mecánica. Costos: soldada $9.000, mecánica $6.000 por unidad. Escribe (a) la unión de F y su criterio, (b) la de G y su criterio, (c) la de H y su criterio, (d) cuánto cuestan las 12 uniones de H con la alternativa elegida.
+
+**Referencia para modelar y corregir:** (a) Mecánica, por R1, porque debe poder desarmarse. (b) Soldada, por R2, con personal calificado y permiso. (c) Mecánica, por R3, porque en terreno reduce el trabajo en caliente. (d) 12 × 6.000 = 72.000 pesos.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (a) Mecánica, por R1, porque debe poder desarmarse. (b) Soldada, por R2, con personal calificado y permiso. (c) Mecánica, por R3, porque en terreno reduce el trabajo en caliente. (d) 12 × 6.000 = 72.000 pesos. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a aplicar criterios escritos para elegir entre unión soldada y mecánica, a comparar costos de planilla y a justificar la decisión con datos.
+
+**Lo que ya debo saber.** Sé qué es una unión mecánica y una soldada. Sé multiplicar y restar números enteros. Sé qué es un trabajo en caliente.
+
+**Explicación.**
+
+Un criterio de selección es una regla escrita que permite elegir entre alternativas de manera repetible: dos personas con los mismos datos llegan a la misma elección. En esta clase los criterios R1 a R4 son de ejemplo. Para aplicarlos se lee el caso, se busca qué criterio corresponde a sus condiciones (si debe desarmarse, si es permanente, si está en terreno, si exige acabado limpio) y se justifica citando el criterio.
+
+Además del criterio técnico, se compara el costo con una planilla: se multiplica la cantidad de uniones por el costo de cada alternativa y se calcula la diferencia. Elegir por costumbre («siempre se hizo así») o por gusto («es más bonito») no es un argumento verificable. Si un caso no calza con ningún criterio, no se improvisa: se consulta al responsable.
+
+Una unión soldada, aunque se elija, solo la ejecuta personal calificado, con permiso y controles. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| criterio de selección | regla escrita para elegir entre alternativas de manera repetible |
+| unión permanente | unión que no está pensada para desarmarse |
+| unión desmontable | unión pensada para poder desarmarse |
+| costo de planilla | cantidad de uniones por el costo de cada una |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Aplicar un criterio*
+
+Problema: Con los criterios de la ficha, un panel de ejemplo debe poder retirarse cada mes para limpiar. ¿Qué unión corresponde?
+
+1. El panel debe poder desarmarse.
+2. Eso corresponde al criterio R1, que pide unión mecánica.
+
+Respuesta: Mecánica, por R1
+
+*Ejemplo 2. Diferencia de costo*
+
+Problema: Para 10 uniones de otro tipo, ¿cuánto se ahorra al elegir la mecánica en lugar de la soldada, con los costos de la ficha?
+
+1. Cada unión ahorra 9.000 menos 6.000, es decir, 3.000.
+2. 10 por 3.000 son 30.000.
+
+Respuesta: $30.000
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Elegir una unión por costumbre o por gusto. **Por qué ocurre:** No es un argumento verificable y puede ir contra un criterio del proyecto. **Cómo corregirlo:** Cita el criterio y los datos del caso.
+- **Error:** Aplicar un criterio sin revisar si se cumplen sus condiciones. **Por qué ocurre:** R4 exige piezas delgadas y acabado limpio; con piezas gruesas no se aplica. **Cómo corregirlo:** Verifica las condiciones de cada criterio antes de usarlo.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Construcciones Metálicas: ¿qué es una unión mecánica? A) Una unión hecha con una soldadura que funde el metal B) Una unión hecha con pernos, tornillos o remaches C) Cualquier unión hecha con una máquina
+- **R2.** En Construcciones Metálicas: ¿qué es un criterio de selección? A) Una regla escrita que permite elegir entre alternativas de manera repetible B) La opinión del jefe de turno C) El precio de la alternativa más barata
+- **R3.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. Según los criterios, ¿qué unión corresponde al caso A? A) Mecánica, por R1, porque la tapa debe poder desarmarse B) Soldada, porque es más resistente C) Soldada con TIG, porque es una pieza delgada
+
+*Comprensión*
+
+- **C1.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. ¿Qué unión y proceso corresponde al caso B? A) Soldada con arco manual, por R3 B) Mecánica, por R1 C) Soldada con TIG, por R2 y R4
+- **C2.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. ¿Qué unión se prefiere para el caso C? A) Mecánica, por R3, porque en terreno reduce el trabajo en caliente B) Soldada, por R2 C) Soldada con TIG, por R4
+- **C3.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. ¿Qué unión se prefiere para el caso D? A) Mecánica, por R1 B) Mecánica, por R3 C) Soldada, por R2, con personal calificado y permiso
+
+*Aplicación*
+
+- **A1.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. ¿Cuántos pesos cuestan las 15 uniones C si se hacen soldadas?
+- **A2.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. ¿Cuántos pesos cuestan las 15 uniones C si se hacen mecánicas?
+- **A3.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. ¿Cuántos pesos se ahorran en las uniones C al elegir la que corresponde por criterio?
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. El jefe dice que las uniones C se hagan soldadas «porque siempre se hizo así». ¿Qué argumento de la ficha puedes darle? A) R3: en terreno se prefiere la unión mecánica, que además cuesta menos aquí B) R2: toda unión se suelda C) R1: las uniones de terreno siempre deben desarmarse
+- **Z2.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. Una compañera propone usar TIG en el caso D «porque es más bonito». ¿Qué corresponde? A) Usar TIG siempre que se pueda B) Revisar el criterio: R4 se aplica a piezas delgadas con acabado limpio, y D tiene piezas gruesas C) Usar TIG si lo dice el jefe
+
+*Desafío*
+
+- **D1.** Ficha 12 (criterios de ejemplo del taller, que no son norma). R1: si la unión debe poder desarmarse, se usa unión mecánica. R2: si la unión es permanente y el taller tiene personal calificado, se prefiere soldada. R3: en terreno, si el proyecto lo permite, se prefiere unión mecánica para reducir el trabajo en caliente. R4: si se exige acabado muy limpio en piezas delgadas y la unión es soldada, el taller elige TIG. Casos: A, una tapa de registro que se retira para inspección; B, una baranda de piezas delgadas con acabado limpio, fabricada en el taller, de unión permanente; C, la unión de las vigas de un galpón en terreno, donde el proyecto permite unión mecánica; D, un soporte permanente de piezas gruesas fabricado en el taller. Costos de ejemplo: unión soldada, $9.000 por unidad; unión mecánica, $6.000 por unidad. La obra tiene 15 uniones C y 8 uniones D. Con las uniones C mecánicas y las uniones D soldadas, ¿cuántos pesos cuestan en total ambas?
+- **D2.** Caso E, de ejemplo: una unión permanente, en terreno, que el proyecto NO permite hacer mecánica. Con la lógica de los criterios, ¿qué corresponde? A) Una unión mecánica de todas formas B) Una unión soldada, con permiso de trabajo en caliente, personal calificado y todos los controles C) No se puede hacer nunca
+
+*Situaciones auténticas*
+
+- **S1.** Una compañera quiere cambiar un perno por una soldadura «rápida» en un soporte que debe poder desarmarse, porque no encuentra el perno. ¿Qué respondes? A) Que sí, si la soldadura queda fuerte B) Que no: el soporte debe desarmarse y la solución se consulta al responsable, sin improvisar C) Que sí, mientras nadie se entere
+
+*Autoevaluación*
+
+- **E1.** En Construcciones Metálicas: ¿qué unión corresponde si la pieza debe poder desarmarse?
+- **E2.** ¿Qué se debe citar al justificar una elección?
+- **E3.** ¿Qué se hace si un caso no calza con ningún criterio?
+
+**Actividad abierta.** Criterios de ejemplo de la ficha. Casos nuevos: F, una pasarela modular que se desarma y se traslada cada temporada; G, una escalera permanente de piezas gruesas fabricada en el taller; H, la unión de 12 vigas en terreno que el proyecto permite hacer mecánica. Costos: soldada $9.000, mecánica $6.000 por unidad. Escribe (a) la unión de F y su criterio, (b) la de G y su criterio, (c) la de H y su criterio, (d) cuánto cuestan las 12 uniones de H con la alternativa elegida.
+
+**Solucionario razonado**
+
+- **R1.** B) Una unión hecha con pernos, tornillos o remaches. La unión mecánica se define por sus elementos de fijación, no por usar o no una máquina.
+- **R2.** A) Una regla escrita que permite elegir entre alternativas de manera repetible. Un criterio es una regla escrita; la opinión y el precio solos no lo son.
+- **R3.** A) Mecánica, por R1, porque la tapa debe poder desarmarse. La tapa se retira para inspección, de modo que debe ser desmontable.
+- **C1.** C) Soldada con TIG, por R2 y R4. La baranda es permanente, de piezas delgadas y con acabado limpio.
+- **C2.** A) Mecánica, por R3, porque en terreno reduce el trabajo en caliente. R3 manda en terreno cuando el proyecto lo permite, y aquí lo permite.
+- **C3.** C) Soldada, por R2, con personal calificado y permiso. D es permanente, de taller y de piezas gruesas, de modo que se aplica R2.
+- **A1.** 135.000 pesos. Se multiplican las uniones por el costo de la unión soldada. Cálculo: 15 × 9000 = 135.000.
+- **A2.** 90.000 pesos. Se multiplican las uniones por el costo de la unión mecánica. Cálculo: 15 × 6000 = 90.000.
+- **A3.** 45.000 pesos. Se multiplican las uniones por la diferencia de costo de cada una. Cálculo: 15 × (9000 − 6000) = 45.000.
+- **Z1.** A) R3: en terreno se prefiere la unión mecánica, que además cuesta menos aquí. Se responde con el criterio aplicable y con los datos de costo, no con costumbre.
+- **Z2.** B) Revisar el criterio: R4 se aplica a piezas delgadas con acabado limpio, y D tiene piezas gruesas. Un criterio se aplica solo si el caso cumple sus condiciones.
+- **D1.** 162.000 pesos. Se suma el costo de cada grupo con la alternativa que corresponde. Cálculo: 15 × 6000 + 8 × 9000 = 162.000.
+- **D2.** B) Una unión soldada, con permiso de trabajo en caliente, personal calificado y todos los controles. Si R3 no se puede aplicar, la unión permanente se suelda con todos los controles de seguridad.
+- **S1.** B) Que no: el soporte debe desarmarse y la solución se consulta al responsable, sin improvisar. Un soporte desmontable no se convierte en permanente por conveniencia.
+- **E1.** Una unión mecánica. Los pernos permiten desmontar sin dañar las piezas.
+- **E2.** El criterio aplicado y los datos del caso. La justificación debe poder repetirse con los mismos datos.
+- **E3.** Se consulta al responsable. No se improvisa una decisión sin criterio.
+
+**Actividad abierta · ejemplo de respuesta.** (a) Mecánica, por R1, porque debe poder desarmarse. (b) Soldada, por R2, con personal calificado y permiso. (c) Mecánica, por R3, porque en terreno reduce el trabajo en caliente. (d) 12 × 6.000 = 72.000 pesos.
+
+**Criterios para evaluarla:** aplica R1; aplica R2; aplica R3; calcula el costo.
+
+**Evidencias aceptables:** hoja con las cuatro respuestas.
+
+**Errores que conviene detectar:** no citar el criterio; calcular con el costo de la unión soldada; olvidar los controles de la unión soldada.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué condición del caso H activa R3?». Si no responde, pídele que relea el criterio.
+
+**Refuerzo.** Escribe tres casos breves propios y elige para cada uno una unión citando el criterio de la ficha.
+
+**Profundización.** Explica con un ejemplo por qué un criterio escrito es mejor que decidir por costumbre.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «aplicar un criterio técnico con datos de ejemplo: fabricar, unir y reparar elementos de construcciones metálicas» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «aplicar un criterio técnico con datos de ejemplo: fabricar, unir y reparar elementos de construcciones metálicas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: dar por bueno un resultado sin registro, verificación ni responsable.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Dar por bueno un resultado sin registro, verificación ni responsable | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-15896) · [Clase siguiente →](#cl-15898)
+
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas {#cl-15898}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fabricar, unir y reparar elementos de construcciones metálicas a través de comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas; justificaré una decisión con evidencia y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar. |
+| Modelado | 20 min | Modela en el pizarrón cómo comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «dar por bueno un resultado sin registro, verificación ni responsable». |
+| Práctica guiada | 25 min | Parejas resuelven en papel una variante de fabricar, unir y reparar elementos de construcciones metálicas; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla comparar alternativas y verificar la calidad: Fabricar, unir y reparar elementos de construcciones metálicas en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir. |
+| Cierre | 10 min | Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fabricar, unir y reparar elementos de construcciones metálicas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y papel (o cuaderno); una calculadora simple es opcional. No necesitas piezas, perfiles, planchas, máquinas, herramientas, instrumentos, equipos, pinturas, computador ni internet: los planos (descritos por escrito con listas de piezas y cotas), las planillas, las pautas, los registros y los documentos de la obra o del taller están escritos en el enunciado, son inventados y están rotulados «de ejemplo». Las medidas, masas por metro, rendimientos, espesores, tolerancias, consumos, tiempos y precios son números de ejemplo para calcular en una planilla; los valores reales los fijan el proyecto, el fabricante y «la norma vigente». Este cuaderno no contiene procedimientos para trazar, cortar, soldar, esmerilar, taladrar, doblar, forjar, armar, montar, izar, trabajar en altura, preparar superficies, pintar, manipular residuos peligrosos ni operar herramientas, máquinas o equipos. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias.
+
+**Consigna exacta:** Caso de ejemplo: se inspeccionan 50 cordones y 4 tienen defectos; el criterio acepta hasta 10 %. Para una pieza con fisura, reparar cuesta $20.000 en total y reemplazarla $60.000; la regla de ejemplo reemplaza si la reparación supera el 70 % del reemplazo. Escribe (a) el porcentaje de cordones con defectos, (b) si el lote se acepta, (c) el 70 % del costo de reemplazo y qué conviene, (d) qué haces si el jefe pide no registrar un defecto.
+
+**Referencia para modelar y corregir:** (a) 4 × 100 ÷ 50 = 8 %. (b) Se acepta, porque 8 % no supera el 10 %. (c) El 70 % de 60.000 son 42.000, y 20.000 no lo supera: conviene reparar. (d) Registro el defecto con su valor real e informo al responsable.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (a) 4 × 100 ÷ 50 = 8 %. (b) Se acepta, porque 8 % no supera el 10 %. (c) El 70 % de 60.000 son 42.000, y 20.000 no lo supera: conviene reparar. (d) Registro el defecto con su valor real e informo al responsable. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé los defectos típicos de un cordón, qué son los ensayos no destructivos, cómo se acepta o rechaza un lote con un criterio y cómo se compara reparar con reemplazar.
+
+**Lo que ya debo saber.** Sé qué es un cordón y qué es una no conformidad. Sé calcular porcentajes y restar. Sé que un registro debe decir la verdad.
+
+**Explicación.**
+
+La calidad de un cordón se verifica comparándolo con un criterio de aceptación escrito en el proyecto. Los defectos más conocidos son la porosidad, que son burbujas de gas atrapadas en el cordón; la falta de fusión, cuando el metal de aporte no se une bien a una pieza; la socavación, un surco en el borde del cordón sobre el metal base; la fisura o grieta, una rotura fina y grave; y las salpicaduras, gotas de metal pegadas cerca. Primero se hace una inspección visual y, si el proyecto lo exige, ensayos no destructivos.
+
+Un ensayo no destructivo revisa la pieza sin dañarla. Los tintes penetrantes revelan fisuras abiertas en la superficie; las partículas magnéticas detectan defectos superficiales o cercanos a la superficie en acero que se imanta; el ultrasonido usa ondas de sonido para detectar defectos internos; la radiografía usa radiación para ver el interior y solo la hace personal certificado. El porcentaje de defectos es los cordones con defectos por 100 dividido entre los inspeccionados. Si un cordón falla, el responsable evalúa la causa y decide entre reparar y reemplazar, comparando costos y la regla del proyecto.
+
+Un defecto no se «tapa» sin evaluar su causa y el registro nunca se altera. Aquí no se enseña a reparar. Ante un accidente, un corte, una quemadura, un atrapamiento, una descarga eléctrica, un derrame o un incendio: no te acerques a la zona de riesgo, avisa a un adulto responsable y a emergencias. Esto es aprendizaje conceptual en papel. Practicar esta tarea exige instructor autorizado, norma vigente de la entidad fiscalizadora de tu sector y elementos de protección; este cuaderno no te habilita para trabajar ni para operar máquinas, herramientas o equipos.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| porosidad | burbujas de gas atrapadas en el cordón |
+| socavación | surco en el borde del cordón sobre el metal base |
+| fisura | rotura fina y grave |
+| ensayo no destructivo | revisión de la pieza que no la daña |
+| criterio de aceptación | regla escrita que dice cuándo un resultado se acepta |
+| inspección visual | revisión a simple vista del cordón |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Porcentaje de defectos*
+
+Problema: En una inspección de ejemplo de 25 cordones, 5 tienen defectos. ¿Qué porcentaje es?
+
+1. Se multiplican por 100 los defectuosos y se divide entre los inspeccionados.
+2. 5 por 100 son 500, y 500 entre 25 son 20.
+
+Respuesta: 20 %
+
+*Ejemplo 2. Decidir un lote*
+
+Problema: Con un criterio de ejemplo que acepta hasta 15 % de cordones con defectos, un lote tiene 20 %. ¿Se acepta?
+
+1. El límite permitido es 15 %.
+2. 20 % supera el 15 % permitido.
+
+Respuesta: Se rechaza
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Repetir la inspección hasta que el resultado cuadre y anotar solo ese. **Por qué ocurre:** Se oculta el hallazgo real y se altera el registro. **Cómo corregirlo:** Registra el resultado real y deja que el responsable decida.
+- **Error:** Tapar una fisura sin evaluar su causa. **Por qué ocurre:** Si la causa sigue, la fisura puede reaparecer o crecer. **Cómo corregirlo:** Informa el hallazgo; la evaluación la hace un responsable.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Construcciones Metálicas: ¿qué es una socavación? A) Gotas de metal pegadas cerca del cordón B) Burbujas de gas atrapadas dentro del cordón C) Un surco en el borde del cordón, sobre el metal base
+- **R2.** En Construcciones Metálicas: ¿qué significa que un ensayo sea no destructivo? A) Que no deja ningún registro B) Que revisa la pieza sin dañarla ni dejarla inservible C) Que puede hacerlo cualquier persona sin formación
+- **R3.** En Construcciones Metálicas: ¿qué es la porosidad de un cordón? A) Burbujas de gas atrapadas en el cordón B) Un surco en el borde del cordón C) Una rotura fina y grave
+
+*Comprensión*
+
+- **C1.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. ¿Cuántos cordones del lote tienen algún defecto?
+- **C2.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. ¿Qué porcentaje de los cordones inspeccionados tiene defectos?
+- **C3.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. Con el criterio de aceptación de la ficha, ¿qué se concluye del lote? A) Se acepta, porque solo fallaron 3 cordones B) Se acepta, porque la mayoría no tiene defectos C) Se rechaza, porque el 15 % supera el 10 % permitido
+
+*Aplicación*
+
+- **A1.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. ¿Qué ensayo de la ficha usa ondas de sonido para detectar defectos internos? A) Las partículas magnéticas B) Los tintes penetrantes C) El ultrasonido
+- **A2.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. ¿Cuántos pesos cuesta reparar la viga, sumando evaluación, reparación y reinspección?
+- **A3.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. ¿Cuántos pesos más cuesta reemplazar la viga que repararla?
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. ¿Por qué no basta con «tapar» la fisura sin evaluar su causa? A) Porque si la causa sigue, la fisura puede reaparecer o crecer; por eso la evalúa un responsable B) Porque tapar es más caro que reemplazar C) Porque las fisuras no son defectos
+- **Z2.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. Un compañero propone repetir la inspección hasta que el lote dé menos de 10 %. ¿Qué corresponde? A) Borrar los cordones defectuosos del registro B) Repetir hasta que cuadre C) Registrar el resultado real y esperar la decisión del responsable
+
+*Desafío*
+
+- **D1.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. ¿Cuántos pesos es el 70 % del costo de reemplazar la viga?
+- **D2.** Ficha 13 (datos de ejemplo, inventados). Inspección visual de 20 cordones de un lote: 2 con porosidad, 1 con socavación y 17 sin defectos visibles. Criterio de aceptación del documento de ejemplo: un lote se acepta si no más del 10 % de los cordones inspeccionados tiene defectos. Una viga de ejemplo presenta una fisura. Alternativas: reparar (evaluación $10.000, reparación $35.000 y reinspección $10.000) o reemplazar la viga ($90.000). Regla de ejemplo: se reemplaza si la reparación costara más del 70 % del reemplazo. Ensayos no destructivos de ejemplo: tintes penetrantes, partículas magnéticas, ultrasonido y radiografía. Con la regla de ejemplo de la ficha, ¿qué conviene hacer con la viga? A) Reemplazarla, porque 55.000 supera 35.000 B) Reemplazarla, porque cuesta más C) Repararla, porque 55.000 no supera 63.000
+
+*Situaciones auténticas*
+
+- **S1.** Tras una inspección, el jefe te pide anotar «sin defectos» en un cordón con porosidad, porque «se ve poco». ¿Qué respondes? A) Que sí, si el defecto es pequeño B) Que el registro debe reflejar lo observado y que informarás el hallazgo al responsable C) Que anotarás «sin defectos» y lo dirás después
+
+*Autoevaluación*
+
+- **E1.** En Construcciones Metálicas: ¿cómo se calcula el porcentaje de cordones con defectos?
+- **E2.** ¿Qué ensayo no destructivo detecta defectos internos con ondas de sonido?
+- **E3.** ¿Quién decide entre reparar y reemplazar?
+
+**Actividad abierta.** Caso de ejemplo: se inspeccionan 50 cordones y 4 tienen defectos; el criterio acepta hasta 10 %. Para una pieza con fisura, reparar cuesta $20.000 en total y reemplazarla $60.000; la regla de ejemplo reemplaza si la reparación supera el 70 % del reemplazo. Escribe (a) el porcentaje de cordones con defectos, (b) si el lote se acepta, (c) el 70 % del costo de reemplazo y qué conviene, (d) qué haces si el jefe pide no registrar un defecto.
+
+**Solucionario razonado**
+
+- **R1.** C) Un surco en el borde del cordón, sobre el metal base. La socavación es un surco; las burbujas son porosidad y las gotas son salpicaduras.
+- **R2.** B) Que revisa la pieza sin dañarla ni dejarla inservible. El nombre se refiere a que la pieza queda intacta tras la revisión.
+- **R3.** A) Burbujas de gas atrapadas en el cordón. La porosidad son burbujas; el surco es socavación y la rotura es fisura.
+- **C1.** 3 cordones. Se suman los cordones con porosidad y con socavación. Cálculo: 2 + 1 = 3.
+- **C2.** 15 %. Se multiplican por 100 los defectuosos y se divide entre los inspeccionados. Cálculo: (2 + 1) × 100 ÷ 20 = 15.
+- **C3.** C) Se rechaza, porque el 15 % supera el 10 % permitido. El criterio compara el porcentaje con el límite, no la mayoría.
+- **A1.** C) El ultrasonido. Los tintes y las partículas se limitan a la superficie o cerca de ella.
+- **A2.** 55.000 pesos. Se suman los tres costos de la reparación. Cálculo: 10000 + 35000 + 10000 = 55.000.
+- **A3.** 35.000 pesos. Se resta el costo de reparar al costo de reemplazar. Cálculo: 90000 − (10000 + 35000 + 10000) = 35.000.
+- **Z1.** A) Porque si la causa sigue, la fisura puede reaparecer o crecer; por eso la evalúa un responsable. Sin entender la causa, el problema puede volver.
+- **Z2.** C) Registrar el resultado real y esperar la decisión del responsable. El registro refleja lo observado; no se ajusta para cumplir el criterio.
+- **D1.** 63.000 pesos. Se multiplica el costo por 70 y se divide entre 100. Cálculo: 90000 × 70 ÷ 100 = 63.000.
+- **D2.** C) Repararla, porque 55.000 no supera 63.000. La regla compara el costo de reparar con el 70 % del reemplazo.
+- **S1.** B) Que el registro debe reflejar lo observado y que informarás el hallazgo al responsable. Un registro verdadero es la base de la calidad; no se altera por tamaño ni por prisa.
+- **E1.** Defectuosos por 100, divididos entre inspeccionados. Compara los defectuosos con el total revisado.
+- **E2.** El ultrasonido. Las ondas de sonido recorren la pieza y revelan lo interno.
+- **E3.** El responsable, con la evaluación de la causa y los costos. No lo decide quien detecta el defecto por cuenta propia.
+
+**Actividad abierta · ejemplo de respuesta.** (a) 4 × 100 ÷ 50 = 8 %. (b) Se acepta, porque 8 % no supera el 10 %. (c) El 70 % de 60.000 son 42.000, y 20.000 no lo supera: conviene reparar. (d) Registro el defecto con su valor real e informo al responsable.
+
+**Criterios para evaluarla:** calcula el porcentaje; aplica el criterio; compara con la regla; defiende el registro honesto.
+
+**Evidencias aceptables:** hoja con las cuatro respuestas.
+
+**Errores que conviene detectar:** dividir entre 40 en vez de entre 50; aceptar con un porcentaje mayor; no registrar el defecto.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué se escribe en el registro de un defecto pequeño?». Si responde que nada, pídele que relea la sección de registro.
+
+**Refuerzo.** Inventa una inspección de 20 cordones con 2 defectos y calcula el porcentaje.
+
+**Profundización.** Explica con un ejemplo por qué el ultrasonido y los tintes penetrantes sirven para casos distintos.
+
+
+**Apoyo en el mismo OA:** Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante.
+
+**Profundización:** Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse.
+
+**Evidencia:** Ficha de trabajo individual de «comparar alternativas y verificar la calidad: fabricar, unir y reparar elementos de construcciones metálicas» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado.
+
+**Criterios de éxito:** desarrolla «comparar alternativas y verificar la calidad: fabricar, unir y reparar elementos de construcciones metálicas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: dar por bueno un resultado sin registro, verificación ni responsable.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Dar por bueno un resultado sin registro, verificación ni responsable | Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
+
+
+[← Clase anterior](#cl-15897) · [Primera clase del OA siguiente →](tp-come-3y4-oae-04.md#cl-15899)
+
+## Evaluación integradora y realidad escolar
+Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
+
+## Fuente
+- [Ficha oficial del OA](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
+- [Asignatura y nivel](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
+- Snapshot: 2026-09-24
+- [Volver a la malla](../../../CURRICULUM.md)

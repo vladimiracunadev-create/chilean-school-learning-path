@@ -38,10 +38,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué sirve la información contable, quién la usa y qué riesgos hay al leerla o compartirla. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14780) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-15891) |
-| 2 | Aprenderé los conceptos básicos (hecho económico, ingreso, gasto), los documentos que los respaldan y los roles de quienes trabajan con ellos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14781) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-15892) |
-| 3 | Aprenderás a leer un informe de situación simple y a sacar conclusiones sobre el dinero disponible y las deudas de corto plazo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14782) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-15893) |
-| 4 | Aprenderás a comparar información de dos períodos, calcular variaciones y tomar una decisión con criterio y límites. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14783) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-15894) |
+| 1 | Aprenderé para qué sirve la información contable, quién la usa y qué riesgos hay al leerla o compartirla. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14818) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-16002) |
+| 2 | Aprenderé los conceptos básicos (hecho económico, ingreso, gasto), los documentos que los respaldan y los roles de quienes trabajan con ellos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14819) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-16003) |
+| 3 | Aprenderás a leer un informe de situación simple y a sacar conclusiones sobre el dinero disponible y las deudas de corto plazo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14820) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-16004) |
+| 4 | Aprenderás a comparar información de dos períodos, calcular variaciones y tomar una decisión con criterio y límites. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-14821) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-01.md#cl-16005) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -53,11 +53,11 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé el ciclo que convierte un documento en información contable y los riesgos de cada paso. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14784) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-15895) |
-| 2 | Aprenderé qué es una cuenta, cómo se usan el debe y el haber y cómo se escribe un asiento sencillo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14785) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-15896) |
-| 3 | Aprenderás a registrar en asientos una compra, una venta y un gasto con IVA de ejemplo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14786) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-15897) |
-| 4 | Aprenderás a pasar asientos al libro mayor, calcular saldos y preparar un balance de comprobación. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14787) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-15898) |
-| 5 | Aprenderás a buscar y corregir errores cuando un balance no cuadra y a comparar alternativas de corrección con criterios de calidad. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14788) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-15899) |
+| 1 | Aprenderé el ciclo que convierte un documento en información contable y los riesgos de cada paso. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14822) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-16006) |
+| 2 | Aprenderé qué es una cuenta, cómo se usan el debe y el haber y cómo se escribe un asiento sencillo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14823) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-16007) |
+| 3 | Aprenderás a registrar en asientos una compra, una venta y un gasto con IVA de ejemplo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14824) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-16008) |
+| 4 | Aprenderás a pasar asientos al libro mayor, calcular saldos y preparar un balance de comprobación. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14825) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-16009) |
+| 5 | Aprenderás a buscar y corregir errores cuando un balance no cuadra y a comparar alternativas de corrección con criterios de calidad. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-14826) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-02.md#cl-16010) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -69,10 +69,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué se documentan los hechos, qué riesgos tiene el llenado y la tramitación y cómo cuidar los datos personales. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14789) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-15900) |
-| 2 | Aprenderás a reconocer los documentos de la operación de compra y venta y los campos de una factura. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14790) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-15901) |
-| 3 | Aprenderás a llenar una factura con datos de ejemplo, a calcular sus montos y a detectar errores de llenado. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14791) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-15902) |
-| 4 | Aprenderás a tramitar y registrar documentos aplicando criterios de control: coincidencia, aprobación, correlativos y resguardo de datos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14792) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-15903) |
+| 1 | Aprenderé por qué se documentan los hechos, qué riesgos tiene el llenado y la tramitación y cómo cuidar los datos personales. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14827) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-16011) |
+| 2 | Aprenderás a reconocer los documentos de la operación de compra y venta y los campos de una factura. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14828) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-16012) |
+| 3 | Aprenderás a llenar una factura con datos de ejemplo, a calcular sus montos y a detectar errores de llenado. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14829) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-16013) |
+| 4 | Aprenderás a tramitar y registrar documentos aplicando criterios de control: coincidencia, aprobación, correlativos y resguardo de datos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-14830) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-03.md#cl-16014) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -84,10 +84,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé la diferencia entre comercio nacional e internacional, qué cambia al registrar una operación con otro país y qué cuidados hay que tener. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14793) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-15904) |
-| 2 | Aprenderé los conceptos básicos de una importación (FOB, CIF, flete, seguro, gastos de internación) y cómo se forma el costo de las mercaderías en pesos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14794) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-15905) |
-| 3 | Aprenderás a registrar en asientos una importación, una venta nacional y una exportación con datos de ejemplo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14795) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-15906) |
-| 4 | Aprenderás a calcular y registrar la diferencia de cambio al pagar o cobrar una operación en moneda extranjera. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14796) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-15907) |
+| 1 | Aprenderé la diferencia entre comercio nacional e internacional, qué cambia al registrar una operación con otro país y qué cuidados hay que tener. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14831) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-16015) |
+| 2 | Aprenderé los conceptos básicos de una importación (FOB, CIF, flete, seguro, gastos de internación) y cómo se forma el costo de las mercaderías en pesos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14832) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-16016) |
+| 3 | Aprenderás a registrar en asientos una importación, una venta nacional y una exportación con datos de ejemplo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14833) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-16017) |
+| 4 | Aprenderás a calcular y registrar la diferencia de cambio al pagar o cobrar una operación en moneda extranjera. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-14834) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-04.md#cl-16018) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -99,10 +99,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé para qué sirven los informes contables internos, qué elementos deben llevar y qué información conviene o no compartir. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14797) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-15908) |
-| 2 | Aprenderé qué muestra cada informe básico (estado de situación, de resultados, flujo de caja, presupuesto) y cómo elegir la forma de presentarlo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14798) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-15909) |
-| 3 | Aprenderás a armar un estado de resultados sencillo y a escribir una conclusión fiel y comprensible. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14799) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-15910) |
-| 4 | Aprenderás a comparar lo real con lo presupuestado, elegir cómo presentarlo y redactar un resumen fiel con sus límites. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14800) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-15911) |
+| 1 | Aprenderé para qué sirven los informes contables internos, qué elementos deben llevar y qué información conviene o no compartir. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14835) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-16019) |
+| 2 | Aprenderé qué muestra cada informe básico (estado de situación, de resultados, flujo de caja, presupuesto) y cómo elegir la forma de presentarlo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14836) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-16020) |
+| 3 | Aprenderás a armar un estado de resultados sencillo y a escribir una conclusión fiel y comprensible. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14837) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-16021) |
+| 4 | Aprenderás a comparar lo real con lo presupuestado, elegir cómo presentarlo y redactar un resumen fiel con sus límites. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-14838) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-05.md#cl-16022) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -114,10 +114,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé por qué un puesto de trabajo ordenado, seguro y cómodo protege a las personas y a la información, y qué riesgos hay en una oficina contable. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14801) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-15912) |
-| 2 | Aprenderé criterios de archivo (cronológico, alfabético, correlativo), el método de las 5S y buenas prácticas para respaldar documentos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14802) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-15913) |
-| 3 | Aprenderás a analizar un caso de desorden documental: contar, calcular tiempos y proponer un plan de archivo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14803) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-15914) |
-| 4 | Aprenderás a usar una lista de verificación y a armar un plan de mejora para mantener un lugar de trabajo ordenado, seguro y confidencial. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14804) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-15915) |
+| 1 | Aprenderé por qué un puesto de trabajo ordenado, seguro y cómodo protege a las personas y a la información, y qué riesgos hay en una oficina contable. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14839) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-16023) |
+| 2 | Aprenderé criterios de archivo (cronológico, alfabético, correlativo), el método de las 5S y buenas prácticas para respaldar documentos. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14840) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-16024) |
+| 3 | Aprenderás a analizar un caso de desorden documental: contar, calcular tiempos y proponer un plan de archivo. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14841) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-16025) |
+| 4 | Aprenderás a usar una lista de verificación y a armar un plan de mejora para mantener un lugar de trabajo ordenado, seguro y confidencial. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-14842) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-06.md#cl-16026) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -129,10 +129,10 @@ Reúne 7 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clase
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé quiénes son los clientes internos y externos de un área contable, cómo atenderlos con respeto y cómo proteger la información. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14805) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-15916) |
-| 2 | Aprenderás a distinguir consultas, reclamos y solicitudes, a seguir un protocolo de atención y a usar el registro y el estado de cuenta. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14806) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-15917) |
-| 3 | Aprenderás a analizar un reclamo con los documentos, a identificar la causa y a responder con datos y respeto. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14807) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-15918) |
-| 4 | Aprenderás a priorizar atenciones, verificar identidad, derivar lo que no me corresponde y mantener un trato respetuoso aun en situaciones difíciles. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14808) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-15919) |
+| 1 | Aprenderé quiénes son los clientes internos y externos de un área contable, cómo atenderlos con respeto y cómo proteger la información. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14843) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-16027) |
+| 2 | Aprenderás a distinguir consultas, reclamos y solicitudes, a seguir un protocolo de atención y a usar el registro y el estado de cuenta. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14844) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-16028) |
+| 3 | Aprenderás a analizar un reclamo con los documentos, a identificar la causa y a responder con datos y respeto. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14845) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-16029) |
+| 4 | Aprenderás a priorizar atenciones, verificar identidad, derivar lo que no me corresponde y mantener un trato respetuoso aun en situaciones difíciles. | [3° medio](../../curriculum/3-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-14846) · [4° medio](../../curriculum/4-medio-tp/contabilidad/tp-cont-3y4-oae-07.md#cl-16030) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15857) · [Clase 2](#cl-15858) · [Clase 3](#cl-15859) · [Clase 4](#cl-15860)
+**Clases de este OA:** [Clase 1](#cl-15968) · [Clase 2](#cl-15969) · [Clase 3](#cl-15970) · [Clase 4](#cl-15971)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15857}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15968}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar la seguridad en la vía y el lugar de trabajo a través de situar el contexto laboral, la norma y el riesgo: Resguardar la seguridad en la vía y el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 13 elementos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-coov-4-oam-05.md#cl-15856) · [Clase siguiente →](#cl-15858)
+[← Última clase del OA anterior](tp-coov-4-oam-05.md#cl-15967) · [Clase siguiente →](#cl-15969)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15858}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15969}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar la seguridad en la vía y el lugar de trabajo a través de reconocer conceptos, documentos y roles del oficio: Resguardar la seguridad en la vía y el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: 6 señales
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15857) · [Clase siguiente →](#cl-15859)
+[← Clase anterior](#cl-15968) · [Clase siguiente →](#cl-15970)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15859}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15970}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar la seguridad en la vía y el lugar de trabajo a través de analizar un caso de trabajo en papel: Resguardar la seguridad en la vía y el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: 1 señal
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15858) · [Clase siguiente →](#cl-15860)
+[← Clase anterior](#cl-15969) · [Clase siguiente →](#cl-15971)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15860}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Resguardar la seguridad en la vía y el lugar de trabajo {#cl-15971}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar resguardar la seguridad en la vía y el lugar de trabajo a través de aplicar un criterio técnico con datos de ejemplo: Resguardar la seguridad en la vía y el lugar de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: $24.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15859) · [Primera clase del OA siguiente →](tp-coov-4-oam-07.md#cl-15861)
+[← Clase anterior](#cl-15970) · [Primera clase del OA siguiente →](tp-coov-4-oam-07.md#cl-15972)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

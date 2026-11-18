@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15474) · [Clase 2](#cl-15475) · [Clase 3](#cl-15476) · [Clase 4](#cl-15477) · [Clase 5](#cl-15478)
+**Clases de este OA:** [Clase 1](#cl-15547) · [Clase 2](#cl-15548) · [Clase 3](#cl-15549) · [Clase 4](#cl-15550) · [Clase 5](#cl-15551)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15474}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15547}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica a través de situar el contexto laboral, la norma y el riesgo: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-tele-3y4-oae-03.md#cl-15473) · [Clase siguiente →](#cl-15475)
+[← Última clase del OA anterior](tp-tele-3y4-oae-03.md#cl-15546) · [Clase siguiente →](#cl-15548)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15475}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15548}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica a través de reconocer conceptos, documentos y roles del oficio: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Cruzado (invertido)
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15474) · [Clase siguiente →](#cl-15476)
+[← Clase anterior](#cl-15547) · [Clase siguiente →](#cl-15549)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15476}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15549}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica a través de analizar un caso de trabajo en papel: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 2 enlaces
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15475) · [Clase siguiente →](#cl-15477)
+[← Clase anterior](#cl-15548) · [Clase siguiente →](#cl-15550)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15477}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15550}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica a través de aplicar un criterio técnico con datos de ejemplo: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: Sí, pasa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15476) · [Clase siguiente →](#cl-15478)
+[← Clase anterior](#cl-15549) · [Clase siguiente →](#cl-15551)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15478}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica {#cl-15551}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica a través de comparar alternativas y verificar la calidad: Realizar medidas y pruebas de conexión y de continuidad de señal —eléctrica, con una experiencia disciplinar específica, segura y revisable.
@@ -1078,7 +1078,7 @@ Respuesta: 3 dB
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15477) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-05.md#cl-15479)
+[← Clase anterior](#cl-15550) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-05.md#cl-15552)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

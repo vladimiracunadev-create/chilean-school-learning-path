@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16523) · [Clase 2](#cl-16524) · [Clase 3](#cl-16525) · [Clase 4](#cl-16526) · [Clase 5](#cl-16527)
+**Clases de este OA:** [Clase 1](#cl-16669) · [Clase 2](#cl-16670) · [Clase 3](#cl-16671) · [Clase 4](#cl-16672) · [Clase 5](#cl-16673)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16523}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16669}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de cañería y redes de ductos a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos de redes de cañería y redes de ductos, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Una interferencia, que se informa al proyectista
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16524)
+[Clase siguiente →](#cl-16670)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16524}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16670}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de cañería y redes de ductos a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos de redes de cañería y redes de ductos, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Respuesta: 5 codos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16523) · [Clase siguiente →](#cl-16525)
+[← Clase anterior](#cl-16669) · [Clase siguiente →](#cl-16671)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16525}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16671}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de cañería y redes de ductos a través de analizar un caso de trabajo en papel: Leer y utilizar planos de redes de cañería y redes de ductos, con una experiencia disciplinar específica, segura y revisable.
@@ -672,9 +672,9 @@ Respuesta: Un hallazgo: el plano dice 4 codos y la lista 5; se informa al proyec
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16524) · [Clase siguiente →](#cl-16526)
+[← Clase anterior](#cl-16670) · [Clase siguiente →](#cl-16672)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16526}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16672}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de cañería y redes de ductos a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos de redes de cañería y redes de ductos, con una experiencia disciplinar específica, segura y revisable.
@@ -880,9 +880,9 @@ Respuesta: Cabe y sobran 15 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16525) · [Clase siguiente →](#cl-16527)
+[← Clase anterior](#cl-16671) · [Clase siguiente →](#cl-16673)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16527}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Leer y utilizar planos de redes de cañería y redes de ductos {#cl-16673}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos de redes de cañería y redes de ductos a través de comparar alternativas y verificar la calidad: Leer y utilizar planos de redes de cañería y redes de ductos, con una experiencia disciplinar específica, segura y revisable.
@@ -1088,7 +1088,7 @@ Respuesta: $40.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16526) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-02.md#cl-16528)
+[← Clase anterior](#cl-16672) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-02.md#cl-16674)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

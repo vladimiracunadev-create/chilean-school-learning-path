@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15665) · [Clase 2](#cl-15666) · [Clase 3](#cl-15667) · [Clase 4](#cl-15668)
+**Clases de este OA:** [Clase 1](#cl-15738) · [Clase 2](#cl-15739) · [Clase 3](#cl-15740) · [Clase 4](#cl-15741)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de acopio {#cl-15665}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar labores de acopio {#cl-15738}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de acopio a través de situar el contexto laboral, la norma y el riesgo: Ejecutar labores de acopio, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agag-4-oam-03.md#cl-15664) · [Clase siguiente →](#cl-15666)
+[← Última clase del OA anterior](tp-agag-4-oam-03.md#cl-15737) · [Clase siguiente →](#cl-15739)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de acopio {#cl-15666}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar labores de acopio {#cl-15739}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de acopio a través de reconocer conceptos, documentos y roles del oficio: Ejecutar labores de acopio, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 2 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15665) · [Clase siguiente →](#cl-15667)
+[← Clase anterior](#cl-15738) · [Clase siguiente →](#cl-15740)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar labores de acopio {#cl-15667}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar labores de acopio {#cl-15740}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de acopio a través de analizar un caso de trabajo en papel: Ejecutar labores de acopio, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Se retiran o se venden primero
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15666) · [Clase siguiente →](#cl-15668)
+[← Clase anterior](#cl-15739) · [Clase siguiente →](#cl-15741)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de acopio {#cl-15668}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de acopio {#cl-15741}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar labores de acopio a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar labores de acopio, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: $15.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15667) · [Primera clase del OA siguiente →](tp-agag-4-oam-05.md#cl-15669)
+[← Clase anterior](#cl-15740) · [Primera clase del OA siguiente →](tp-agag-4-oam-05.md#cl-15742)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

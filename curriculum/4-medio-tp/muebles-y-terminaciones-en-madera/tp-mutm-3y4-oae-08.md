@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16355) · [Clase 2](#cl-16356) · [Clase 3](#cl-16357) · [Clase 4](#cl-16358)
+**Clases de este OA:** [Clase 1](#cl-16501) · [Clase 2](#cl-16502) · [Clase 3](#cl-16503) · [Clase 4](#cl-16504)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar en obra, muebles {#cl-16355}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar en obra, muebles {#cl-16501}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar en obra, muebles a través de situar el contexto laboral, la norma y el riesgo: Instalar en obra, muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Quincallería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mutm-3y4-oae-07.md#cl-16354) · [Clase siguiente →](#cl-16356)
+[← Última clase del OA anterior](tp-mutm-3y4-oae-07.md#cl-16500) · [Clase siguiente →](#cl-16502)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar en obra, muebles {#cl-16356}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar en obra, muebles {#cl-16502}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar en obra, muebles a través de reconocer conceptos, documentos y roles del oficio: Instalar en obra, muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El plano de instalación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16355) · [Clase siguiente →](#cl-16357)
+[← Clase anterior](#cl-16501) · [Clase siguiente →](#cl-16503)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar en obra, muebles {#cl-16357}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar en obra, muebles {#cl-16503}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar en obra, muebles a través de analizar un caso de trabajo en papel: Instalar en obra, muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No, se informa al jefe de obra
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16356) · [Clase siguiente →](#cl-16358)
+[← Clase anterior](#cl-16502) · [Clase siguiente →](#cl-16504)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar en obra, muebles {#cl-16358}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar en obra, muebles {#cl-16504}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar en obra, muebles a través de aplicar un criterio técnico con datos de ejemplo: Instalar en obra, muebles, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 jornadas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16357) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-09.md#cl-16359)
+[← Clase anterior](#cl-16503) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-09.md#cl-16505)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15360) · [Clase 2](#cl-15361) · [Clase 3](#cl-15362) · [Clase 4](#cl-15363) · [Clase 5](#cl-15364)
+**Clases de este OA:** [Clase 1](#cl-15433) · [Clase 2](#cl-15434) · [Clase 3](#cl-15435) · [Clase 4](#cl-15436) · [Clase 5](#cl-15437)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15360}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15433}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes a través de situar el contexto laboral, la norma y el riesgo: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No, no es trabajo en caliente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-recl-3y4-oae-03.md#cl-15359) · [Clase siguiente →](#cl-15361)
+[← Última clase del OA anterior](tp-recl-3y4-oae-03.md#cl-15432) · [Clase siguiente →](#cl-15434)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15361}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15434}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes a través de reconocer conceptos, documentos y roles del oficio: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El registro de inspección de uniones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15360) · [Clase siguiente →](#cl-15362)
+[← Clase anterior](#cl-15433) · [Clase siguiente →](#cl-15435)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15362}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15435}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes a través de analizar un caso de trabajo en papel: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15361) · [Clase siguiente →](#cl-15363)
+[← Clase anterior](#cl-15434) · [Clase siguiente →](#cl-15436)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15363}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15436}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes a través de aplicar un criterio técnico con datos de ejemplo: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: $30.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15362) · [Clase siguiente →](#cl-15364)
+[← Clase anterior](#cl-15435) · [Clase siguiente →](#cl-15437)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15364}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes {#cl-15437}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes a través de comparar alternativas y verificar la calidad: Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15363) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-05.md#cl-15365)
+[← Clase anterior](#cl-15436) · [Primera clase del OA siguiente →](tp-recl-3y4-oae-05.md#cl-15438)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

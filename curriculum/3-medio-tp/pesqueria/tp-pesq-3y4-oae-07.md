@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15302) · [Clase 2](#cl-15303) · [Clase 3](#cl-15304) · [Clase 4](#cl-15305) · [Clase 5](#cl-15306)
+**Clases de este OA:** [Clase 1](#cl-15375) · [Clase 2](#cl-15376) · [Clase 3](#cl-15377) · [Clase 4](#cl-15378) · [Clase 5](#cl-15379)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Redactar planes y proyectos de manejo pesquero {#cl-15302}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Redactar planes y proyectos de manejo pesquero {#cl-15375}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar redactar planes y proyectos de manejo pesquero a través de situar el contexto laboral, la norma y el riesgo: Redactar planes y proyectos de manejo pesquero, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 400.000 pesos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-pesq-3y4-oae-06.md#cl-15301) · [Clase siguiente →](#cl-15303)
+[← Última clase del OA anterior](tp-pesq-3y4-oae-06.md#cl-15374) · [Clase siguiente →](#cl-15376)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Redactar planes y proyectos de manejo pesquero {#cl-15303}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Redactar planes y proyectos de manejo pesquero {#cl-15376}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar redactar planes y proyectos de manejo pesquero a través de reconocer conceptos, documentos y roles del oficio: Redactar planes y proyectos de manejo pesquero, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: Indicador: número de muestras por mes; meta: 6 muestras por mes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15302) · [Clase siguiente →](#cl-15304)
+[← Clase anterior](#cl-15375) · [Clase siguiente →](#cl-15377)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Redactar planes y proyectos de manejo pesquero {#cl-15304}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Redactar planes y proyectos de manejo pesquero {#cl-15377}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar redactar planes y proyectos de manejo pesquero a través de analizar un caso de trabajo en papel: Redactar planes y proyectos de manejo pesquero, con una experiencia disciplinar específica, segura y revisable.
@@ -672,9 +672,9 @@ Respuesta: El primero, con 7 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15303) · [Clase siguiente →](#cl-15305)
+[← Clase anterior](#cl-15376) · [Clase siguiente →](#cl-15378)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Redactar planes y proyectos de manejo pesquero {#cl-15305}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Redactar planes y proyectos de manejo pesquero {#cl-15378}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar redactar planes y proyectos de manejo pesquero a través de aplicar un criterio técnico con datos de ejemplo: Redactar planes y proyectos de manejo pesquero, con una experiencia disciplinar específica, segura y revisable.
@@ -882,9 +882,9 @@ Respuesta: 4 meses
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15304) · [Clase siguiente →](#cl-15306)
+[← Clase anterior](#cl-15377) · [Clase siguiente →](#cl-15379)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Redactar planes y proyectos de manejo pesquero {#cl-15306}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Redactar planes y proyectos de manejo pesquero {#cl-15379}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar redactar planes y proyectos de manejo pesquero a través de comparar alternativas y verificar la calidad: Redactar planes y proyectos de manejo pesquero, con una experiencia disciplinar específica, segura y revisable.
@@ -1090,7 +1090,7 @@ Respuesta: No es coherente: la suma es 500.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15305)
+[← Clase anterior](#cl-15378)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

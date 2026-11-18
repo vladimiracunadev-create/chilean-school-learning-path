@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14841) · [Clase 2](#cl-14842) · [Clase 3](#cl-14843) · [Clase 4](#cl-14844) · [Clase 5](#cl-14845)
+**Clases de este OA:** [Clase 1](#cl-14879) · [Clase 2](#cl-14880) · [Clase 3](#cl-14881) · [Clase 4](#cl-14882) · [Clase 5](#cl-14883)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14841}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14879}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar imprimir y reproducir las representaciones gráficas digitales elaboradas a través de situar el contexto laboral, la norma y el riesgo: Imprimir y reproducir las representaciones gráficas digitales elaboradas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Se rompe o se devuelve, no se deja a la vista
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-07.md#cl-14840) · [Clase siguiente →](#cl-14842)
+[← Última clase del OA anterior](tp-dite-3y4-oae-07.md#cl-14878) · [Clase siguiente →](#cl-14880)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14842}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14880}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar imprimir y reproducir las representaciones gráficas digitales elaboradas a través de reconocer conceptos, documentos y roles del oficio: Imprimir y reproducir las representaciones gráficas digitales elaboradas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 300 píxeles
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14841) · [Clase siguiente →](#cl-14843)
+[← Clase anterior](#cl-14879) · [Clase siguiente →](#cl-14881)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14843}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14881}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar imprimir y reproducir las representaciones gráficas digitales elaboradas a través de analizar un caso de trabajo en papel: Imprimir y reproducir las representaciones gráficas digitales elaboradas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 200 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14842) · [Clase siguiente →](#cl-14844)
+[← Clase anterior](#cl-14880) · [Clase siguiente →](#cl-14882)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14844}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14882}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar imprimir y reproducir las representaciones gráficas digitales elaboradas a través de aplicar un criterio técnico con datos de ejemplo: Imprimir y reproducir las representaciones gráficas digitales elaboradas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: Sí, mide 3 mm y es legible
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14843) · [Clase siguiente →](#cl-14845)
+[← Clase anterior](#cl-14881) · [Clase siguiente →](#cl-14883)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14845}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Imprimir y reproducir las representaciones gráficas digitales elaboradas {#cl-14883}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar imprimir y reproducir las representaciones gráficas digitales elaboradas a través de comparar alternativas y verificar la calidad: Imprimir y reproducir las representaciones gráficas digitales elaboradas, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: No: la muestra no garantiza todas las copias
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14844) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-09.md#cl-14846)
+[← Clase anterior](#cl-14882) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-09.md#cl-14884)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
