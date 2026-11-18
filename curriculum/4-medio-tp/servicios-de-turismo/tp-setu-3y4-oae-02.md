@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16755) · [Clase 2](#cl-16756) · [Clase 3](#cl-16757) · [Clase 4](#cl-16758) · [Clase 5](#cl-16759)
+**Clases de este OA:** [Clase 1](#cl-16955) · [Clase 2](#cl-16956) · [Clase 3](#cl-16957) · [Clase 4](#cl-16958) · [Clase 5](#cl-16959)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Atender a los turistas de acuerdo a sus necesidades {#cl-16755}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Atender a los turistas de acuerdo a sus necesidades {#cl-16955}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a los turistas de acuerdo a sus necesidades a través de situar el contexto laboral, la norma y el riesgo: Atender a los turistas de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Que no tienes el dato confirmado y lo consultarás
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-setu-3y4-oae-01.md#cl-16754) · [Clase siguiente →](#cl-16756)
+[← Última clase del OA anterior](tp-setu-3y4-oae-01.md#cl-16954) · [Clase siguiente →](#cl-16956)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Atender a los turistas de acuerdo a sus necesidades {#cl-16756}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Atender a los turistas de acuerdo a sus necesidades {#cl-16956}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a los turistas de acuerdo a sus necesidades a través de reconocer conceptos, documentos y roles del oficio: Atender a los turistas de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: «Entonces busca un lugar tranquilo y poco concurrido, ¿es así?»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16755) · [Clase siguiente →](#cl-16757)
+[← Clase anterior](#cl-16955) · [Clase siguiente →](#cl-16957)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Atender a los turistas de acuerdo a sus necesidades {#cl-16757}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Atender a los turistas de acuerdo a sus necesidades {#cl-16957}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a los turistas de acuerdo a sus necesidades a través de analizar un caso de trabajo en papel: Atender a los turistas de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: No: se le pregunta a él
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16756) · [Clase siguiente →](#cl-16758)
+[← Clase anterior](#cl-16956) · [Clase siguiente →](#cl-16958)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Atender a los turistas de acuerdo a sus necesidades {#cl-16758}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Atender a los turistas de acuerdo a sus necesidades {#cl-16958}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a los turistas de acuerdo a sus necesidades a través de aplicar un criterio técnico con datos de ejemplo: Atender a los turistas de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 25 minutos de margen
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16757) · [Clase siguiente →](#cl-16759)
+[← Clase anterior](#cl-16957) · [Clase siguiente →](#cl-16959)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Atender a los turistas de acuerdo a sus necesidades {#cl-16759}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Atender a los turistas de acuerdo a sus necesidades {#cl-16959}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar atender a los turistas de acuerdo a sus necesidades a través de comparar alternativas y verificar la calidad: Atender a los turistas de acuerdo a sus necesidades, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: 4
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16758) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-03.md#cl-16760)
+[← Clase anterior](#cl-16958) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-03.md#cl-16960)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

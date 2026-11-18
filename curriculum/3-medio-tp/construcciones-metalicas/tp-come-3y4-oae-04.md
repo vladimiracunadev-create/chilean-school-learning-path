@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14755) · [Clase 2](#cl-14756) · [Clase 3](#cl-14757) · [Clase 4](#cl-14758) · [Clase 5](#cl-14759)
+**Clases de este OA:** [Clase 1](#cl-14788) · [Clase 2](#cl-14789) · [Clase 3](#cl-14790) · [Clase 4](#cl-14791) · [Clase 5](#cl-14792)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Mecanizar y conformar partes {#cl-14755}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Mecanizar y conformar partes {#cl-14788}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mecanizar y conformar partes a través de situar el contexto laboral, la norma y el riesgo: Mecanizar y conformar partes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 70 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-come-3y4-oae-03.md#cl-14754) · [Clase siguiente →](#cl-14756)
+[← Última clase del OA anterior](tp-come-3y4-oae-03.md#cl-14787) · [Clase siguiente →](#cl-14789)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Mecanizar y conformar partes {#cl-14756}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Mecanizar y conformar partes {#cl-14789}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mecanizar y conformar partes a través de reconocer conceptos, documentos y roles del oficio: Mecanizar y conformar partes, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 16 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14755) · [Clase siguiente →](#cl-14757)
+[← Clase anterior](#cl-14788) · [Clase siguiente →](#cl-14790)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Mecanizar y conformar partes {#cl-14757}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Mecanizar y conformar partes {#cl-14790}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mecanizar y conformar partes a través de analizar un caso de trabajo en papel: Mecanizar y conformar partes, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 40 piezas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14756) · [Clase siguiente →](#cl-14758)
+[← Clase anterior](#cl-14789) · [Clase siguiente →](#cl-14791)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Mecanizar y conformar partes {#cl-14758}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Mecanizar y conformar partes {#cl-14791}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mecanizar y conformar partes a través de aplicar un criterio técnico con datos de ejemplo: Mecanizar y conformar partes, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 3 mm por lado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14757) · [Clase siguiente →](#cl-14759)
+[← Clase anterior](#cl-14790) · [Clase siguiente →](#cl-14792)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Mecanizar y conformar partes {#cl-14759}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Mecanizar y conformar partes {#cl-14792}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mecanizar y conformar partes a través de comparar alternativas y verificar la calidad: Mecanizar y conformar partes, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: 10 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14758) · [Primera clase del OA siguiente →](tp-come-3y4-oae-05.md#cl-14760)
+[← Clase anterior](#cl-14791) · [Primera clase del OA siguiente →](tp-come-3y4-oae-05.md#cl-14793)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

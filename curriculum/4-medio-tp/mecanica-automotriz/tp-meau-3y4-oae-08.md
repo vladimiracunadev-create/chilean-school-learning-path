@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16354) · [Clase 2](#cl-16355) · [Clase 3](#cl-16356) · [Clase 4](#cl-16357)
+**Clases de este OA:** [Clase 1](#cl-16522) · [Clase 2](#cl-16523) · [Clase 3](#cl-16524) · [Clase 4](#cl-16525)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16354}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16522}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos del mantenimiento de vehículos motorizados a través de situar el contexto laboral, la norma y el riesgo: Manipular residuos y desechos del mantenimiento de vehículos motorizados, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Reutilizarlo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meau-3y4-oae-07.md#cl-16353) · [Clase siguiente →](#cl-16355)
+[← Última clase del OA anterior](tp-meau-3y4-oae-07.md#cl-16521) · [Clase siguiente →](#cl-16523)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16355}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16523}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos del mantenimiento de vehículos motorizados a través de reconocer conceptos, documentos y roles del oficio: Manipular residuos y desechos del mantenimiento de vehículos motorizados, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 60 L
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16354) · [Clase siguiente →](#cl-16356)
+[← Clase anterior](#cl-16522) · [Clase siguiente →](#cl-16524)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16356}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16524}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos del mantenimiento de vehículos motorizados a través de analizar un caso de trabajo en papel: Manipular residuos y desechos del mantenimiento de vehículos motorizados, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16355) · [Clase siguiente →](#cl-16357)
+[← Clase anterior](#cl-16523) · [Clase siguiente →](#cl-16525)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16357}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Manipular residuos y desechos del mantenimiento de vehículos motorizados {#cl-16525}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos del mantenimiento de vehículos motorizados a través de aplicar un criterio técnico con datos de ejemplo: Manipular residuos y desechos del mantenimiento de vehículos motorizados, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 8 retiros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16356)
+[← Clase anterior](#cl-16524)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

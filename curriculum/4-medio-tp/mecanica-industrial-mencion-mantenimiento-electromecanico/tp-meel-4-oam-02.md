@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16362) · [Clase 2](#cl-16363) · [Clase 3](#cl-16364) · [Clase 4](#cl-16365)
+**Clases de este OA:** [Clase 1](#cl-16530) · [Clase 2](#cl-16531) · [Clase 3](#cl-16532) · [Clase 4](#cl-16533)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comprobar el funcionamiento de partes y componentes {#cl-16362}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comprobar el funcionamiento de partes y componentes {#cl-16530}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comprobar el funcionamiento de partes y componentes a través de situar el contexto laboral, la norma y el riesgo: Comprobar el funcionamiento de partes y componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El manómetro
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meel-4-oam-01.md#cl-16361) · [Clase siguiente →](#cl-16363)
+[← Última clase del OA anterior](tp-meel-4-oam-01.md#cl-16529) · [Clase siguiente →](#cl-16531)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comprobar el funcionamiento de partes y componentes {#cl-16363}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comprobar el funcionamiento de partes y componentes {#cl-16531}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comprobar el funcionamiento de partes y componentes a través de reconocer conceptos, documentos y roles del oficio: Comprobar el funcionamiento de partes y componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 200 W
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16362) · [Clase siguiente →](#cl-16364)
+[← Clase anterior](#cl-16530) · [Clase siguiente →](#cl-16532)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Comprobar el funcionamiento de partes y componentes {#cl-16364}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Comprobar el funcionamiento de partes y componentes {#cl-16532}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comprobar el funcionamiento de partes y componentes a través de analizar un caso de trabajo en papel: Comprobar el funcionamiento de partes y componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Una sobrecarga mecánica
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16363) · [Clase siguiente →](#cl-16365)
+[← Clase anterior](#cl-16531) · [Clase siguiente →](#cl-16533)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comprobar el funcionamiento de partes y componentes {#cl-16365}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comprobar el funcionamiento de partes y componentes {#cl-16533}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comprobar el funcionamiento de partes y componentes a través de aplicar un criterio técnico con datos de ejemplo: Comprobar el funcionamiento de partes y componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 kW
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16364) · [Primera clase del OA siguiente →](tp-meel-4-oam-03.md#cl-16366)
+[← Clase anterior](#cl-16532) · [Primera clase del OA siguiente →](tp-meel-4-oam-03.md#cl-16534)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

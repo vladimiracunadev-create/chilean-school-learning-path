@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16080) · [Clase 2](#cl-16081) · [Clase 3](#cl-16082) · [Clase 4](#cl-16083) · [Clase 5](#cl-16084)
+**Clases de este OA:** [Clase 1](#cl-16213) · [Clase 2](#cl-16214) · [Clase 3](#cl-16215) · [Clase 4](#cl-16216) · [Clase 5](#cl-16217)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Monitorear el estado de materias primas {#cl-16080}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Monitorear el estado de materias primas {#cl-16213}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar monitorear el estado de materias primas a través de situar el contexto laboral, la norma y el riesgo: Monitorear el estado de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Sensorial
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eial-3y4-oae-02.md#cl-16079) · [Clase siguiente →](#cl-16081)
+[← Última clase del OA anterior](tp-eial-3y4-oae-02.md#cl-16212) · [Clase siguiente →](#cl-16214)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Monitorear el estado de materias primas {#cl-16081}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Monitorear el estado de materias primas {#cl-16214}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar monitorear el estado de materias primas a través de reconocer conceptos, documentos y roles del oficio: Monitorear el estado de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 504 g
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16080) · [Clase siguiente →](#cl-16082)
+[← Clase anterior](#cl-16213) · [Clase siguiente →](#cl-16215)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Monitorear el estado de materias primas {#cl-16082}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Monitorear el estado de materias primas {#cl-16215}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar monitorear el estado de materias primas a través de analizar un caso de trabajo en papel: Monitorear el estado de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: No: se retiene para evaluar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16081) · [Clase siguiente →](#cl-16083)
+[← Clase anterior](#cl-16214) · [Clase siguiente →](#cl-16216)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Monitorear el estado de materias primas {#cl-16083}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Monitorear el estado de materias primas {#cl-16216}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar monitorear el estado de materias primas a través de aplicar un criterio técnico con datos de ejemplo: Monitorear el estado de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 4 puntos de humedad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16082) · [Clase siguiente →](#cl-16084)
+[← Clase anterior](#cl-16215) · [Clase siguiente →](#cl-16217)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Monitorear el estado de materias primas {#cl-16084}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Monitorear el estado de materias primas {#cl-16217}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar monitorear el estado de materias primas a través de comparar alternativas y verificar la calidad: Monitorear el estado de materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 11 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16083) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-04.md#cl-16085)
+[← Clase anterior](#cl-16216) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-04.md#cl-16218)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

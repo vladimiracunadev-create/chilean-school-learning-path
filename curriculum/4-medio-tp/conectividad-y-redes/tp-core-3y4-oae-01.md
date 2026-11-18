@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15842) · [Clase 2](#cl-15843) · [Clase 3](#cl-15844) · [Clase 4](#cl-15845)
+**Clases de este OA:** [Clase 1](#cl-15975) · [Clase 2](#cl-15976) · [Clase 3](#cl-15977) · [Clase 4](#cl-15978)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15842}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15975}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar técnicamente proyectos de conectividad y redes a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar técnicamente proyectos de conectividad y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: El plano de planta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15843)
+[Clase siguiente →](#cl-15976)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15843}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15976}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar técnicamente proyectos de conectividad y redes a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar técnicamente proyectos de conectividad y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Internet
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15842) · [Clase siguiente →](#cl-15844)
+[← Clase anterior](#cl-15975) · [Clase siguiente →](#cl-15977)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15844}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15977}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar técnicamente proyectos de conectividad y redes a través de analizar un caso de trabajo en papel: Leer y utilizar técnicamente proyectos de conectividad y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: 11 puertos libres
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15843) · [Clase siguiente →](#cl-15845)
+[← Clase anterior](#cl-15976) · [Clase siguiente →](#cl-15978)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15845}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar técnicamente proyectos de conectividad y redes {#cl-15978}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar técnicamente proyectos de conectividad y redes a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar técnicamente proyectos de conectividad y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -877,7 +877,7 @@ Respuesta: No: no cumple el criterio
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15844) · [Primera clase del OA siguiente →](tp-core-3y4-oae-02.md#cl-15846)
+[← Clase anterior](#cl-15977) · [Primera clase del OA siguiente →](tp-core-3y4-oae-02.md#cl-15979)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

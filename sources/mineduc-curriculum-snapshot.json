@@ -28280,6 +28280,76 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Asistencia en Geología",
+      "subject_slug": "asistencia-en-geologia",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ASGE-3y4-OAE-01",
+          "description": "Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras geológicas, de acuerdo a las características del proyecto de prospección, aplicando normas de higiene, seguridad y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-02",
+          "description": "Transportar, instalar, armar y desarmar equipos, instrumentos y accesorios en terreno, necesarios para realizar la obtención de muestras geológicas, de acuerdo a las características del terreno, indicaciones de los fabricantes, normas de seguridad y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-03",
+          "description": "Leer levantamientos topográficos en terreno y faenas, visibilizando los puntos topográficos, ubicando con precisión los sitios y puntos donde deben desarrollarse las faenas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-04",
+          "description": "Aplicar técnicas de perforación, sondaje y movimientos de tierra para obtener muestras geológicas, utilizando maquinarias y equipos apropiados, de acuerdo a características del terreno y tipo de muestras, considerando las normas de seguridad y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-05",
+          "description": "Tomar, rotular, envasar y almacenar muestras geológicas, siguiendo los procedimientos e instructivos asociados, registrando y documentando la información del proceso de acuerdo a los requerimientos de organización del data room de cada empresa.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-06",
+          "description": "Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de estos, considerando su color, textura, dureza y otras características.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-07",
+          "description": "Confeccionar mapas de terreno o faenas en forma digital, para registrar y clasificar información topográfica de terreno y geológica, usando técnicas de dibujo de mapas, de acuerdo a requerimientos de información.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-08",
+          "description": "Leer, trasmitir y registrar información geológica desde puntos remotos, utilizando sistemas de posicionamiento global y tecnología de información y comunicación, de acuerdo a requerimientos de información.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Atención de Párvulos",
       "subject_slug": "atencion-de-parvulos",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -28952,6 +29022,76 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Explotación Minera",
+      "subject_slug": "explotacion-minera",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-EXMI-3y4-OAE-01",
+          "description": "Leer y utilizar planos y mapas de ubicación, de estructura de minas, de labores mineras, de tronaduras, e interpretar simbología asociada a instrucciones técnicas y de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-02",
+          "description": "Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a cielo abierto, empleando equipos y herramientas, aplicando técnicas y procedimientos relacionados con las estructuras geológicas y métodos de explotación de acuerdo al proyecto minero.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-03",
+          "description": "Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas subterráneas y a cielo abierto, empleando máquinas y herramientas de acuerdo a diagramas, instrucciones y procedimientos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-04",
+          "description": "Perforar rocas en forma manual y mecánica, y ejecutar actividades de almacenamiento, primado, transporte, carga y conexión de explosivos para el proceso de tronadura, de acuerdo a los diagramas e instrucciones técnicas de perforación, disparo y tronadura.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-05",
+          "description": "Aplicar el marco legal minero en las plantas de explotación, considerando las responsabilidades individuales, colectivas y empresariales respecto de la seguridad, prevención de riesgos, respeto al medio ambiente y propiedad minera.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-06",
+          "description": "Realizar toma de muestras de mineral en distintos puntos del proceso productivo, reconociendo, clasificando y rotulando las rocas y minerales, de acuerdo al plan de muestreo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-07",
+          "description": "Cubicar los minerales para el carguío, transporte, descarga y regulación del flujo del mineral, de acuerdo al esponjamiento del mineral y según los requerimientos de producción, procedimientos asociados y normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-08",
+          "description": "Ejecutar labores de chancado primario de minerales, empleando equipos con sistemas de control y automatización, cumpliendo con los estándares de calidad exigidos por la planta de beneficio y el proceso, de acuerdo a la normativa de seguridad y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Forestal",
       "subject_slug": "forestal",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -29333,6 +29473,69 @@
         {
           "code": "TP-MEIN-3-OAE-07",
           "description": "Aplicar los procedimientos establecidos y las normativas nacionales e internacionales de fabricación que correspondan al tipo de producto o faena en ejecución.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica de Mantenimiento de Aeronaves",
+      "subject_slug": "mecanica-de-mantenimiento-de-aeronaves",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEAE-3y4-OAE-01",
+          "description": "Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a reacción, de acuerdo a las indicaciones del manual de mantenimiento del fabricante y a las publicaciones técnicas aplicables, respetando las normas ambientales, de higiene, seguridad y actuación humana.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-02",
+          "description": "Realizar el mantenimiento de los sistemas de la aeronave, utilizando diagramas y esquemas técnicos, de acuerdo a lo establecido en los manuales del fabricante y publicaciones técnicas relacionadas, respetando las normas ambientales de higiene, seguridad y actuación humana.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-03",
+          "description": "Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave, empenaje, fuselaje, alas, tren de aterrizaje e interior de la aeronave, de acuerdo a las especificaciones de los manuales de mantenimiento estructurales del fabricante de la aeronave.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-04",
+          "description": "Realizar mantenimiento de los controles de vuelo de la aeronave, superficies primarias, secundarias y auxiliares, aplicando los principios de la aerodinámica y de acuerdo al manual de mantenimiento de la aeronave.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-05",
+          "description": "Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y utilización de la información técnica contenida en manuales y documentos técnicos en idioma inglés.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-06",
+          "description": "Inspeccionar en forma visual, considerando los diagramas establecidos en el manual de mantenimiento de la aeronave, e identificar con instrumentos fallas y discrepancias de los sistemas eléctricos y electrónicos, además de informar oportunamente para su reparación.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-07",
+          "description": "Registrar e informar las acciones del mantenimiento efectuado, de acuerdo a la normativa aeronáutica vigente.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -30597,6 +30800,76 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Asistencia en Geología",
+      "subject_slug": "asistencia-en-geologia",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ASGE-3y4-OAE-01",
+          "description": "Organizar, instalar y desarmar campamentos en terreno para la obtención de muestras geológicas, de acuerdo a las características del proyecto de prospección, aplicando normas de higiene, seguridad y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-02",
+          "description": "Transportar, instalar, armar y desarmar equipos, instrumentos y accesorios en terreno, necesarios para realizar la obtención de muestras geológicas, de acuerdo a las características del terreno, indicaciones de los fabricantes, normas de seguridad y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-03",
+          "description": "Leer levantamientos topográficos en terreno y faenas, visibilizando los puntos topográficos, ubicando con precisión los sitios y puntos donde deben desarrollarse las faenas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-04",
+          "description": "Aplicar técnicas de perforación, sondaje y movimientos de tierra para obtener muestras geológicas, utilizando maquinarias y equipos apropiados, de acuerdo a características del terreno y tipo de muestras, considerando las normas de seguridad y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-05",
+          "description": "Tomar, rotular, envasar y almacenar muestras geológicas, siguiendo los procedimientos e instructivos asociados, registrando y documentando la información del proceso de acuerdo a los requerimientos de organización del data room de cada empresa.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-06",
+          "description": "Distinguir macroscópicamente diferentes tipos de minerales para estimar la calidad de estos, considerando su color, textura, dureza y otras características.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-07",
+          "description": "Confeccionar mapas de terreno o faenas en forma digital, para registrar y clasificar información topográfica de terreno y geológica, usando técnicas de dibujo de mapas, de acuerdo a requerimientos de información.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ASGE-3y4-OAE-08",
+          "description": "Leer, trasmitir y registrar información geológica desde puntos remotos, utilizando sistemas de posicionamiento global y tecnología de información y comunicación, de acuerdo a requerimientos de información.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Atención de Párvulos",
       "subject_slug": "atencion-de-parvulos",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -31360,6 +31633,76 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Explotación Minera",
+      "subject_slug": "explotacion-minera",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-EXMI-3y4-OAE-01",
+          "description": "Leer y utilizar planos y mapas de ubicación, de estructura de minas, de labores mineras, de tronaduras, e interpretar simbología asociada a instrucciones técnicas y de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-02",
+          "description": "Instalar y realizar mantenimiento a elementos de fortificación en minas subterráneas y a cielo abierto, empleando equipos y herramientas, aplicando técnicas y procedimientos relacionados con las estructuras geológicas y métodos de explotación de acuerdo al proyecto minero.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-03",
+          "description": "Instalar equipos de ventilación secundaria en minas subterráneas y de drenaje en minas subterráneas y a cielo abierto, empleando máquinas y herramientas de acuerdo a diagramas, instrucciones y procedimientos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-04",
+          "description": "Perforar rocas en forma manual y mecánica, y ejecutar actividades de almacenamiento, primado, transporte, carga y conexión de explosivos para el proceso de tronadura, de acuerdo a los diagramas e instrucciones técnicas de perforación, disparo y tronadura.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-05",
+          "description": "Aplicar el marco legal minero en las plantas de explotación, considerando las responsabilidades individuales, colectivas y empresariales respecto de la seguridad, prevención de riesgos, respeto al medio ambiente y propiedad minera.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-06",
+          "description": "Realizar toma de muestras de mineral en distintos puntos del proceso productivo, reconociendo, clasificando y rotulando las rocas y minerales, de acuerdo al plan de muestreo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-07",
+          "description": "Cubicar los minerales para el carguío, transporte, descarga y regulación del flujo del mineral, de acuerdo al esponjamiento del mineral y según los requerimientos de producción, procedimientos asociados y normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-EXMI-3y4-OAE-08",
+          "description": "Ejecutar labores de chancado primario de minerales, empleando equipos con sistemas de control y automatización, cumpliendo con los estándares de calidad exigidos por la planta de beneficio y el proceso, de acuerdo a la normativa de seguridad y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Forestal",
       "subject_slug": "forestal",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -31889,6 +32232,69 @@
           "code": "TP-MEMH-4-OAM-05",
           "description": "Programar y utilizar centros de mecanizado para la fabricación de piezas y partes de conjuntos mecánicos, de acuerdo a las indicaciones del fabricante y las especificaciones técnicas.",
           "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Mecánica de Mantenimiento de Aeronaves",
+      "subject_slug": "mecanica-de-mantenimiento-de-aeronaves",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MEAE-3y4-OAE-01",
+          "description": "Desarmar, armar y probar las unidades y sistemas asociados de los motores recíprocos y a reacción, de acuerdo a las indicaciones del manual de mantenimiento del fabricante y a las publicaciones técnicas aplicables, respetando las normas ambientales, de higiene, seguridad y actuación humana.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-02",
+          "description": "Realizar el mantenimiento de los sistemas de la aeronave, utilizando diagramas y esquemas técnicos, de acuerdo a lo establecido en los manuales del fabricante y publicaciones técnicas relacionadas, respetando las normas ambientales de higiene, seguridad y actuación humana.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-03",
+          "description": "Inspeccionar y reparar los elementos estructurales internos y externos de la aeronave, empenaje, fuselaje, alas, tren de aterrizaje e interior de la aeronave, de acuerdo a las especificaciones de los manuales de mantenimiento estructurales del fabricante de la aeronave.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-04",
+          "description": "Realizar mantenimiento de los controles de vuelo de la aeronave, superficies primarias, secundarias y auxiliares, aplicando los principios de la aerodinámica y de acuerdo al manual de mantenimiento de la aeronave.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-05",
+          "description": "Llevar a cabo tareas de mantenimiento de aeronaves basándose en la comprensión y utilización de la información técnica contenida en manuales y documentos técnicos en idioma inglés.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-06",
+          "description": "Inspeccionar en forma visual, considerando los diagramas establecidos en el manual de mantenimiento de la aeronave, e identificar con instrumentos fallas y discrepancias de los sistemas eléctricos y electrónicos, además de informar oportunamente para su reparación.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MEAE-3y4-OAE-07",
+          "description": "Registrar e informar las acciones del mantenimiento efectuado, de acuerdo a la normativa aeronáutica vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
         }

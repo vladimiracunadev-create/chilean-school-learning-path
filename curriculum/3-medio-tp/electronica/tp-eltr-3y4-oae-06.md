@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14977) · [Clase 2](#cl-14978) · [Clase 3](#cl-14979) · [Clase 4](#cl-14980) · [Clase 5](#cl-14981)
+**Clases de este OA:** [Clase 1](#cl-15010) · [Clase 2](#cl-15011) · [Clase 3](#cl-15012) · [Clase 4](#cl-15013) · [Clase 5](#cl-15014)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-14977}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-15010}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar configurar el funcionamiento automático de sistemas y equipos electrónicos simples a través de situar el contexto laboral, la norma y el riesgo: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: El portón
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eltr-3y4-oae-05.md#cl-14976) · [Clase siguiente →](#cl-14978)
+[← Última clase del OA anterior](tp-eltr-3y4-oae-05.md#cl-15009) · [Clase siguiente →](#cl-15011)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-14978}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-15011}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar configurar el funcionamiento automático de sistemas y equipos electrónicos simples a través de reconocer conceptos, documentos y roles del oficio: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Sí, se enciende
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14977) · [Clase siguiente →](#cl-14979)
+[← Clase anterior](#cl-15010) · [Clase siguiente →](#cl-15012)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-14979}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-15012}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar configurar el funcionamiento automático de sistemas y equipos electrónicos simples a través de analizar un caso de trabajo en papel: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 120 litros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14978) · [Clase siguiente →](#cl-14980)
+[← Clase anterior](#cl-15011) · [Clase siguiente →](#cl-15013)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-14980}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-15013}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar configurar el funcionamiento automático de sistemas y equipos electrónicos simples a través de aplicar un criterio técnico con datos de ejemplo: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: A 19 °C
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14979) · [Clase siguiente →](#cl-14981)
+[← Clase anterior](#cl-15012) · [Clase siguiente →](#cl-15014)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-14981}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples {#cl-15014}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar configurar el funcionamiento automático de sistemas y equipos electrónicos simples a través de comparar alternativas y verificar la calidad: Configurar el funcionamiento automático de sistemas y equipos electrónicos simples, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14980) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-07.md#cl-14982)
+[← Clase anterior](#cl-15013) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-07.md#cl-15015)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

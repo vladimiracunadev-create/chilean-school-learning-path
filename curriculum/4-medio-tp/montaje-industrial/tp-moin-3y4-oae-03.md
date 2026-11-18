@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16436) · [Clase 2](#cl-16437) · [Clase 3](#cl-16438) · [Clase 4](#cl-16439) · [Clase 5](#cl-16440)
+**Clases de este OA:** [Clase 1](#cl-16636) · [Clase 2](#cl-16637) · [Clase 3](#cl-16638) · [Clase 4](#cl-16639) · [Clase 5](#cl-16640)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16436}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16636}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar el área para las maniobras y la instalación del montaje de estructuras metálicas a través de situar el contexto laboral, la norma y el riesgo: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Azul
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-02.md#cl-16435) · [Clase siguiente →](#cl-16437)
+[← Última clase del OA anterior](tp-moin-3y4-oae-02.md#cl-16635) · [Clase siguiente →](#cl-16637)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16437}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16637}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar el área para las maniobras y la instalación del montaje de estructuras metálicas a través de reconocer conceptos, documentos y roles del oficio: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: −200 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16436) · [Clase siguiente →](#cl-16438)
+[← Clase anterior](#cl-16636) · [Clase siguiente →](#cl-16638)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16438}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16638}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar el área para las maniobras y la instalación del montaje de estructuras metálicas a través de analizar un caso de trabajo en papel: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 42 m²
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16437) · [Clase siguiente →](#cl-16439)
+[← Clase anterior](#cl-16637) · [Clase siguiente →](#cl-16639)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16439}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16639}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar el área para las maniobras y la instalación del montaje de estructuras metálicas a través de aplicar un criterio técnico con datos de ejemplo: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: No cumple; se pasa 3 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16438) · [Clase siguiente →](#cl-16440)
+[← Clase anterior](#cl-16638) · [Clase siguiente →](#cl-16640)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16440}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas {#cl-16640}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar el área para las maniobras y la instalación del montaje de estructuras metálicas a través de comparar alternativas y verificar la calidad: Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Z
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16439) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-04.md#cl-16441)
+[← Clase anterior](#cl-16639) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-04.md#cl-16641)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

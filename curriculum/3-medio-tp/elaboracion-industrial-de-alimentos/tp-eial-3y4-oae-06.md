@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14909) · [Clase 2](#cl-14910) · [Clase 3](#cl-14911) · [Clase 4](#cl-14912)
+**Clases de este OA:** [Clase 1](#cl-14942) · [Clase 2](#cl-14943) · [Clase 3](#cl-14944) · [Clase 4](#cl-14945)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar y registrar variables de los procesos productivos {#cl-14909}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar y registrar variables de los procesos productivos {#cl-14942}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar y registrar variables de los procesos productivos a través de situar el contexto laboral, la norma y el riesgo: Controlar y registrar variables de los procesos productivos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Lo apoyan: son su base
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eial-3y4-oae-05.md#cl-14908) · [Clase siguiente →](#cl-14910)
+[← Última clase del OA anterior](tp-eial-3y4-oae-05.md#cl-14941) · [Clase siguiente →](#cl-14943)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar y registrar variables de los procesos productivos {#cl-14910}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar y registrar variables de los procesos productivos {#cl-14943}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar y registrar variables de los procesos productivos a través de reconocer conceptos, documentos y roles del oficio: Controlar y registrar variables de los procesos productivos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: El operador monitorea y el jefe de calidad verifica
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14909) · [Clase siguiente →](#cl-14911)
+[← Clase anterior](#cl-14942) · [Clase siguiente →](#cl-14944)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar y registrar variables de los procesos productivos {#cl-14911}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar y registrar variables de los procesos productivos {#cl-14944}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar y registrar variables de los procesos productivos a través de analizar un caso de trabajo en papel: Controlar y registrar variables de los procesos productivos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: El lote de 39 u.e.
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14910) · [Clase siguiente →](#cl-14912)
+[← Clase anterior](#cl-14943) · [Clase siguiente →](#cl-14945)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar y registrar variables de los procesos productivos {#cl-14912}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar y registrar variables de los procesos productivos {#cl-14945}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar y registrar variables de los procesos productivos a través de aplicar un criterio técnico con datos de ejemplo: Controlar y registrar variables de los procesos productivos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Hacia atrás
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14911) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-07.md#cl-14913)
+[← Clase anterior](#cl-14944) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-07.md#cl-14946)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

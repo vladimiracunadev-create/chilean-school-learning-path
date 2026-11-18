@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16619) · [Clase 2](#cl-16620) · [Clase 3](#cl-16621) · [Clase 4](#cl-16622) · [Clase 5](#cl-16623)
+**Clases de este OA:** [Clase 1](#cl-16819) · [Clase 2](#cl-16820) · [Clase 3](#cl-16821) · [Clase 4](#cl-16822) · [Clase 5](#cl-16823)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16619}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16819}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, mantener y reparar los implementos y utensilios para la faena extractiva a través de situar el contexto laboral, la norma y el riesgo: Armar, mantener y reparar los implementos y utensilios para la faena extractiva, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Mantención preventiva
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-pesq-3y4-oae-05.md#cl-16618) · [Clase siguiente →](#cl-16620)
+[← Última clase del OA anterior](tp-pesq-3y4-oae-05.md#cl-16818) · [Clase siguiente →](#cl-16820)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16620}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16820}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, mantener y reparar los implementos y utensilios para la faena extractiva a través de reconocer conceptos, documentos y roles del oficio: Armar, mantener y reparar los implementos y utensilios para la faena extractiva, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Reponer: está bajo el mínimo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16619) · [Clase siguiente →](#cl-16621)
+[← Clase anterior](#cl-16819) · [Clase siguiente →](#cl-16821)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16621}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16821}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, mantener y reparar los implementos y utensilios para la faena extractiva a través de analizar un caso de trabajo en papel: Armar, mantener y reparar los implementos y utensilios para la faena extractiva, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Tendencia creciente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16620) · [Clase siguiente →](#cl-16622)
+[← Clase anterior](#cl-16820) · [Clase siguiente →](#cl-16822)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16622}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16822}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, mantener y reparar los implementos y utensilios para la faena extractiva a través de aplicar un criterio técnico con datos de ejemplo: Armar, mantener y reparar los implementos y utensilios para la faena extractiva, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: 3 revisiones por año
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16621) · [Clase siguiente →](#cl-16623)
+[← Clase anterior](#cl-16821) · [Clase siguiente →](#cl-16823)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16623}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Armar, mantener y reparar los implementos y utensilios para la faena extractiva {#cl-16823}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar, mantener y reparar los implementos y utensilios para la faena extractiva a través de comparar alternativas y verificar la calidad: Armar, mantener y reparar los implementos y utensilios para la faena extractiva, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: Retirarlo de uso y que decida personal autorizado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16622) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-07.md#cl-16624)
+[← Clase anterior](#cl-16822) · [Primera clase del OA siguiente →](tp-pesq-3y4-oae-07.md#cl-16824)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

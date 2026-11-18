@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16557) · [Clase 2](#cl-16558) · [Clase 3](#cl-16559) · [Clase 4](#cl-16560)
+**Clases de este OA:** [Clase 1](#cl-16757) · [Clase 2](#cl-16758) · [Clase 3](#cl-16759) · [Clase 4](#cl-16760)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16557}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16757}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo a través de situar el contexto laboral, la norma y el riesgo: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: $1.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-11.md#cl-16556) · [Clase siguiente →](#cl-16558)
+[← Última clase del OA anterior](tp-gene-3y4-oag-11.md#cl-16756) · [Clase siguiente →](#cl-16758)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16558}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16758}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo a través de reconocer conceptos, documentos y roles del oficio: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: $350.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16557) · [Clase siguiente →](#cl-16559)
+[← Clase anterior](#cl-16757) · [Clase siguiente →](#cl-16759)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16559}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16759}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo a través de analizar un caso de trabajo en papel: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo, con una experiencia disciplinar específica, segura y revisable.
@@ -670,9 +670,9 @@ Respuesta: $330.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16558) · [Clase siguiente →](#cl-16560)
+[← Clase anterior](#cl-16758) · [Clase siguiente →](#cl-16760)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16560}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo {#cl-16760}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo a través de aplicar un criterio técnico con datos de ejemplo: Tomar decisiones financieras bien informadas y con proyección a mediano y largo plazo, con una experiencia disciplinar específica, segura y revisable.
@@ -879,7 +879,7 @@ Respuesta: Promete ganancias muy altas y seguras en poco tiempo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16559)
+[← Clase anterior](#cl-16759)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

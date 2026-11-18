@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16323) · [Clase 2](#cl-16324) · [Clase 3](#cl-16325) · [Clase 4](#cl-16326) · [Clase 5](#cl-16327)
+**Clases de este OA:** [Clase 1](#cl-16491) · [Clase 2](#cl-16492) · [Clase 3](#cl-16493) · [Clase 4](#cl-16494) · [Clase 5](#cl-16495)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16323}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16491}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico a través de situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16324)
+[Clase siguiente →](#cl-16492)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16324}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16492}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico a través de reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: $50.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16323) · [Clase siguiente →](#cl-16325)
+[← Clase anterior](#cl-16491) · [Clase siguiente →](#cl-16493)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16325}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16493}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico a través de analizar un caso de trabajo en papel: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Faltan 1 V
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16324) · [Clase siguiente →](#cl-16326)
+[← Clase anterior](#cl-16492) · [Clase siguiente →](#cl-16494)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16326}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16494}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico a través de aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico, con una experiencia disciplinar específica, segura y revisable.
@@ -876,9 +876,9 @@ Respuesta: En duda, para repetirla
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16325) · [Clase siguiente →](#cl-16327)
+[← Clase anterior](#cl-16493) · [Clase siguiente →](#cl-16495)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16327}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico {#cl-16495}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico a través de comparar alternativas y verificar la calidad: Inspeccionar y diagnosticar averías y fallas en el funcionamiento mecánico, con una experiencia disciplinar específica, segura y revisable.
@@ -1083,7 +1083,7 @@ Respuesta: No, hasta cumplir el punto pendiente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16326) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-02.md#cl-16328)
+[← Clase anterior](#cl-16494) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-02.md#cl-16496)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

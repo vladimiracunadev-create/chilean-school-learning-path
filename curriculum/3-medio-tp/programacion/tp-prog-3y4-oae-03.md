@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15388) · [Clase 2](#cl-15389) · [Clase 3](#cl-15390) · [Clase 4](#cl-15391)
+**Clases de este OA:** [Clase 1](#cl-15488) · [Clase 2](#cl-15489) · [Clase 3](#cl-15490) · [Clase 4](#cl-15491)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15388}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15488}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de situar el contexto laboral, la norma y el riesgo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 2 registros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-02.md#cl-15387) · [Clase siguiente →](#cl-15389)
+[← Última clase del OA anterior](tp-prog-3y4-oae-02.md#cl-15487) · [Clase siguiente →](#cl-15489)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15389}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15489}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de reconocer conceptos, documentos y roles del oficio: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Se rompe la integridad: el pedido queda sin cliente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15388) · [Clase siguiente →](#cl-15390)
+[← Clase anterior](#cl-15488) · [Clase siguiente →](#cl-15490)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15390}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15490}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de analizar un caso de trabajo en papel: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: [3, 8]
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15389) · [Clase siguiente →](#cl-15391)
+[← Clase anterior](#cl-15489) · [Clase siguiente →](#cl-15491)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15391}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de {#cl-15491}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de a través de aplicar un criterio técnico con datos de ejemplo: Desarrollar aplicaciones y rutinas para el mantenimiento y la actualización de bases de, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: Se deja de usar y se elimina según la norma
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15390) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-04.md#cl-15392)
+[← Clase anterior](#cl-15490) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-04.md#cl-15492)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

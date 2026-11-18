@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15754) · [Clase 2](#cl-15755) · [Clase 3](#cl-15756) · [Clase 4](#cl-15757) · [Clase 5](#cl-15758)
+**Clases de este OA:** [Clase 1](#cl-15854) · [Clase 2](#cl-15855) · [Clase 3](#cl-15856) · [Clase 4](#cl-15857) · [Clase 5](#cl-15858)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de reproducción animal {#cl-15754}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de reproducción animal {#cl-15854}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de reproducción animal a través de situar el contexto laboral, la norma y el riesgo: Aplicar técnicas de reproducción animal, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agpe-4-oam-02.md#cl-15753) · [Clase siguiente →](#cl-15755)
+[← Última clase del OA anterior](tp-agpe-4-oam-02.md#cl-15853) · [Clase siguiente →](#cl-15855)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de reproducción animal {#cl-15755}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de reproducción animal {#cl-15855}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de reproducción animal a través de reconocer conceptos, documentos y roles del oficio: Aplicar técnicas de reproducción animal, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: El día 230
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15754) · [Clase siguiente →](#cl-15756)
+[← Clase anterior](#cl-15854) · [Clase siguiente →](#cl-15856)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de reproducción animal {#cl-15756}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas de reproducción animal {#cl-15856}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de reproducción animal a través de analizar un caso de trabajo en papel: Aplicar técnicas de reproducción animal, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 15 puntos porcentuales
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15755) · [Clase siguiente →](#cl-15757)
+[← Clase anterior](#cl-15855) · [Clase siguiente →](#cl-15857)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de reproducción animal {#cl-15757}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de reproducción animal {#cl-15857}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de reproducción animal a través de aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas de reproducción animal, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: $1.400.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15756) · [Clase siguiente →](#cl-15758)
+[← Clase anterior](#cl-15856) · [Clase siguiente →](#cl-15858)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de reproducción animal {#cl-15758}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas de reproducción animal {#cl-15858}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas de reproducción animal a través de comparar alternativas y verificar la calidad: Aplicar técnicas de reproducción animal, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15757) · [Primera clase del OA siguiente →](tp-agpe-4-oam-04.md#cl-15759)
+[← Clase anterior](#cl-15857) · [Primera clase del OA siguiente →](tp-agpe-4-oam-04.md#cl-15859)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

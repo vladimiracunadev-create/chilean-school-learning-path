@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 12509 de 12.745 clases desarrolladas tienen cuaderno del estudiante (98,1 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 12709 de 12.945 clases desarrolladas tienen cuaderno del estudiante (98,2 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -26,8 +26,8 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio | 466 | 466 | 0 | completo | 0 | 7.923 | 932 | pendiente |
 | 3.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 | 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
-| 3.º medio TP | 1.095 | 1.095 | 0 | completo | 0 | 18.615 | 2.190 | pendiente |
-| 4.º medio TP | 1.249 | 1.249 | 0 | completo | 0 | 21.233 | 2.498 | pendiente |
+| 3.º medio TP | 1.195 | 1.195 | 0 | completo | 0 | 20.315 | 2.390 | pendiente |
+| 4.º medio TP | 1.349 | 1.349 | 0 | completo | 0 | 22.933 | 2.698 | pendiente |
 
 ## Objetivos con cuaderno
 
@@ -2200,6 +2200,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-04 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-05 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | agropecuaria-mencion-vitivinicola | TP-AGVI-4-OAM-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-02 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-02 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | asistencia-en-geologia | TP-ASGE-3y4-OAE-08 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-01 | 6 | 6 | 102 | 12 |
 | 4.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-01 | 6 | 6 | 102 | 12 |
 | 3.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-02 | 4 | 4 | 68 | 8 |
@@ -2365,6 +2381,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | electronica | TP-ELTR-3y4-OAE-06 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | electronica | TP-ELTR-3y4-OAE-07 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | electronica | TP-ELTR-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-01 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-01 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-02 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-02 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-08 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | explotacion-minera | TP-EXMI-3y4-OAE-08 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | forestal | TP-FORE-3y4-OAE-01 | 6 | 6 | 102 | 12 |
 | 4.º medio TP | forestal | TP-FORE-3y4-OAE-01 | 6 | 6 | 102 | 12 |
 | 3.º medio TP | forestal | TP-FORE-3y4-OAE-02 | 4 | 4 | 68 | 8 |
@@ -2453,6 +2485,20 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-07 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-01 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-01 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-02 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-02 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-03 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-03 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-06 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-06 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | mecanica-de-mantenimiento-de-aeronaves | TP-MEAE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-01 | 5 | 5 | 85 | 10 |
 | 4.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-01 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | mecanica-automotriz | TP-MEAU-3y4-OAE-02 | 4 | 4 | 68 | 8 |
@@ -2692,6 +2738,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1729 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1738 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

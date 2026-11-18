@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14930) · [Clase 2](#cl-14931) · [Clase 3](#cl-14932) · [Clase 4](#cl-14933) · [Clase 5](#cl-14934)
+**Clases de este OA:** [Clase 1](#cl-14963) · [Clase 2](#cl-14964) · [Clase 3](#cl-14965) · [Clase 4](#cl-14966) · [Clase 5](#cl-14967)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14930}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14963}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kw de potencia a través de situar el contexto laboral, la norma y el riesgo: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 4,5 kW
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-elec-3y4-oae-02.md#cl-14929) · [Clase siguiente →](#cl-14931)
+[← Última clase del OA anterior](tp-elec-3y4-oae-02.md#cl-14962) · [Clase siguiente →](#cl-14964)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14931}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14964}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kw de potencia a través de reconocer conceptos, documentos y roles del oficio: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 730 W
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14930) · [Clase siguiente →](#cl-14932)
+[← Clase anterior](#cl-14963) · [Clase siguiente →](#cl-14965)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14932}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14965}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kw de potencia a través de analizar un caso de trabajo en papel: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Cumple, con 1 A de margen
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14931) · [Clase siguiente →](#cl-14933)
+[← Clase anterior](#cl-14964) · [Clase siguiente →](#cl-14966)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14933}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14966}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kw de potencia a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 3 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14932) · [Clase siguiente →](#cl-14934)
+[← Clase anterior](#cl-14965) · [Clase siguiente →](#cl-14967)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14934}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia {#cl-14967}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kw de potencia a través de comparar alternativas y verificar la calidad: Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: $960
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14933) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-04.md#cl-14935)
+[← Clase anterior](#cl-14966) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-04.md#cl-14968)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16428) · [Clase 2](#cl-16429) · [Clase 3](#cl-16430) · [Clase 4](#cl-16431)
+**Clases de este OA:** [Clase 1](#cl-16628) · [Clase 2](#cl-16629) · [Clase 3](#cl-16630) · [Clase 4](#cl-16631)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16428}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16628}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Sustitución
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16429)
+[Clase siguiente →](#cl-16629)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16429}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16629}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: 8 vigas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16428) · [Clase siguiente →](#cl-16430)
+[← Clase anterior](#cl-16628) · [Clase siguiente →](#cl-16630)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16430}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16630}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de analizar un caso de trabajo en papel: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -671,9 +671,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16429) · [Clase siguiente →](#cl-16431)
+[← Clase anterior](#cl-16629) · [Clase siguiente →](#cl-16631)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16431}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos técnicos de montaje industrial y sus componentes {#cl-16631}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar planos técnicos de montaje industrial y sus componentes a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar planos técnicos de montaje industrial y sus componentes, con una experiencia disciplinar específica, segura y revisable.
@@ -879,7 +879,7 @@ Respuesta: 6 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16430) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-02.md#cl-16432)
+[← Clase anterior](#cl-16630) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-02.md#cl-16632)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

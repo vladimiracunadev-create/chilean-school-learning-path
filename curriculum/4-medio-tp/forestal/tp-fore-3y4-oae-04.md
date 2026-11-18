@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16185) · [Clase 2](#cl-16186) · [Clase 3](#cl-16187) · [Clase 4](#cl-16188)
+**Clases de este OA:** [Clase 1](#cl-16353) · [Clase 2](#cl-16354) · [Clase 3](#cl-16355) · [Clase 4](#cl-16356)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Intervenir un rodal, según plan de manejo {#cl-16185}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Intervenir un rodal, según plan de manejo {#cl-16353}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar intervenir un rodal, según plan de manejo a través de situar el contexto laboral, la norma y el riesgo: Intervenir un rodal, según plan de manejo, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 25 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-fore-3y4-oae-03.md#cl-16184) · [Clase siguiente →](#cl-16186)
+[← Última clase del OA anterior](tp-fore-3y4-oae-03.md#cl-16352) · [Clase siguiente →](#cl-16354)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Intervenir un rodal, según plan de manejo {#cl-16186}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Intervenir un rodal, según plan de manejo {#cl-16354}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar intervenir un rodal, según plan de manejo a través de reconocer conceptos, documentos y roles del oficio: Intervenir un rodal, según plan de manejo, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 550 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16185) · [Clase siguiente →](#cl-16187)
+[← Clase anterior](#cl-16353) · [Clase siguiente →](#cl-16355)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Intervenir un rodal, según plan de manejo {#cl-16187}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Intervenir un rodal, según plan de manejo {#cl-16355}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar intervenir un rodal, según plan de manejo a través de analizar un caso de trabajo en papel: Intervenir un rodal, según plan de manejo, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 4 viajes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16186) · [Clase siguiente →](#cl-16188)
+[← Clase anterior](#cl-16354) · [Clase siguiente →](#cl-16356)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Intervenir un rodal, según plan de manejo {#cl-16188}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Intervenir un rodal, según plan de manejo {#cl-16356}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar intervenir un rodal, según plan de manejo a través de aplicar un criterio técnico con datos de ejemplo: Intervenir un rodal, según plan de manejo, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: 95 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16187) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-05.md#cl-16189)
+[← Clase anterior](#cl-16355) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-05.md#cl-16357)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

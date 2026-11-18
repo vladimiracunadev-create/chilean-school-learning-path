@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16747) · [Clase 2](#cl-16748) · [Clase 3](#cl-16749) · [Clase 4](#cl-16750)
+**Clases de este OA:** [Clase 1](#cl-16947) · [Clase 2](#cl-16948) · [Clase 3](#cl-16949) · [Clase 4](#cl-16950)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicarse en inglés básico con los turistas {#cl-16747}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicarse en inglés básico con los turistas {#cl-16947}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en inglés básico con los turistas a través de situar el contexto laboral, la norma y el riesgo: Comunicarse en inglés básico con los turistas, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: «May I help you?»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-seho-3y4-oae-08.md#cl-16746) · [Clase siguiente →](#cl-16748)
+[← Última clase del OA anterior](tp-seho-3y4-oae-08.md#cl-16946) · [Clase siguiente →](#cl-16948)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicarse en inglés básico con los turistas {#cl-16748}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicarse en inglés básico con los turistas {#cl-16948}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en inglés básico con los turistas a través de reconocer conceptos, documentos y roles del oficio: Comunicarse en inglés básico con los turistas, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 20.000 pesos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16747) · [Clase siguiente →](#cl-16749)
+[← Clase anterior](#cl-16947) · [Clase siguiente →](#cl-16949)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicarse en inglés básico con los turistas {#cl-16749}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicarse en inglés básico con los turistas {#cl-16949}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en inglés básico con los turistas a través de analizar un caso de trabajo en papel: Comunicarse en inglés básico con los turistas, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: A la derecha
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16748) · [Clase siguiente →](#cl-16750)
+[← Clase anterior](#cl-16948) · [Clase siguiente →](#cl-16950)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicarse en inglés básico con los turistas {#cl-16750}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicarse en inglés básico con los turistas {#cl-16950}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicarse en inglés básico con los turistas a través de aplicar un criterio técnico con datos de ejemplo: Comunicarse en inglés básico con los turistas, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: «The towel is one thousand pesos»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16749)
+[← Clase anterior](#cl-16949)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

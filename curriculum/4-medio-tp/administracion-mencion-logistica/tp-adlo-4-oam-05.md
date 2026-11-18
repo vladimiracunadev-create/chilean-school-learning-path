@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15705) · [Clase 2](#cl-15706) · [Clase 3](#cl-15707) · [Clase 4](#cl-15708)
+**Clases de este OA:** [Clase 1](#cl-15805) · [Clase 2](#cl-15806) · [Clase 3](#cl-15807) · [Clase 4](#cl-15808)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Prevenir riesgos de accidentes laborales {#cl-15705}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Prevenir riesgos de accidentes laborales {#cl-15805}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir riesgos de accidentes laborales a través de situar el contexto laboral, la norma y el riesgo: Prevenir riesgos de accidentes laborales, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 43 (caso de ejemplo, inventado) de la zona de andén de carga de «Distrib
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-adlo-4-oam-04.md#cl-15704) · [Clase siguiente →](#cl-15706)
+[← Última clase del OA anterior](tp-adlo-4-oam-04.md#cl-15804) · [Clase siguiente →](#cl-15806)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Prevenir riesgos de accidentes laborales {#cl-15706}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Prevenir riesgos de accidentes laborales {#cl-15806}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir riesgos de accidentes laborales a través de reconocer conceptos, documentos y roles del oficio: Prevenir riesgos de accidentes laborales, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 44 (conceptos de ejemplo, inventados) de «Distribuidora Andes del Sur». 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15705) · [Clase siguiente →](#cl-15707)
+[← Clase anterior](#cl-15805) · [Clase siguiente →](#cl-15807)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Prevenir riesgos de accidentes laborales {#cl-15707}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Prevenir riesgos de accidentes laborales {#cl-15807}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir riesgos de accidentes laborales a través de analizar un caso de trabajo en papel: Prevenir riesgos de accidentes laborales, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 45 (caso de ejemplo, inventado) de una inspección en papel de la zona de 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15706) · [Clase siguiente →](#cl-15708)
+[← Clase anterior](#cl-15806) · [Clase siguiente →](#cl-15808)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Prevenir riesgos de accidentes laborales {#cl-15708}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Prevenir riesgos de accidentes laborales {#cl-15808}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar prevenir riesgos de accidentes laborales a través de aplicar un criterio técnico con datos de ejemplo: Prevenir riesgos de accidentes laborales, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 46 (datos de ejemplo, inventados) de «Distribuidora Andes del Sur». Pict
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15707)
+[← Clase anterior](#cl-15807)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

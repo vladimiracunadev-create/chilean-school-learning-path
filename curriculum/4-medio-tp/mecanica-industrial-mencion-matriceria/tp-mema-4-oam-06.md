@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16402) · [Clase 2](#cl-16403) · [Clase 3](#cl-16404) · [Clase 4](#cl-16405)
+**Clases de este OA:** [Clase 1](#cl-16570) · [Clase 2](#cl-16571) · [Clase 3](#cl-16572) · [Clase 4](#cl-16573)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Manipular residuos y desechos de las matrices y moldes {#cl-16402}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Manipular residuos y desechos de las matrices y moldes {#cl-16570}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos de las matrices y moldes a través de situar el contexto laboral, la norma y el riesgo: Manipular residuos y desechos de las matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No corresponde
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mema-4-oam-05.md#cl-16401) · [Clase siguiente →](#cl-16403)
+[← Última clase del OA anterior](tp-mema-4-oam-05.md#cl-16569) · [Clase siguiente →](#cl-16571)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Manipular residuos y desechos de las matrices y moldes {#cl-16403}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Manipular residuos y desechos de las matrices y moldes {#cl-16571}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos de las matrices y moldes a través de reconocer conceptos, documentos y roles del oficio: Manipular residuos y desechos de las matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: La fecha y la firma
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16402) · [Clase siguiente →](#cl-16404)
+[← Clase anterior](#cl-16570) · [Clase siguiente →](#cl-16572)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Manipular residuos y desechos de las matrices y moldes {#cl-16404}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Manipular residuos y desechos de las matrices y moldes {#cl-16572}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos de las matrices y moldes a través de analizar un caso de trabajo en papel: Manipular residuos y desechos de las matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Mala segregación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16403) · [Clase siguiente →](#cl-16405)
+[← Clase anterior](#cl-16571) · [Clase siguiente →](#cl-16573)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Manipular residuos y desechos de las matrices y moldes {#cl-16405}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Manipular residuos y desechos de las matrices y moldes {#cl-16573}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manipular residuos y desechos de las matrices y moldes a través de aplicar un criterio técnico con datos de ejemplo: Manipular residuos y desechos de las matrices y moldes, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 3 meses
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16404)
+[← Clase anterior](#cl-16572)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

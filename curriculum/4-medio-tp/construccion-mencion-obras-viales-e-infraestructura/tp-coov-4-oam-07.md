@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15972) · [Clase 2](#cl-15973) · [Clase 3](#cl-15974) · [Clase 4](#cl-15975) · [Clase 5](#cl-15976)
+**Clases de este OA:** [Clase 1](#cl-16105) · [Clase 2](#cl-16106) · [Clase 3](#cl-16107) · [Clase 4](#cl-16108) · [Clase 5](#cl-16109)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-15972}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-16105}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de a través de situar el contexto laboral, la norma y el riesgo: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de, con una experiencia disciplinar específica, segura y revisable.
@@ -254,9 +254,9 @@ Respuesta: 5 días
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-coov-4-oam-06.md#cl-15971) · [Clase siguiente →](#cl-15973)
+[← Última clase del OA anterior](tp-coov-4-oam-06.md#cl-16104) · [Clase siguiente →](#cl-16106)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-15973}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-16106}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de a través de reconocer conceptos, documentos y roles del oficio: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Respuesta: 3 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15972) · [Clase siguiente →](#cl-15974)
+[← Clase anterior](#cl-16105) · [Clase siguiente →](#cl-16107)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-15974}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-16107}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de a través de analizar un caso de trabajo en papel: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de, con una experiencia disciplinar específica, segura y revisable.
@@ -670,9 +670,9 @@ Respuesta: Sí, se informa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15973) · [Clase siguiente →](#cl-15975)
+[← Clase anterior](#cl-16106) · [Clase siguiente →](#cl-16108)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-15975}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-16108}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de, con una experiencia disciplinar específica, segura y revisable.
@@ -878,9 +878,9 @@ Respuesta: 3 muestras
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15974) · [Clase siguiente →](#cl-15976)
+[← Clase anterior](#cl-16107) · [Clase siguiente →](#cl-16109)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-15976}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de {#cl-16109}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de a través de comparar alternativas y verificar la calidad: Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de, con una experiencia disciplinar específica, segura y revisable.
@@ -1086,7 +1086,7 @@ Respuesta: No, falta quién inspeccionó
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15975)
+[← Clase anterior](#cl-16108)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

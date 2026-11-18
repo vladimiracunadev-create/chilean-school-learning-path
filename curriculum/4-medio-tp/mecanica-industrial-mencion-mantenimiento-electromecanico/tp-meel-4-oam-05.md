@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16376) · [Clase 2](#cl-16377) · [Clase 3](#cl-16378) · [Clase 4](#cl-16379) · [Clase 5](#cl-16380)
+**Clases de este OA:** [Clase 1](#cl-16544) · [Clase 2](#cl-16545) · [Clase 3](#cl-16546) · [Clase 4](#cl-16547) · [Clase 5](#cl-16548)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Poner en funcionamiento equipos {#cl-16376}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Poner en funcionamiento equipos {#cl-16544}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento equipos a través de situar el contexto laboral, la norma y el riesgo: Poner en funcionamiento equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: Supervisor de seguridad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meel-4-oam-04.md#cl-16375) · [Clase siguiente →](#cl-16377)
+[← Última clase del OA anterior](tp-meel-4-oam-04.md#cl-16543) · [Clase siguiente →](#cl-16545)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Poner en funcionamiento equipos {#cl-16377}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Poner en funcionamiento equipos {#cl-16545}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento equipos a través de reconocer conceptos, documentos y roles del oficio: Poner en funcionamiento equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16376) · [Clase siguiente →](#cl-16378)
+[← Clase anterior](#cl-16544) · [Clase siguiente →](#cl-16546)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Poner en funcionamiento equipos {#cl-16378}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Poner en funcionamiento equipos {#cl-16546}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento equipos a través de analizar un caso de trabajo en papel: Poner en funcionamiento equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: No, se repite con un instrumento calibrado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16377) · [Clase siguiente →](#cl-16379)
+[← Clase anterior](#cl-16545) · [Clase siguiente →](#cl-16547)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Poner en funcionamiento equipos {#cl-16379}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Poner en funcionamiento equipos {#cl-16547}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento equipos a través de aplicar un criterio técnico con datos de ejemplo: Poner en funcionamiento equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -871,9 +871,9 @@ Respuesta: 30
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16378) · [Clase siguiente →](#cl-16380)
+[← Clase anterior](#cl-16546) · [Clase siguiente →](#cl-16548)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Poner en funcionamiento equipos {#cl-16380}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Poner en funcionamiento equipos {#cl-16548}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar poner en funcionamiento equipos a través de comparar alternativas y verificar la calidad: Poner en funcionamiento equipos, con una experiencia disciplinar específica, segura y revisable.
@@ -1078,7 +1078,7 @@ Respuesta: Primero el instrumento con certificado vencido
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16379)
+[← Clase anterior](#cl-16547)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

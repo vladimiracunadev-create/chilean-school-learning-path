@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16471) · [Clase 2](#cl-16472) · [Clase 3](#cl-16473) · [Clase 4](#cl-16474)
+**Clases de este OA:** [Clase 1](#cl-16671) · [Clase 2](#cl-16672) · [Clase 3](#cl-16673) · [Clase 4](#cl-16674)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Medir y acopiar insumos de madera natural {#cl-16471}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Medir y acopiar insumos de madera natural {#cl-16671}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y acopiar insumos de madera natural a través de situar el contexto laboral, la norma y el riesgo: Medir y acopiar insumos de madera natural, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 7 paquetes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16472)
+[Clase siguiente →](#cl-16672)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Medir y acopiar insumos de madera natural {#cl-16472}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Medir y acopiar insumos de madera natural {#cl-16672}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y acopiar insumos de madera natural a través de reconocer conceptos, documentos y roles del oficio: Medir y acopiar insumos de madera natural, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No, se separa y se avisa al responsable de calidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16471) · [Clase siguiente →](#cl-16473)
+[← Clase anterior](#cl-16671) · [Clase siguiente →](#cl-16673)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Medir y acopiar insumos de madera natural {#cl-16473}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Medir y acopiar insumos de madera natural {#cl-16673}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y acopiar insumos de madera natural a través de analizar un caso de trabajo en papel: Medir y acopiar insumos de madera natural, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 1 medición
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16472) · [Clase siguiente →](#cl-16474)
+[← Clase anterior](#cl-16672) · [Clase siguiente →](#cl-16674)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Medir y acopiar insumos de madera natural {#cl-16474}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Medir y acopiar insumos de madera natural {#cl-16674}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar medir y acopiar insumos de madera natural a través de aplicar un criterio técnico con datos de ejemplo: Medir y acopiar insumos de madera natural, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: $170.000 por m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16473) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-02.md#cl-16475)
+[← Clase anterior](#cl-16673) · [Primera clase del OA siguiente →](tp-mutm-3y4-oae-02.md#cl-16675)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

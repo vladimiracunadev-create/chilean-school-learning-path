@@ -5,6 +5,14 @@
   "updates": [
     {
       "date": "2026-11-17",
+      "title": "Fase B (lote): Mecánica de Mantenimiento de Aeronaves, Asistencia en Geología y Explotación Minera",
+      "summary": [
+        "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 17.101 registros (12.945 clases y 4.156 integradas) y 3.740 OA. Total TP publicado: 2.544 clases en 32 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
+        "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
+      ]
+    },
+    {
+      "date": "2026-11-17",
       "title": "Fase B (lote): Construcciones Metálicas y Mecánica Automotriz",
       "summary": [
         "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 16.901 registros (12.745 clases y 4.156 integradas) y 3.694 OA. Total TP publicado: 2.344 clases en 29 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
@@ -16,14 +24,6 @@
       "title": "Fase B (lote): Agropecuaria (con menciones Agricultura, Pecuaria y Vitivinícola) y Mecánica Industrial (con menciones Mantenimiento Electromecánico, Máquinas-Herramientas y Matricería)",
       "summary": [
         "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 16.755 registros (12.599 clases y 4.156 integradas) y 3.660 OA. Total TP publicado: 2.198 clases en 27 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
-        "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "title": "Fase B (lote): sectores Maderero (Forestal y Muebles y Terminaciones en Madera) y Marítimo (Acuicultura, Operaciones Portuarias, Pesquería y Tripulación de Naves Mercantes y Especiales)",
-      "summary": [
-        "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 16.548 registros (12.392 clases y 4.156 integradas) y 3.611 OA. Total TP publicado: 1.991 clases en 25 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
         "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
       ]
     }

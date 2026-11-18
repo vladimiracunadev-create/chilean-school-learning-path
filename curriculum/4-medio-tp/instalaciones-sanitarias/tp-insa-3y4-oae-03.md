@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16294) · [Clase 2](#cl-16295) · [Clase 3](#cl-16296) · [Clase 4](#cl-16297) · [Clase 5](#cl-16298)
+**Clases de este OA:** [Clase 1](#cl-16462) · [Clase 2](#cl-16463) · [Clase 3](#cl-16464) · [Clase 4](#cl-16465) · [Clase 5](#cl-16466)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16294}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16462}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas a través de situar el contexto laboral, la norma y el riesgo: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 16 m
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-insa-3y4-oae-02.md#cl-16293) · [Clase siguiente →](#cl-16295)
+[← Última clase del OA anterior](tp-insa-3y4-oae-02.md#cl-16461) · [Clase siguiente →](#cl-16463)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16295}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16463}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas a través de reconocer conceptos, documentos y roles del oficio: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No: Y está más arriba
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16294) · [Clase siguiente →](#cl-16296)
+[← Clase anterior](#cl-16462) · [Clase siguiente →](#cl-16464)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16296}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16464}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas a través de analizar un caso de trabajo en papel: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: 5 cm de margen
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16295) · [Clase siguiente →](#cl-16297)
+[← Clase anterior](#cl-16463) · [Clase siguiente →](#cl-16465)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16297}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16465}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas a través de aplicar un criterio técnico con datos de ejemplo: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas, con una experiencia disciplinar específica, segura y revisable.
@@ -871,9 +871,9 @@ Respuesta: No se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16296) · [Clase siguiente →](#cl-16298)
+[← Clase anterior](#cl-16464) · [Clase siguiente →](#cl-16466)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16298}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas {#cl-16466}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas a través de comparar alternativas y verificar la calidad: Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas, con una experiencia disciplinar específica, segura y revisable.
@@ -1078,7 +1078,7 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16297) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-04.md#cl-16299)
+[← Clase anterior](#cl-16465) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-04.md#cl-16467)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

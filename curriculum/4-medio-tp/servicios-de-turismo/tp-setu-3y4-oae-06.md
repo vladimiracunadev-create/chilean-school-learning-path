@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16775) · [Clase 2](#cl-16776) · [Clase 3](#cl-16777) · [Clase 4](#cl-16778) · [Clase 5](#cl-16779)
+**Clases de este OA:** [Clase 1](#cl-16975) · [Clase 2](#cl-16976) · [Clase 3](#cl-16977) · [Clase 4](#cl-16978) · [Clase 5](#cl-16979)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Elaborar propuestas de programas turísticos básicos {#cl-16775}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Elaborar propuestas de programas turísticos básicos {#cl-16975}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar propuestas de programas turísticos básicos a través de situar el contexto laboral, la norma y el riesgo: Elaborar propuestas de programas turísticos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: El museo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-setu-3y4-oae-05.md#cl-16774) · [Clase siguiente →](#cl-16776)
+[← Última clase del OA anterior](tp-setu-3y4-oae-05.md#cl-16974) · [Clase siguiente →](#cl-16976)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Elaborar propuestas de programas turísticos básicos {#cl-16776}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Elaborar propuestas de programas turísticos básicos {#cl-16976}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar propuestas de programas turísticos básicos a través de reconocer conceptos, documentos y roles del oficio: Elaborar propuestas de programas turísticos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: $60.000 por persona
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16775) · [Clase siguiente →](#cl-16777)
+[← Clase anterior](#cl-16975) · [Clase siguiente →](#cl-16977)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Elaborar propuestas de programas turísticos básicos {#cl-16777}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Elaborar propuestas de programas turísticos básicos {#cl-16977}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar propuestas de programas turísticos básicos a través de analizar un caso de trabajo en papel: Elaborar propuestas de programas turísticos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: $60.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16776) · [Clase siguiente →](#cl-16778)
+[← Clase anterior](#cl-16976) · [Clase siguiente →](#cl-16978)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Elaborar propuestas de programas turísticos básicos {#cl-16778}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Elaborar propuestas de programas turísticos básicos {#cl-16978}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar propuestas de programas turísticos básicos a través de aplicar un criterio técnico con datos de ejemplo: Elaborar propuestas de programas turísticos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: $44.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16777) · [Clase siguiente →](#cl-16779)
+[← Clase anterior](#cl-16977) · [Clase siguiente →](#cl-16979)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Elaborar propuestas de programas turísticos básicos {#cl-16779}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Elaborar propuestas de programas turísticos básicos {#cl-16979}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar propuestas de programas turísticos básicos a través de comparar alternativas y verificar la calidad: Elaborar propuestas de programas turísticos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: 4
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16778) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-07.md#cl-16780)
+[← Clase anterior](#cl-16978) · [Primera clase del OA siguiente →](tp-setu-3y4-oae-07.md#cl-16980)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

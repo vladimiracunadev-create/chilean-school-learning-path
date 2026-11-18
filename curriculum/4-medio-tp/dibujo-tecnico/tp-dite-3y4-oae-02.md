@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16035) · [Clase 2](#cl-16036) · [Clase 3](#cl-16037) · [Clase 4](#cl-16038)
+**Clases de este OA:** [Clase 1](#cl-16168) · [Clase 2](#cl-16169) · [Clase 3](#cl-16170) · [Clase 4](#cl-16171)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16035}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16168}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles a través de situar el contexto laboral, la norma y el riesgo: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: La altura
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-01.md#cl-16034) · [Clase siguiente →](#cl-16036)
+[← Última clase del OA anterior](tp-dite-3y4-oae-01.md#cl-16167) · [Clase siguiente →](#cl-16169)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16036}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16169}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles a través de reconocer conceptos, documentos y roles del oficio: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Línea discontinua
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16035) · [Clase siguiente →](#cl-16037)
+[← Clase anterior](#cl-16168) · [Clase siguiente →](#cl-16170)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16037}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16170}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles a través de analizar un caso de trabajo en papel: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Es aceptable: la sala se considera a escuadra
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16036) · [Clase siguiente →](#cl-16038)
+[← Clase anterior](#cl-16169) · [Clase siguiente →](#cl-16171)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16038}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles {#cl-16171}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles a través de aplicar un criterio técnico con datos de ejemplo: Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 160 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16037) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-03.md#cl-16039)
+[← Clase anterior](#cl-16170) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-03.md#cl-16172)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

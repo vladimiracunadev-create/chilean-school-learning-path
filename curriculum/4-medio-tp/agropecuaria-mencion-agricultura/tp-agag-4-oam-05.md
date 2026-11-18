@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15742) · [Clase 2](#cl-15743) · [Clase 3](#cl-15744) · [Clase 4](#cl-15745)
+**Clases de este OA:** [Clase 1](#cl-15842) · [Clase 2](#cl-15843) · [Clase 3](#cl-15844) · [Clase 4](#cl-15845)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15742}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15842}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria a través de situar el contexto laboral, la norma y el riesgo: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: De ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-agag-4-oam-04.md#cl-15741) · [Clase siguiente →](#cl-15743)
+[← Última clase del OA anterior](tp-agag-4-oam-04.md#cl-15841) · [Clase siguiente →](#cl-15843)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15743}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15843}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria a través de reconocer conceptos, documentos y roles del oficio: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 40 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15742) · [Clase siguiente →](#cl-15744)
+[← Clase anterior](#cl-15842) · [Clase siguiente →](#cl-15844)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15744}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15844}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria a través de analizar un caso de trabajo en papel: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: B
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15743) · [Clase siguiente →](#cl-15745)
+[← Clase anterior](#cl-15843) · [Clase siguiente →](#cl-15845)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15745}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria {#cl-15845}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar acciones de mantenimiento preventivo y correctivo básico de la maquinaria, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15744)
+[← Clase anterior](#cl-15844)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

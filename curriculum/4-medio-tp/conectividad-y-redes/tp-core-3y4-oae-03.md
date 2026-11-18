@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15850) · [Clase 2](#cl-15851) · [Clase 3](#cl-15852) · [Clase 4](#cl-15853)
+**Clases de este OA:** [Clase 1](#cl-15983) · [Clase 2](#cl-15984) · [Clase 3](#cl-15985) · [Clase 4](#cl-15986)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y mantener cableados estructurados {#cl-15850}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y mantener cableados estructurados {#cl-15983}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y mantener cableados estructurados a través de situar el contexto laboral, la norma y el riesgo: Instalar y mantener cableados estructurados, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: El cableado troncal
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-02.md#cl-15849) · [Clase siguiente →](#cl-15851)
+[← Última clase del OA anterior](tp-core-3y4-oae-02.md#cl-15982) · [Clase siguiente →](#cl-15984)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y mantener cableados estructurados {#cl-15851}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y mantener cableados estructurados {#cl-15984}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y mantener cableados estructurados a través de reconocer conceptos, documentos y roles del oficio: Instalar y mantener cableados estructurados, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 90 m
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15850) · [Clase siguiente →](#cl-15852)
+[← Clase anterior](#cl-15983) · [Clase siguiente →](#cl-15985)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y mantener cableados estructurados {#cl-15852}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y mantener cableados estructurados {#cl-15985}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y mantener cableados estructurados a través de analizar un caso de trabajo en papel: Instalar y mantener cableados estructurados, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Cumple con poco margen; revisar el recorrido
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15851) · [Clase siguiente →](#cl-15853)
+[← Clase anterior](#cl-15984) · [Clase siguiente →](#cl-15986)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y mantener cableados estructurados {#cl-15853}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y mantener cableados estructurados {#cl-15986}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y mantener cableados estructurados a través de aplicar un criterio técnico con datos de ejemplo: Instalar y mantener cableados estructurados, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15852) · [Primera clase del OA siguiente →](tp-core-3y4-oae-04.md#cl-15854)
+[← Clase anterior](#cl-15985) · [Primera clase del OA siguiente →](tp-core-3y4-oae-04.md#cl-15987)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

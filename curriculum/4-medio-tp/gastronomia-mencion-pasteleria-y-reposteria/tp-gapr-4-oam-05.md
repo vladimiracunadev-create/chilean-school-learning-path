@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16252) · [Clase 2](#cl-16253) · [Clase 3](#cl-16254) · [Clase 4](#cl-16255)
+**Clases de este OA:** [Clase 1](#cl-16420) · [Clase 2](#cl-16421) · [Clase 3](#cl-16422) · [Clase 4](#cl-16423)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16252}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16420}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos de pastelería y repostería y/o en la a través de situar el contexto laboral, la norma y el riesgo: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: «Puede contener trazas de frutos secos»
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gapr-4-oam-04.md#cl-16251) · [Clase siguiente →](#cl-16253)
+[← Última clase del OA anterior](tp-gapr-4-oam-04.md#cl-16419) · [Clase siguiente →](#cl-16421)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16253}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16421}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos de pastelería y repostería y/o en la a través de reconocer conceptos, documentos y roles del oficio: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: 30 unidades
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16252) · [Clase siguiente →](#cl-16254)
+[← Clase anterior](#cl-16420) · [Clase siguiente →](#cl-16422)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16254}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16422}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos de pastelería y repostería y/o en la a través de analizar un caso de trabajo en papel: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: $950
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16253) · [Clase siguiente →](#cl-16255)
+[← Clase anterior](#cl-16421) · [Clase siguiente →](#cl-16423)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16255}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la {#cl-16423}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos de pastelería y repostería y/o en la a través de aplicar un criterio técnico con datos de ejemplo: Introducir variaciones en las recetas de productos de pastelería y repostería y/o en la, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: 84 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16254)
+[← Clase anterior](#cl-16422)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

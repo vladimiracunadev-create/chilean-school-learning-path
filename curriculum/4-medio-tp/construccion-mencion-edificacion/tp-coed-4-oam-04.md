@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15938) · [Clase 2](#cl-15939) · [Clase 3](#cl-15940) · [Clase 4](#cl-15941)
+**Clases de este OA:** [Clase 1](#cl-16071) · [Clase 2](#cl-16072) · [Clase 3](#cl-16073) · [Clase 4](#cl-16074)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar obras de albañilería estructural y no estructural {#cl-15938}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar obras de albañilería estructural y no estructural {#cl-16071}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de albañilería estructural y no estructural a través de situar el contexto laboral, la norma y el riesgo: Ejecutar obras de albañilería estructural y no estructural, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 2 pallets
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-coed-4-oam-03.md#cl-15937) · [Clase siguiente →](#cl-15939)
+[← Última clase del OA anterior](tp-coed-4-oam-03.md#cl-16070) · [Clase siguiente →](#cl-16072)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar obras de albañilería estructural y no estructural {#cl-15939}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar obras de albañilería estructural y no estructural {#cl-16072}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de albañilería estructural y no estructural a través de reconocer conceptos, documentos y roles del oficio: Ejecutar obras de albañilería estructural y no estructural, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 5 vanos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15938) · [Clase siguiente →](#cl-15940)
+[← Clase anterior](#cl-16071) · [Clase siguiente →](#cl-16073)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar obras de albañilería estructural y no estructural {#cl-15940}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar obras de albañilería estructural y no estructural {#cl-16073}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de albañilería estructural y no estructural a través de analizar un caso de trabajo en papel: Ejecutar obras de albañilería estructural y no estructural, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Tipo X
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15939) · [Clase siguiente →](#cl-15941)
+[← Clase anterior](#cl-16072) · [Clase siguiente →](#cl-16074)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de albañilería estructural y no estructural {#cl-15941}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de albañilería estructural y no estructural {#cl-16074}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar obras de albañilería estructural y no estructural a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar obras de albañilería estructural y no estructural, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15940) · [Primera clase del OA siguiente →](tp-coed-4-oam-05.md#cl-15942)
+[← Clase anterior](#cl-16073) · [Primera clase del OA siguiente →](tp-coed-4-oam-05.md#cl-16075)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

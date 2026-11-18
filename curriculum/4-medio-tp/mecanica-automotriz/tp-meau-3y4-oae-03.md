@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16332) · [Clase 2](#cl-16333) · [Clase 3](#cl-16334) · [Clase 4](#cl-16335)
+**Clases de este OA:** [Clase 1](#cl-16500) · [Clase 2](#cl-16501) · [Clase 3](#cl-16502) · [Clase 4](#cl-16503)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16332}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16500}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos a través de situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Mantenimiento correctivo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meau-3y4-oae-02.md#cl-16331) · [Clase siguiente →](#cl-16333)
+[← Última clase del OA anterior](tp-meau-3y4-oae-02.md#cl-16499) · [Clase siguiente →](#cl-16501)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16333}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16501}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos a través de reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Sí, vencida por tiempo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16332) · [Clase siguiente →](#cl-16334)
+[← Clase anterior](#cl-16500) · [Clase siguiente →](#cl-16502)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16334}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16502}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos a través de analizar un caso de trabajo en papel: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Vencida por kilometraje
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16333) · [Clase siguiente →](#cl-16335)
+[← Clase anterior](#cl-16501) · [Clase siguiente →](#cl-16503)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16335}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos {#cl-16503}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos a través de aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento básico de diversos sistemas de vehículos automotrices livianos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: $21.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16334) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-04.md#cl-16336)
+[← Clase anterior](#cl-16502) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-04.md#cl-16504)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

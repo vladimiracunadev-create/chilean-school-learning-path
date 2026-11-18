@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16657) · [Clase 2](#cl-16658) · [Clase 3](#cl-16659) · [Clase 4](#cl-16660)
+**Clases de este OA:** [Clase 1](#cl-16857) · [Clase 2](#cl-16858) · [Clase 3](#cl-16859) · [Clase 4](#cl-16860)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y actualizar elementos de hardware y software en una organización {#cl-16657}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y actualizar elementos de hardware y software en una organización {#cl-16857}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y actualizar elementos de hardware y software en una organización a través de situar el contexto laboral, la norma y el riesgo: Instalar y actualizar elementos de hardware y software en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 40 GB
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-07.md#cl-16656) · [Clase siguiente →](#cl-16658)
+[← Última clase del OA anterior](tp-prog-3y4-oae-07.md#cl-16856) · [Clase siguiente →](#cl-16858)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y actualizar elementos de hardware y software en una organización {#cl-16658}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y actualizar elementos de hardware y software en una organización {#cl-16858}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y actualizar elementos de hardware y software en una organización a través de reconocer conceptos, documentos y roles del oficio: Instalar y actualizar elementos de hardware y software en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: El acta de entrega
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16657) · [Clase siguiente →](#cl-16659)
+[← Clase anterior](#cl-16857) · [Clase siguiente →](#cl-16859)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y actualizar elementos de hardware y software en una organización {#cl-16659}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y actualizar elementos de hardware y software en una organización {#cl-16859}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y actualizar elementos de hardware y software en una organización a través de analizar un caso de trabajo en papel: Instalar y actualizar elementos de hardware y software en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16658) · [Clase siguiente →](#cl-16660)
+[← Clase anterior](#cl-16858) · [Clase siguiente →](#cl-16860)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y actualizar elementos de hardware y software en una organización {#cl-16660}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y actualizar elementos de hardware y software en una organización {#cl-16860}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y actualizar elementos de hardware y software en una organización a través de aplicar un criterio técnico con datos de ejemplo: Instalar y actualizar elementos de hardware y software en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: No cabe
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16659) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-09.md#cl-16661)
+[← Clase anterior](#cl-16859) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-09.md#cl-16861)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

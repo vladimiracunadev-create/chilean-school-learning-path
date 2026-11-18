@@ -165,11 +165,11 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es cultivar, qué grupos de especies existen, la diferencia entre cultivo al aire libre y en ambiente forzado, y cuáles son los peligros y normas del trabajo de cultivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15725) |
-| 2 | Aprenderé la fisiología básica del cultivo (fotosíntesis, transpiración, etapas), el marco de plantación y la densidad, y los documentos y roles del cultivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15726) |
-| 3 | Aprenderás a analizar un caso de cultivo en papel, comparando condiciones del terreno y del clima con las necesidades de la planta, y a justificar con dos evidencias una decisión. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15727) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular ingreso, margen y costo por kilo para comparar dos formas de cultivar la misma especie. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15728) |
-| 5 | Aprenderás a comparar alternativas de cultivo con una matriz de puntajes y a verificar la calidad de la emergencia con un promedio y una meta, sin ejecutar ninguna labor. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15729) |
+| 1 | Aprenderé qué es cultivar, qué grupos de especies existen, la diferencia entre cultivo al aire libre y en ambiente forzado, y cuáles son los peligros y normas del trabajo de cultivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15825) |
+| 2 | Aprenderé la fisiología básica del cultivo (fotosíntesis, transpiración, etapas), el marco de plantación y la densidad, y los documentos y roles del cultivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15826) |
+| 3 | Aprenderás a analizar un caso de cultivo en papel, comparando condiciones del terreno y del clima con las necesidades de la planta, y a justificar con dos evidencias una decisión. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15827) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular ingreso, margen y costo por kilo para comparar dos formas de cultivar la misma especie. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15828) |
+| 5 | Aprenderás a comparar alternativas de cultivo con una matriz de puntajes y a verificar la calidad de la emergencia con un promedio y una meta, sin ejecutar ninguna labor. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-01.md#cl-15829) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -181,10 +181,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son la poda, el raleo y la conducción de frutales, y cuáles son los peligros del trabajo en altura y con herramientas cortantes. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15730) |
-| 2 | Aprenderé los tipos de poda, los sistemas de conducción, el concepto de carga frutal y los documentos y roles de la poda, el raleo y la conducción. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15731) |
-| 3 | Aprenderás a analizar un caso de cuarteles con síntomas distintos y a decidir con dos evidencias qué labor conceptual conviene a cada uno: formación, raleo o aclareo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15732) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular producción, ingreso y margen con y sin raleo para comparar la decisión. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15733) |
+| 1 | Aprenderé qué son la poda, el raleo y la conducción de frutales, y cuáles son los peligros del trabajo en altura y con herramientas cortantes. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15830) |
+| 2 | Aprenderé los tipos de poda, los sistemas de conducción, el concepto de carga frutal y los documentos y roles de la poda, el raleo y la conducción. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15831) |
+| 3 | Aprenderás a analizar un caso de cuarteles con síntomas distintos y a decidir con dos evidencias qué labor conceptual conviene a cada uno: formación, raleo o aclareo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15832) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular producción, ingreso y margen con y sin raleo para comparar la decisión. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-02.md#cl-15833) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -196,10 +196,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la post cosecha, por qué la cadena de frío y la higiene cuidan la calidad del fruto y del predio, y cuáles son los peligros del galpón de embalaje. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15734) |
-| 2 | Aprenderé los conceptos de calidad del fruto (calibre, color, firmeza, defectos), trazabilidad por lote, y los documentos y roles de la post cosecha. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15735) |
-| 3 | Aprenderás a analizar un caso de pérdidas en post cosecha, a relacionar cada observación con una causa y a decidir qué prácticas del fruto y del predio corregir. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15736) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular cajas por categoría, ingreso y margen de la post cosecha, y la merma del lote. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15737) |
+| 1 | Aprenderé qué es la post cosecha, por qué la cadena de frío y la higiene cuidan la calidad del fruto y del predio, y cuáles son los peligros del galpón de embalaje. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15834) |
+| 2 | Aprenderé los conceptos de calidad del fruto (calibre, color, firmeza, defectos), trazabilidad por lote, y los documentos y roles de la post cosecha. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15835) |
+| 3 | Aprenderás a analizar un caso de pérdidas en post cosecha, a relacionar cada observación con una causa y a decidir qué prácticas del fruto y del predio corregir. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15836) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular cajas por categoría, ingreso y margen de la post cosecha, y la merma del lote. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-03.md#cl-15837) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -211,10 +211,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son el acopio, la clasificación y la guarda de productos agrícolas, y cuáles son los peligros de un silo, una bodega y una cámara. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15738) |
-| 2 | Aprenderé los conceptos de humedad del grano, plazo de guarda, FIFO y plagas de bodega, y los documentos y roles del acopio. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15739) |
-| 3 | Aprenderás a analizar un caso de lotes con destinos distintos y a decidir con dos evidencias dónde se clasifica y se guarda cada uno según su fisiología y su plazo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15740) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la capacidad de una bodega, las pérdidas y el costo de guardar un producto por varios meses. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15741) |
+| 1 | Aprenderé qué son el acopio, la clasificación y la guarda de productos agrícolas, y cuáles son los peligros de un silo, una bodega y una cámara. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15838) |
+| 2 | Aprenderé los conceptos de humedad del grano, plazo de guarda, FIFO y plagas de bodega, y los documentos y roles del acopio. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15839) |
+| 3 | Aprenderás a analizar un caso de lotes con destinos distintos y a decidir con dos evidencias dónde se clasifica y se guarda cada uno según su fisiología y su plazo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15840) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la capacidad de una bodega, las pérdidas y el costo de guardar un producto por varios meses. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-04.md#cl-15841) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -226,10 +226,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el mantenimiento preventivo y correctivo de la maquinaria, cuáles son los peligros de un taller agrícola y por qué la reparación la hace solo personal autorizado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15742) |
-| 2 | Aprenderé los conceptos de horómetro, plan de mantención, desgaste y repuesto, los documentos de la mantención de maquinaria y los roles del operador, el mecánico y el jefe de taller. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15743) |
-| 3 | Aprenderás a analizar reportes de un operador, a clasificar la urgencia de cada anomalía y a decidir con evidencia quién interviene, sin reparar nada. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15744) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular cuántas mantenciones tiene un plan, su costo, la disponibilidad del equipo y el ahorro de prevenir fallas. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15745) |
+| 1 | Aprenderé qué es el mantenimiento preventivo y correctivo de la maquinaria, cuáles son los peligros de un taller agrícola y por qué la reparación la hace solo personal autorizado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15842) |
+| 2 | Aprenderé los conceptos de horómetro, plan de mantención, desgaste y repuesto, los documentos de la mantención de maquinaria y los roles del operador, el mecánico y el jefe de taller. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15843) |
+| 3 | Aprenderás a analizar reportes de un operador, a clasificar la urgencia de cada anomalía y a decidir con evidencia quién interviene, sin reparar nada. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15844) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular cuántas mantenciones tiene un plan, su costo, la disponibilidad del equipo y el ahorro de prevenir fallas. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-agricultura/tp-agag-4-oam-05.md#cl-15845) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -243,10 +243,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son los entornos naturales y artificiales de un plantel, por qué se vigilan sus condiciones físicas y cuáles son los peligros de ese trabajo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15746) |
-| 2 | Aprenderás a leer parámetros y lecturas de un galpón, a calcular densidad y a conocer los documentos y roles de la vigilancia del entorno. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15747) |
-| 3 | Aprenderás a analizar un registro de varios días, a relacionar cada desviación con una causa posible y a decidir a quién informar y qué no hacer. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15748) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular carga animal, consumo de agua y capacidad de un galpón para mantener las condiciones de un plantel. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15749) |
+| 1 | Aprenderé qué son los entornos naturales y artificiales de un plantel, por qué se vigilan sus condiciones físicas y cuáles son los peligros de ese trabajo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15846) |
+| 2 | Aprenderás a leer parámetros y lecturas de un galpón, a calcular densidad y a conocer los documentos y roles de la vigilancia del entorno. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15847) |
+| 3 | Aprenderás a analizar un registro de varios días, a relacionar cada desviación con una causa posible y a decidir a quién informar y qué no hacer. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15848) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular carga animal, consumo de agua y capacidad de un galpón para mantener las condiciones de un plantel. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-01.md#cl-15849) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -258,10 +258,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué significan contención, sujeción, conducción y transporte de animales, por qué son tareas de alto riesgo y por qué las hace solo personal capacitado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15750) |
-| 2 | Aprenderé cómo la especie, el sexo y la edad influyen en el manejo, y cuáles son las instalaciones, los documentos y los roles del traslado de animales, sin aprender cómo se manipulan. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15751) |
-| 3 | Aprenderás a analizar un caso de traslado con evidencias de riesgo para personas y animales, a priorizar y a derivar las decisiones a quien corresponde, sin planificar el manejo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15752) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular capacidad, número de viajes, costo y pérdida esperada por estrés de un traslado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15753) |
+| 1 | Aprenderé qué significan contención, sujeción, conducción y transporte de animales, por qué son tareas de alto riesgo y por qué las hace solo personal capacitado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15850) |
+| 2 | Aprenderé cómo la especie, el sexo y la edad influyen en el manejo, y cuáles son las instalaciones, los documentos y los roles del traslado de animales, sin aprender cómo se manipulan. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15851) |
+| 3 | Aprenderás a analizar un caso de traslado con evidencias de riesgo para personas y animales, a priorizar y a derivar las decisiones a quien corresponde, sin planificar el manejo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15852) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular capacidad, número de viajes, costo y pérdida esperada por estrés de un traslado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-02.md#cl-15853) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -273,11 +273,11 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la reproducción animal, qué son el celo, la monta, la inseminación artificial y la sincronización, y por qué estas técnicas son de alto riesgo y las hace solo personal autorizado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15754) |
-| 2 | Aprenderé los conceptos de ciclo del celo, servicio, gestación y parto, cómo se leen los registros reproductivos y qué rol cumple cada persona. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15755) |
-| 3 | Aprenderás a analizar un caso de resultados reproductivos con evidencias, a relacionar las observaciones con posibles causas y a derivar las decisiones al veterinario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15756) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la tasa de preñez, el costo por preñez y el valor de las crías de un programa reproductivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15757) |
-| 5 | Aprenderás a comparar alternativas reproductivas con una matriz de puntajes, a mirar el riesgo para las personas y a verificar la calidad de un registro reproductivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15758) |
+| 1 | Aprenderé qué es la reproducción animal, qué son el celo, la monta, la inseminación artificial y la sincronización, y por qué estas técnicas son de alto riesgo y las hace solo personal autorizado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15854) |
+| 2 | Aprenderé los conceptos de ciclo del celo, servicio, gestación y parto, cómo se leen los registros reproductivos y qué rol cumple cada persona. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15855) |
+| 3 | Aprenderás a analizar un caso de resultados reproductivos con evidencias, a relacionar las observaciones con posibles causas y a derivar las decisiones al veterinario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15856) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la tasa de preñez, el costo por preñez y el valor de las crías de un programa reproductivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15857) |
+| 5 | Aprenderás a comparar alternativas reproductivas con una matriz de puntajes, a mirar el riesgo para las personas y a verificar la calidad de un registro reproductivo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-03.md#cl-15858) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -289,10 +289,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es la producción lechera, por qué la higiene y el frío cuidan la calidad de la leche y cuáles son los peligros del trabajo en una lechería. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15759) |
-| 2 | Aprenderé los indicadores de calidad de la leche, los documentos de una lechería y los roles de quienes producen y controlan la leche. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15760) |
-| 3 | Aprenderás a analizar un caso de calidad de la leche con indicadores de varias semanas, a relacionar las observaciones con posibles causas y a derivar al veterinario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15761) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la producción, el ingreso con bonificación o descuento por calidad, y el margen de una lechería. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15762) |
+| 1 | Aprenderé qué es la producción lechera, por qué la higiene y el frío cuidan la calidad de la leche y cuáles son los peligros del trabajo en una lechería. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15859) |
+| 2 | Aprenderé los indicadores de calidad de la leche, los documentos de una lechería y los roles de quienes producen y controlan la leche. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15860) |
+| 3 | Aprenderás a analizar un caso de calidad de la leche con indicadores de varias semanas, a relacionar las observaciones con posibles causas y a derivar al veterinario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15861) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la producción, el ingreso con bonificación o descuento por calidad, y el margen de una lechería. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-04.md#cl-15862) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -304,10 +304,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son un plan sanitario y el bienestar animal, las cinco libertades, la cuarentena y por qué los tratamientos solo los indica el veterinario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15763) |
-| 2 | Aprenderás a leer un calendario y un registro sanitario, a calcular la cobertura de vacunación y el fin de un período de resguardo, y a conocer los roles del plan sanitario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15764) |
-| 3 | Aprenderás a analizar un caso de bienestar animal asociando cada observación con una libertad, a priorizar y a decidir a quién se informa sin tratar a ningún animal. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15765) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular animales enfermos y perdidos, el costo del plan sanitario y el ahorro de prevenir. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15766) |
+| 1 | Aprenderé qué son un plan sanitario y el bienestar animal, las cinco libertades, la cuarentena y por qué los tratamientos solo los indica el veterinario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15863) |
+| 2 | Aprenderás a leer un calendario y un registro sanitario, a calcular la cobertura de vacunación y el fin de un período de resguardo, y a conocer los roles del plan sanitario. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15864) |
+| 3 | Aprenderás a analizar un caso de bienestar animal asociando cada observación con una libertad, a priorizar y a decidir a quién se informa sin tratar a ningún animal. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15865) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular animales enfermos y perdidos, el costo del plan sanitario y el ahorro de prevenir. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-05.md#cl-15866) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -319,10 +319,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son los forrajes, el heno y el ensilaje, por qué se conservan y cuáles son los peligros del cultivo y la conservación de forrajes. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15767) |
-| 2 | Aprenderé los conceptos de materia seca, rendimiento de forraje, humedad y calidad, y los documentos y roles del cultivo y la conservación de forrajes. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15768) |
-| 3 | Aprenderás a analizar un caso de forrajes almacenados, a clasificar cada observación según su urgencia y a decidir quién actúa, sin tocar el forraje en riesgo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15769) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la demanda y la oferta de forraje, las pérdidas de conservación y el faltante o sobrante. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15770) |
+| 1 | Aprenderé qué son los forrajes, el heno y el ensilaje, por qué se conservan y cuáles son los peligros del cultivo y la conservación de forrajes. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15867) |
+| 2 | Aprenderé los conceptos de materia seca, rendimiento de forraje, humedad y calidad, y los documentos y roles del cultivo y la conservación de forrajes. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15868) |
+| 3 | Aprenderás a analizar un caso de forrajes almacenados, a clasificar cada observación según su urgencia y a decidir quién actúa, sin tocar el forraje en riesgo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15869) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la demanda y la oferta de forraje, las pérdidas de conservación y el faltante o sobrante. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-06.md#cl-15870) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -334,10 +334,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué significa verificar el funcionamiento de máquinas, equipos e instrumentos pecuarios, por qué hay que hacerlo y cuáles son los peligros, sin reparar ni manipular equipos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15771) |
-| 2 | Aprenderé los conceptos de patrón, tolerancia y error de un instrumento, los documentos de la verificación de equipos y los roles del operador, el técnico y el jefe. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15772) |
-| 3 | Aprenderás a analizar los resultados de una hoja de verificación, a clasificar cada equipo según su urgencia y a decidir quién actúa, sin reparar ni tocar nada. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15773) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la disponibilidad de los equipos, las pérdidas por días detenidos y el costo de verificar para prevenir. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15774) |
+| 1 | Aprenderé qué significa verificar el funcionamiento de máquinas, equipos e instrumentos pecuarios, por qué hay que hacerlo y cuáles son los peligros, sin reparar ni manipular equipos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15871) |
+| 2 | Aprenderé los conceptos de patrón, tolerancia y error de un instrumento, los documentos de la verificación de equipos y los roles del operador, el técnico y el jefe. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15872) |
+| 3 | Aprenderás a analizar los resultados de una hoja de verificación, a clasificar cada equipo según su urgencia y a decidir quién actúa, sin reparar ni tocar nada. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15873) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la disponibilidad de los equipos, las pérdidas por días detenidos y el costo de verificar para prevenir. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-pecuaria/tp-agpe-4-oam-07.md#cl-15874) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -351,10 +351,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué es el manejo cultural de la vid, qué se vigila en un viñedo y cuáles son los peligros y las normas del trabajo de campo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15775) |
-| 2 | Aprenderé las etapas del ciclo de la vid, el marco de plantación y la densidad, y los documentos y roles del cuidado de un viñedo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15776) |
-| 3 | Aprenderás a analizar un monitoreo de madurez en papel, a calcular el avance semanal y a relacionarlo con el clima y con la decisión que corresponde al enólogo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15777) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular rendimiento, kilos por planta, ingreso y margen de un cuartel, y compararlos con un límite de calidad. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15778) |
+| 1 | Aprenderé qué es el manejo cultural de la vid, qué se vigila en un viñedo y cuáles son los peligros y las normas del trabajo de campo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15875) |
+| 2 | Aprenderé las etapas del ciclo de la vid, el marco de plantación y la densidad, y los documentos y roles del cuidado de un viñedo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15876) |
+| 3 | Aprenderás a analizar un monitoreo de madurez en papel, a calcular el avance semanal y a relacionarlo con el clima y con la decisión que corresponde al enólogo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15877) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular rendimiento, kilos por planta, ingreso y margen de un cuartel, y compararlos con un límite de calidad. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-01.md#cl-15878) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -366,10 +366,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son la vendimia, el transporte y el acondicionamiento de la uva, qué son las buenas prácticas de manufactura y cuáles son los peligros de la vendimia y la recepción. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15779) |
-| 2 | Aprenderé los indicadores de calidad de la uva en la recepción, los documentos de la vendimia y los roles de quienes la reciben y controlan. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15780) |
-| 3 | Aprenderás a analizar lotes de uva recibidos en papel, a comparar cada indicador con su criterio y a clasificar cada lote con evidencia, sin tomar decisiones que corresponden al enólogo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15781) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular el pago por °Brix, el mosto esperado y el costo del transporte de una partida de uva. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15782) |
+| 1 | Aprenderé qué son la vendimia, el transporte y el acondicionamiento de la uva, qué son las buenas prácticas de manufactura y cuáles son los peligros de la vendimia y la recepción. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15879) |
+| 2 | Aprenderé los indicadores de calidad de la uva en la recepción, los documentos de la vendimia y los roles de quienes la reciben y controlan. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15880) |
+| 3 | Aprenderás a analizar lotes de uva recibidos en papel, a comparar cada indicador con su criterio y a clasificar cada lote con evidencia, sin tomar decisiones que corresponden al enólogo. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15881) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular el pago por °Brix, el mosto esperado y el costo del transporte de una partida de uva. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-02.md#cl-15882) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -381,10 +381,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son la fermentación, el descube, el trasiego y los tratamientos enológicos como conceptos, y cuáles son los peligros de una bodega de vinificación, sin aprender a hacerlos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15783) |
-| 2 | Aprenderás a leer los registros de una bodega, a calcular volúmenes y pérdidas y a conocer los roles de quienes controlan los descubes, trasiegos y tratamientos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15784) |
-| 3 | Aprenderás a analizar un caso de bodega en papel, a clasificar cada observación por su urgencia y a decidir quién actúa, sin intervenir estanques ni equipos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15785) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular volúmenes, pérdidas y costos de un estanque a lo largo del descube y los trasiegos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15786) |
+| 1 | Aprenderé qué son la fermentación, el descube, el trasiego y los tratamientos enológicos como conceptos, y cuáles son los peligros de una bodega de vinificación, sin aprender a hacerlos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15883) |
+| 2 | Aprenderás a leer los registros de una bodega, a calcular volúmenes y pérdidas y a conocer los roles de quienes controlan los descubes, trasiegos y tratamientos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15884) |
+| 3 | Aprenderás a analizar un caso de bodega en papel, a clasificar cada observación por su urgencia y a decidir quién actúa, sin intervenir estanques ni equipos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15885) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular volúmenes, pérdidas y costos de un estanque a lo largo del descube y los trasiegos. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-03.md#cl-15886) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -396,10 +396,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son el envasado, el etiquetado y el sellado del vino, por qué las normas de higiene y calidad son importantes y cuáles son los peligros de una línea de envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15787) |
-| 2 | Aprenderé qué datos lleva una etiqueta, cómo se controla el llenado de las botellas y cuáles son los documentos y roles de una línea de envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15788) |
-| 3 | Aprenderás a analizar un caso de control de calidad en papel, a clasificar cada observación por su urgencia y a decidir quién actúa, sin operar la línea. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15789) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular botellas, horas de línea, rechazos y margen de un envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15790) |
+| 1 | Aprenderé qué son el envasado, el etiquetado y el sellado del vino, por qué las normas de higiene y calidad son importantes y cuáles son los peligros de una línea de envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15887) |
+| 2 | Aprenderé qué datos lleva una etiqueta, cómo se controla el llenado de las botellas y cuáles son los documentos y roles de una línea de envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15888) |
+| 3 | Aprenderás a analizar un caso de control de calidad en papel, a clasificar cada observación por su urgencia y a decidir quién actúa, sin operar la línea. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15889) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular botellas, horas de línea, rechazos y margen de un envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-04.md#cl-15890) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -411,10 +411,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué son el bodegaje y el almacenamiento del vino envasado, qué condiciones ambientales requiere y cuáles son los peligros de una bodega de producto terminado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15791) |
-| 2 | Aprenderás a leer parámetros ambientales e inventarios de una bodega, a calcular diferencias de inventario y a conocer los documentos y roles del bodegaje. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15792) |
-| 3 | Aprenderás a analizar un caso de bodegaje en papel, a clasificar cada observación por su urgencia y a decidir quién actúa, sin intervenir equipos ni pallets. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15793) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular capacidad, días de inventario, costo de guarda y mermas de una bodega de vino envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15794) |
+| 1 | Aprenderé qué son el bodegaje y el almacenamiento del vino envasado, qué condiciones ambientales requiere y cuáles son los peligros de una bodega de producto terminado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15891) |
+| 2 | Aprenderás a leer parámetros ambientales e inventarios de una bodega, a calcular diferencias de inventario y a conocer los documentos y roles del bodegaje. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15892) |
+| 3 | Aprenderás a analizar un caso de bodegaje en papel, a clasificar cada observación por su urgencia y a decidir quién actúa, sin intervenir equipos ni pallets. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15893) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular capacidad, días de inventario, costo de guarda y mermas de una bodega de vino envasado. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-05.md#cl-15894) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 
@@ -426,10 +426,10 @@ Reúne 26 objetivos oficiales. Cada objetivo se trabaja en una secuencia de clas
 
 | Clase | Qué aprenderás | Ficha |
 |---:|---|---|
-| 1 | Aprenderé qué significa verificar el funcionamiento de la maquinaria, los equipos, los instrumentos y los utensilios de una bodega, y cuáles son los peligros de ese trabajo, sin operar ni reparar nada. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15795) |
-| 2 | Aprenderé los conceptos de patrón, error, tolerancia y plan de mantención, y los documentos y roles de la verificación de equipos e instrumentos de una bodega. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15796) |
-| 3 | Aprenderás a analizar los resultados de una verificación previa a la vendimia, a clasificar cada equipo según su urgencia y a decidir quién actúa, sin operar ni reparar. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15797) |
-| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la disponibilidad de los equipos, las pérdidas por detención y el ahorro de verificar antes de la vendimia. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15798) |
+| 1 | Aprenderé qué significa verificar el funcionamiento de la maquinaria, los equipos, los instrumentos y los utensilios de una bodega, y cuáles son los peligros de ese trabajo, sin operar ni reparar nada. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15895) |
+| 2 | Aprenderé los conceptos de patrón, error, tolerancia y plan de mantención, y los documentos y roles de la verificación de equipos e instrumentos de una bodega. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15896) |
+| 3 | Aprenderás a analizar los resultados de una verificación previa a la vendimia, a clasificar cada equipo según su urgencia y a decidir quién actúa, sin operar ni reparar. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15897) |
+| 4 | Aprenderás a aplicar un criterio técnico con datos de ejemplo: calcular la disponibilidad de los equipos, las pérdidas por detención y el ahorro de verificar antes de la vendimia. | [4° medio](../../curriculum/4-medio-tp/agropecuaria-mencion-vitivinicola/tp-agvi-4-oam-06.md#cl-15898) |
 
 [Bases Curriculares (fuente del objetivo)](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional)
 

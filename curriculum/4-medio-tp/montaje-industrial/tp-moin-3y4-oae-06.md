@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16450) · [Clase 2](#cl-16451) · [Clase 3](#cl-16452) · [Clase 4](#cl-16453)
+**Clases de este OA:** [Clase 1](#cl-16650) · [Clase 2](#cl-16651) · [Clase 3](#cl-16652) · [Clase 4](#cl-16653)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar equipos de levante {#cl-16450}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Utilizar equipos de levante {#cl-16650}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar equipos de levante a través de situar el contexto laboral, la norma y el riesgo: Utilizar equipos de levante, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 740 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-moin-3y4-oae-05.md#cl-16449) · [Clase siguiente →](#cl-16451)
+[← Última clase del OA anterior](tp-moin-3y4-oae-05.md#cl-16649) · [Clase siguiente →](#cl-16651)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar equipos de levante {#cl-16451}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Utilizar equipos de levante {#cl-16651}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar equipos de levante a través de reconocer conceptos, documentos y roles del oficio: Utilizar equipos de levante, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No, se saca de servicio
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16450) · [Clase siguiente →](#cl-16452)
+[← Clase anterior](#cl-16650) · [Clase siguiente →](#cl-16652)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar equipos de levante {#cl-16452}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Utilizar equipos de levante {#cl-16652}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar equipos de levante a través de analizar un caso de trabajo en papel: Utilizar equipos de levante, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 60 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16451) · [Clase siguiente →](#cl-16453)
+[← Clase anterior](#cl-16651) · [Clase siguiente →](#cl-16653)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar equipos de levante {#cl-16453}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Utilizar equipos de levante {#cl-16653}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar utilizar equipos de levante a través de aplicar un criterio técnico con datos de ejemplo: Utilizar equipos de levante, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 4 viajes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16452) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-07.md#cl-16454)
+[← Clase anterior](#cl-16652) · [Primera clase del OA siguiente →](tp-moin-3y4-oae-07.md#cl-16654)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

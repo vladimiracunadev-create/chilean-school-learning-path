@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16232) · [Clase 2](#cl-16233) · [Clase 3](#cl-16234) · [Clase 4](#cl-16235)
+**Clases de este OA:** [Clase 1](#cl-16400) · [Clase 2](#cl-16401) · [Clase 3](#cl-16402) · [Clase 4](#cl-16403)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16232}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16400}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo a través de situar el contexto laboral, la norma y el riesgo: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 15 menús
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gaco-4-oam-04.md#cl-16231) · [Clase siguiente →](#cl-16233)
+[← Última clase del OA anterior](tp-gaco-4-oam-04.md#cl-16399) · [Clase siguiente →](#cl-16401)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16233}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16401}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo a través de reconocer conceptos, documentos y roles del oficio: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: El choclo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16232) · [Clase siguiente →](#cl-16234)
+[← Clase anterior](#cl-16400) · [Clase siguiente →](#cl-16402)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16234}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16402}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo a través de analizar un caso de trabajo en papel: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo, con una experiencia disciplinar específica, segura y revisable.
@@ -663,9 +663,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16233) · [Clase siguiente →](#cl-16235)
+[← Clase anterior](#cl-16401) · [Clase siguiente →](#cl-16403)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16235}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo {#cl-16403}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo a través de aplicar un criterio técnico con datos de ejemplo: Elaborar cartas y menú para servicios y establecimientos de consumo frecuente o masivo, con una experiencia disciplinar específica, segura y revisable.
@@ -869,7 +869,7 @@ Respuesta: $750.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16234)
+[← Clase anterior](#cl-16402)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15946) · [Clase 2](#cl-15947) · [Clase 3](#cl-15948) · [Clase 4](#cl-15949) · [Clase 5](#cl-15950)
+**Clases de este OA:** [Clase 1](#cl-16079) · [Clase 2](#cl-16080) · [Clase 3](#cl-16081) · [Clase 4](#cl-16082) · [Clase 5](#cl-16083)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-15946}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-16079}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el a través de situar el contexto laboral, la norma y el riesgo: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Aislar el peligro (tercer nivel)
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15947)
+[Clase siguiente →](#cl-16080)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-15947}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-16080}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el a través de reconocer conceptos, documentos y roles del oficio: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: Corte
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15946) · [Clase siguiente →](#cl-15948)
+[← Clase anterior](#cl-16079) · [Clase siguiente →](#cl-16081)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-15948}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-16081}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el a través de analizar un caso de trabajo en papel: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el, con una experiencia disciplinar específica, segura y revisable.
@@ -670,9 +670,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15947) · [Clase siguiente →](#cl-15949)
+[← Clase anterior](#cl-16080) · [Clase siguiente →](#cl-16082)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-15949}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-16082}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el a través de aplicar un criterio técnico con datos de ejemplo: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el, con una experiencia disciplinar específica, segura y revisable.
@@ -878,9 +878,9 @@ Respuesta: 20 m³
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15948) · [Clase siguiente →](#cl-15950)
+[← Clase anterior](#cl-16081) · [Clase siguiente →](#cl-16083)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-15950}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el {#cl-16083}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el a través de comparar alternativas y verificar la calidad: Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el, con una experiencia disciplinar específica, segura y revisable.
@@ -1086,7 +1086,7 @@ Respuesta: $900.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15949) · [Primera clase del OA siguiente →](tp-coov-4-oam-02.md#cl-15951)
+[← Clase anterior](#cl-16082) · [Primera clase del OA siguiente →](tp-coov-4-oam-02.md#cl-16084)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

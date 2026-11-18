@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15586) · [Clase 2](#cl-15587) · [Clase 3](#cl-15588) · [Clase 4](#cl-15589) · [Clase 5](#cl-15590)
+**Clases de este OA:** [Clase 1](#cl-15686) · [Clase 2](#cl-15687) · [Clase 3](#cl-15688) · [Clase 4](#cl-15689) · [Clase 5](#cl-15690)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15586}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15686}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del a través de situar el contexto laboral, la norma y el riesgo: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: En un envase rotulado, para entregarlo según la norma vigente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-trnm-3y4-oae-02.md#cl-15585) · [Clase siguiente →](#cl-15587)
+[← Última clase del OA anterior](tp-trnm-3y4-oae-02.md#cl-15685) · [Clase siguiente →](#cl-15687)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15587}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15687}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del a través de reconocer conceptos, documentos y roles del oficio: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 5 inspecciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15586) · [Clase siguiente →](#cl-15588)
+[← Clase anterior](#cl-15686) · [Clase siguiente →](#cl-15688)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15588}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15688}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del a través de analizar un caso de trabajo en papel: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Sí, vencida por 50 horas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15587) · [Clase siguiente →](#cl-15589)
+[← Clase anterior](#cl-15687) · [Clase siguiente →](#cl-15689)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15589}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15689}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del a través de aplicar un criterio técnico con datos de ejemplo: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del, con una experiencia disciplinar específica, segura y revisable.
@@ -875,9 +875,9 @@ Respuesta: $60.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15588) · [Clase siguiente →](#cl-15590)
+[← Clase anterior](#cl-15688) · [Clase siguiente →](#cl-15690)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15590}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del {#cl-15690}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del a través de comparar alternativas y verificar la calidad: Realizar el mantenimiento básico de equipos y maquinaria principal y auxiliar propios del, con una experiencia disciplinar específica, segura y revisable.
@@ -1082,7 +1082,7 @@ Respuesta: No, falta el responsable
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15589) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-04.md#cl-15591)
+[← Clase anterior](#cl-15689) · [Primera clase del OA siguiente →](tp-trnm-3y4-oae-04.md#cl-15691)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

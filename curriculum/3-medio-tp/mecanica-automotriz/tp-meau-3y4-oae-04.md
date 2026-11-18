@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15129) · [Clase 2](#cl-15130) · [Clase 3](#cl-15131) · [Clase 4](#cl-15132) · [Clase 5](#cl-15133)
+**Clases de este OA:** [Clase 1](#cl-15197) · [Clase 2](#cl-15198) · [Clase 3](#cl-15199) · [Clase 4](#cl-15200) · [Clase 5](#cl-15201)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reparar y probar el funcionamiento de motores de gasolina {#cl-15129}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Reparar y probar el funcionamiento de motores de gasolina {#cl-15197}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar el funcionamiento de motores de gasolina a través de situar el contexto laboral, la norma y el riesgo: Reparar y probar el funcionamiento de motores de gasolina, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-meau-3y4-oae-03.md#cl-15128) · [Clase siguiente →](#cl-15130)
+[← Última clase del OA anterior](tp-meau-3y4-oae-03.md#cl-15196) · [Clase siguiente →](#cl-15198)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reparar y probar el funcionamiento de motores de gasolina {#cl-15130}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Reparar y probar el funcionamiento de motores de gasolina {#cl-15198}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar el funcionamiento de motores de gasolina a través de reconocer conceptos, documentos y roles del oficio: Reparar y probar el funcionamiento de motores de gasolina, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 8 a 1
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15129) · [Clase siguiente →](#cl-15131)
+[← Clase anterior](#cl-15197) · [Clase siguiente →](#cl-15199)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Reparar y probar el funcionamiento de motores de gasolina {#cl-15131}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Reparar y probar el funcionamiento de motores de gasolina {#cl-15199}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar el funcionamiento de motores de gasolina a través de analizar un caso de trabajo en papel: Reparar y probar el funcionamiento de motores de gasolina, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: El sistema eléctrico
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15130) · [Clase siguiente →](#cl-15132)
+[← Clase anterior](#cl-15198) · [Clase siguiente →](#cl-15200)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reparar y probar el funcionamiento de motores de gasolina {#cl-15132}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Reparar y probar el funcionamiento de motores de gasolina {#cl-15200}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar el funcionamiento de motores de gasolina a través de aplicar un criterio técnico con datos de ejemplo: Reparar y probar el funcionamiento de motores de gasolina, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 30 L
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15131) · [Clase siguiente →](#cl-15133)
+[← Clase anterior](#cl-15199) · [Clase siguiente →](#cl-15201)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reparar y probar el funcionamiento de motores de gasolina {#cl-15133}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Reparar y probar el funcionamiento de motores de gasolina {#cl-15201}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar reparar y probar el funcionamiento de motores de gasolina a través de comparar alternativas y verificar la calidad: Reparar y probar el funcionamiento de motores de gasolina, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15132) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-05.md#cl-15134)
+[← Clase anterior](#cl-15200) · [Primera clase del OA siguiente →](tp-meau-3y4-oae-05.md#cl-15202)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

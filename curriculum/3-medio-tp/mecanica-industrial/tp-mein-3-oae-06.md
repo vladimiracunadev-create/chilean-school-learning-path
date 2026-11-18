@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15171) · [Clase 2](#cl-15172) · [Clase 3](#cl-15173) · [Clase 4](#cl-15174)
+**Clases de este OA:** [Clase 1](#cl-15239) · [Clase 2](#cl-15240) · [Clase 3](#cl-15241) · [Clase 4](#cl-15242)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar constantemente la normativa pertinente de higiene {#cl-15171}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar constantemente la normativa pertinente de higiene {#cl-15239}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente la normativa pertinente de higiene a través de situar el contexto laboral, la norma y el riesgo: Aplicar constantemente la normativa pertinente de higiene, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Incidente
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-mein-3-oae-05.md#cl-15170) · [Clase siguiente →](#cl-15172)
+[← Última clase del OA anterior](tp-mein-3-oae-05.md#cl-15238) · [Clase siguiente →](#cl-15240)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar constantemente la normativa pertinente de higiene {#cl-15172}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar constantemente la normativa pertinente de higiene {#cl-15240}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente la normativa pertinente de higiene a través de reconocer conceptos, documentos y roles del oficio: Aplicar constantemente la normativa pertinente de higiene, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: La hoja de datos de seguridad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15171) · [Clase siguiente →](#cl-15173)
+[← Clase anterior](#cl-15239) · [Clase siguiente →](#cl-15241)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar constantemente la normativa pertinente de higiene {#cl-15173}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar constantemente la normativa pertinente de higiene {#cl-15241}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente la normativa pertinente de higiene a través de analizar un caso de trabajo en papel: Aplicar constantemente la normativa pertinente de higiene, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Control de ingeniería
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15172) · [Clase siguiente →](#cl-15174)
+[← Clase anterior](#cl-15240) · [Clase siguiente →](#cl-15242)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar constantemente la normativa pertinente de higiene {#cl-15174}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar constantemente la normativa pertinente de higiene {#cl-15242}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar constantemente la normativa pertinente de higiene a través de aplicar un criterio técnico con datos de ejemplo: Aplicar constantemente la normativa pertinente de higiene, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 12 horas-persona
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15173) · [Primera clase del OA siguiente →](tp-mein-3-oae-07.md#cl-15175)
+[← Clase anterior](#cl-15241) · [Primera clase del OA siguiente →](tp-mein-3-oae-07.md#cl-15243)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

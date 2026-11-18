@@ -6,7 +6,7 @@
 
 **1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456 · 3° medio: 495 desarrolladas · 4° medio: 466 desarrolladas**
 
-> El catálogo reúne **3.694 OA y 16.901 registros pedagógicos**: 12.745 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
+> El catálogo reúne **3.740 OA y 17.101 registros pedagógicos**: 12.945 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
 
 ---
 
@@ -282,7 +282,7 @@ Las doce denominaciones curriculares tienen desarrollo interno completo; habilid
 <!-- TP:syl -->
 ### 3° y 4° medio · Formación técnico-profesional (especialidades publicadas)
 
-29 especialidades de los sectores Administración, Agropecuario, Alimentación, Confección, Construcción, Electricidad, Gráfico, Hotelería y Turismo, Maderero, Marítimo, Metalmecánica, Salud y Educación, Tecnología y Comunicaciones, Transversal, con los objetivos de las Bases Curriculares TP (sin módulos) y 2.344 clases con cuaderno del estudiante, en papel y sin taller ni práctica. Detalle en el [índice de especialidades](formacion-tp/README.md).
+32 especialidades de los sectores Administración, Agropecuario, Alimentación, Confección, Construcción, Electricidad, Gráfico, Hotelería y Turismo, Maderero, Marítimo, Metalmecánica, Minero, Salud y Educación, Tecnología y Comunicaciones, Transversal, con los objetivos de las Bases Curriculares TP (sin módulos) y 2.544 clases con cuaderno del estudiante, en papel y sin taller ni práctica. Detalle en el [índice de especialidades](formacion-tp/README.md).
 
 <!-- /TP:syl -->
 ### 3° y 4° medio · Electivos HC (Formación Diferenciada Humanístico-Científica)

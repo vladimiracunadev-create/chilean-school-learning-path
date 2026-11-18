@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15097) · [Clase 2](#cl-15098) · [Clase 3](#cl-15099) · [Clase 4](#cl-15100) · [Clase 5](#cl-15101)
+**Clases de este OA:** [Clase 1](#cl-15165) · [Clase 2](#cl-15166) · [Clase 3](#cl-15167) · [Clase 4](#cl-15168) · [Clase 5](#cl-15169)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Mantener y reparar artefactos {#cl-15097}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Mantener y reparar artefactos {#cl-15165}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reparar artefactos a través de situar el contexto laboral, la norma y el riesgo: Mantener y reparar artefactos, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 24 artefactos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-insa-3y4-oae-04.md#cl-15096) · [Clase siguiente →](#cl-15098)
+[← Última clase del OA anterior](tp-insa-3y4-oae-04.md#cl-15164) · [Clase siguiente →](#cl-15166)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Mantener y reparar artefactos {#cl-15098}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Mantener y reparar artefactos {#cl-15166}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reparar artefactos a través de reconocer conceptos, documentos y roles del oficio: Mantener y reparar artefactos, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: En el año 6
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15097) · [Clase siguiente →](#cl-15099)
+[← Clase anterior](#cl-15165) · [Clase siguiente →](#cl-15167)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Mantener y reparar artefactos {#cl-15099}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Mantener y reparar artefactos {#cl-15167}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reparar artefactos a través de analizar un caso de trabajo en papel: Mantener y reparar artefactos, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 200 litros por día
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15098) · [Clase siguiente →](#cl-15100)
+[← Clase anterior](#cl-15166) · [Clase siguiente →](#cl-15168)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Mantener y reparar artefactos {#cl-15100}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Mantener y reparar artefactos {#cl-15168}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reparar artefactos a través de aplicar un criterio técnico con datos de ejemplo: Mantener y reparar artefactos, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: La de gravedad 3
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15099) · [Clase siguiente →](#cl-15101)
+[← Clase anterior](#cl-15167) · [Clase siguiente →](#cl-15169)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Mantener y reparar artefactos {#cl-15101}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Mantener y reparar artefactos {#cl-15169}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar mantener y reparar artefactos a través de comparar alternativas y verificar la calidad: Mantener y reparar artefactos, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 75 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15100) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-06.md#cl-15102)
+[← Clase anterior](#cl-15168) · [Primera clase del OA siguiente →](tp-insa-3y4-oae-06.md#cl-15170)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

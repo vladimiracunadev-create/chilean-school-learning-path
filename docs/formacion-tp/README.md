@@ -45,7 +45,11 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Metalmecánica** | | | | |
 | Construcciones Metálicas | alto | 9 | 76 | [📘 Leer guía](construcciones-metalicas.md) |
 | Mecánica Automotriz | alto | 8 | 70 | [📘 Leer guía](mecanica-automotriz.md) |
+| Mecánica de Mantenimiento de Aeronaves | alto | 7 | 64 | [📘 Leer guía](mecanica-de-mantenimiento-de-aeronaves.md) |
 | Mecánica Industrial | alto | 23 | 98 | [📘 Leer guía](mecanica-industrial.md) |
+| **Minero** | | | | |
+| Asistencia en Geología | alto | 8 | 66 | [📘 Leer guía](asistencia-en-geologia.md) |
+| Explotación Minera | alto | 8 | 70 | [📘 Leer guía](explotacion-minera.md) |
 | **Salud y Educación** | | | | |
 | Atención de Párvulos | medio | 10 | 86 | [📘 Leer guía](atencion-de-parvulos.md) |
 | **Tecnología y Comunicaciones** | | | | |
@@ -55,7 +59,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **323** | **2344** | |
+| **Total publicado** | | **346** | **2544** | |
 
 ## Lo que no cubren
 

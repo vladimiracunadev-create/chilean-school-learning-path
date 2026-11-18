@@ -292,7 +292,10 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Tripulación de Naves Mercantes y Especiales** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/tripulacion-de-naves-mercantes-y-especiales.md).
 - **Construcciones Metálicas** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/construcciones-metalicas.md).
 - **Mecánica Automotriz** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/mecanica-automotriz.md).
+- **Mecánica de Mantenimiento de Aeronaves** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/mecanica-de-mantenimiento-de-aeronaves.md).
 - **Mecánica Industrial** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/mecanica-industrial.md).
+- **Asistencia en Geología** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/asistencia-en-geologia.md).
+- **Explotación Minera** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/explotacion-minera.md).
 - **Atención de Párvulos** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/atencion-de-parvulos.md).
 - **Conectividad y Redes** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/conectividad-y-redes.md).
 - **Programación** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/programacion.md).

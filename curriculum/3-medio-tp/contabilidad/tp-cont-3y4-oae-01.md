@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14818) · [Clase 2](#cl-14819) · [Clase 3](#cl-14820) · [Clase 4](#cl-14821)
+**Clases de este OA:** [Clase 1](#cl-14851) · [Clase 2](#cl-14852) · [Clase 3](#cl-14853) · [Clase 4](#cl-14854)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14818}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14851}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable sobre la marcha de la empresa a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Usuaria externa; mira dinero disponible y deudas con proveedores
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-14819)
+[Clase siguiente →](#cl-14852)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14819}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14852}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable sobre la marcha de la empresa a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Guía de despacho
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14818) · [Clase siguiente →](#cl-14820)
+[← Clase anterior](#cl-14851) · [Clase siguiente →](#cl-14853)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14820}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14853}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable sobre la marcha de la empresa a través de analizar un caso de trabajo en papel: Leer y utilizar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Ambos son no corrientes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14819) · [Clase siguiente →](#cl-14821)
+[← Clase anterior](#cl-14852) · [Clase siguiente →](#cl-14854)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14821}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información contable sobre la marcha de la empresa {#cl-14854}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar información contable sobre la marcha de la empresa a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: Revisar el detalle de los gastos que más subieron
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14820) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-02.md#cl-14822)
+[← Clase anterior](#cl-14853) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-02.md#cl-14855)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

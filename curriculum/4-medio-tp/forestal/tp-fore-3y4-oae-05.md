@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16189) · [Clase 2](#cl-16190) · [Clase 3](#cl-16191) · [Clase 4](#cl-16192) · [Clase 5](#cl-16193)
+**Clases de este OA:** [Clase 1](#cl-16357) · [Clase 2](#cl-16358) · [Clase 3](#cl-16359) · [Clase 4](#cl-16360) · [Clase 5](#cl-16361)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas para el control de patógenos {#cl-16189}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Aplicar técnicas para el control de patógenos {#cl-16357}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas para el control de patógenos a través de situar el contexto laboral, la norma y el riesgo: Aplicar técnicas para el control de patógenos, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 3 visitas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-fore-3y4-oae-04.md#cl-16188) · [Clase siguiente →](#cl-16190)
+[← Última clase del OA anterior](tp-fore-3y4-oae-04.md#cl-16356) · [Clase siguiente →](#cl-16358)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas para el control de patógenos {#cl-16190}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Aplicar técnicas para el control de patógenos {#cl-16358}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas para el control de patógenos a través de reconocer conceptos, documentos y roles del oficio: Aplicar técnicas para el control de patógenos, con una experiencia disciplinar específica, segura y revisable.
@@ -462,9 +462,9 @@ Respuesta: Hojas amarillas: síntoma; polvillo blanco: signo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16189) · [Clase siguiente →](#cl-16191)
+[← Clase anterior](#cl-16357) · [Clase siguiente →](#cl-16359)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas para el control de patógenos {#cl-16191}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Aplicar técnicas para el control de patógenos {#cl-16359}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas para el control de patógenos a través de analizar un caso de trabajo en papel: Aplicar técnicas para el control de patógenos, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: El sector A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16190) · [Clase siguiente →](#cl-16192)
+[← Clase anterior](#cl-16358) · [Clase siguiente →](#cl-16360)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas para el control de patógenos {#cl-16192}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas para el control de patógenos {#cl-16360}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas para el control de patógenos a través de aplicar un criterio técnico con datos de ejemplo: Aplicar técnicas para el control de patógenos, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: $12.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16191) · [Clase siguiente →](#cl-16193)
+[← Clase anterior](#cl-16359) · [Clase siguiente →](#cl-16361)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas para el control de patógenos {#cl-16193}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Aplicar técnicas para el control de patógenos {#cl-16361}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar técnicas para el control de patógenos a través de comparar alternativas y verificar la calidad: Aplicar técnicas para el control de patógenos, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 10 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16192) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-06.md#cl-16194)
+[← Clase anterior](#cl-16360) · [Primera clase del OA siguiente →](tp-fore-3y4-oae-06.md#cl-16362)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

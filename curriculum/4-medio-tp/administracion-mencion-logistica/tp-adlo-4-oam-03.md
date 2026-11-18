@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15697) · [Clase 2](#cl-15698) · [Clase 3](#cl-15699) · [Clase 4](#cl-15700)
+**Clases de este OA:** [Clase 1](#cl-15797) · [Clase 2](#cl-15798) · [Clase 3](#cl-15799) · [Clase 4](#cl-15800)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15697}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15797}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de a través de situar el contexto laboral, la norma y el riesgo: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 35 (caso de ejemplo, inventado) de «Distribuidora Andes del Sur». Sector
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-adlo-4-oam-02.md#cl-15696) · [Clase siguiente →](#cl-15698)
+[← Última clase del OA anterior](tp-adlo-4-oam-02.md#cl-15796) · [Clase siguiente →](#cl-15798)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15698}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15798}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de a través de reconocer conceptos, documentos y roles del oficio: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 36 (datos de ejemplo, inventados) de «Distribuidora Andes del Sur». Pale
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15697) · [Clase siguiente →](#cl-15699)
+[← Clase anterior](#cl-15797) · [Clase siguiente →](#cl-15799)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15699}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15799}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de a través de analizar un caso de trabajo en papel: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 37 (caso de ejemplo, inventado) de «Distribuidora Andes del Sur». Estant
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15698) · [Clase siguiente →](#cl-15700)
+[← Clase anterior](#cl-15798) · [Clase siguiente →](#cl-15800)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15700}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de {#cl-15800}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de a través de aplicar un criterio técnico con datos de ejemplo: Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 38 (datos de ejemplo, inventados) de «Distribuidora Andes del Sur». Se d
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15699) · [Primera clase del OA siguiente →](tp-adlo-4-oam-04.md#cl-15701)
+[← Clase anterior](#cl-15799) · [Primera clase del OA siguiente →](tp-adlo-4-oam-04.md#cl-15801)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15653) · [Clase 2](#cl-15654) · [Clase 3](#cl-15655) · [Clase 4](#cl-15656) · [Clase 5](#cl-15657)
+**Clases de este OA:** [Clase 1](#cl-15753) · [Clase 2](#cl-15754) · [Clase 3](#cl-15755) · [Clase 4](#cl-15756) · [Clase 5](#cl-15757)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Manejar reproductores de especies hidrobiológicas {#cl-15653}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Manejar reproductores de especies hidrobiológicas {#cl-15753}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar reproductores de especies hidrobiológicas a través de situar el contexto laboral, la norma y el riesgo: Manejar reproductores de especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -257,9 +257,9 @@ Respuesta: Control administrativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15654)
+[Clase siguiente →](#cl-15754)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Manejar reproductores de especies hidrobiológicas {#cl-15654}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Manejar reproductores de especies hidrobiológicas {#cl-15754}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar reproductores de especies hidrobiológicas a través de reconocer conceptos, documentos y roles del oficio: Manejar reproductores de especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -467,9 +467,9 @@ Respuesta: La ficha del lote
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15653) · [Clase siguiente →](#cl-15655)
+[← Clase anterior](#cl-15753) · [Clase siguiente →](#cl-15755)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Manejar reproductores de especies hidrobiológicas {#cl-15655}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Manejar reproductores de especies hidrobiológicas {#cl-15755}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar reproductores de especies hidrobiológicas a través de analizar un caso de trabajo en papel: Manejar reproductores de especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -676,9 +676,9 @@ Respuesta: No cumple: queda 5 puntos bajo la meta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15654) · [Clase siguiente →](#cl-15656)
+[← Clase anterior](#cl-15754) · [Clase siguiente →](#cl-15756)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Manejar reproductores de especies hidrobiológicas {#cl-15656}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Manejar reproductores de especies hidrobiológicas {#cl-15756}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar reproductores de especies hidrobiológicas a través de aplicar un criterio técnico con datos de ejemplo: Manejar reproductores de especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -884,9 +884,9 @@ Respuesta: 9 kg por día
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15655) · [Clase siguiente →](#cl-15657)
+[← Clase anterior](#cl-15755) · [Clase siguiente →](#cl-15757)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Manejar reproductores de especies hidrobiológicas {#cl-15657}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Manejar reproductores de especies hidrobiológicas {#cl-15757}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar reproductores de especies hidrobiológicas a través de comparar alternativas y verificar la calidad: Manejar reproductores de especies hidrobiológicas, con una experiencia disciplinar específica, segura y revisable.
@@ -1091,7 +1091,7 @@ Respuesta: Porque el ahorro no compensa la pérdida de trazabilidad y el mayor r
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15656) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-02.md#cl-15658)
+[← Clase anterior](#cl-15756) · [Primera clase del OA siguiente →](tp-acui-3y4-oae-02.md#cl-15758)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

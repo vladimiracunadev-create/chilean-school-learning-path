@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15484) · [Clase 2](#cl-15485) · [Clase 3](#cl-15486) · [Clase 4](#cl-15487) · [Clase 5](#cl-15488)
+**Clases de este OA:** [Clase 1](#cl-15584) · [Clase 2](#cl-15585) · [Clase 3](#cl-15586) · [Clase 4](#cl-15587) · [Clase 5](#cl-15588)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15484}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15584}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar el cierre de cuenta en los tiempos establecidos a través de situar el contexto laboral, la norma y el riesgo: Preparar el cierre de cuenta en los tiempos establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Un abono
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-seho-3y4-oae-05.md#cl-15483) · [Clase siguiente →](#cl-15485)
+[← Última clase del OA anterior](tp-seho-3y4-oae-05.md#cl-15583) · [Clase siguiente →](#cl-15585)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15485}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15585}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar el cierre de cuenta en los tiempos establecidos a través de reconocer conceptos, documentos y roles del oficio: Preparar el cierre de cuenta en los tiempos establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Una boleta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15484) · [Clase siguiente →](#cl-15486)
+[← Clase anterior](#cl-15584) · [Clase siguiente →](#cl-15586)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15486}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15586}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar el cierre de cuenta en los tiempos establecidos a través de analizar un caso de trabajo en papel: Preparar el cierre de cuenta en los tiempos establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 4 noches
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15485) · [Clase siguiente →](#cl-15487)
+[← Clase anterior](#cl-15585) · [Clase siguiente →](#cl-15587)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15487}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15587}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar el cierre de cuenta en los tiempos establecidos a través de aplicar un criterio técnico con datos de ejemplo: Preparar el cierre de cuenta en los tiempos establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: $6.500
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15486) · [Clase siguiente →](#cl-15488)
+[← Clase anterior](#cl-15586) · [Clase siguiente →](#cl-15588)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15488}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Preparar el cierre de cuenta en los tiempos establecidos {#cl-15588}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar preparar el cierre de cuenta en los tiempos establecidos a través de comparar alternativas y verificar la calidad: Preparar el cierre de cuenta en los tiempos establecidos, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: Faltan $2.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15487) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-07.md#cl-15489)
+[← Clase anterior](#cl-15587) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-07.md#cl-15589)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

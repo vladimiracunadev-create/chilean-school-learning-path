@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16784) · [Clase 2](#cl-16785) · [Clase 3](#cl-16786) · [Clase 4](#cl-16787)
+**Clases de este OA:** [Clase 1](#cl-16984) · [Clase 2](#cl-16985) · [Clase 3](#cl-16986) · [Clase 4](#cl-16987)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar esquemas, proyectos y {#cl-16784}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar esquemas, proyectos y {#cl-16984}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar esquemas, proyectos y a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar esquemas, proyectos y, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: 5 metros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-16785)
+[Clase siguiente →](#cl-16985)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar esquemas, proyectos y {#cl-16785}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar esquemas, proyectos y {#cl-16985}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar esquemas, proyectos y a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar esquemas, proyectos y, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Un cable de voz entre el teléfono y la central
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16784) · [Clase siguiente →](#cl-16786)
+[← Clase anterior](#cl-16984) · [Clase siguiente →](#cl-16986)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar esquemas, proyectos y {#cl-16786}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar esquemas, proyectos y {#cl-16986}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar esquemas, proyectos y a través de analizar un caso de trabajo en papel: Leer y utilizar esquemas, proyectos y, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: Falta 1 conector
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16785) · [Clase siguiente →](#cl-16787)
+[← Clase anterior](#cl-16985) · [Clase siguiente →](#cl-16987)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar esquemas, proyectos y {#cl-16787}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar esquemas, proyectos y {#cl-16987}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar esquemas, proyectos y a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar esquemas, proyectos y, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 2 rollos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16786) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-02.md#cl-16788)
+[← Clase anterior](#cl-16986) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-02.md#cl-16988)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

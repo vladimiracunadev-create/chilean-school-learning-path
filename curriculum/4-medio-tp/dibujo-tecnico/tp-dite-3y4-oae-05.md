@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-16048) · [Clase 2](#cl-16049) · [Clase 3](#cl-16050) · [Clase 4](#cl-16051) · [Clase 5](#cl-16052)
+**Clases de este OA:** [Clase 1](#cl-16181) · [Clase 2](#cl-16182) · [Clase 3](#cl-16183) · [Clase 4](#cl-16184) · [Clase 5](#cl-16185)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital piezas {#cl-16048}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital piezas {#cl-16181}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital piezas a través de situar el contexto laboral, la norma y el riesgo: Dibujar en forma gráfica digital piezas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Espesor, material y posición de los agujeros
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-dite-3y4-oae-04.md#cl-16047) · [Clase siguiente →](#cl-16049)
+[← Última clase del OA anterior](tp-dite-3y4-oae-04.md#cl-16180) · [Clase siguiente →](#cl-16182)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital piezas {#cl-16049}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital piezas {#cl-16182}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital piezas a través de reconocer conceptos, documentos y roles del oficio: Dibujar en forma gráfica digital piezas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: La vista superior
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16048) · [Clase siguiente →](#cl-16050)
+[← Clase anterior](#cl-16181) · [Clase siguiente →](#cl-16183)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Dibujar en forma gráfica digital piezas {#cl-16050}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Dibujar en forma gráfica digital piezas {#cl-16183}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital piezas a través de analizar un caso de trabajo en papel: Dibujar en forma gráfica digital piezas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 150 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16049) · [Clase siguiente →](#cl-16051)
+[← Clase anterior](#cl-16182) · [Clase siguiente →](#cl-16184)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital piezas {#cl-16051}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital piezas {#cl-16184}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital piezas a través de aplicar un criterio técnico con datos de ejemplo: Dibujar en forma gráfica digital piezas, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: 2 mm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16050) · [Clase siguiente →](#cl-16052)
+[← Clase anterior](#cl-16183) · [Clase siguiente →](#cl-16185)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Dibujar en forma gráfica digital piezas {#cl-16052}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Dibujar en forma gráfica digital piezas {#cl-16185}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dibujar en forma gráfica digital piezas a través de comparar alternativas y verificar la calidad: Dibujar en forma gráfica digital piezas, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: X cuesta $10.000 e Y cuesta $13.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-16051) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-06.md#cl-16053)
+[← Clase anterior](#cl-16184) · [Primera clase del OA siguiente →](tp-dite-3y4-oae-06.md#cl-16186)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
