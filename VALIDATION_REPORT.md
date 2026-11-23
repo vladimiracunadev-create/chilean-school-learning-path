@@ -4,10 +4,10 @@ Fecha: 2026-10-02
 
 ## Alcance verificable
 
-- 17.420 registros pedagógicos con código único y ancla web estable: 13.264 clases disciplinares y 4.156 experiencias de integración transversal.
-- 3.800 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
+- 17.540 registros pedagógicos con código único y ancla web estable: 13.384 clases disciplinares y 4.156 experiencias de integración transversal.
+- 3.816 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
 - 12 niveles, 35 asignaturas y 595 vínculos de lectura.
-- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio: 13.264 desarrolladas en total; 4.156 experiencias transversales integradas y 0 revisiones humanas registradas.
+- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio: 13.384 desarrolladas en total; 4.156 experiencias transversales integradas y 0 revisiones humanas registradas.
 - Desde 1° básico hasta 4° medio completos internamente, con 0 propuestas pendientes dentro de los doce niveles.
 - 3° medio completo internamente: 98 OA y 495 clases en dieciocho denominaciones, con fuentes oficiales y criterios pedagógicos internos rotulados.
 - 4° medio completo internamente: 91 OA y 466 clases en diecisiete denominaciones, con fuentes oficiales y criterios pedagógicos internos rotulados.

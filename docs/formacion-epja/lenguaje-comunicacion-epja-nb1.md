@@ -1,8 +1,8 @@
 # Lenguaje y Comunicación · EPJA Básica N1
 
-[⬅️ Índice de asignaturas EPJA](README.md)
+[⬅️ Índice de asignaturas EPJA](README.md) · [Matemática · EPJA Básica N1 →](matematica-epja-nb1.md)
 
-**16 actividades de desempeño (objetivos) · 118 clases · cuaderno del estudiante escrito en 0 de 118 clases · revisión humana pendiente**
+**16 actividades de desempeño (objetivos) · 118 clases · cuaderno del estudiante escrito en 118 de 118 clases · revisión humana pendiente**
 
 > **Modalidad:** Educación de Personas Jóvenes y Adultas (EPJA) · **Educación Básica Nivel 1 (1.º a 4.º básico).** Los objetivos son las actividades de desempeño del [programa de estudio oficial](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0) ([PDF](https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Lenguaje%20y%20Comunicaci%C3%B3n%20NB1.pdf)), con sus objetivos de aprendizaje nucleares, conocimientos esenciales y horas pedagógicas. Cada hora pedagógica asignada a un desempeño se publica como una clase (118 clases por curso; los 4 módulos suman 120 horas). 
 
@@ -16,8 +16,6 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 2. Sigue el orden de las clases: parten de lo que la persona ya sabe, avanzan con apoyo, y terminan aplicando y revisando lo logrado.
 3. Cuando la clase tiene cuaderno del estudiante, úsalo para practicar; mientras esté pendiente, la clase se conduce con el plan docente de la ficha.
 4. La asistencia puede ser irregular: cada clase se puede recuperar en una versión corta sin quitar el desafío.
-
-> **Cuaderno del estudiante pendiente:** 118 de 118 clases todavía no tienen cuaderno; figuran como pendientes en [Cobertura del material del estudiante](../COBERTURA_ESTUDIANTE.md).
 
 ## 📖 Recorrido módulo por módulo
 
@@ -46,15 +44,15 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17303) |
-| 2 | Reconocer la idea y su vocabulario: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17304) |
-| 3 | Ver cómo se hace, paso a paso: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17305) |
-| 4 | Practicar juntos con apoyo: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17306) |
-| 5 | Practicar de forma independiente: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17307) |
-| 6 | Aplicar a una situación de trabajo, hogar o comunidad: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17308) |
-| 7 | Corregir errores y comparar caminos: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17309) |
-| 8 | Explicar lo aprendido a otra persona: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17310) |
-| 9 | Revisar lo logrado y decidir los pasos siguientes: Identificar el tema e idea principal de un video informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17311) |
+| 1 | Hoy digo de qué trata un video que ya conozco de la vida diaria. Lo hago con un guion escrito. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17303) |
+| 2 | Hoy distingo el tema de la idea principal y aprendo palabras para hablar de un video. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17304) |
+| 3 | Hoy sigo tres pasos para encontrar el tema y la idea principal de un guion. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17305) |
+| 4 | Hoy practico con ayuda: completo frases guiadas para decir el tema y la idea principal. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17306) |
+| 5 | Hoy practico solo: leo un guion nuevo y escribo su tema y su idea principal sin ayuda. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17307) |
+| 6 | Hoy uso lo aprendido en un caso de trabajo y otro de la comunidad. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17308) |
+| 7 | Hoy comparo respuestas, encuentro errores y elijo la mejor forma de decir el tema y la idea. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17309) |
+| 8 | Hoy explico con mis palabras el tema y la idea principal de un video a otra persona. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17310) |
+| 9 | Hoy reviso lo que logré en todo el desempeño y decido qué practicar después. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-01.md#cl-17311) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -73,13 +71,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Identificar el tema e idea principal de un cuento | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17312) |
-| 2 | Reconocer la idea y su vocabulario: Identificar el tema e idea principal de un cuento | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17313) |
-| 3 | Ver cómo se hace, paso a paso: Identificar el tema e idea principal de un cuento | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17314) |
-| 4 | Practicar juntos con apoyo: Identificar el tema e idea principal de un cuento | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17315) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Identificar el tema e idea principal de un cuento | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17316) |
-| 6 | Explicar lo aprendido a otra persona: Identificar el tema e idea principal de un cuento | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17317) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Identificar el tema e idea principal de un cuento | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17318) |
+| 1 | Hoy cuento de qué trata un cuento y reconozco quién es el personaje y qué le pasa. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17312) |
+| 2 | Hoy distingo personajes, lugar, problema y final de un cuento, y aprendo palabras de emociones. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17313) |
+| 3 | Hoy sigo tres preguntas para encontrar el tema y la idea principal de un cuento. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17314) |
+| 4 | Hoy practico con ayuda: completo frases para decir personaje, problema, tema e idea principal de un cuento. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17315) |
+| 5 | Hoy aplico el tema y la idea principal de un cuento a situaciones del trabajo, la casa y los trámites. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17316) |
+| 6 | Hoy cuento un cuento a otra persona con voz clara, en orden, y explico su tema. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17317) |
+| 7 | Hoy reviso lo que aprendí sobre el tema y la idea principal de un cuento y decido mis pasos siguientes. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-02.md#cl-17318) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -99,13 +97,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Identificar el tema e idea principal de un cuento (vocabulario) | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17319) |
-| 2 | Reconocer la idea y su vocabulario: Identificar el tema e idea principal de un cuento (vocabulario) | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17320) |
-| 3 | Ver cómo se hace, paso a paso: Identificar el tema e idea principal de un cuento (vocabulario) | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17321) |
-| 4 | Practicar juntos con apoyo: Identificar el tema e idea principal de un cuento (vocabulario) | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17322) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Identificar el tema e idea principal de un cuento (vocabulario) | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17323) |
-| 6 | Explicar lo aprendido a otra persona: Identificar el tema e idea principal de un cuento (vocabulario) | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17324) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Identificar el tema e idea principal de un cuento (vocabulario) | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17325) |
+| 1 | Hoy conozco palabras del cuento y descubro que una misma idea se puede decir de varias maneras. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17319) |
+| 2 | Hoy aprendo qué son los sinónimos y reconozco palabras que significan casi lo mismo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17320) |
+| 3 | Hoy descubro los antónimos y aprendo a usarlos paso a paso. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17321) |
+| 4 | Hoy practico con apoyo las familias de palabras y descubro cómo se forman. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17322) |
+| 5 | Hoy elijo la palabra más precisa para un mensaje del trabajo, de la casa o de la comunidad. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17323) |
+| 6 | Hoy explico a otra persona qué significan algunas palabras y cómo se relacionan. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17324) |
+| 7 | Hoy reviso mis aprendizajes sobre sinónimos, antónimos y familias de palabras y decido qué practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-03.md#cl-17325) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -123,13 +121,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Leer fluidamente una creación colaborativa | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17326) |
-| 2 | Reconocer la idea y su vocabulario: Leer fluidamente una creación colaborativa | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17327) |
-| 3 | Ver cómo se hace, paso a paso: Leer fluidamente una creación colaborativa | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17328) |
-| 4 | Practicar juntos con apoyo: Leer fluidamente una creación colaborativa | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17329) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Leer fluidamente una creación colaborativa | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17330) |
-| 6 | Explicar lo aprendido a otra persona: Leer fluidamente una creación colaborativa | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17331) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Leer fluidamente una creación colaborativa | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17332) |
+| 1 | Hoy descubro qué es una creación colaborativa y leo en voz alta una receta escrita entre todo el curso. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17326) |
+| 2 | Hoy aprendo cómo los puntos, las comas y los signos guían la lectura en voz alta y reconozco palabras nuevas. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17327) |
+| 3 | Hoy sigo pasos para leer un cuento escrito entre varias personas con buen ritmo y entonación. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17328) |
+| 4 | Hoy practico con apoyo la lectura de un aviso escrito entre vecinos, por turnos y con eco. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17329) |
+| 5 | Hoy aplico la lectura fluida a una situación del trabajo, de la casa o de la comunidad. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17330) |
+| 6 | Hoy explico a otra persona cómo se escribió una creación colaborativa y cómo se lee con fluidez. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17331) |
+| 7 | Hoy reviso mis avances en lectura fluida y decido qué practicar para seguir mejorando. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-04.md#cl-17332) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -157,15 +155,15 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17333) |
-| 2 | Reconocer la idea y su vocabulario: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17334) |
-| 3 | Ver cómo se hace, paso a paso: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17335) |
-| 4 | Practicar juntos con apoyo: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17336) |
-| 5 | Practicar de forma independiente: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17337) |
-| 6 | Aplicar a una situación de trabajo, hogar o comunidad: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17338) |
-| 7 | Corregir errores y comparar caminos: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17339) |
-| 8 | Explicar lo aprendido a otra persona: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17340) |
-| 9 | Revisar lo logrado y decidir los pasos siguientes: Describir una fotografía | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17341) |
+| 1 | Hoy observo una fotografía descrita en palabras y digo quién aparece, dónde está y qué hace. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17333) |
+| 2 | Hoy reconozco los nombres de personas, lugares y objetos, y las palabras que dicen cómo son y qué hacen. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17334) |
+| 3 | Hoy armo paso a paso una oración simple con quién, qué hace y dónde para describir una fotografía. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17335) |
+| 4 | Hoy practico con apoyo la concordancia: el, la, los, las, un, una y los adjetivos que acompañan al sustantivo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17336) |
+| 5 | Hoy practico solo: describo una fotografía con una oración simple, con concordancia y sin ayuda. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17337) |
+| 6 | Hoy uso la descripción de una fotografía en una situación real: escribir un aviso de venta. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17338) |
+| 7 | Hoy corrijo errores de ortografía y puntuación en la descripción de fotografías y comparo versiones. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17339) |
+| 8 | Hoy explico a otra persona cómo describir una fotografía y leo mi descripción en voz alta. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17340) |
+| 9 | Hoy reviso lo aprendido sobre describir fotografías y decido qué practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-05.md#cl-17341) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -185,13 +183,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Escribir una ficha sobre una hierba medicinal | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17342) |
-| 2 | Reconocer la idea y su vocabulario: Escribir una ficha sobre una hierba medicinal | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17343) |
-| 3 | Ver cómo se hace, paso a paso: Escribir una ficha sobre una hierba medicinal | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17344) |
-| 4 | Practicar juntos con apoyo: Escribir una ficha sobre una hierba medicinal | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17345) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Escribir una ficha sobre una hierba medicinal | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17346) |
-| 6 | Explicar lo aprendido a otra persona: Escribir una ficha sobre una hierba medicinal | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17347) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Escribir una ficha sobre una hierba medicinal | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17348) |
+| 1 | Hoy conozco qué es una ficha informativa de una hierba y reconozco sus partes: nombre, descripción, uso y recomendaciones. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17342) |
+| 2 | Hoy aprendo palabras de las fichas informativas y reconozco las ideas principales y los detalles de una ficha. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17343) |
+| 3 | Hoy sigo pasos para escribir una ficha informativa de una hierba con sus cuatro partes. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17344) |
+| 4 | Hoy practico con apoyo: completo una ficha guiada y cuido la puntuación y la concordancia. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17345) |
+| 5 | Hoy uso la ficha en la comunidad: leo y escribo una ficha clara para el diario mural de un barrio, con lenguaje respetuoso y seguro. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17346) |
+| 6 | Hoy explico oralmente mi ficha a otra persona con voz clara y gestos adecuados. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17347) |
+| 7 | Hoy reviso mi aprendizaje sobre fichas informativas y decido cómo seguir practicando. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-06.md#cl-17348) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -212,13 +210,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Escribir una carta al director que manifieste una problemática social | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17349) |
-| 2 | Reconocer la idea y su vocabulario: Escribir una carta al director que manifieste una problemática social | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17350) |
-| 3 | Ver cómo se hace, paso a paso: Escribir una carta al director que manifieste una problemática social | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17351) |
-| 4 | Practicar juntos con apoyo: Escribir una carta al director que manifieste una problemática social | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17352) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Escribir una carta al director que manifieste una problemática social | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17353) |
-| 6 | Explicar lo aprendido a otra persona: Escribir una carta al director que manifieste una problemática social | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17354) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Escribir una carta al director que manifieste una problemática social | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17355) |
+| 1 | Hoy conozco qué es una carta al director y reconozco un problema social en una carta de ejemplo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17349) |
+| 2 | Hoy aprendo las partes de una carta: lugar y fecha, saludo, cuerpo, despedida y firma. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17350) |
+| 3 | Hoy sigo pasos para ordenar las ideas del cuerpo de una carta: problema, causa, petición y despedida. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17351) |
+| 4 | Hoy practico con apoyo: completo una carta guiada cuidando mayúsculas, comas, tildes y concordancia. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17352) |
+| 5 | Hoy escribo una carta sobre un problema de mi trabajo o de mi barrio, con respeto y con datos de ejemplo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17353) |
+| 6 | Hoy leo en voz alta una carta y explico a otra persona por qué la escribí, con tono respetuoso. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17354) |
+| 7 | Hoy reviso lo que aprendí sobre escribir cartas al director y decido cómo seguir mejorando. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-07.md#cl-17355) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -238,13 +236,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17356) |
-| 2 | Reconocer la idea y su vocabulario: Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17357) |
-| 3 | Ver cómo se hace, paso a paso: Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17358) |
-| 4 | Practicar juntos con apoyo: Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17359) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17360) |
-| 6 | Explicar lo aprendido a otra persona: Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17361) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17362) |
+| 1 | Hoy conozco qué es un tríptico y reconozco sus partes: portada, interior y contraportada. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17356) |
+| 2 | Hoy aprendo las palabras del tríptico y reconozco los datos de un establecimiento educacional: horario, lugar y contacto. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17357) |
+| 3 | Hoy sigo pasos para planificar qué va en cada parte del tríptico antes de escribirlo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17358) |
+| 4 | Hoy practico con apoyo: completo un tríptico guiado con datos, mayúsculas, números y puntuación. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17359) |
+| 5 | Hoy uso el tríptico para invitar a una persona de mi entorno a estudiar, con un mensaje cálido y respetuoso. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17360) |
+| 6 | Hoy presento oralmente el tríptico a otra persona, con voz clara y datos ordenados. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17361) |
+| 7 | Hoy reviso mis aprendizajes sobre el tríptico, comprobando datos, ortografía y respeto, y decido qué practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-08.md#cl-17362) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -273,13 +271,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Narrar una historia | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17363) |
-| 2 | Reconocer la idea y su vocabulario: Narrar una historia | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17364) |
-| 3 | Ver cómo se hace, paso a paso: Narrar una historia | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17365) |
-| 4 | Practicar juntos con apoyo: Narrar una historia | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17366) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Narrar una historia | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17367) |
-| 6 | Explicar lo aprendido a otra persona: Narrar una historia | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17368) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Narrar una historia | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17369) |
+| 1 | Hoy cuento con mis palabras una historia que se ve en una secuencia de imágenes. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17363) |
+| 2 | Hoy distingo acciones principales y secundarias en una secuencia de imágenes, y aprendo conectores para narrar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17364) |
+| 3 | Hoy sigo pasos para narrar una historia a partir de imágenes con inicio, desarrollo y final. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17365) |
+| 4 | Hoy practico con apoyo: completo una narración de imágenes con conectores y acciones principales. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17366) |
+| 5 | Hoy aplico la narración a situaciones de la vida real: contar un trámite o un incidente en orden. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17367) |
+| 6 | Hoy explico a otra persona una historia de imágenes con voz clara, emoción y conectores. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17368) |
+| 7 | Hoy reviso lo que aprendí sobre narrar historias a partir de imágenes y decido qué practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-09.md#cl-17369) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -296,13 +294,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Exponer acerca de un objeto significativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17370) |
-| 2 | Reconocer la idea y su vocabulario: Exponer acerca de un objeto significativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17371) |
-| 3 | Ver cómo se hace, paso a paso: Exponer acerca de un objeto significativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17372) |
-| 4 | Practicar juntos con apoyo: Exponer acerca de un objeto significativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17373) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Exponer acerca de un objeto significativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17374) |
-| 6 | Explicar lo aprendido a otra persona: Exponer acerca de un objeto significativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17375) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Exponer acerca de un objeto significativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17376) |
+| 1 | Hoy elijo un objeto que tiene significado y digo tres datos sobre él: cómo es, para qué sirve y por qué es importante. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17370) |
+| 2 | Hoy conozco las partes de una exposición breve y reviso el vocabulario y los adjetivos que uso para describir un objeto. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17371) |
+| 3 | Hoy sigo pasos para preparar una exposición: anotar ideas, ordenarlas y practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17372) |
+| 4 | Hoy practico con apoyo: completo un guion de exposición guiado y reviso concordancia y puntuación. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17373) |
+| 5 | Hoy aplico la exposición a una situación de trabajo o de comunidad, adaptando el lenguaje a quienes escuchan. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17374) |
+| 6 | Hoy explico a otra persona cómo preparé mi exposición y recibo preguntas con respeto. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17375) |
+| 7 | Hoy reviso lo aprendido sobre exponer un objeto significativo y decido cómo seguir practicando. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-10.md#cl-17376) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -320,13 +318,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Realizar una entrevista y formular sus propias preguntas | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17377) |
-| 2 | Reconocer la idea y su vocabulario: Realizar una entrevista y formular sus propias preguntas | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17378) |
-| 3 | Ver cómo se hace, paso a paso: Realizar una entrevista y formular sus propias preguntas | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17379) |
-| 4 | Practicar juntos con apoyo: Realizar una entrevista y formular sus propias preguntas | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17380) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Realizar una entrevista y formular sus propias preguntas | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17381) |
-| 6 | Explicar lo aprendido a otra persona: Realizar una entrevista y formular sus propias preguntas | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17382) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Realizar una entrevista y formular sus propias preguntas | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17383) |
+| 1 | Hoy conozco qué es una entrevista y reconozco quién pregunta y quién responde. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17377) |
+| 2 | Hoy aprendo palabras para preguntar, los signos de interrogación y la diferencia entre preguntas cerradas y abiertas. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17378) |
+| 3 | Hoy sigo pasos para preparar una entrevista: elegir persona, escribir preguntas, saludar, escuchar y agradecer. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17379) |
+| 4 | Hoy practico con apoyo: completo y ordeno preguntas de una entrevista cuidando tildes y signos. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17380) |
+| 5 | Hoy aplico la entrevista en una situación real de trabajo o de comunidad, respetando la privacidad de la persona. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17381) |
+| 6 | Hoy explico a otra persona lo que aprendí de una entrevista y resumo las respuestas con mis palabras. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17382) |
+| 7 | Hoy reviso lo aprendido sobre hacer entrevistas y decido qué practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-11.md#cl-17383) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -344,13 +342,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Inventar un nuevo final para un cortometraje | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17384) |
-| 2 | Reconocer la idea y su vocabulario: Inventar un nuevo final para un cortometraje | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17385) |
-| 3 | Ver cómo se hace, paso a paso: Inventar un nuevo final para un cortometraje | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17386) |
-| 4 | Practicar juntos con apoyo: Inventar un nuevo final para un cortometraje | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17387) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Inventar un nuevo final para un cortometraje | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17388) |
-| 6 | Explicar lo aprendido a otra persona: Inventar un nuevo final para un cortometraje | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17389) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Inventar un nuevo final para un cortometraje | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17390) |
+| 1 | Hoy conozco qué es un cortometraje y reconozco su inicio, su problema y su final. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17384) |
+| 2 | Hoy aprendo palabras para hablar de emociones y de finales, y uso sinónimos y antónimos al escribir. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17385) |
+| 3 | Hoy sigo pasos para inventar un nuevo final coherente: releer, pensar, escribir y revisar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17386) |
+| 4 | Hoy practico con apoyo: completo un nuevo final con frases guía y cuido la puntuación y la concordancia. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17387) |
+| 5 | Hoy aplico la creación de finales a una situación de trabajo o de la comunidad: reescribir el final de una historia real o de ejemplo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17388) |
+| 6 | Hoy cuento a otra persona mi nuevo final, explico por qué es coherente y recibo comentarios con respeto. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17389) |
+| 7 | Hoy reviso mis avances al inventar finales y decido qué practicar para seguir mejorando. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-12.md#cl-17390) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -378,15 +376,15 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17391) |
-| 2 | Reconocer la idea y su vocabulario: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17392) |
-| 3 | Ver cómo se hace, paso a paso: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17393) |
-| 4 | Practicar juntos con apoyo: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17394) |
-| 5 | Practicar de forma independiente: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17395) |
-| 6 | Aplicar a una situación de trabajo, hogar o comunidad: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17396) |
-| 7 | Corregir errores y comparar caminos: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17397) |
-| 8 | Explicar lo aprendido a otra persona: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17398) |
-| 9 | Revisar lo logrado y decidir los pasos siguientes: Identificar ideas principales e ideas secundarias de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17399) |
+| 1 | Hoy leo un texto informativo y digo de qué trata y qué dice de importante. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17391) |
+| 2 | Hoy distingo la idea principal, las ideas secundarias y los detalles, y aprendo palabras para hablar de un texto informativo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17392) |
+| 3 | Hoy sigo pasos para encontrar la idea principal y las ideas secundarias de un texto informativo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17393) |
+| 4 | Hoy practico con apoyo: completo frases guía para decir la idea principal y las ideas secundarias de un texto sobre los árboles. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17394) |
+| 5 | Hoy practico solo: leo un texto informativo nuevo y escribo su idea principal y sus ideas secundarias sin ayuda. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17395) |
+| 6 | Hoy aplico lo aprendido a textos del entorno: avisos y folletos de trámites, salud y comunidad. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17396) |
+| 7 | Hoy corrijo errores al identificar ideas principales y secundarias y comparo respuestas. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17397) |
+| 8 | Hoy explico a otra persona la idea principal de un texto sobre un concepto abstracto, como la paciencia, usando ejemplos. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17398) |
+| 9 | Hoy reviso lo que aprendí sobre ideas principales y secundarias y decido qué practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-13.md#cl-17399) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -405,13 +403,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Escribir con sus propias palabras párrafos de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17400) |
-| 2 | Reconocer la idea y su vocabulario: Escribir con sus propias palabras párrafos de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17401) |
-| 3 | Ver cómo se hace, paso a paso: Escribir con sus propias palabras párrafos de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17402) |
-| 4 | Practicar juntos con apoyo: Escribir con sus propias palabras párrafos de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17403) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Escribir con sus propias palabras párrafos de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17404) |
-| 6 | Explicar lo aprendido a otra persona: Escribir con sus propias palabras párrafos de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17405) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Escribir con sus propias palabras párrafos de un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17406) |
+| 1 | Hoy descubro qué es decir algo con mis propias palabras y escribo una oración sobre un texto informativo sin copiarla. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17400) |
+| 2 | Hoy conozco las diferencias entre copiar, parafrasear y resumir, y aprendo a usar sinónimos para escribir con mis palabras. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17401) |
+| 3 | Hoy sigo pasos para escribir con mis palabras un párrafo informativo: leer, subrayar, cerrar el texto, escribir y comparar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17402) |
+| 4 | Hoy practico con apoyo: completo una paráfrasis guiada con sinónimos, orden y puntuación. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17403) |
+| 5 | Hoy aplico la escritura con mis palabras a una situación real: escribo un mensaje a otra persona explicando un aviso. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17404) |
+| 6 | Hoy explico a otra persona cómo escribir con mis palabras y comparo dos versiones de un párrafo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17405) |
+| 7 | Hoy reviso lo aprendido sobre escribir con mis palabras y decido qué practicar para mejorar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-14.md#cl-17406) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -428,13 +426,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Identificar criterios de búsqueda de información confiable en la valoración de un sitio | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17407) |
-| 2 | Reconocer la idea y su vocabulario: Identificar criterios de búsqueda de información confiable en la valoración de un sitio | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17408) |
-| 3 | Ver cómo se hace, paso a paso: Identificar criterios de búsqueda de información confiable en la valoración de un sitio | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17409) |
-| 4 | Practicar juntos con apoyo: Identificar criterios de búsqueda de información confiable en la valoración de un sitio | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17410) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Identificar criterios de búsqueda de información confiable en la valoración de un sitio | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17411) |
-| 6 | Explicar lo aprendido a otra persona: Identificar criterios de búsqueda de información confiable en la valoración de un sitio | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17412) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Identificar criterios de búsqueda de información confiable en la valoración de un sitio | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17413) |
+| 1 | Hoy conozco por qué no toda la información de internet es confiable y reconozco las partes de la ficha de un sitio. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17407) |
+| 2 | Hoy aprendo las palabras para evaluar un sitio: autor, fecha, fuente, propósito, publicidad y contacto. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17408) |
+| 3 | Hoy sigo cinco preguntas para decidir si un sitio es confiable: quién, cuándo, de dónde, para qué y qué dicen otras fuentes. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17409) |
+| 4 | Hoy practico con apoyo: completo una tabla de criterios para dos sitios de ejemplo y decido cuál es más confiable. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17410) |
+| 5 | Hoy aplico los criterios a situaciones reales: buscar un horario o un trámite y reconocer mensajes engañosos. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17411) |
+| 6 | Hoy explico a otra persona cómo saber si un sitio es confiable, con palabras claras y ejemplos. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17412) |
+| 7 | Hoy reviso lo aprendido sobre información confiable y decido qué hábitos de búsqueda practicar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-15.md#cl-17413) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 
@@ -452,13 +450,13 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Partir de lo que ya se sabe y de la vida diaria: Escribir un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17414) |
-| 2 | Reconocer la idea y su vocabulario: Escribir un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17415) |
-| 3 | Ver cómo se hace, paso a paso: Escribir un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17416) |
-| 4 | Practicar juntos con apoyo: Escribir un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17417) |
-| 5 | Aplicar a una situación de trabajo, hogar o comunidad: Escribir un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17418) |
-| 6 | Explicar lo aprendido a otra persona: Escribir un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17419) |
-| 7 | Revisar lo logrado y decidir los pasos siguientes: Escribir un texto informativo | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17420) |
+| 1 | Hoy elijo un tema de interés, escribo una pregunta de búsqueda y reconozco los resultados de una búsqueda de ejemplo. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17414) |
+| 2 | Hoy aprendo las partes de un texto informativo (introducción, desarrollo y cierre) y la importancia de nombrar la fuente. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17415) |
+| 3 | Hoy sigo seis pasos para escribir un texto informativo: preguntar, buscar, elegir fuentes, tomar notas, escribir y revisar. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17416) |
+| 4 | Hoy practico con apoyo: completo notas y un párrafo guiado a partir de una fuente confiable. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17417) |
+| 5 | Hoy aplico el método a una búsqueda nueva y escribo un texto informativo para el diario mural de mi sede. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17418) |
+| 6 | Hoy leo mi texto en voz alta y explico a otra persona de dónde saqué la información y por qué elegí esas fuentes. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17419) |
+| 7 | Hoy reviso todo lo aprendido para escribir textos informativos con información de internet y decido cómo seguir practicando. | [Educación Básica Nivel 1](../../curriculum/epja-basica-n1/lenguaje-comunicacion-epja-nb1/epja-leco-nb1-oad-16.md#cl-17420) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0)
 

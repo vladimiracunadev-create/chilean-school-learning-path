@@ -10,9 +10,10 @@ Asignaturas de la modalidad EPJA con objetivos tomados de los [programas de estu
 
 | Nivel | Asignatura | Objetivos | Clases | Cuaderno escrito | Guía |
 |---|---|---:|---:|---:|---|
-| Básica N1 | Lenguaje y Comunicación | 16 | 118 | 0 | [📘 Leer guía](lenguaje-comunicacion-epja-nb1.md) |
+| Básica N1 | Lenguaje y Comunicación | 16 | 118 | 118 | [📘 Leer guía](lenguaje-comunicacion-epja-nb1.md) |
+| Básica N1 | Matemática | 16 | 120 | 120 | [📘 Leer guía](matematica-epja-nb1.md) |
 
-| **Total publicado** | | **16** | **118** | **0** | |
+| **Total publicado** | | **32** | **238** | **238** | |
 
 Las asignaturas de media que el programa declara para los niveles 1 y 2 a la vez cuentan una sola vez en esta tabla, aunque aparezcan en ambos cursos del catálogo.
 

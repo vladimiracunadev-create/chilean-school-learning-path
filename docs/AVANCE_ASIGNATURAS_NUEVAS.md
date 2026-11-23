@@ -150,6 +150,7 @@ Fuente: [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum
 
 | Asignatura | Objetivos | Clases totales | Cuaderno escrito | Pendientes | % |
 |---|---:|---:|---:|---:|---:|
-| Lenguaje y Comunicación · EPJA Básica N1 | 16 | 118 | 0 | 118 | 0 % |
+| Lenguaje y Comunicación · EPJA Básica N1 | 16 | 118 | 118 | 0 | 100 % |
+| Matemática · EPJA Básica N1 | 16 | 120 | 120 | 0 | 100 % |
 
 <!-- /EPJA:avance -->

@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 12910 de 13.264 clases desarrolladas tienen cuaderno del estudiante (97,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 13148 de 13.384 clases desarrolladas tienen cuaderno del estudiante (98,2 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -28,7 +28,7 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 | 3.º medio TP | 1.281 | 1.281 | 0 | completo | 0 | 21.777 | 2.562 | pendiente |
 | 4.º medio TP | 1.464 | 1.464 | 0 | completo | 0 | 24.888 | 2.928 | pendiente |
-| EPJA básica N1 | 118 | 0 | 118 | sin iniciar | 0 | 0 | 0 | pendiente |
+| EPJA básica N1 | 238 | 238 | 0 | completo | 0 | 4.046 | 476 | pendiente |
 | EPJA básica N2 | 0 | 0 | 0 | sin iniciar | 0 | 0 | 0 | pendiente |
 | EPJA media N1 | 0 | 0 | 0 | sin iniciar | 0 | 0 | 0 | pendiente |
 | EPJA media N2 | 0 | 0 | 0 | sin iniciar | 0 | 0 | 0 | pendiente |
@@ -651,6 +651,38 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º medio | ingles-propuesta | EN2M OA 11 | 5 | 5 | 85 | 10 |
 | 2.º medio | ingles-propuesta | EN2M OA 12 | 5 | 5 | 85 | 10 |
 | 2.º medio | ingles-propuesta | EN2M OA 13 | 6 | 6 | 102 | 12 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-01 | 9 | 9 | 153 | 18 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-02 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-03 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-04 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-05 | 9 | 9 | 153 | 18 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-06 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-07 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-08 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-09 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-10 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-11 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-12 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-13 | 9 | 9 | 153 | 18 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-14 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-15 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-16 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-01 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-02 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-03 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-04 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-05 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-06 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-07 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-08 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-09 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-10 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-11 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-12 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-13 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-14 | 8 | 8 | 136 | 16 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-15 | 7 | 7 | 119 | 14 |
+| EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-16 | 7 | 7 | 119 | 14 |
 | 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-01 | 4 | 4 | 68 | 8 |
 | 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-01 | 4 | 4 | 68 | 8 |
 | 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-02 | 5 | 5 | 85 | 10 |
@@ -2786,6 +2818,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1744 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1792 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.
