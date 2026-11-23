@@ -142,3 +142,14 @@ Por contar (primer paso: listar los credos con programa publicado). Sin avance.
 ## Fase E · Otros idiomas y diccionarios
 
 Por contar (primer paso: verificar si existen bases oficiales). Sin avance.
+
+<!-- EPJA:avance -->
+## Fase C · Educación de Personas Jóvenes y Adultas (EPJA)
+
+Fuente: [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja), consultados el 23-nov-2026; inventario en [EPJA_INVENTARIO.md](EPJA_INVENTARIO.md). Índice: [Asignaturas EPJA](formacion-epja/README.md).
+
+| Asignatura | Objetivos | Clases totales | Cuaderno escrito | Pendientes | % |
+|---|---:|---:|---:|---:|---:|
+| Lenguaje y Comunicación · EPJA Básica N1 | 16 | 118 | 0 | 118 | 0 % |
+
+<!-- /EPJA:avance -->

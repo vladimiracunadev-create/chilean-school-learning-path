@@ -4,13 +4,13 @@ Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.jso
 
 | Estado | Clases | Significado |
 |---|---:|---|
-| Inventariada | 17.302 | OA, nivel, asignatura, eje y fuente oficial identificados |
-| Secuenciada | 17.302 | posición, fase y duración propuestas dentro del OA |
+| Inventariada | 17.420 | OA, nivel, asignatura, eje y fuente oficial identificados |
+| Secuenciada | 17.420 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores |
-| Desarrollada | 13.146 | contenido disciplinar específico validado contra el contrato estructural |
+| Desarrollada | 13.264 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
-| Publicada | 17.302 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
+| Publicada | 17.420 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
@@ -295,13 +295,24 @@ Los 165 OA son los mismos en 3° y 4° medio y cuentan en los dos niveles. Cada 
 Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación Diferenciada Técnico-Profesional (Decreto Supremo de Educación N.º 452/2013 según el propio documento, edición 2016; las bases no traen módulos). Las especialidades sin mención comparten cuaderno entre 3° y 4° medio; en las con menciones, el tronco va en 3° y las menciones en 4°. Cada especialidad tiene [guía propia](docs/formacion-tp/README.md). Solo conceptos y casos en papel: nada de taller, laboratorio ni práctica; en las especialidades de riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Revisión humana pendiente. Avance completo de la fase en [AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
 
 <!-- /TP:estado -->
+<!-- EPJA:estado -->
+## Educación de Personas Jóvenes y Adultas (EPJA, publicada por asignaturas)
+
+| Nivel | Asignatura | Objetivos | Clases | Cuaderno escrito |
+|---|---|---:|---:|---:|
+| EPJA | Lenguaje y Comunicación · EPJA Básica N1 | 16 | 118 | 0 |
+| **Total** | **1 asignatura** | **16** | **118** | **0** |
+
+Los objetivos son las actividades de desempeño de los programas de estudio EPJA oficiales (4 módulos obligatorios con 4 actividades cada uno); las clases de cada objetivo son las horas pedagógicas que el programa le asigna. Las clases con cuaderno del estudiante son 0 de 118; el resto figura como pendiente en [docs/COBERTURA_ESTUDIANTE.md](docs/COBERTURA_ESTUDIANTE.md). Los módulos electivos de proyecto o de problemas reutilizan los mismos conocimientos y no suman clases. Tono de persona adulta o joven, sin infantilizar. Escrito por IA, revisión humana pendiente. Índice en [docs/formacion-epja/README.md](docs/formacion-epja/README.md) e [inventario](docs/EPJA_INVENTARIO.md).
+
+<!-- /EPJA:estado -->
 ## Cobertura publicada
 
-- 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC y especialidades técnico-profesionales de 3° y 4° medio.
-- 115 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC y 53 de formación técnico-profesional, contando las menciones como denominaciones propias).
-- 3.784 Objetivos de Aprendizaje.
+- 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC, especialidades técnico-profesionales de 3° y 4° medio y asignaturas de EPJA.
+- 116 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC, 53 de formación técnico-profesional contando las menciones como denominaciones propias, y 1 de EPJA).
+- 3.800 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 3.784 páginas HTML de OA con anclas estables para 17.302 registros pedagógicos: 13.146 clases y 4.156 experiencias integradas.
+- 3.800 páginas HTML de OA con anclas estables para 17.420 registros pedagógicos: 13.264 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

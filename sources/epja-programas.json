@@ -1,0 +1,619 @@
+{
+ "schema_version": 1,
+ "source": "Currículum Nacional · Ministerio de Educación de Chile (programas de estudio EPJA)",
+ "verified_at": "2026-11-23",
+ "rights_notice": "Los textos oficiales conservan los derechos de sus titulares; la licencia de contenido del proyecto solo cubre la elaboración pedagógica original.",
+ "programas": {
+  "LECO_NB1": {
+   "course_slug": "epja-basica-n1",
+   "sigla": "LECO",
+   "asignatura": "Lenguaje y Comunicación",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Lenguaje%20y%20Comunicaci%C3%B3n%20NB1.pdf",
+   "oa_texto": {
+    "1": "Leer en voz alta textos variados de manera fluida y adecuada entonación. (Lectura)",
+    "2": "Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura)",
+    "3": "Escribir con letra legible para una variedad de propósitos personales y sociales. (Escritura)",
+    "4": "Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral)",
+    "5": "Buscar y seleccionar información con honestidad, a partir de un propósito. (Investigación)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 30,
+     "gran_idea": "Leer diferentes tipos de textos nos permite aprender más sobre el ser humano y las diversas culturas.",
+     "oa": [
+      "1",
+      "2",
+      "4"
+     ],
+     "ruta": [
+      "Identifican el tema e idea principal de un video informativo.",
+      "Identifican el tema e idea principal de un cuento.",
+      "Identifican el tema e idea principal de un cuento.",
+      "Leen fluidamente una creación colaborativa."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Identifican el tema e idea principal de un video informativo.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Textos no literarios: informativos y explicativos.",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos).",
+        "Estrategias de adquisición y comprensión de textos orales."
+       ],
+       "horas": 9
+      },
+      {
+       "num": 2,
+       "frase": "Identifican el tema e idea principal de un cuento.",
+       "oa": [
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Textos literarios: género narrativo.",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos).",
+        "Estrategias de adquisición y comprensión de textos orales."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 3,
+       "frase": "Identifican el tema e idea principal de un cuento.",
+       "oa": [
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Vocabulario: sinónimos, antónimos y familias de palabras.",
+        "Textos literarios: género narrativo.",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos).",
+        "Estrategias de adquisición y comprensión de textos orales."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Leen fluidamente una creación colaborativa.",
+       "oa": [
+        "1",
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Vocabulario: sinónimos, antónimos y familias de palabras.",
+        "Textos no literarios: informativos y explicativos."
+       ],
+       "horas": 7
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 30,
+     "gran_idea": "La escritura es un medio para comunicarnos con los demás y participar activamente en la sociedad.",
+     "oa": [
+      "1",
+      "2",
+      "3"
+     ],
+     "ruta": [
+      "Describir una fotografía por medio de una oración simple.",
+      "Escribir una ficha sobre una hierba medicinal, que contenga información sobre su uso y algunas recomendaciones.",
+      "Escribir una carta al director que manifieste una problemática social.",
+      "Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos del establecimiento educacional."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Describir una fotografía por medio de una oración simple.",
+       "oa": [
+        "1",
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Textos literarios: género narrativo.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual)."
+       ],
+       "horas": 9
+      },
+      {
+       "num": 2,
+       "frase": "Escribir una ficha sobre una hierba medicinal, que contenga información sobre su uso y algunas recomendaciones.",
+       "oa": [
+        "1",
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Textos no literarios: informativos y explicativos.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual).",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos).",
+        "Estrategias de adquisición y comprensión de textos orales y escritos."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 3,
+       "frase": "Escribir una carta al director que manifieste una problemática social.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Textos literarios: género narrativo.",
+        "Textos no literarios: informativos y explicativos.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual).",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos).",
+        "Estrategias de adquisición y comprensión de textos orales y escritos."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos del establecimiento educacional.",
+       "oa": [
+        "1",
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Textos no literarios: informativos y explicativos.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual).",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos).",
+        "Estrategias de adquisición y comprensión de textos orales y escritos."
+       ],
+       "horas": 7
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 30,
+     "gran_idea": "Al escuchar y hablar nos conectamos con otras personas y compartimos nuestras experiencias.",
+     "oa": [
+      "2",
+      "3",
+      "4"
+     ],
+     "ruta": [
+      "Narran una historia a partir de imágenes e identifican acciones principales y secundarias.",
+      "Exponen acerca de un objeto significativo.",
+      "Realizan una entrevista y formulan sus propias preguntas.",
+      "Inventan un nuevo final para un cortometraje."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Narran una historia a partir de imágenes e identifican acciones principales y secundarias.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Textos literarios: género narrativo.",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos)."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 2,
+       "frase": "Exponen acerca de un objeto significativo.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Vocabulario: sinónimos, antónimos y familias de palabras.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual)."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 3,
+       "frase": "Realizan una entrevista y formulan sus propias preguntas.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual).",
+        "Textos no literarios: informativos y explicativos.",
+        "Estrategias de adquisición y comprensión de textos orales y escritos."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Inventan un nuevo final para un cortometraje.",
+       "oa": [
+        "2",
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Vocabulario: sinónimos, antónimos y familias de palabras.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual).",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos)."
+       ],
+       "horas": 7
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 30,
+     "gran_idea": "Al buscar y seleccionar información aplicamos criterios de acuerdo con nuestros propósitos.",
+     "oa": [
+      "2",
+      "3",
+      "5"
+     ],
+     "ruta": [
+      "Identifican ideas principales e ideas secundarias de un texto informativo.",
+      "Escriben con sus propias palabras párrafos de un texto informativo.",
+      "Identifican criterios de búsqueda de información confiable en la valoración de un sitio web.",
+      "Escriben un texto informativo, a partir de la búsqueda de un tema de interés en Internet."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Identifican ideas principales e ideas secundarias de un texto informativo.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Textos no literarios: informativos y explicativos.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual).",
+        "Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos)."
+       ],
+       "horas": 9
+      },
+      {
+       "num": 2,
+       "frase": "Escriben con sus propias palabras párrafos de un texto informativo.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Vocabulario: sinónimos, antónimos.de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Textos no literarios: informativos y explicativos.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual).",
+        "Estrategias de adquisición y comprensión de textos orales y escritos."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 3,
+       "frase": "Identifican criterios de búsqueda de información confiable en la valoración de un sitio web.",
+       "oa": [
+        "2",
+        "5"
+       ],
+       "ce": [
+        "Textos no literarios: informativos y explicativos.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual)."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Escriben un texto informativo, a partir de la búsqueda de un tema de interés en Internet.",
+       "oa": [
+        "2",
+        "3",
+        "5"
+       ],
+       "ce": [
+        "Textos no literarios: informativos y explicativos de palabras progresivamente más complejas; lectura de textos breves del entorno.",
+        "Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual).",
+        "Estrategias de adquisición y comprensión de textos orales y escritos."
+       ],
+       "horas": 7
+      }
+     ]
+    }
+   ]
+  },
+  "MATE_NB1": {
+   "course_slug": "epja-basica-n1",
+   "sigla": "MATE",
+   "asignatura": "Matemática",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-1-educacion-basica",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Matem%C3%A1tica%20NB1.pdf",
+   "oa_texto": {
+    "2": "Transitar de un nivel de representación a otro, por ejemplo: de lo verbal a lo concreto o de lo simbólico a lo verbal, valorando las TIC como una oportunidad para el aprendizaje. (Representar)",
+    "3": "Seleccionar un modelo pertinente a una situación real, asumiendo una postura razonada. (Modelar)",
+    "4": "Expresar acciones y situaciones cotidianas en lenguaje matemático, asumiendo posturas razonadas. (Modelar)",
+    "5": "Explicar el razonamiento matemático utilizado para elaborar reglas y procedimientos matemáticos. (Argumentar y Comunicar)",
+    "6": "Identificar los datos, seleccionando estrategias, y aplicando los procedimientos a situaciones idénticas, pensando con perseverancia y proactividad para encontrar soluciones. (Resolver problemas)",
+    "1": "Utilizar diferentes formas de representación concreta, pictórica y simbólica, con un lenguaje técnico específico, con los símbolos matemáticos correspondientes, aprovechando las herramientas disponibles para aprender. (Representar)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 30,
+     "gran_idea": "Los números permiten describir y representar situaciones cotidianas relacionadas con la cantidad, la medida, el código y el orden.",
+     "oa": [
+      "1",
+      "4",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Representan de manera verbal y escrita el conteo de cantidades, leen y escriben números naturales en diferentes situaciones mediante el uso de variadas formas de representación.",
+      "Expresan las acciones de orden de cantidades en lenguaje matemático y ordenan numéricamente de mayor a menor o viceversa en diferentes situaciones mediante el uso de la recta numérica.",
+      "Explican el razonamiento o el procedimiento para identificar el número como cantidad, ordinal o código y para ordenar números en la recta numérica o esquemas.",
+      "Identifican los datos y aplican procedimientos para describir situaciones relacionadas con el tiempo, la longitud, la masa y la unidad monetaria."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Representan de manera verbal y escrita el conteo de cantidades, leen y escriben números naturales en diferentes situaciones mediante el uso de variadas formas de representación.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Lectura y escritura de números naturales.",
+        "Orden de números naturales."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 2,
+       "frase": "Expresan las acciones de orden de cantidades en lenguaje matemático y ordenan numéricamente de mayor a menor o viceversa en diferentes situaciones mediante el uso de la recta numérica.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Lectura y escritura de números naturales (Conteo y estrategias de conteo).",
+        "Orden de números naturales."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 3,
+       "frase": "Explican el razonamiento o el procedimiento para identificar el número como cantidad, ordinal o código y para ordenar números en la recta numérica o esquemas.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Lectura y escritura de números naturales.",
+        "Orden de números naturales.",
+        "Unidades de medida (el número como código, el número como ordinal, el número como cantidad)."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Identifican los datos y aplican procedimientos para describir situaciones relacionadas con el tiempo, la longitud, la masa y la unidad monetaria.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Lectura y escritura de números naturales.",
+        "Orden de números naturales.",
+        "Unidades de medida. (El número como medida. Las unidades de medida del tiempo, segundo, minuto y hora; las unidades de medida de la masa, gramos, kilogramos y toneladas; las unidades de medida de la longitud, centímetros, metros y kilómetros; y las unidades de medida monetarias, peso chileno, euro, dólar)."
+       ],
+       "horas": 7
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 30,
+     "gran_idea": "La operatoria de números naturales es una oportunidad para dar respuestas a situaciones cotidianas de forma flexible y fluida.",
+     "oa": [
+      "3",
+      "4",
+      "6"
+     ],
+     "ruta": [
+      "Expresan acciones y situaciones cotidianas, como agregar, quitar, juntar, diferenciar, aumentar, disminuir, ganar y perder, mediante el uso de la adición y la sustracción.",
+      "Expresan acciones y situaciones cotidianas como ampliar, repetir una cantidad de veces y repartir equitativamente mediante el uso de la multiplicación y la división.",
+      "Identifican los datos y aplican procedimientos de adición, sustracción, multiplicación y división a situaciones similares.",
+      "Seleccionan un modelo de adición, sustracción, multiplicación o división que sea pertinente según la situación real."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Expresan acciones y situaciones cotidianas, como agregar, quitar, juntar, diferenciar, aumentar, disminuir, ganar y perder, mediante el uso de la adición y la sustracción.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Adición de números naturales.",
+        "Sustracción de números naturales."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 2,
+       "frase": "Expresan acciones y situaciones cotidianas como ampliar, repetir una cantidad de veces y repartir equitativamente mediante el uso de la multiplicación y la división.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Multiplicación de números naturales.",
+        "División de números naturales."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 3,
+       "frase": "Identifican los datos y aplican procedimientos de adición, sustracción, multiplicación y división a situaciones similares.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Adición de números naturales.",
+        "Sustracción de números naturales.",
+        "Multiplicación de números naturales.",
+        "División de números naturales."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Seleccionan un modelo de adición, sustracción, multiplicación o división que sea pertinente según la situación real.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Adición de números naturales.",
+        "Sustracción de números naturales.",
+        "Multiplicación de números naturales.",
+        "División de números naturales."
+       ],
+       "horas": 7
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 30,
+     "gran_idea": "Los objetos y formas de nuestro entorno tienen atributos que pueden ser descritos, medidos y comparados.",
+     "oa": [
+      "2",
+      "4",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Transitar de un nivel de representación a otro en situaciones de mediciones y cálculo del perímetro de polígonos del entorno.",
+      "Expresar acciones y situaciones cotidianas relacionadas con la medida y el cálculo del área de cuadrados y rectángulos.",
+      "Explicar el razonamiento matemático utilizado para elaborar reglas y procedimientos relacionados con el área de polígonos del entorno.",
+      "Identificar los datos, mediante la selección de estrategias y la aplicación de procedimientos a situaciones idénticas de área y perímetro de polígonos del entorno."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Transitar de un nivel de representación a otro en situaciones de mediciones y cálculo del perímetro de polígonos del entorno.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Medidas de lados.",
+        "Perímetros de polígonos que se encuentran en el entorno."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 2,
+       "frase": "Expresar acciones y situaciones cotidianas relacionadas con la medida y el cálculo del área de cuadrados y rectángulos.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Medidas de lados.",
+        "Área de polígonos que se encuentran en el entorno."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 3,
+       "frase": "Explicar el razonamiento matemático utilizado para elaborar reglas y procedimientos relacionados con el área de polígonos del entorno.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Medidas de lados.",
+        "Área de polígonos que se encuentran en el entorno."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Identificar los datos, mediante la selección de estrategias y la aplicación de procedimientos a situaciones idénticas de área y perímetro de polígonos del entorno.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Medidas de lados.",
+        "Perímetro de polígonos que se encuentran en el entorno.",
+        "Área de polígonos que se encuentran en el entorno."
+       ],
+       "horas": 7
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 30,
+     "gran_idea": "Los datos de investigaciones y experimentos aleatorios pueden ser representados e interpretados mediante el uso de herramientas como tablas y gráficos.",
+     "oa": [
+      "2",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Transitar de un gráfico de colores a un gráfico de barras para leer y describir características de una población.",
+      "Transitar de tablas a gráficos y viceversa para relevar información sobre la población y juegos aleatorios.",
+      "Identificar los datos de una tabla o de un gráfico para resolver problemas y generar nueva información sobre la población y juegos aleatorios.",
+      "Explicar el razonamiento matemático utilizado para elaborar gráficos y compartir con otras personas la información sobre la población y juegos aleatorios."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Transitar de un gráfico de colores a un gráfico de barras para leer y describir características de una población.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Gráficos de barra simple."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 2,
+       "frase": "Transitar de tablas a gráficos y viceversa para relevar información sobre la población y juegos aleatorios.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Gráficos de barra simple.",
+        "Tablas de frecuencia absoluta."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 3,
+       "frase": "Identificar los datos de una tabla o de un gráfico para resolver problemas y generar nueva información sobre la población y juegos aleatorios.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Gráficos de barra simple.",
+        "Tablas de frecuencia absoluta."
+       ],
+       "horas": 7
+      },
+      {
+       "num": 4,
+       "frase": "Explicar el razonamiento matemático utilizado para elaborar gráficos y compartir con otras personas la información sobre la población y juegos aleatorios.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Gráficos de barra simple.",
+        "Tablas de frecuencia absoluta.",
+        "Gráficos de línea."
+       ],
+       "horas": 7
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

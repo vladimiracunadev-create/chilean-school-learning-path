@@ -28,6 +28,7 @@ Se revisaron `LICENSE`, `LICENSE-CONTENT.md`, `LICENSING.md`, `DATA-LICENSE.md`,
 | códigos de OA, nivel, asignatura, eje, URL, fecha e identificadores | Currículum Nacional/MINEDUC como procedencia | hechos y metadatos | regla por procedencia; no se afirma exclusividad | evaluar por campo y contexto | fuente y fecha |
 | redacción exacta de OA y descripciones oficiales | MINEDUC o titular correspondiente | contenido oficial | fuera de la CC del proyecto | no se presume permiso abierto, modificación ni uso comercial | titular, URL y fecha |
 | `sources/mineduc-curriculum-snapshot.json` | páginas públicas de Currículum Nacional | dataset mixto | `DATA-LICENSE.md` | redistribución cautelar con trazabilidad; sin licencia autónoma sobre redacción oficial | fuente y fecha |
+| `sources/epja-programas.json` | programas de estudio EPJA de Currículum Nacional | dataset de textos oficiales | `DATA-LICENSE.md` | redistribución cautelar con trazabilidad; sin licencia autónoma sobre redacción oficial | fuente y fecha |
 | `curriculum/catalog.json`, `site/catalog.json` | transformación del snapshot + estructura y redacción propia | salida de datos mixta | derechos por componente | no existe permiso único para todos los campos | conservar procedencia y avisos |
 | `content/developed-lessons.json` | Vladimir Acuña | contenido pedagógico estructurado | CC BY-NC-SA 4.0 | no comercial bajo licencia pública | sí |
 | `site/icon.svg` | diseño original del proyecto | activo visual | CC BY-NC-SA 4.0; sin concesión de marca | no comercial bajo licencia pública | sí |

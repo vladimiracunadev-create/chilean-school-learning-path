@@ -300,6 +300,21 @@ STAGES = {
     "theater": ("Explorar cuerpo, gesto y voz", "Construir situación y personaje", "Ensayar decisiones escénicas", "Interpretar propósito y contexto", "Evaluar y revisar", "Presentar o difundir con consentimiento"),
     "technology": ("Definir necesidad, usuario y criterio", "Investigar alternativas y restricciones", "Representar y planificar", "Probar o modelar con seguridad", "Evaluar impactos y límites", "Mejorar y comunicar"),
     "trabajo": ("Situar el contexto laboral, la norma y el riesgo", "Reconocer conceptos, documentos y roles del oficio", "Analizar un caso de trabajo en papel", "Aplicar un criterio técnico con datos de ejemplo", "Comparar alternativas y verificar la calidad", "Registrar y comunicar el resultado", "Reconocer los límites de la formación y los pasos que exigen instructor"),
+    "adultez": ("Partir de lo que ya se sabe y de la vida diaria", "Reconocer la idea y su vocabulario", "Ver cómo se hace, paso a paso", "Practicar juntos con apoyo", "Practicar de forma independiente", "Aplicar a una situación de trabajo, hogar o comunidad", "Corregir errores y comparar caminos", "Explicar lo aprendido a otra persona", "Revisar lo logrado y decidir los pasos siguientes"),
+}
+
+# Educación de Personas Jóvenes y Adultas: la secuencia depende de las horas del desempeño (6 a 9 clases) y conserva el cierre.
+STAGE_PLANS = {
+    "adultez": {
+        2: (1, 5),
+        3: (1, 3, 5),
+        4: (0, 2, 5, 8),
+        5: (0, 2, 3, 5, 8),
+        6: (0, 1, 2, 3, 5, 8),
+        7: (0, 1, 2, 3, 5, 7, 8),
+        8: (0, 1, 2, 3, 4, 5, 7, 8),
+        9: (0, 1, 2, 3, 4, 5, 6, 7, 8),
+    },
 }
 
 VOCABULARY = {
@@ -317,6 +332,7 @@ VOCABULARY = {
     "theater": "cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito",
     "technology": "necesidad, usuario, criterio, restricción, modelo, prototipo, prueba, accesibilidad, riesgo, impacto",
     "trabajo": "perfil de egreso, competencia, norma, documento técnico, registro, calidad, riesgo, prevención, equipo de trabajo, responsabilidad",
+    "adultez": "situación cotidiana, experiencia previa, procedimiento, ejemplo, comprobación, error y corrección, trabajo, familia, trámite, comunidad",
 }
 
 MISCONCEPTIONS = {
@@ -334,6 +350,7 @@ MISCONCEPTIONS = {
     "theater": ("confundir personaje con identidad personal", "usar volumen como único recurso", "evaluar exposición y no decisión escénica"),
     "technology": ("construir antes de definir el problema", "evaluar solo apariencia o novedad", "ignorar privacidad, acceso e impacto"),
     "trabajo": ("creer que un cuaderno habilita para ejecutar tareas que exigen instructor, norma y autorización", "aplicar una regla sin revisar la norma vigente ni los datos del caso", "dar por bueno un resultado sin registro, verificación ni responsable"),
+    "adultez": ("creer que lo aprendido en la vida diaria no cuenta o que hay que empezar de cero", "avergonzarse de preguntar o de equivocarse y callar la duda", "memorizar un procedimiento sin entender para qué sirve en la propia vida"),
 }
 
 
@@ -371,19 +388,25 @@ def _profile_from_record(code: str, record: dict, subject: dict) -> dict:
     domain = subject["domain"]
     count = record["count"]
     seed = sum(ord(char) for char in code)
-    anchor = (
-        f"a short, original and attributed oral, written or multimodal text about {record['topic'].lower()}"
-        if domain == "english"
-        else f"un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre {record['topic'].lower()}"
-    )
+    misconceptions = subject.get("misconceptions") or MISCONCEPTIONS[domain]
+    scenes = list(subject.get("scenes") or ())
+    if domain == "english":
+        anchor = f"a short, original and attributed oral, written or multimodal text about {record['topic'].lower()}"
+    elif domain == "adultez":
+        anchor = f"una situación breve de la vida adulta en la que se necesita {record['topic'].lower()}"
+    else:
+        anchor = f"un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre {record['topic'].lower()}"
+    plan = STAGE_PLANS.get(domain, {}).get(count)
+    stages = [STAGES[domain][i] for i in plan] if plan else STAGES[domain][:count]
     return {
         "topic": record["topic"],
         "domain": domain,
         "prior": subject["continuity"],
-        "vocabulary": VOCABULARY[domain],
+        "vocabulary": subject.get("vocabulary") or VOCABULARY[domain],
         "anchor": anchor,
-        "misconception": MISCONCEPTIONS[domain][seed % len(MISCONCEPTIONS[domain])],
-        "focuses": [f"{stage}: {record['topic']}" for stage in STAGES[domain][:count]],
+        "misconception": misconceptions[seed % len(misconceptions)],
+        "focuses": [f"{stage}: {record['topic']}" for stage in stages],
+        "scenes": [scenes[(seed + index) % len(scenes)] for index in range(count)] if scenes else [],
     }
 
 
@@ -475,6 +498,17 @@ def _lesson(record: dict, index: int, profile: dict) -> dict:
         extension = "Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse."
         evidence = f"Ficha de trabajo individual de «{focus.lower()}» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado."
         coordination = "El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente."
+    elif domain == "adultez":
+        scene = profile["scenes"][index] if profile.get("scenes") else "en la vida diaria"
+        opening = f"Presenta {anchor}; contexto sugerido: {scene}. Cada persona cuenta, de palabra o por escrito, qué sabe del tema por su experiencia antes de que el grupo lo formalice; se parte de lo que ya trae y nadie debe exponer datos personales que no quiera compartir."
+        model = f"Modela en voz alta «{focus.lower()}»: nombra cada paso, usa el vocabulario del tema, comprueba el resultado y muestra cómo se corrige «{misconception}» sin apurar ni ridiculizar los errores."
+        guided = f"En parejas o grupos pequeños resuelven una variante de la tarea «{record['topic'].lower()}» tomada de la vida cotidiana (contexto sugerido: {scene}); quien lee o escribe con más soltura apoya sin reemplazar a la otra persona, y el docente circula preguntando en vez de corregir de inmediato."
+        independent = f"Cada persona desarrolla «{focus.lower()}» en una situación propia o cercana a su experiencia (contexto sugerido: {scene}); registra el resultado con palabras, esquemas o dibujos según su nivel de escritura y explica en voz alta qué hizo y por qué."
+        ticket = "Dice o escribe, con sus palabras, qué hizo hoy, para qué le sirve en su vida diaria y qué parte quiere repasar."
+        support = "Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona."
+        extension = "Propone aplicar lo aprendido a otra situación de su trabajo, hogar o comunidad y explicarle a otra persona cómo lo hizo."
+        evidence = f"Producción individual (oral, escrita o gráfica) de «{focus.lower()}» con una situación de la vida adulta, el procedimiento usado y una reflexión breve."
+        coordination = "El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar."
     else:
         opening = f"Presenta {anchor} como desafío. Antes de idear soluciones, cada estudiante define necesidad, usuario, criterio y restricción."
         model = f"Modela cómo {action}: representa la alternativa, anticipa una prueba segura y revisa «{misconception}» junto con accesibilidad, privacidad e impacto."
@@ -525,6 +559,24 @@ def _lesson(record: dict, index: int, profile: dict) -> dict:
             {"signal": "Responde antes de examinar el caso o la evidencia", "action": "Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará.", "check": "La nueva respuesta cita una evidencia pertinente."},
             {"signal": misconception.capitalize(), "action": support, "check": "Resuelve un caso nuevo sin repetir la confusión y explica la diferencia."},
             {"signal": "Completa la actividad, pero no justifica su decisión", "action": "Solicita comparar con una alternativa y nombrar el criterio decisivo.", "check": "La explicación permite reconstruir y revisar la decisión."},
+        ]
+
+    if domain == "adultez":
+        goal = f"Hoy voy a trabajar «{focus.lower()}» con situaciones de mi vida diaria y a reconocer qué me sirve y qué quiero repasar."
+        purpose = f"Que cada persona avance en «{record['topic'].lower()}» y lo conecte con su vida adulta; en esta clase: {action}."
+        materials = f"{anchor}; pizarra, cuaderno, material concreto de la vida diaria (envases, boletas, formularios o dinero de ejemplo) y alternativa sin conectividad. Verifica que ningún material exija comprar nada ni mostrar datos personales."
+        next_step = "Avanza cuando la persona logra hacerlo y explicarlo con sus palabras; si no, localiza la barrera (lectura, escritura, cálculo o confianza), modela otro caso cercano a su vida y vuelve a probar sin etiquetarla."
+        short_version = "Conserva la situación cotidiana, el modelado breve, la práctica con apoyo y el cierre oral; reduce la cantidad de casos para quien llega tarde o debe retirarse antes, sin quitar el desafío."
+        home_task = "Observa o usa, en su casa, trabajo o barrio, una situación parecida a la de la clase y se la cuenta a alguien o la anota. No requiere comprar nada ni conectividad, y no exige mostrar datos personales."
+        complementary = [
+            "Recuperación: vuelve a una situación más simple de la vida diaria y luego al desafío completo.",
+            f"Análisis de error: revisa un caso ficticio que muestra esta confusión: {misconception}.",
+            "Transferencia: aplica lo aprendido a otra situación de su trabajo, hogar o comunidad y explica el cambio.",
+        ]
+        difficulty_actions = [
+            {"signal": "Dice «yo no sé» o evita participar por temor a equivocarse", "action": "Parte de algo que la persona ya hace en su vida, valida ese saber y propone un primer paso breve y posible.", "check": "Participa con una respuesta propia, aunque sea parcial, y explica cómo la obtuvo."},
+            {"signal": misconception.capitalize(), "action": support, "check": "Resuelve un caso nuevo sin repetir la confusión y explica la diferencia con sus palabras."},
+            {"signal": "Completa la actividad, pero no sabe para qué le sirve", "action": "Pide ligarla con una situación concreta de su trabajo, hogar o comunidad y nombrar cuándo la usaría.", "check": "Explica un uso real y qué haría distinto."},
         ]
 
     return {

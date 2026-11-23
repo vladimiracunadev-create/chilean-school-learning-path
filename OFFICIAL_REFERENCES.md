@@ -5,6 +5,7 @@
 - [Programas de estudio](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Programas/)
 - [Textos Escolares 2026](https://www.curriculumnacional.cl/noticias/ministerio-educacion-pone-disposicion-catalogo-textos-escolares-2026)
 - [Lecturas sugeridas](https://www.curriculumnacional.cl/portal/Tipo/Lecturas/Lecturas-sugeridas/)
+- [Educación de Personas Jóvenes y Adultas (EPJA) · bases y programas de estudio](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja) — Decreto 10 de 2024 y programas de estudio por asignatura; el detalle de lo publicado está en [docs/EPJA_INVENTARIO.md](docs/EPJA_INVENTARIO.md) y la extracción en `sources/epja-programas.json`.
 - [Ley General de Educación](https://www.bcn.cl/leychile/navegar?idNorma=1006043)
 - [Ley 17.336](https://www.bcn.cl/leychile/navegar?idNorma=28933)
 

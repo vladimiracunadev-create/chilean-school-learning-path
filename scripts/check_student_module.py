@@ -75,7 +75,7 @@ def missing(subject_path: str) -> list[str]:
     gaps = []
     for path in sorted((ROOT / "curriculum" / level / subject).glob("*.md")):
         text = path.read_text(encoding="utf-8")
-        match = re.match(r"# (\S+ OA [A-Z]*\s?\d+) ", text) or re.match(r"# ([A-Z]{2,3}-\S+-OA[CEMG]-\d+) ", text)
+        match = re.match(r"# (\S+ OA [A-Z]*\s?\d+) ", text) or re.match(r"# ([A-Z]{2,4}-\S+-OA[CEMGD]-\d+) ", text)
         if not match or re.search(r"OA[HA] ", text.split("\n")[0]):
             continue
         code = match.group(1)

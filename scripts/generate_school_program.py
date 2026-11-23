@@ -44,6 +44,7 @@ from grade_three_middle_core_lessons import build_sequence as build_grade_three_
 from grade_three_middle_remaining_lessons import build_sequence as build_grade_three_middle_remaining_sequence, SUBJECT_PROFILES as GRADE_THREE_MIDDLE_REMAINING_PROFILES
 from grade_hc_lessons import build_sequence as build_grade_hc_sequence
 from grade_tp_lessons import build_sequence as build_grade_tp_sequence
+from grade_epja_lessons import build_sequence as build_grade_epja_sequence, class_count as epja_class_count, phase_plan as epja_phase_plan
 from grade_four_middle_lessons import build_sequence as build_grade_four_middle_sequence, SUBJECT_PROFILES as GRADE_FOUR_MIDDLE_PROFILES
 from lesson_quality_enrichment import enrich_item
 from student_lessons import render_html as student_html, render_markdown as student_markdown
@@ -85,6 +86,7 @@ def discipline(slug):
  if any(x in slug for x in ("filosofia","mundo-global","ciudadana","ambiente","bienestar","seguridad-prevencion","chile-region")):return ("pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia","argumento o deliberación fundamentada","afirmar sin razones; atacar a la persona en vez de examinar el argumento")
  return ("concepto, relación, criterio, evidencia, aplicación y revisión","desempeño observable alineado al OA","memorizar sin comprender; completar sin demostrar el aprendizaje")
 def cov(slug,order):
+ if order>=17:return "formacion-epja"
  if order>=15:return "formacion-diferenciada-tp"
  if order>=13:return "formacion-diferenciada-hc"
  if "ingles-propuesta" in slug:return "propuesta-mineduc"
@@ -211,7 +213,7 @@ def official_alignment_html(item):
  return f'''<section class="sources-panel official-alignment"><div><p class="eyebrow">Alineación curricular</p><h2>Fuente y progresión utilizada</h2><p>Esta secuencia conserva la ficha oficial y explicita el origen de sus criterios de diseño.</p></div><div><h3>{unit_heading}</h3><ul>{units}</ul>{unit_note}<h3>{indicator_heading}</h3><ul>{indicators}</ul>{indicator_note}<p><a href="{source}" rel="noopener">Consultar fuente oficial</a></p></div></section>'''
 
 def hc_markdown_nav(item,previous_item,next_item):
- slug=item["subject_slug"];links=[f"[📘 Guía de la especialidad](../../../docs/formacion-tp/{slug.split('-mencion-')[0]}.md)"] if item["course_order"]>=15 else [f"[📘 Guía del electivo](../../../docs/electivos-hc/{slug}.md)"]
+ slug=item["subject_slug"];links=[f"[📘 Guía de la asignatura](../../../docs/formacion-epja/{slug}.md)"] if item["course_order"]>=17 else [f"[📘 Guía de la especialidad](../../../docs/formacion-tp/{slug.split('-mencion-')[0]}.md)"] if item["course_order"]>=15 else [f"[📘 Guía del electivo](../../../docs/electivos-hc/{slug}.md)"]
  if previous_item:links.append(f"[← OA anterior ({previous_item['oa_code']})]({slugify(previous_item['oa_code'])}.md)")
  if next_item:links.append(f"[OA siguiente ({next_item['oa_code']}) →]({slugify(next_item['oa_code'])}.md)")
  index=" · ".join(f"[Clase {n}](#{code.lower()})" for n,code in enumerate(item["codes"],1))
@@ -265,7 +267,7 @@ def plan(item,previous_item=None,next_item=None):
  return f"""# {item['oa_code']} — {item['topic']}
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
-| {item['course']} | {item['subject']} | {item['axis']} | {item['coverage']} | {len(item['phases'])} clases de 90 min |
+| {item['course']} | {item['subject']} | {item['axis']} | {item['coverage']} | {str(len(item['phases']))+' clases (una por hora pedagógica del programa; plan de 90 min que se puede partir o acortar)' if item['course_order']>=17 else str(len(item['phases']))+' clases de 90 min'} |
 {hc_top}
 ## Qué se debe aprender
 > {item['oa_text']}
@@ -1758,7 +1760,7 @@ def lesson_page(item, previous_item=None, next_item=None):
    elif _next:_links.append(f'<a href="{_name(_next)}.html#{esc(_next["codes"][0].lower())}">Primera clase del OA siguiente →</a>')
    if _links:sessions[_n]=sessions[_n].replace("</article>",f'<nav class="class-nav" aria-label="Navegación entre clases">{" ".join(_links)}</nav></article>')
   _index="".join(f'<a href="#{esc(c.lower())}">Clase {n}</a>' for n,c in enumerate(_codes,1))
-  _top=[f'<a href="../../../docs/formacion-tp/{esc(item["subject_slug"].split("-mencion-")[0])}.html">📘 Guía de la especialidad</a>'] if item["course_order"]>=15 else [f'<a href="../../../docs/electivos-hc/{esc(item["subject_slug"])}.html">📘 Guía del electivo</a>']
+  _top=[f'<a href="../../../docs/formacion-epja/{esc(item["subject_slug"])}.html">📘 Guía de la asignatura</a>'] if item["course_order"]>=17 else [f'<a href="../../../docs/formacion-tp/{esc(item["subject_slug"].split("-mencion-")[0])}.html">📘 Guía de la especialidad</a>'] if item["course_order"]>=15 else [f'<a href="../../../docs/electivos-hc/{esc(item["subject_slug"])}.html">📘 Guía del electivo</a>']
   if _prev:_top.append(f'<a href="{_name(_prev)}.html">← OA anterior ({esc(_prev["oa_code"])})</a>')
   if _next:_top.append(f'<a href="{_name(_next)}.html">OA siguiente ({esc(_next["oa_code"])}) →</a>')
   sessions.insert(0,f'<nav class="class-index" aria-label="Clases de este OA"><strong>Clases de este OA:</strong> {_index}<span>{" ".join(_top)}</span></nav>')
@@ -1803,8 +1805,8 @@ def main():
  snap=json.loads(SNAPSHOT.read_text(encoding="utf-8"));developed=json.loads(DEVELOPED.read_text(encoding="utf-8"))["objectives"];objs=[];classes=[];num=1
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
   for oa in r["objectives"]:
-   reads=oa.get("readings",[]);phases=dose(oa["description"],r["subject_slug"],reads);codes=[f"CL-{num+i:05d}" for i in range(len(phases))];path=f"curriculum/{r['course_slug']}/{r['subject_slug']}/{slugify(oa['code'])}.md"
-   developed_content=build_grade_hc_sequence(oa["code"]) or build_grade_tp_sequence(oa["code"]) or build_remaining_sequence(oa["code"]) or build_sha_sequence(oa["code"]) or build_grade_two_math_sequence(oa["code"]) or build_grade_two_lsh_sequence(oa["code"]) or build_grade_two_amp_sequence(oa["code"]) or build_grade_two_remaining_sequence(oa["code"]) or build_grade_three_ml_sequence(oa["code"]) or build_grade_three_sh_sequence(oa["code"]) or build_grade_three_apei_sequence(oa["code"]) or build_grade_three_mot_sequence(oa["code"]) or build_grade_four_math_sequence(oa["code"]) or build_grade_four_remaining_sequence(oa["code"]) or build_grade_five_core_sequence(oa["code"]) or build_grade_five_remaining_sequence(oa["code"]) or build_grade_six_math_sequence(oa["code"]) or build_grade_six_remaining_sequence(oa["code"]) or build_grade_seven_core_sequence(oa["code"]) or build_grade_seven_next_five_sequence(oa["code"]) or build_grade_seven_remaining_sequence(oa["code"]) or build_grade_eight_core_sequence(oa["code"]) or build_grade_eight_next_four_sequence(oa["code"]) or build_grade_eight_remaining_sequence(oa["code"]) or build_grade_one_middle_core_sequence(oa["code"]) or build_grade_one_middle_next_four_sequence(oa["code"]) or build_grade_one_middle_remaining_sequence(oa["code"]) or build_grade_two_middle_core_sequence(oa["code"]) or build_grade_two_middle_next_four_sequence(oa["code"]) or build_grade_two_middle_remaining_sequence(oa["code"]) or build_grade_three_middle_core_sequence(oa["code"]) or (build_grade_three_middle_remaining_sequence(oa["code"]) if r["course_order"]==11 else None) or (build_grade_four_middle_sequence(oa["code"]) if r["course_order"]==12 else None) or developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
+   reads=oa.get("readings",[]);phases=epja_phase_plan(oa["code"],PH) or dose(oa["description"],r["subject_slug"],reads);codes=[f"CL-{num+i:05d}" for i in range(len(phases))];path=f"curriculum/{r['course_slug']}/{r['subject_slug']}/{slugify(oa['code'])}.md"
+   developed_content=build_grade_hc_sequence(oa["code"]) or build_grade_tp_sequence(oa["code"]) or build_grade_epja_sequence(oa["code"]) or build_remaining_sequence(oa["code"]) or build_sha_sequence(oa["code"]) or build_grade_two_math_sequence(oa["code"]) or build_grade_two_lsh_sequence(oa["code"]) or build_grade_two_amp_sequence(oa["code"]) or build_grade_two_remaining_sequence(oa["code"]) or build_grade_three_ml_sequence(oa["code"]) or build_grade_three_sh_sequence(oa["code"]) or build_grade_three_apei_sequence(oa["code"]) or build_grade_three_mot_sequence(oa["code"]) or build_grade_four_math_sequence(oa["code"]) or build_grade_four_remaining_sequence(oa["code"]) or build_grade_five_core_sequence(oa["code"]) or build_grade_five_remaining_sequence(oa["code"]) or build_grade_six_math_sequence(oa["code"]) or build_grade_six_remaining_sequence(oa["code"]) or build_grade_seven_core_sequence(oa["code"]) or build_grade_seven_next_five_sequence(oa["code"]) or build_grade_seven_remaining_sequence(oa["code"]) or build_grade_eight_core_sequence(oa["code"]) or build_grade_eight_next_four_sequence(oa["code"]) or build_grade_eight_remaining_sequence(oa["code"]) or build_grade_one_middle_core_sequence(oa["code"]) or build_grade_one_middle_next_four_sequence(oa["code"]) or build_grade_one_middle_remaining_sequence(oa["code"]) or build_grade_two_middle_core_sequence(oa["code"]) or build_grade_two_middle_next_four_sequence(oa["code"]) or build_grade_two_middle_remaining_sequence(oa["code"]) or build_grade_three_middle_core_sequence(oa["code"]) or (build_grade_three_middle_remaining_sequence(oa["code"]) if r["course_order"]==11 else None) or (build_grade_four_middle_sequence(oa["code"]) if r["course_order"]==12 else None) or developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
    if oa["code"]=="MA03 OA 11":developed_content=complete_pilot_sequence(developed_content)
    if oa["code"]=="HI03 OA 05":developed_content=complete_history_pilot(developed_content)
    item={"topic":(developed_content or {}).get("topic",topic_from(oa["description"])),"course":r["course"],"course_slug":r["course_slug"],"course_order":r["course_order"],"subject":r["subject"],"subject_slug":r["subject_slug"],"axis":oa["axis"],"oa_code":oa["code"],"oa_text":oa["description"],"coverage":cov(r["subject_slug"],r["course_order"]),"source_url":oa["url"],"subject_url":r["subject_url"],"verified_at":snap["verified_at"],"readings":reads,"path":path,"codes":codes,"phases":phases,"developed":developed_content}

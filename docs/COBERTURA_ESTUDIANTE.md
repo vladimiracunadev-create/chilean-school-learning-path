@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 12910 de 13.146 clases desarrolladas tienen cuaderno del estudiante (98,2 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 12910 de 13.264 clases desarrolladas tienen cuaderno del estudiante (97,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -28,6 +28,10 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 | 3.º medio TP | 1.281 | 1.281 | 0 | completo | 0 | 21.777 | 2.562 | pendiente |
 | 4.º medio TP | 1.464 | 1.464 | 0 | completo | 0 | 24.888 | 2.928 | pendiente |
+| EPJA básica N1 | 118 | 0 | 118 | sin iniciar | 0 | 0 | 0 | pendiente |
+| EPJA básica N2 | 0 | 0 | 0 | sin iniciar | 0 | 0 | 0 | pendiente |
+| EPJA media N1 | 0 | 0 | 0 | sin iniciar | 0 | 0 | 0 | pendiente |
+| EPJA media N2 | 0 | 0 | 0 | sin iniciar | 0 | 0 | 0 | pendiente |
 
 ## Objetivos con cuaderno
 

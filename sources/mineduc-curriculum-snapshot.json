@@ -4,7 +4,7 @@
   "source_url": "https://www.curriculumnacional.cl/curriculum/cursos-y-niveles",
   "verified_at": "2026-09-24",
   "rights_notice": "Los códigos, metadatos y textos oficiales conservan los derechos de sus titulares; la licencia de contenido del proyecto solo cubre la elaboración pedagógica original.",
-  "scope": "1° básico a 4° medio, formación general; electivos HC de 3° y 4° medio; 35 especialidades técnico-profesionales (EMTP) de 3° y 4° medio; coberturas optativas identificadas",
+  "scope": "1° básico a 4° medio, formación general; electivos HC de 3° y 4° medio; 35 especialidades técnico-profesionales (EMTP) de 3° y 4° medio; Educación de Personas Jóvenes y Adultas (EPJA): programas de estudio publicados, por actividad de desempeño; coberturas optativas identificadas",
   "records": [
     {
       "course": "1° básico",
@@ -33641,6 +33641,132 @@
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "EPJA · Educación Básica Nivel 1 (1.º a 4.º básico)",
+      "course_slug": "epja-basica-n1",
+      "course_order": 17,
+      "course_url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0",
+      "subject": "Lenguaje y Comunicación · EPJA Básica N1",
+      "subject_slug": "lenguaje-comunicacion-epja-nb1",
+      "subject_url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0",
+      "coverage": "formacion-epja",
+      "approach": "partir de situaciones de la vida adulta (trabajo, familia, trámites, dinero, salud, vecindario) y de lo que cada persona ya sabe, con apoyo oral y gráfico cuando se necesite",
+      "evidence": "producción breve, oral, escrita o gráfica, que muestre lo aprendido en una situación de la vida diaria",
+      "objectives": [
+        {
+          "code": "EPJA-LECO-NB1-OAD-01",
+          "description": "Identifican el tema e idea principal de un video informativo. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Textos no literarios: informativos y explicativos. Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Estrategias de adquisición y comprensión de textos orales. Horas pedagógicas: 9.",
+          "axis": "Módulo 1: Leer diferentes tipos de textos nos permite aprender más sobre el ser humano y las diversas culturas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-02",
+          "description": "Identifican el tema e idea principal de un cuento. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 4: Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Textos literarios: género narrativo. Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Estrategias de adquisición y comprensión de textos orales. Horas pedagógicas: 7.",
+          "axis": "Módulo 1: Leer diferentes tipos de textos nos permite aprender más sobre el ser humano y las diversas culturas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-03",
+          "description": "Identifican el tema e idea principal de un cuento. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 4: Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Vocabulario: sinónimos, antónimos y familias de palabras. Textos literarios: género narrativo. Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Estrategias de adquisición y comprensión de textos orales. Horas pedagógicas: 7.",
+          "axis": "Módulo 1: Leer diferentes tipos de textos nos permite aprender más sobre el ser humano y las diversas culturas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-04",
+          "description": "Leen fluidamente una creación colaborativa. Objetivos de aprendizaje nucleares: OA 1: Leer en voz alta textos variados de manera fluida y adecuada entonación. (Lectura). OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 4: Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Vocabulario: sinónimos, antónimos y familias de palabras. Textos no literarios: informativos y explicativos. Horas pedagógicas: 7.",
+          "axis": "Módulo 1: Leer diferentes tipos de textos nos permite aprender más sobre el ser humano y las diversas culturas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-05",
+          "description": "Describir una fotografía por medio de una oración simple. Objetivos de aprendizaje nucleares: OA 1: Leer en voz alta textos variados de manera fluida y adecuada entonación. (Lectura). OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 3: Escribir con letra legible para una variedad de propósitos personales y sociales. (Escritura). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Textos literarios: género narrativo. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual). Horas pedagógicas: 9.",
+          "axis": "Módulo 2: La escritura es un medio para comunicarnos con los demás y participar activamente en la sociedad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-06",
+          "description": "Escribir una ficha sobre una hierba medicinal, que contenga información sobre su uso y algunas recomendaciones. Objetivos de aprendizaje nucleares: OA 1: Leer en voz alta textos variados de manera fluida y adecuada entonación. (Lectura). OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 4: Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Textos no literarios: informativos y explicativos. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual). Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Estrategias de adquisición y comprensión de textos orales y escritos. Horas pedagógicas: 7.",
+          "axis": "Módulo 2: La escritura es un medio para comunicarnos con los demás y participar activamente en la sociedad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-07",
+          "description": "Escribir una carta al director que manifieste una problemática social. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 3: Escribir con letra legible para una variedad de propósitos personales y sociales. (Escritura). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Textos literarios: género narrativo. Textos no literarios: informativos y explicativos. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual). Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Estrategias de adquisición y comprensión de textos orales y escritos. Horas pedagógicas: 7.",
+          "axis": "Módulo 2: La escritura es un medio para comunicarnos con los demás y participar activamente en la sociedad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-08",
+          "description": "Escribir un tríptico que contenga una invitación a estudiar e informe acerca de los datos del establecimiento educacional. Objetivos de aprendizaje nucleares: OA 1: Leer en voz alta textos variados de manera fluida y adecuada entonación. (Lectura). OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 3: Escribir con letra legible para una variedad de propósitos personales y sociales. (Escritura). Conocimientos esenciales: Código escrito: reconocimiento de la correspondencia entre letras y sonidos, y sus variaciones; reconocimiento y escritura de palabras y oraciones; lectura y escritura de palabras progresivamente más complejas; lectura de textos breves del entorno. Textos no literarios: informativos y explicativos. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual). Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Estrategias de adquisición y comprensión de textos orales y escritos. Horas pedagógicas: 7.",
+          "axis": "Módulo 2: La escritura es un medio para comunicarnos con los demás y participar activamente en la sociedad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-09",
+          "description": "Narran una historia a partir de imágenes e identifican acciones principales y secundarias. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). Conocimientos esenciales: Textos literarios: género narrativo. Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Horas pedagógicas: 7.",
+          "axis": "Módulo 3: Al escuchar y hablar nos conectamos con otras personas y compartimos nuestras experiencias",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-10",
+          "description": "Exponen acerca de un objeto significativo. Objetivos de aprendizaje nucleares: OA 4: Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral). Conocimientos esenciales: Vocabulario: sinónimos, antónimos y familias de palabras. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual). Horas pedagógicas: 7.",
+          "axis": "Módulo 3: Al escuchar y hablar nos conectamos con otras personas y compartimos nuestras experiencias",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-11",
+          "description": "Realizan una entrevista y formulan sus propias preguntas. Objetivos de aprendizaje nucleares: OA 4: Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral). Conocimientos esenciales: Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual). Textos no literarios: informativos y explicativos. Estrategias de adquisición y comprensión de textos orales y escritos. Horas pedagógicas: 7.",
+          "axis": "Módulo 3: Al escuchar y hablar nos conectamos con otras personas y compartimos nuestras experiencias",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-12",
+          "description": "Inventan un nuevo final para un cortometraje. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 3: Escribir con letra legible para una variedad de propósitos personales y sociales. (Escritura). OA 4: Expresarse de manera coherente y articulada utilizando un vocabulario variado y gestos, posturas, volumen y dicción adecuados al propósito y la situación comunicativa. (Comunicación oral). Conocimientos esenciales: Vocabulario: sinónimos, antónimos y familias de palabras. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual). Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Horas pedagógicas: 7.",
+          "axis": "Módulo 3: Al escuchar y hablar nos conectamos con otras personas y compartimos nuestras experiencias",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-13",
+          "description": "Identifican ideas principales e ideas secundarias de un texto informativo. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). Conocimientos esenciales: Textos no literarios: informativos y explicativos. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual). Contenido de textos: idea central, idea secundaria, hechos relevantes, detalles significativos, conceptos abstractos (emociones, sentimientos). Horas pedagógicas: 9.",
+          "axis": "Módulo 4: Al buscar y seleccionar información aplicamos criterios de acuerdo con nuestros propósitos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-14",
+          "description": "Escriben con sus propias palabras párrafos de un texto informativo. Objetivos de aprendizaje nucleares: OA 3: Escribir con letra legible para una variedad de propósitos personales y sociales. (Escritura). Conocimientos esenciales: Vocabulario: sinónimos, antónimos.de palabras progresivamente más complejas; lectura de textos breves del entorno. Textos no literarios: informativos y explicativos. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual). Estrategias de adquisición y comprensión de textos orales y escritos. Horas pedagógicas: 7.",
+          "axis": "Módulo 4: Al buscar y seleccionar información aplicamos criterios de acuerdo con nuestros propósitos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-15",
+          "description": "Identifican criterios de búsqueda de información confiable en la valoración de un sitio web. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 5: Buscar y seleccionar información con honestidad, a partir de un propósito. (Investigación). Conocimientos esenciales: Textos no literarios: informativos y explicativos. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (literal, puntual y acentual). Horas pedagógicas: 7.",
+          "axis": "Módulo 4: Al buscar y seleccionar información aplicamos criterios de acuerdo con nuestros propósitos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-LECO-NB1-OAD-16",
+          "description": "Escriben un texto informativo, a partir de la búsqueda de un tema de interés en Internet. Objetivos de aprendizaje nucleares: OA 2: Leer textos de diversos géneros (orales, escritos y audiovisuales) para desarrollar la comprensión global. (Lectura). OA 3: Escribir con letra legible para una variedad de propósitos personales y sociales. (Escritura). OA 5: Buscar y seleccionar información con honestidad, a partir de un propósito. (Investigación). Conocimientos esenciales: Textos no literarios: informativos y explicativos de palabras progresivamente más complejas; lectura de textos breves del entorno. Manejo de la lengua: normas gramaticales (concordancia género y número) y ortográficas básicas (puntual). Estrategias de adquisición y comprensión de textos orales y escritos. Horas pedagógicas: 7.",
+          "axis": "Módulo 4: Al buscar y seleccionar información aplicamos criterios de acuerdo con nuestros propósitos",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-1-educacion-basica-0"
         }
       ]
     }

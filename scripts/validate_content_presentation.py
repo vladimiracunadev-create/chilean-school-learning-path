@@ -24,7 +24,7 @@ def repository_files(root: Path, suffix: str) -> list[Path]:
     return sorted(
         path
         for path in root.rglob(f"*{suffix}")
-        if not any(part in EXCLUDED_PARTS for part in path.parts)
+        if not any(part in EXCLUDED_PARTS for part in path.relative_to(root).parts)
     )
 
 

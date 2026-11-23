@@ -6,7 +6,7 @@
 
 **1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456 · 3° medio: 495 desarrolladas · 4° medio: 466 desarrolladas**
 
-> El catálogo reúne **3.784 OA y 17.302 registros pedagógicos**: 13.146 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
+> El catálogo reúne **3.800 OA y 17.420 registros pedagógicos**: 13.264 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
 
 ---
 
@@ -279,6 +279,12 @@ Las doce denominaciones curriculares tienen desarrollo interno completo; habilid
 | Teatro | 6 | 31 | [Leer](4-medio/teatro.md) |
 | Tecnología y sociedad | 3 | 15 | [Leer](4-medio/tecnologia-sociedad.md) |
 
+<!-- EPJA:syl -->
+### Educación de Personas Jóvenes y Adultas (EPJA)
+
+1 asignatura (Lenguaje y Comunicación) con los objetivos de los programas de estudio EPJA oficiales y 118 clases, de las cuales 0 tienen cuaderno del estudiante. Detalle en el [índice de asignaturas EPJA](formacion-epja/README.md).
+
+<!-- /EPJA:syl -->
 <!-- TP:syl -->
 ### 3° y 4° medio · Formación técnico-profesional (especialidades publicadas)
 

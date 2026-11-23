@@ -305,3 +305,13 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Telecomunicaciones** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/telecomunicaciones.md).
 - **Objetivos genéricos A-L** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/objetivos-genericos-tp.md).
 <!-- /TP:rev -->
+
+<!-- EPJA:rev -->
+## Educación de Personas Jóvenes y Adultas (EPJA)
+
+Estado: planes docentes generados por el proyecto desde los programas de estudio EPJA oficiales; los cuadernos del estudiante se agregan por asignatura con autor y lector independiente asistidos por IA (ver [Avance de las asignaturas nuevas](AVANCE_ASIGNATURAS_NUEVAS.md)). Eso no es revisión profesional. Nada se contrastó con el Currículum Nacional más allá del sitio oficial.
+
+- **Todas:** los títulos de clase son una derivación mecánica del desempeño oficial y de sus conocimientos esenciales; el bloque de 90 minutos del proyecto no coincide con la hora pedagógica del programa y se puede partir o acortar; las situaciones de la vida adulta son ejemplos sugeridos.
+- **Docentes de EPJA necesarios:** una persona de la modalidad debe revisar el lenguaje, el nivel de exigencia y que nada resulte infantilizante, y probar los apoyos de lectura y escritura.
+- **Lenguaje y Comunicación · EPJA Básica N1:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/lenguaje-comunicacion-epja-nb1.md).
+<!-- /EPJA:rev -->
