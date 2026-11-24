@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18102) · [Clase 2](#cl-18103) · [Clase 3](#cl-18104)
+**Clases de este OA:** [Clase 1](#cl-18248) · [Clase 2](#cl-18249) · [Clase 3](#cl-18250)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Proponer ajustes al prototipo de emprendimiento {#cl-18102}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Proponer ajustes al prototipo de emprendimiento {#cl-18248}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proponer ajustes al prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Proponer ajustes al prototipo de emprendimiento.
@@ -248,9 +248,9 @@ Respuesta: El de 6 de 10
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-emem-nm1y2-oad-11.md#cl-18101) · [Clase siguiente →](#cl-18103)
+[← Última clase del OA anterior](epja-emem-nm1y2-oad-11.md#cl-18247) · [Clase siguiente →](#cl-18249)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Proponer ajustes al prototipo de emprendimiento {#cl-18103}
+### Clase 2 de 3: Practicar juntos con apoyo: Proponer ajustes al prototipo de emprendimiento {#cl-18249}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proponer ajustes al prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Proponer ajustes al prototipo de emprendimiento.
@@ -454,9 +454,9 @@ Respuesta: «No se lee a 3 metros, se pierden ventas; propongo agrandar las letr
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18102) · [Clase siguiente →](#cl-18104)
+[← Clase anterior](#cl-18248) · [Clase siguiente →](#cl-18250)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Proponer ajustes al prototipo de emprendimiento {#cl-18104}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Proponer ajustes al prototipo de emprendimiento {#cl-18250}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proponer ajustes al prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Proponer ajustes al prototipo de emprendimiento.
@@ -660,7 +660,7 @@ Respuesta: Avisar al equipo y ajustar el plan
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18103) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-13.md#cl-18105)
+[← Clase anterior](#cl-18249) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-13.md#cl-18251)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

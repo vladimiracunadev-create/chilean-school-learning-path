@@ -1,0 +1,1296 @@
+# EPJA-LELI-NM1-OAD-16 — Analizar los puntos de vista expresados en un texto audiovisual
+| Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
+|---|---|---|---|---|
+| EPJA · Educación Media Nivel 1 (1.º y 2.º medio) | Lengua y Literatura · EPJA Media N1 | Módulo 4: La investigación nos permite profundizar en la comprensión de ideas complejas. Cuestionar lo que escuchamos con empatía contribuye a nuestra capacidad de desarrollar relaciones humanas sanas | formacion-epja | 6 clases (una por hora pedagógica del programa; plan de 90 min que se puede partir o acortar) |
+
+[📘 Guía de la asignatura](../../../docs/formacion-epja/lengua-literatura-epja-nm1.md) · [← OA anterior (EPJA-LELI-NM1-OAD-15)](epja-leli-nm1-oad-15.md)
+
+## Qué se debe aprender
+> Analizan los puntos de vista expresados en un texto audiovisual, a partir de la relación entre imagen, texto y sonido, y comunican oralmente sus conclusiones. Objetivos de aprendizaje nucleares: OA 4: Evaluar textos orales y audiovisuales: diferentes puntos de vista, considerando la relación que se establece entre imagen, sonido y texto, formulando una postura frente a lo escuchado. (Comunicación oral). Conocimientos esenciales: Recursos no lingüísticos en los textos: diseño, imágenes, disposición gráfica y efectos de audio. Horas pedagógicas: 6.
+
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
+**Explicación pedagógica.** Analizar los puntos de vista expresados en un texto audiovisual recupera aprendizajes de la Educación Básica de la modalidad (o su equivalente) y su experiencia de vida y de trabajo y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «resumir un texto en vez de interpretarlo».
+
+**Antes de comenzar.** Retoma la lectura, la escritura y la conversación de la vida diaria y del trabajo, y las lleva a textos más extensos y a la literatura. Retoma lo trabajado en la Educación Básica de la modalidad (o su equivalente) y la experiencia de vida y de trabajo de cada persona.
+
+**Vocabulario explícito:** texto, género, propósito, audiencia, argumento, interpretación, recurso, evidencia textual, revisión, voz propia.
+
+## Alineación con el programa oficial
+**Unidades relacionadas**
+- Módulo 4 (24 horas): La investigación nos permite profundizar en la comprensión de ideas complejas. Cuestionar lo que escuchamos con empatía contribuye a nuestra capacidad de desarrollar relaciones humanas sanas.
+- Actividad de desempeño 4 (6 horas pedagógicas = 6 clases)
+
+**Criterios de progresión derivados del OA**
+- Actividad de desempeño 4 del módulo 4: Analizan los puntos de vista expresados en un texto audiovisual, a partir de la relación entre imagen, texto y sonido, y comunican oralmente sus conclusiones.
+- Recursos no lingüísticos en los textos: diseño, imágenes, disposición gráfica y efectos de audio.
+- Partir de lo que ya se sabe y de la vida diaria: Analizar los puntos de vista expresados en un texto audiovisual.
+
+> **Origen:** Actividad de desempeño y conocimientos esenciales del programa de estudio EPJA oficial; la distribución en clases es organización pedagógica interna, no una unidad oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lengua-literatura-educacion-media)
+
+## Lecturas y textos
+La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
+
+Estos recursos asociados no constituyen una lista nacional obligatoria. Este repositorio enlaza y no reproduce obras protegidas.
+
+## Planificación clase a clase
+La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-18497) · [Clase 2](#cl-18498) · [Clase 3](#cl-18499) · [Clase 4](#cl-18500) · [Clase 5](#cl-18501) · [Clase 6](#cl-18502)
+
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Analizar los puntos de vista expresados en un texto audiovisual {#cl-18497}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Que cada persona avance en «analizar los puntos de vista expresados en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Analizar los puntos de vista expresados en un texto audiovisual.
+
+**Meta para estudiantes:** Hoy voy a trabajar «partir de lo que ya se sabe y de la vida diaria: analizar los puntos de vista expresados en un texto audiovisual» con situaciones de mi vida diaria y a reconocer qué me sirve y qué quiero repasar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; contexto sugerido: preparar un discurso breve. Cada persona cuenta, de palabra o por escrito, qué sabe del tema por su experiencia antes de que el grupo lo formalice; se parte de lo que ya trae y nadie debe exponer datos personales que no quiera compartir. |
+| Modelado | 20 min | Modela en voz alta «partir de lo que ya se sabe y de la vida diaria: analizar los puntos de vista expresados en un texto audiovisual»: nombra cada paso, usa el vocabulario del tema, comprueba el resultado y muestra cómo se corrige «resumir un texto en vez de interpretarlo» sin apurar ni ridiculizar los errores. |
+| Práctica guiada | 25 min | En parejas o grupos pequeños resuelven una variante de la tarea «analizar los puntos de vista expresados en un texto audiovisual» tomada de la vida cotidiana (contexto sugerido: preparar un discurso breve); quien lee o escribe con más soltura apoya sin reemplazar a la otra persona, y el docente circula preguntando en vez de corregir de inmediato. |
+| Desempeño individual | 25 min | Cada persona desarrolla «partir de lo que ya se sabe y de la vida diaria: analizar los puntos de vista expresados en un texto audiovisual» en una situación propia o cercana a su experiencia (contexto sugerido: preparar un discurso breve); registra el resultado con palabras, esquemas o dibujos según su nivel de escritura y explica en voz alta qué hizo y por qué. |
+| Cierre | 10 min | Dice o escribe, con sus palabras, qué hizo hoy, para qué le sirve en su vida diaria y qué parte quiere repasar. |
+
+**Materiales y preparación:** una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; pizarra, cuaderno, material concreto de la vida diaria (envases, boletas, formularios o dinero de ejemplo) y alternativa sin conectividad. Verifica que ningún material exija comprar nada ni mostrar datos personales.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y cuaderno. Todos los textos, resúmenes de obras, fichas y tablas están escritos en cada ejercicio: los textos nuevos son inventados para este cuaderno y los resúmenes de obras clásicas están escritos con palabras propias. No necesitas libros, audio, video ni internet: cuando la clase habla de imágenes o sonidos, están descritos en una tabla escrita. Si algo te cuesta leer, pide apoyo a otra persona: pedir ayuda es parte de aprender. No escribas datos personales reales (cédula, dirección ni teléfono).
+
+**Consigna exacta:** Elige UNA escena del aviso de la ficha y escribe en tu cuaderno tres líneas: qué muestra la imagen, qué dice el texto y qué sonido hay. Después escribe una oración que diga qué te hace sentir o pensar esa combinación. Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube.
+
+**Referencia para modelar y corregir:** Escena 3: imagen, una familia riendo con pan; texto, «Pan para todos»; sonido, risas y música que sube. Me hace sentir alegría y compañía, como si el pan fuera para compartir.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Escena 3: imagen, una familia riendo con pan; texto, «Pan para todos»; sonido, risas y música que sube. Me hace sentir alegría y compañía, como si el pan fuera para compartir. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Hoy parto de lo que ya veo a diario, avisos, noticias y videos del celular, para reconocer que imagen, texto y sonido comunican juntos.
+
+**Lo que ya debo saber.** Veo avisos y noticias en televisión o en el celular. Sé que la música cambia cómo me siento. Puedo decir qué mensaje me dejó un aviso.
+
+**Explicación.**
+
+Tú ya conoces los textos audiovisuales: un aviso, una noticia, un video. Un texto audiovisual comunica con tres cosas a la vez: la imagen (lo que se ve), el texto (las palabras escritas o dichas) y el sonido (música, ruidos, voces, silencio).
+
+Cada parte aporta algo. La imagen muestra, el texto explica o nombra y el sonido crea un ambiente. Si quitas el sonido de un aviso, cambia lo que sientes, aunque veas las mismas imágenes. Por eso hay que mirar las tres partes juntas.
+
+Todo texto audiovisual tiene un punto de vista: es la mirada desde la que alguien cuenta algo. Quien lo hace elige qué mostrar, qué decir y qué música poner. Hoy aprendemos a leer esas elecciones en una tabla escrita, porque aquí no hay video ni audio.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| texto audiovisual | mensaje que combina imagen, texto y sonido |
+| escena | parte de un video donde ocurre una situación |
+| voz en off | voz que se oye sin que se vea a quien habla |
+| punto de vista | mirada desde la que alguien cuenta algo |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Separar imagen, texto y sonido*
+
+Problema: Escena 2 del aviso: manos amasando; voz «Hecho a mano»; sonido de la masa al golpear la mesa.
+
+1. Imagen: primer plano de manos amasando.
+2. Texto: voz en off que dice «Hecho a mano».
+3. Sonido: golpes de la masa.
+
+Respuesta: Imagen muestra el trabajo, texto lo nombra y sonido lo hace cercano
+
+*Ejemplo 2. Descubrir el punto de vista*
+
+Problema: Aviso: amanecer, manos, familia riendo, «Pan para todos».
+
+1. Elige mostrar lo cálido y familiar.
+2. No muestra precios ni comparaciones.
+
+Respuesta: La panadería se muestra como cálida y familiar
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Mirar solo las imágenes y olvidar el sonido. **Por qué ocurre:** El sonido también crea sentido: música, silencio o ruidos. **Cómo corregirlo:** Anota siempre imagen, texto y sonido de cada escena.
+- **Error:** Creer que un aviso «solo muestra la realidad». **Por qué ocurre:** Quien lo hace elige qué mostrar y qué no. **Cómo corregirlo:** Pregunta: «¿qué eligieron mostrar y qué dejaron fuera?».
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Qué muestra la imagen de la escena 2? A) Una calle con luz de amanecer B) Un primer plano de unas manos amasando C) Una familia riendo
+- **R2.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Cuántas escenas tiene el aviso? Escribe el número.
+- **R3.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Qué texto aparece en pantalla en la escena 3? A) «Hecho a mano» B) «Pan para todos» C) «Cada mañana»
+
+*Comprensión*
+
+- **C1.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Qué sonido acompaña la escena 1? A) Golpes de martillo B) Risas C) Guitarra suave
+- **C2.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Qué sensación crea la luz de amanecer con la guitarra suave? A) Calma y calidez B) Peligro C) Prisa
+- **C3.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Qué quiere sugerir la imagen de la familia riendo con el pan? A) Que el pan se comparte y se disfruta en familia B) Que el pan es el más barato
+
+*Aplicación*
+
+- **A1.** En Lengua y Literatura: ¿qué es un texto audiovisual? A) Un mensaje que combina imagen, texto y sonido B) Un texto solo con palabras C) Un dibujo sin sonido
+- **A2.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Qué frase da una información concreta sobre cómo se hace el pan? A) «Hecho a mano» B) «Cada mañana» C) «Pan para todos»
+- **A3.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿El aviso informa el precio del pan? Responde sí o no.
+
+*Razonamiento y análisis*
+
+- **Z1.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. ¿Cuál es el punto de vista del aviso? A) La panadería tiene problemas B) El pan es más caro que en otras partes C) La panadería se muestra como cálida y familiar
+- **Z2.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. Un vecino dice: «El aviso demuestra que este pan es mejor que los otros». ¿Tiene razón? A) No: el aviso muestra sensaciones y no compara con otros panes B) Sí: aparece una familia feliz
+
+*Desafío*
+
+- **D1.** Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube. Si se apaga el sonido del aviso, ¿qué cambia? A) Se pierden la música y el sonido de la masa, que crean el ambiente B) Se pierden las imágenes C) Se pierde el texto escrito
+- **D2.** ¿En cuál de estos lugares ves un texto audiovisual? A) En un noticiero de televisión B) En un cuaderno de cuentas C) En una boleta de compra
+
+*Situaciones auténticas*
+
+- **S1.** Ves un aviso de un banco de barrio con música emotiva y una familia sonriente, sin nombrar costos. Quieres decidir si te conviene. ¿Qué haces? A) Reconozco que muestra sentimientos y pido la información concreta B) Confío porque la música es linda C) Lo comparto sin leer
+
+*Autoevaluación*
+
+- **E1.** En Lengua y Literatura: ¿qué tres partes tiene un texto audiovisual?
+- **E2.** ¿Qué es el punto de vista de un video?
+- **E3.** ¿Qué aporta el sonido?
+
+**Actividad abierta.** Elige UNA escena del aviso de la ficha y escribe en tu cuaderno tres líneas: qué muestra la imagen, qué dice el texto y qué sonido hay. Después escribe una oración que diga qué te hace sentir o pensar esa combinación. Aviso audiovisual (inventado y descrito por escrito), «Panadería del pasaje», 3 escenas. Escena 1: Imagen: plano general de una calle con luz de amanecer. Texto en pantalla: «Cada mañana». Sonido: guitarra suave. Escena 2: Imagen: primer plano de unas manos amasando. Voz en off: «Hecho a mano». Sonido: el sonido de la masa al golpear la mesa. Escena 3: Imagen: una familia riendo alrededor de una mesa con pan. Texto en pantalla: «Pan para todos». Sonido: risas y la música sube.
+
+**Solucionario razonado**
+
+- **R1.** B) Un primer plano de unas manos amasando. La tabla indica un primer plano de manos amasando.
+- **R2.** 3. La tabla del texto describe tres escenas numeradas.
+- **R3.** B) «Pan para todos». La escena 3 muestra la frase «Pan para todos».
+- **C1.** C) Guitarra suave. La tabla de la escena 1 anota guitarra suave.
+- **C2.** A) Calma y calidez. La luz suave y la música tranquila crean un ambiente cálido.
+- **C3.** A) Que el pan se comparte y se disfruta en familia. Muestra un momento familiar y no entrega ningún dato de precio.
+- **A1.** A) Un mensaje que combina imagen, texto y sonido. Combina tres formas de comunicar a la vez.
+- **A2.** A) «Hecho a mano». La voz en off señala cómo se elabora el pan.
+- **A3.** no. Las tres escenas no mencionan ningún precio.
+- **Z1.** C) La panadería se muestra como cálida y familiar. Elige mostrar escenas de familia, manos y amanecer.
+- **Z2.** A) No: el aviso muestra sensaciones y no compara con otros panes. Ninguna escena compara este pan con otro producto.
+- **D1.** A) Se pierden la música y el sonido de la masa, que crean el ambiente. El sonido aporta emoción que no está en la imagen.
+- **D2.** A) En un noticiero de televisión. El noticiero combina imágenes, voz y música.
+- **S1.** A) Reconozco que muestra sentimientos y pido la información concreta. Un aviso emotivo no entrega datos concretos que se puedan comparar.
+- **E1.** Imagen, texto y sonido. Se analizan juntas para entender el mensaje.
+- **E2.** La mirada desde la que se cuenta algo. Es lo que quien lo hace elige mostrar.
+- **E3.** Crea un ambiente y una emoción. Música y ruidos cambian cómo sentimos lo que vemos.
+
+**Actividad abierta · ejemplo de respuesta.** Escena 3: imagen, una familia riendo con pan; texto, «Pan para todos»; sonido, risas y música que sube. Me hace sentir alegría y compañía, como si el pan fuera para compartir.
+
+**Criterios para evaluarla:** usa los tres elementos de la escena; los datos corresponden a la ficha; dice qué sugiere.
+
+**Evidencias aceptables:** tres líneas y una oración.
+
+**Errores que conviene detectar:** inventar datos que no están en la tabla; no mencionar el sonido.
+
+**Retroalimentación constructiva:** Pregunta: «¿Qué cambiaría si faltara el sonido?».
+
+**Refuerzo.** Recuerda un aviso que hayas visto hoy y anota qué imagen, qué texto y qué sonido tenía.
+
+**Profundización.** Describe en tres líneas una escena para un aviso de una feria de tu barrio: imagen, texto y sonido.
+
+
+**Apoyo en el mismo OA:** Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona.
+
+**Profundización:** Propone aplicar lo aprendido a otra situación de su trabajo, hogar o comunidad y explicarle a otra persona cómo lo hizo.
+
+**Evidencia:** Producción individual (oral, escrita o gráfica) de «partir de lo que ya se sabe y de la vida diaria: analizar los puntos de vista expresados en un texto audiovisual» con una situación de la vida adulta, el procedimiento usado y una reflexión breve.
+
+**Criterios de éxito:** desarrolla «partir de lo que ya se sabe y de la vida diaria: analizar los puntos de vista expresados en un texto audiovisual» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando la persona logra hacerlo y explicarlo con sus palabras; si no, localiza la barrera (lectura, escritura, cálculo o confianza), modela otro caso cercano a su vida y vuelve a probar sin etiquetarla.
+
+**Adaptación a 45 minutos:** Conserva la situación cotidiana, el modelado breve, la práctica con apoyo y el cierre oral; reduce la cantidad de casos para quien llega tarde o debe retirarse antes, sin quitar el desafío.
+
+**Tarea breve y flexible:** Observa o usa, en su casa, trabajo o barrio, una situación parecida a la de la clase y se la cuenta a alguien o la anota. No requiere comprar nada ni conectividad, y no exige mostrar datos personales.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a una situación más simple de la vida diaria y luego al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: resumir un texto en vez de interpretarlo.
+- Transferencia: aplica lo aprendido a otra situación de su trabajo, hogar o comunidad y explica el cambio.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Dice «yo no sé» o evita participar por temor a equivocarse | Parte de algo que la persona ya hace en su vida, valida ese saber y propone un primer paso breve y posible. | Participa con una respuesta propia, aunque sea parcial, y explica cómo la obtuvo. |
+| Resumir un texto en vez de interpretarlo | Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia con sus palabras. |
+| Completa la actividad, pero no sabe para qué le sirve | Pide ligarla con una situación concreta de su trabajo, hogar o comunidad y nombrar cuándo la usaría. | Explica un uso real y qué haría distinto. |
+
+**Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
+
+
+[← Última clase del OA anterior](epja-leli-nm1-oad-15.md#cl-18496) · [Clase siguiente →](#cl-18498)
+
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Analizar los puntos de vista expresados en un texto audiovisual {#cl-18498}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Que cada persona avance en «analizar los puntos de vista expresados en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Analizar los puntos de vista expresados en un texto audiovisual.
+
+**Meta para estudiantes:** Hoy voy a trabajar «reconocer la idea y su vocabulario: analizar los puntos de vista expresados en un texto audiovisual» con situaciones de mi vida diaria y a reconocer qué me sirve y qué quiero repasar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; contexto sugerido: participar en un club de lectura del barrio. Cada persona cuenta, de palabra o por escrito, qué sabe del tema por su experiencia antes de que el grupo lo formalice; se parte de lo que ya trae y nadie debe exponer datos personales que no quiera compartir. |
+| Modelado | 20 min | Modela en voz alta «reconocer la idea y su vocabulario: analizar los puntos de vista expresados en un texto audiovisual»: nombra cada paso, usa el vocabulario del tema, comprueba el resultado y muestra cómo se corrige «resumir un texto en vez de interpretarlo» sin apurar ni ridiculizar los errores. |
+| Práctica guiada | 25 min | En parejas o grupos pequeños resuelven una variante de la tarea «analizar los puntos de vista expresados en un texto audiovisual» tomada de la vida cotidiana (contexto sugerido: participar en un club de lectura del barrio); quien lee o escribe con más soltura apoya sin reemplazar a la otra persona, y el docente circula preguntando en vez de corregir de inmediato. |
+| Desempeño individual | 25 min | Cada persona desarrolla «reconocer la idea y su vocabulario: analizar los puntos de vista expresados en un texto audiovisual» en una situación propia o cercana a su experiencia (contexto sugerido: participar en un club de lectura del barrio); registra el resultado con palabras, esquemas o dibujos según su nivel de escritura y explica en voz alta qué hizo y por qué. |
+| Cierre | 10 min | Dice o escribe, con sus palabras, qué hizo hoy, para qué le sirve en su vida diaria y qué parte quiere repasar. |
+
+**Materiales y preparación:** una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; pizarra, cuaderno, material concreto de la vida diaria (envases, boletas, formularios o dinero de ejemplo) y alternativa sin conectividad. Verifica que ningún material exija comprar nada ni mostrar datos personales.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y cuaderno. Todos los textos, resúmenes de obras, fichas y tablas están escritos en cada ejercicio: los textos nuevos son inventados para este cuaderno y los resúmenes de obras clásicas están escritos con palabras propias. No necesitas libros, audio, video ni internet: cuando la clase habla de imágenes o sonidos, están descritos en una tabla escrita. Si algo te cuesta leer, pide apoyo a otra persona: pedir ayuda es parte de aprender. No escribas datos personales reales (cédula, dirección ni teléfono).
+
+**Consigna exacta:** Haz en tu cuaderno una tabla con las tres escenas de la ficha y tres columnas (tipo de plano, qué sonido, qué sugiere). Después escribe una oración con el punto de vista del reportaje. Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla.
+
+**Referencia para modelar y corregir:** Escena 1: plano general; viento y música lenta; sugiere abandono. Escena 2: primer plano; silencio y violín; sugiere pena. Escena 3: plano general; golpe seco; sugiere rechazo. Punto de vista: a favor de los feriantes.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Escena 1: plano general; viento y música lenta; sugiere abandono. Escena 2: primer plano; silencio y violín; sugiere pena. Escena 3: plano general; golpe seco; sugiere rechazo. Punto de vista: a favor de los feriantes. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Hoy aprendo el vocabulario para analizar un texto audiovisual: plano, voz en off, música, silencio, punto de vista y postura.
+
+**Lo que ya debo saber.** Reconozco imagen, texto y sonido en un aviso. Sé qué es un punto de vista. Leo una tabla de escenas.
+
+**Explicación.**
+
+Para describir lo que se ve hay palabras precisas. Un plano general muestra el lugar completo. Un primer plano muestra de cerca un rostro o un objeto y llama la atención sobre un detalle. El encuadre es lo que queda dentro de la imagen y lo que queda fuera.
+
+Para el sonido también hay palabras. La música marca un ambiente: lenta es melancólica, alegre es festiva. Un efecto sonoro es un ruido añadido, como un golpe. El silencio también comunica: puede crear tensión o dar importancia a lo que viene. La voz en off es la voz que se oye sin que se vea a quien habla.
+
+Con esas palabras puedes decir cuál es el punto de vista: a favor, en contra o neutro respecto de un hecho. Además puedes formular tu postura, que es lo que tú piensas, apoyada en lo que viste, leíste y escuchaste, y no solo en lo que te hace sentir.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| plano general | imagen que muestra el lugar completo |
+| primer plano | imagen que muestra de cerca un rostro u objeto |
+| efecto sonoro | ruido añadido para crear una sensación |
+| postura | lo que tú piensas sobre un tema, apoyado en razones |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Nombrar un plano*
+
+Problema: Escena 2: primer plano de una vendedora con los ojos húmedos.
+
+1. Muestra de cerca un rostro.
+2. Hace que miremos su emoción.
+
+Respuesta: Primer plano que destaca la emoción
+
+*Ejemplo 2. Interpretar el sonido*
+
+Problema: Escena 3: un golpe seco al ver el edificio con rejas.
+
+1. Es un efecto sonoro.
+2. Da sensación de cierre y de rechazo.
+
+Respuesta: El golpe seco refuerza la idea de que no hay respuestas
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Decir «música triste» sin relacionarla con lo que se muestra. **Por qué ocurre:** La música sola no explica el punto de vista. **Cómo corregirlo:** Di qué idea refuerza la música en esa escena.
+- **Error:** Confundir el punto de vista con mi postura. **Por qué ocurre:** El punto de vista es de quien hizo el video; la postura es mía. **Cómo corregirlo:** Primero describe la mirada del video y luego tu opinión.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué tipo de plano es el de la escena 1? A) Primer plano B) Plano general C) Voz en off
+- **R2.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué tipo de plano es el de la vendedora con los ojos húmedos? A) Efecto sonoro B) Plano general C) Primer plano
+- **R3.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Cuántas familias pierden su sustento según la voz en off? Escribe el número.
+
+*Comprensión*
+
+- **C1.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué efecto crea el silencio y luego el violín en la escena 2? A) Informa un dato nuevo B) Aumenta la emoción de lo que se dice
+- **C2.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué efecto sonoro aparece en la escena 3? A) Un golpe seco B) Aplausos C) Risas
+- **C3.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué idea refuerza el golpe seco con el edificio cerrado? A) Que la feria es alegre B) Que no hay respuestas ni salida C) Que el edificio es nuevo
+
+*Aplicación*
+
+- **A1.** En Lengua y Literatura: ¿qué es la voz en off? A) Una voz que se oye sin que se vea a quien habla B) Una canción C) Una letra en pantalla
+- **A2.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Cuál es el punto de vista del reportaje? A) Neutro, sin ninguna opinión B) A favor del municipio C) A favor de los feriantes
+- **A3.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué escena muestra un lugar completo y no un detalle? A) La escena 1, un plano general B) La escena 2, un primer plano
+
+*Razonamiento y análisis*
+
+- **Z1.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué falta en el reportaje para conocer otras miradas? A) Más música B) La versión del municipio C) Otro violín
+- **Z2.** En Lengua y Literatura: ¿cuál es la diferencia entre el punto de vista del video y mi postura? A) El punto de vista es de quien hizo el video; la postura es mía B) No hay diferencia C) La postura es de quien lo hizo
+
+*Desafío*
+
+- **D1.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. Un vecino dice: «La música lenta prueba que el reportaje es verdadero». ¿Es correcto? A) Sí: la música no engaña B) No: la música crea ambiente y no prueba datos
+- **D2.** Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla. ¿Qué dato se puede comprobar en el reportaje? A) Que el violín es triste B) Que cuarenta familias pierden su sustento, cifra que puede verificarse con otra fuente C) Que la música es lenta
+
+*Situaciones auténticas*
+
+- **S1.** En una reunión vecinal ponen un video sobre la feria con música triste y primeros planos de personas llorando. Se te pide opinar. ¿Qué haces? A) Separo lo que muestra el video de lo que siento y pido más información B) Opino solo según la música C) Me niego a opinar
+
+*Autoevaluación*
+
+- **E1.** En Lengua y Literatura: ¿qué es un primer plano?
+- **E2.** ¿Qué comunica el silencio?
+- **E3.** ¿Qué es mi postura?
+
+**Actividad abierta.** Haz en tu cuaderno una tabla con las tres escenas de la ficha y tres columnas (tipo de plano, qué sonido, qué sugiere). Después escribe una oración con el punto de vista del reportaje. Reportaje (inventado y descrito por escrito), «Cierra la feria de la plaza», 3 escenas. Escena 1: Imagen: plano general de la feria vacía, con sillas apiladas. Texto en pantalla: «Cierra la feria de la plaza». Sonido: viento y música lenta. Escena 2: Imagen: primer plano de una vendedora con los ojos húmedos. Voz en off: «Cuarenta familias pierden su sustento». Sonido: silencio y luego un violín. Escena 3: Imagen: plano general de un edificio municipal cerrado con rejas. Texto en pantalla: «Sin respuestas». Sonido: un golpe seco. Datos de apoyo: un plano general muestra el lugar completo; un primer plano muestra de cerca un rostro u objeto; la voz en off se oye sin que se vea a quien habla.
+
+**Solucionario razonado**
+
+- **R1.** B) Plano general. Muestra la feria completa y vacía.
+- **R2.** C) Primer plano. La imagen muestra de cerca su rostro, no el lugar.
+- **R3.** 40. La voz en off dice «cuarenta familias» en la escena 2.
+- **C1.** B) Aumenta la emoción de lo que se dice. El silencio y la música crean emoción pero no agregan datos.
+- **C2.** A) Un golpe seco. La tabla anota un golpe seco.
+- **C3.** B) Que no hay respuestas ni salida. El sonido seco se combina con las rejas y el texto «Sin respuestas».
+- **A1.** A) Una voz que se oye sin que se vea a quien habla. No muestra al hablante en la imagen.
+- **A2.** C) A favor de los feriantes. Muestra su emoción, la pérdida y un edificio cerrado.
+- **A3.** A) La escena 1, un plano general. El plano general muestra la feria entera.
+- **Z1.** B) La versión del municipio. Solo se muestra un lado de la situación.
+- **Z2.** A) El punto de vista es de quien hizo el video; la postura es mía. Primero se describe su mirada y después se formula la propia.
+- **D1.** B) No: la música crea ambiente y no prueba datos. Solo los datos comprobables prueban algo.
+- **D2.** B) Que cuarenta familias pierden su sustento, cifra que puede verificarse con otra fuente. Una cifra puede verificarse con otra fuente; la música es una emoción.
+- **S1.** A) Separo lo que muestra el video de lo que siento y pido más información. Primero se describen los recursos y luego se opina con razones.
+- **E1.** Una imagen de cerca de un rostro u objeto. El primer plano destaca un detalle de lo que se muestra.
+- **E2.** Puede crear tensión o dar importancia a lo que viene. El silencio no es ausencia de sentido: también comunica.
+- **E3.** Lo que yo pienso, apoyado en razones. Se apoya en lo que vi, leí y escuché.
+
+**Actividad abierta · ejemplo de respuesta.** Escena 1: plano general; viento y música lenta; sugiere abandono. Escena 2: primer plano; silencio y violín; sugiere pena. Escena 3: plano general; golpe seco; sugiere rechazo. Punto de vista: a favor de los feriantes.
+
+**Criterios para evaluarla:** tabla con tres escenas completas; usa el vocabulario de la clase; formula el punto de vista.
+
+**Evidencias aceptables:** una tabla y una oración.
+
+**Errores que conviene detectar:** no distinguir planos; decir un punto de vista sin datos.
+
+**Retroalimentación constructiva:** Pregunta: «¿Qué dato de la tabla apoya tu respuesta?».
+
+**Refuerzo.** Describe una escena de una noticia que hayas visto usando las palabras plano, sonido y voz en off.
+
+**Profundización.** Escribe dos oraciones que expliquen cómo cambiaría el sentido de la escena 2 si el sonido fuera una marcha alegre.
+
+
+**Apoyo en el mismo OA:** Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona.
+
+**Profundización:** Propone aplicar lo aprendido a otra situación de su trabajo, hogar o comunidad y explicarle a otra persona cómo lo hizo.
+
+**Evidencia:** Producción individual (oral, escrita o gráfica) de «reconocer la idea y su vocabulario: analizar los puntos de vista expresados en un texto audiovisual» con una situación de la vida adulta, el procedimiento usado y una reflexión breve.
+
+**Criterios de éxito:** desarrolla «reconocer la idea y su vocabulario: analizar los puntos de vista expresados en un texto audiovisual» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando la persona logra hacerlo y explicarlo con sus palabras; si no, localiza la barrera (lectura, escritura, cálculo o confianza), modela otro caso cercano a su vida y vuelve a probar sin etiquetarla.
+
+**Adaptación a 45 minutos:** Conserva la situación cotidiana, el modelado breve, la práctica con apoyo y el cierre oral; reduce la cantidad de casos para quien llega tarde o debe retirarse antes, sin quitar el desafío.
+
+**Tarea breve y flexible:** Observa o usa, en su casa, trabajo o barrio, una situación parecida a la de la clase y se la cuenta a alguien o la anota. No requiere comprar nada ni conectividad, y no exige mostrar datos personales.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a una situación más simple de la vida diaria y luego al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: resumir un texto en vez de interpretarlo.
+- Transferencia: aplica lo aprendido a otra situación de su trabajo, hogar o comunidad y explica el cambio.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Dice «yo no sé» o evita participar por temor a equivocarse | Parte de algo que la persona ya hace en su vida, valida ese saber y propone un primer paso breve y posible. | Participa con una respuesta propia, aunque sea parcial, y explica cómo la obtuvo. |
+| Resumir un texto en vez de interpretarlo | Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia con sus palabras. |
+| Completa la actividad, pero no sabe para qué le sirve | Pide ligarla con una situación concreta de su trabajo, hogar o comunidad y nombrar cuándo la usaría. | Explica un uso real y qué haría distinto. |
+
+**Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
+
+
+[← Clase anterior](#cl-18497) · [Clase siguiente →](#cl-18499)
+
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Analizar los puntos de vista expresados en un texto audiovisual {#cl-18499}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Que cada persona avance en «analizar los puntos de vista expresados en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Analizar los puntos de vista expresados en un texto audiovisual.
+
+**Meta para estudiantes:** Hoy voy a trabajar «ver cómo se hace, paso a paso: analizar los puntos de vista expresados en un texto audiovisual» con situaciones de mi vida diaria y a reconocer qué me sirve y qué quiero repasar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; contexto sugerido: redactar un currículum. Cada persona cuenta, de palabra o por escrito, qué sabe del tema por su experiencia antes de que el grupo lo formalice; se parte de lo que ya trae y nadie debe exponer datos personales que no quiera compartir. |
+| Modelado | 20 min | Modela en voz alta «ver cómo se hace, paso a paso: analizar los puntos de vista expresados en un texto audiovisual»: nombra cada paso, usa el vocabulario del tema, comprueba el resultado y muestra cómo se corrige «resumir un texto en vez de interpretarlo» sin apurar ni ridiculizar los errores. |
+| Práctica guiada | 25 min | En parejas o grupos pequeños resuelven una variante de la tarea «analizar los puntos de vista expresados en un texto audiovisual» tomada de la vida cotidiana (contexto sugerido: redactar un currículum); quien lee o escribe con más soltura apoya sin reemplazar a la otra persona, y el docente circula preguntando en vez de corregir de inmediato. |
+| Desempeño individual | 25 min | Cada persona desarrolla «ver cómo se hace, paso a paso: analizar los puntos de vista expresados en un texto audiovisual» en una situación propia o cercana a su experiencia (contexto sugerido: redactar un currículum); registra el resultado con palabras, esquemas o dibujos según su nivel de escritura y explica en voz alta qué hizo y por qué. |
+| Cierre | 10 min | Dice o escribe, con sus palabras, qué hizo hoy, para qué le sirve en su vida diaria y qué parte quiere repasar. |
+
+**Materiales y preparación:** una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; pizarra, cuaderno, material concreto de la vida diaria (envases, boletas, formularios o dinero de ejemplo) y alternativa sin conectividad. Verifica que ningún material exija comprar nada ni mostrar datos personales.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y cuaderno. Todos los textos, resúmenes de obras, fichas y tablas están escritos en cada ejercicio: los textos nuevos son inventados para este cuaderno y los resúmenes de obras clásicas están escritos con palabras propias. No necesitas libros, audio, video ni internet: cuando la clase habla de imágenes o sonidos, están descritos en una tabla escrita. Si algo te cuesta leer, pide apoyo a otra persona: pedir ayuda es parte de aprender. No escribas datos personales reales (cédula, dirección ni teléfono).
+
+**Consigna exacta:** Haz en tu cuaderno una tabla con las tres escenas (imagen, texto, sonido, ¿se refuerzan o se contradicen?). Escribe después tu postura sobre la campaña en tres oraciones, con dos datos de la tabla. Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista.
+
+**Referencia para modelar y corregir:** Escena 1: obra sin cascos; seguridad primero; música alegre; se contradicen. Escena 2: casco colgado; usa tu casco; golpes; el casco no se usa. Escena 3: trabajador con casco; cuídate; música; se refuerzan. Postura: no confío del todo, porque en la escena 1 se ve lo contrario de lo que dice la voz. Necesitaría ver cómo es la obra real.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Escena 1: obra sin cascos; seguridad primero; música alegre; se contradicen. Escena 2: casco colgado; usa tu casco; golpes; el casco no se usa. Escena 3: trabajador con casco; cuídate; música; se refuerzan. Postura: no confío del todo, porque en la escena 1 se ve lo contrario de lo que dice la voz. Necesitaría ver cómo es la obra real. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Hoy veo paso a paso cómo analizar una campaña con una tabla: qué dicen la imagen, el texto y el sonido, y si coinciden.
+
+**Lo que ya debo saber.** Describo planos y sonidos. Reconozco el punto de vista de un video. Leo una tabla escena por escena.
+
+**Explicación.**
+
+El análisis tiene cinco pasos. Paso 1: lee la tabla escena por escena. Paso 2: anota imagen, texto y sonido. Paso 3: pregunta qué sugiere cada uno. Paso 4: mira si se refuerzan o se contradicen. Paso 5: formula el punto de vista y tu postura.
+
+Imagen, texto y sonido pueden reforzarse: todo apunta a la misma idea. O pueden contradecirse: la voz dice una cosa y la imagen muestra otra. Cuando se contradicen, es una señal para dudar y preguntar quién lo hizo y para qué.
+
+Tu postura debe apoyarse en datos de la tabla. Por ejemplo: «El mensaje dice seguridad, pero la imagen muestra trabajadores sin casco, por eso no confío del todo». Así separas lo que el video dice de lo que realmente muestra.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| reforzarse | decir lo mismo para dar más fuerza a una idea |
+| contradecirse | decir cosas opuestas |
+| campaña | serie de mensajes que buscan un cambio de conducta |
+| coherencia | acuerdo entre lo que se dice y lo que se muestra |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Anotar y relacionar*
+
+Problema: Escena 1: obra sin cascos; voz «la seguridad es lo primero»; música alegre.
+
+1. Imagen: trabajadores sin casco.
+2. Voz: seguridad primero.
+3. Imagen y voz no coinciden.
+
+Respuesta: Imagen y voz se contradicen
+
+*Ejemplo 2. Apoyar una postura*
+
+Problema: Escena 3: trabajador con casco sonriendo; «Cuídate».
+
+1. Aquí imagen y texto coinciden.
+2. Pero la escena 1 mostraba lo contrario.
+
+Respuesta: La campaña es incoherente: dice una cosa en una escena y muestra otra en la primera
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Creer que si la voz lo dice, es cierto. **Por qué ocurre:** Hay que comprobar si la imagen lo confirma. **Cómo corregirlo:** Compara voz e imagen escena por escena.
+- **Error:** Anotar solo lo que coincide. **Por qué ocurre:** Las contradicciones son lo más importante de ver. **Cómo corregirlo:** Busca también lo que no se refuerza.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué muestra la imagen de la escena 1? A) Un trabajador sonriendo con casco B) Un casco colgado de un clavo C) Una obra donde los trabajadores no llevan casco
+- **R2.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué dice la voz en off de la escena 1? A) «Cuídate» B) «Usa tu casco» C) «En esta empresa, la seguridad es lo primero»
+- **R3.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Cuántas escenas tiene la campaña? Escribe el número.
+
+*Comprensión*
+
+- **C1.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué pasa entre la imagen y la voz en la escena 1? A) No tienen relación B) Se refuerzan C) Se contradicen
+- **C2.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué efecto puede tener la música alegre en la escena 1? A) Aumentar la preocupación por el casco B) Quitar seriedad a un tema de seguridad
+- **C3.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué escena muestra imagen y texto que se refuerzan? A) Ninguna B) La escena 1 C) La escena 3, con casco y «Cuídate»
+
+*Aplicación*
+
+- **A1.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué sugiere el primer plano del casco colgado de un clavo en la escena 2? A) Que no hay obra B) Que el casco es nuevo C) Que el casco existe pero no se está usando
+- **A2.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué puedes concluir sobre la coherencia de la campaña? A) Es incoherente: dice una cosa en la voz y muestra otra en la imagen B) Es totalmente coherente C) No tiene mensaje
+- **A3.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Cuál es el paso que viene después de anotar imagen, texto y sonido? A) Escribir la postura final sin pensar B) Preguntar qué sugiere cada uno
+
+*Razonamiento y análisis*
+
+- **Z1.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Cuál es una postura apoyada en la tabla? A) No confío del todo, porque la imagen de la escena 1 contradice el mensaje B) Es la mejor campaña porque la música es alegre C) Las campañas siempre mienten
+- **Z2.** En Lengua y Literatura: ¿qué significa que imagen y texto se refuercen? A) Que no se relacionan B) Que dicen cosas opuestas C) Que dicen lo mismo y dan más fuerza a la idea
+
+*Desafío*
+
+- **D1.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. Un compañero dice: «La campaña no hace falta porque dice que la seguridad es lo primero». ¿Es una buena conclusión? A) Sí: la voz lo afirma B) No: lo que dice no coincide con lo que muestra
+- **D2.** Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista. ¿Qué haces si encuentras una contradicción entre imagen y texto? A) Borro la imagen B) Creo la voz sin revisar C) Dudo del mensaje y busco otra fuente
+
+*Situaciones auténticas*
+
+- **S1.** En una charla ven una campaña sobre «cuidado de las personas» donde se ve a personas trabajando sin protección. ¿Qué observación sirve? A) Que el video es largo B) Que la música es bonita C) Que el mensaje y la imagen se contradicen
+
+*Autoevaluación*
+
+- **E1.** ¿Cuántos pasos tiene el análisis de hoy?
+- **E2.** En Lengua y Literatura: ¿qué es la coherencia en un video?
+- **E3.** ¿Qué hago si imagen y voz se contradicen?
+
+**Actividad abierta.** Haz en tu cuaderno una tabla con las tres escenas (imagen, texto, sonido, ¿se refuerzan o se contradicen?). Escribe después tu postura sobre la campaña en tres oraciones, con dos datos de la tabla. Campaña de seguridad (inventada y descrita por escrito), «En esta obra, primero la seguridad», 3 escenas. Escena 1: Imagen: plano general de una obra de construcción donde los trabajadores no llevan casco. Voz en off: «En esta empresa, la seguridad es lo primero». Sonido: música alegre. Escena 2: Imagen: primer plano de un casco colgado de un clavo. Texto en pantalla: «Usa tu casco». Sonido: golpes de martillo. Escena 3: Imagen: un trabajador con casco sonriendo. Texto en pantalla: «Cuídate». Sonido: la música sube. Pasos del análisis: 1) leer la tabla escena por escena; 2) anotar imagen, texto y sonido; 3) preguntar qué sugiere cada uno; 4) ver si se refuerzan o se contradicen; 5) formular el punto de vista.
+
+**Solucionario razonado**
+
+- **R1.** C) Una obra donde los trabajadores no llevan casco. La tabla indica que los trabajadores no llevan casco.
+- **R2.** C) «En esta empresa, la seguridad es lo primero». La voz afirma que la seguridad es lo primero.
+- **R3.** 3. La tabla del texto describe tres escenas numeradas.
+- **C1.** C) Se contradicen. La voz habla de seguridad y la imagen muestra trabajadores sin casco.
+- **C2.** B) Quitar seriedad a un tema de seguridad. Una música festiva suaviza un tema que requiere atención.
+- **C3.** C) La escena 3, con casco y «Cuídate». En la escena 3 el trabajador con casco coincide con el mensaje.
+- **A1.** C) Que el casco existe pero no se está usando. El casco colgado muestra un objeto sin uso.
+- **A2.** A) Es incoherente: dice una cosa en la voz y muestra otra en la imagen. La escena 1 contradice el mensaje.
+- **A3.** B) Preguntar qué sugiere cada uno. Primero se interpreta lo anotado y luego se formula la postura.
+- **Z1.** A) No confío del todo, porque la imagen de la escena 1 contradice el mensaje. La postura usa un dato de la tabla.
+- **Z2.** C) Que dicen lo mismo y dan más fuerza a la idea. Reforzarse es apoyar la misma idea.
+- **D1.** B) No: lo que dice no coincide con lo que muestra. Hay que mirar la imagen, y la escena 1 muestra lo contrario de lo que dice la voz.
+- **D2.** C) Dudo del mensaje y busco otra fuente. Una contradicción es señal para verificar.
+- **S1.** C) Que el mensaje y la imagen se contradicen. Anotar la contradicción ayuda a evaluar el mensaje.
+- **E1.** Cinco. Leer, anotar, interpretar, relacionar y formular punto de vista.
+- **E2.** Que lo que se dice coincide con lo que se muestra. Es el acuerdo entre imagen, texto y sonido.
+- **E3.** Dudo y verifico. La contradicción es una señal de alerta.
+
+**Actividad abierta · ejemplo de respuesta.** Escena 1: obra sin cascos; seguridad primero; música alegre; se contradicen. Escena 2: casco colgado; usa tu casco; golpes; el casco no se usa. Escena 3: trabajador con casco; cuídate; música; se refuerzan. Postura: no confío del todo, porque en la escena 1 se ve lo contrario de lo que dice la voz. Necesitaría ver cómo es la obra real.
+
+**Criterios para evaluarla:** tabla con las tres escenas; identifica una contradicción; postura con dos datos.
+
+**Evidencias aceptables:** una tabla y tres oraciones.
+
+**Errores que conviene detectar:** no mencionar el sonido; postura sin datos.
+
+**Retroalimentación constructiva:** Pregunta: «¿Qué escena te hizo dudar y por qué?».
+
+**Refuerzo.** Observa un afiche de tu barrio y anota si lo que dice coincide con lo que muestra.
+
+**Profundización.** Reescribe la escena 1 de modo que imagen, voz y sonido se refuercen.
+
+
+**Apoyo en el mismo OA:** Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona.
+
+**Profundización:** Propone aplicar lo aprendido a otra situación de su trabajo, hogar o comunidad y explicarle a otra persona cómo lo hizo.
+
+**Evidencia:** Producción individual (oral, escrita o gráfica) de «ver cómo se hace, paso a paso: analizar los puntos de vista expresados en un texto audiovisual» con una situación de la vida adulta, el procedimiento usado y una reflexión breve.
+
+**Criterios de éxito:** desarrolla «ver cómo se hace, paso a paso: analizar los puntos de vista expresados en un texto audiovisual» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando la persona logra hacerlo y explicarlo con sus palabras; si no, localiza la barrera (lectura, escritura, cálculo o confianza), modela otro caso cercano a su vida y vuelve a probar sin etiquetarla.
+
+**Adaptación a 45 minutos:** Conserva la situación cotidiana, el modelado breve, la práctica con apoyo y el cierre oral; reduce la cantidad de casos para quien llega tarde o debe retirarse antes, sin quitar el desafío.
+
+**Tarea breve y flexible:** Observa o usa, en su casa, trabajo o barrio, una situación parecida a la de la clase y se la cuenta a alguien o la anota. No requiere comprar nada ni conectividad, y no exige mostrar datos personales.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a una situación más simple de la vida diaria y luego al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: resumir un texto en vez de interpretarlo.
+- Transferencia: aplica lo aprendido a otra situación de su trabajo, hogar o comunidad y explica el cambio.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Dice «yo no sé» o evita participar por temor a equivocarse | Parte de algo que la persona ya hace en su vida, valida ese saber y propone un primer paso breve y posible. | Participa con una respuesta propia, aunque sea parcial, y explica cómo la obtuvo. |
+| Resumir un texto en vez de interpretarlo | Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia con sus palabras. |
+| Completa la actividad, pero no sabe para qué le sirve | Pide ligarla con una situación concreta de su trabajo, hogar o comunidad y nombrar cuándo la usaría. | Explica un uso real y qué haría distinto. |
+
+**Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
+
+
+[← Clase anterior](#cl-18498) · [Clase siguiente →](#cl-18500)
+
+### Clase 4 de 6: Practicar juntos con apoyo: Analizar los puntos de vista expresados en un texto audiovisual {#cl-18500}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Que cada persona avance en «analizar los puntos de vista expresados en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Analizar los puntos de vista expresados en un texto audiovisual.
+
+**Meta para estudiantes:** Hoy voy a trabajar «practicar juntos con apoyo: analizar los puntos de vista expresados en un texto audiovisual» con situaciones de mi vida diaria y a reconocer qué me sirve y qué quiero repasar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; contexto sugerido: leer una noticia y discutirla en el trabajo. Cada persona cuenta, de palabra o por escrito, qué sabe del tema por su experiencia antes de que el grupo lo formalice; se parte de lo que ya trae y nadie debe exponer datos personales que no quiera compartir. |
+| Modelado | 20 min | Modela en voz alta «practicar juntos con apoyo: analizar los puntos de vista expresados en un texto audiovisual»: nombra cada paso, usa el vocabulario del tema, comprueba el resultado y muestra cómo se corrige «resumir un texto en vez de interpretarlo» sin apurar ni ridiculizar los errores. |
+| Práctica guiada | 25 min | En parejas o grupos pequeños resuelven una variante de la tarea «analizar los puntos de vista expresados en un texto audiovisual» tomada de la vida cotidiana (contexto sugerido: leer una noticia y discutirla en el trabajo); quien lee o escribe con más soltura apoya sin reemplazar a la otra persona, y el docente circula preguntando en vez de corregir de inmediato. |
+| Desempeño individual | 25 min | Cada persona desarrolla «practicar juntos con apoyo: analizar los puntos de vista expresados en un texto audiovisual» en una situación propia o cercana a su experiencia (contexto sugerido: leer una noticia y discutirla en el trabajo); registra el resultado con palabras, esquemas o dibujos según su nivel de escritura y explica en voz alta qué hizo y por qué. |
+| Cierre | 10 min | Dice o escribe, con sus palabras, qué hizo hoy, para qué le sirve en su vida diaria y qué parte quiere repasar. |
+
+**Materiales y preparación:** una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; pizarra, cuaderno, material concreto de la vida diaria (envases, boletas, formularios o dinero de ejemplo) y alternativa sin conectividad. Verifica que ningún material exija comprar nada ni mostrar datos personales.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y cuaderno. Todos los textos, resúmenes de obras, fichas y tablas están escritos en cada ejercicio: los textos nuevos son inventados para este cuaderno y los resúmenes de obras clásicas están escritos con palabras propias. No necesitas libros, audio, video ni internet: cuando la clase habla de imágenes o sonidos, están descritos en una tabla escrita. Si algo te cuesta leer, pide apoyo a otra persona: pedir ayuda es parte de aprender. No escribas datos personales reales (cédula, dirección ni teléfono).
+
+**Consigna exacta:** Haz una tabla de dos columnas (Reportaje A y B) y cuatro filas (imagen, texto, sonido, qué omite). Después escribe tu postura en tres oraciones, con un dato de cada reportaje y una pregunta que harías para averiguar más. Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida.
+
+**Referencia para modelar y corregir:** A: máquinas, «Avanzan las obras», marcha alegre, omite a los comerciantes. B: local con mercadería, «Ventas a la baja», tráfico y silencio, omite el plazo. Postura: ambos muestran una parte. A dice que estará listo en seis meses; B dice que bajaron las ventas. Preguntaría cuánto bajaron las ventas y qué apoyo habrá.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A: máquinas, «Avanzan las obras», marcha alegre, omite a los comerciantes. B: local con mercadería, «Ventas a la baja», tráfico y silencio, omite el plazo. Postura: ambos muestran una parte. A dice que estará listo en seis meses; B dice que bajaron las ventas. Preguntaría cuánto bajaron las ventas y qué apoyo habrá. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Hoy practico con apoyo: comparo dos reportajes del mismo hecho y veo cómo cada uno elige mostrar y callar cosas.
+
+**Lo que ya debo saber.** Sé separar imagen, texto y sonido. Reconozco si se refuerzan o se contradicen. Sé qué es un punto de vista.
+
+**Explicación.**
+
+Dos reportajes sobre el mismo hecho pueden mostrar cosas muy distintas. Cada uno elige qué imagen usar, qué decir y qué música poner. También elige qué dejar fuera. Lo que se omite también construye un punto de vista. Mostrar solo un lado de un hecho es un sesgo.
+
+Para comparar, haz una tabla con dos columnas, una por reportaje, y filas para imagen, texto, sonido y lo que no muestra. Luego mira qué comparten y en qué se diferencian. Comparar ayuda a ver que ninguna versión muestra todo.
+
+Para formular tu postura, no basta con elegir un reportaje. Puedes decir que ambos muestran una parte, señalar qué dato falta y qué harías para averiguarlo. Ese paso te ayuda a conversar con respeto con quienes piensan distinto.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| omitir | dejar algo fuera de lo que se cuenta |
+| versión | forma en que alguien cuenta un hecho |
+| sesgo | inclinación a mostrar un solo lado |
+| comparar | mirar dos cosas para ver qué comparten y qué cambia |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Comparar las imágenes*
+
+Problema: A: máquinas bajo un cielo despejado. B: local con mercadería sin vender.
+
+1. A muestra el avance.
+2. B muestra el efecto en los comerciantes.
+3. Cada una elige un lado.
+
+Respuesta: Cada reportaje elige mostrar una parte
+
+*Ejemplo 2. Detectar lo que se omite*
+
+Problema: A no muestra a los comerciantes; B no muestra la maqueta ni el plazo.
+
+1. A omite el efecto en las ventas.
+2. B omite el plan y el plazo de término.
+
+Respuesta: Cada versión omite lo que no favorece su mirada
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Elegir un reportaje como «el verdadero». **Por qué ocurre:** Cada uno muestra una parte del hecho. **Cómo corregirlo:** Di qué muestra cada uno y qué falta.
+- **Error:** Pensar que lo que no se muestra no importa. **Por qué ocurre:** Lo omitido también construye el punto de vista. **Cómo corregirlo:** Anota lo que cada versión deja fuera.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué sonido usa el Reportaje A en la escena 1? A) Una marcha alegre B) Ruido de tráfico C) Silencio
+- **R2.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué texto aparece en pantalla en la escena 2 del Reportaje B? A) «Cuándo termina» B) «Listo en seis meses» C) «Avanzan las obras»
+- **R3.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿En cuántos meses dice el Reportaje A que estará listo? Escribe el número.
+
+*Comprensión*
+
+- **C1.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Cuál es el punto de vista del Reportaje A? A) Favorable a las obras B) Contrario a las obras C) Sin ninguna opinión
+- **C2.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Cuál es el punto de vista del Reportaje B? A) Es neutro y muestra todo B) Celebra el avance de las obras C) Muestra el perjuicio a los comerciantes
+- **C3.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué omite el Reportaje A? A) El avance de las máquinas B) El efecto en las ventas de los comerciantes
+
+*Aplicación*
+
+- **A1.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué omite el Reportaje B? A) El plan de la avenida terminada y su plazo B) La mercadería sin vender
+- **A2.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué tienen en común ambos reportajes? A) Usan la misma música B) Hablan de las mismas obras en la misma avenida C) Entrevistan a las mismas personas
+- **A3.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué efecto crea el silencio de la escena 2 del Reportaje B? A) Da peso a la pregunta «Cuándo termina» B) Anuncia buenas noticias C) Cambia la avenida
+
+*Razonamiento y análisis*
+
+- **Z1.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. Una vecina dice: «El A es el verdadero porque tiene música alegre». ¿Qué le respondes? A) Que tiene razón B) Que cada reportaje muestra una parte y la música no prueba nada C) Que el B es el único válido
+- **Z2.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué puedes hacer para formular una postura equilibrada? A) No opinar nunca B) Elegir el reportaje con más escenas C) Decir qué muestra cada uno, qué falta y cómo averiguarlo
+
+*Desafío*
+
+- **D1.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué diferencia hay en la forma de usar la imagen? A) A usa planos amplios del avance; B usa un primer plano de un local B) Ambos usan el mismo plano
+- **D2.** Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida. ¿Qué dato podría confirmar o refutar la versión de B? A) La marcha alegre de A B) Un registro de ventas del local de antes y durante las obras C) El cielo despejado
+
+*Situaciones auténticas*
+
+- **S1.** En una reunión de vecinos pasan los dos reportajes. Algunos dicen que A es el correcto y otros que B. ¿Qué propones? A) Comparar qué muestra y qué omite cada uno y buscar datos B) Votar cuál suena mejor C) Cancelar la reunión
+
+*Autoevaluación*
+
+- **E1.** En Lengua y Literatura: ¿qué es omitir?
+- **E2.** ¿Por qué comparo dos reportajes del mismo hecho?
+- **E3.** ¿Qué hago para tener una postura equilibrada?
+
+**Actividad abierta.** Haz una tabla de dos columnas (Reportaje A y B) y cuatro filas (imagen, texto, sonido, qué omite). Después escribe tu postura en tres oraciones, con un dato de cada reportaje y una pregunta que harías para averiguar más. Reportaje A (inventado y descrito por escrito), canal municipal, «Avanzan las obras», 2 escenas. Escena 1: Imagen: plano general de máquinas trabajando bajo un cielo despejado. Voz en off: «Avanzan las obras que mejorarán el barrio». Sonido: marcha alegre. Escena 2: Imagen: plano de una maqueta con la avenida terminada. Texto en pantalla: «Listo en seis meses». Sonido: aplausos. Reportaje B (inventado y descrito por escrito), canal de los comerciantes, «Ventas a la baja», 2 escenas. Escena 1: Imagen: primer plano de un local con mercadería sin vender. Voz en off: «Comerciantes aseguran que las ventas bajaron». Sonido: ruido de tráfico. Escena 2: Imagen: plano general de una avenida con zanjas y poco público. Texto en pantalla: «Cuándo termina». Sonido: silencio. Dato de apoyo: ambos reportajes hablan de las mismas obras en la misma avenida.
+
+**Solucionario razonado**
+
+- **R1.** A) Una marcha alegre. La tabla anota una marcha alegre.
+- **R2.** A) «Cuándo termina». La escena 2 de B muestra «Cuándo termina».
+- **R3.** 6. El texto en pantalla dice «Listo en seis meses».
+- **C1.** A) Favorable a las obras. Muestra avance, aplausos y un cielo despejado.
+- **C2.** C) Muestra el perjuicio a los comerciantes. Muestra mercadería sin vender y zanjas con poco público.
+- **C3.** B) El efecto en las ventas de los comerciantes. No muestra a los comerciantes ni el efecto de las obras en su negocio.
+- **A1.** A) El plan de la avenida terminada y su plazo. No muestra la maqueta ni el plazo de término.
+- **A2.** B) Hablan de las mismas obras en la misma avenida. El dato de apoyo dice que tratan el mismo hecho.
+- **A3.** A) Da peso a la pregunta «Cuándo termina». Sin sonido, la pregunta queda más presente.
+- **Z1.** B) Que cada reportaje muestra una parte y la música no prueba nada. La música crea ambiente, no verdad.
+- **Z2.** C) Decir qué muestra cada uno, qué falta y cómo averiguarlo. Una postura equilibrada reconoce lo que cada uno muestra y omite.
+- **D1.** A) A usa planos amplios del avance; B usa un primer plano de un local. A usa planos generales y maqueta; B parte con un primer plano de la mercadería.
+- **D2.** B) Un registro de ventas del local de antes y durante las obras. Un dato comprobable permite verificar el efecto en las ventas.
+- **S1.** A) Comparar qué muestra y qué omite cada uno y buscar datos. Comparar y buscar datos permite una conversación respetuosa.
+- **E1.** Dejar algo fuera de lo que se cuenta. Lo omitido también construye el punto de vista.
+- **E2.** Porque cada uno muestra una parte. Comparar muestra lo que cada versión elige.
+- **E3.** Decir qué muestra cada uno y qué falta. Así reconozco las dos miradas y lo que cada una omite.
+
+**Actividad abierta · ejemplo de respuesta.** A: máquinas, «Avanzan las obras», marcha alegre, omite a los comerciantes. B: local con mercadería, «Ventas a la baja», tráfico y silencio, omite el plazo. Postura: ambos muestran una parte. A dice que estará listo en seis meses; B dice que bajaron las ventas. Preguntaría cuánto bajaron las ventas y qué apoyo habrá.
+
+**Criterios para evaluarla:** tabla de 2 columnas y 4 filas; usa un dato de cada reportaje; formula una pregunta.
+
+**Evidencias aceptables:** una tabla y tres oraciones.
+
+**Errores que conviene detectar:** elegir uno como «verdadero» sin datos; no decir qué se omite.
+
+**Retroalimentación constructiva:** Pregunta: «¿Qué dato falta para decidir?».
+
+**Refuerzo.** Cuenta en dos versiones, una a favor y otra en contra, un hecho pequeño de tu barrio y anota qué omite cada una.
+
+**Profundización.** Escribe cinco preguntas que le harías al canal que hizo el Reportaje A y cinco al del Reportaje B.
+
+
+**Apoyo en el mismo OA:** Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona.
+
+**Profundización:** Propone aplicar lo aprendido a otra situación de su trabajo, hogar o comunidad y explicarle a otra persona cómo lo hizo.
+
+**Evidencia:** Producción individual (oral, escrita o gráfica) de «practicar juntos con apoyo: analizar los puntos de vista expresados en un texto audiovisual» con una situación de la vida adulta, el procedimiento usado y una reflexión breve.
+
+**Criterios de éxito:** desarrolla «practicar juntos con apoyo: analizar los puntos de vista expresados en un texto audiovisual» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando la persona logra hacerlo y explicarlo con sus palabras; si no, localiza la barrera (lectura, escritura, cálculo o confianza), modela otro caso cercano a su vida y vuelve a probar sin etiquetarla.
+
+**Adaptación a 45 minutos:** Conserva la situación cotidiana, el modelado breve, la práctica con apoyo y el cierre oral; reduce la cantidad de casos para quien llega tarde o debe retirarse antes, sin quitar el desafío.
+
+**Tarea breve y flexible:** Observa o usa, en su casa, trabajo o barrio, una situación parecida a la de la clase y se la cuenta a alguien o la anota. No requiere comprar nada ni conectividad, y no exige mostrar datos personales.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a una situación más simple de la vida diaria y luego al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: resumir un texto en vez de interpretarlo.
+- Transferencia: aplica lo aprendido a otra situación de su trabajo, hogar o comunidad y explica el cambio.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Dice «yo no sé» o evita participar por temor a equivocarse | Parte de algo que la persona ya hace en su vida, valida ese saber y propone un primer paso breve y posible. | Participa con una respuesta propia, aunque sea parcial, y explica cómo la obtuvo. |
+| Resumir un texto en vez de interpretarlo | Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia con sus palabras. |
+| Completa la actividad, pero no sabe para qué le sirve | Pide ligarla con una situación concreta de su trabajo, hogar o comunidad y nombrar cuándo la usaría. | Explica un uso real y qué haría distinto. |
+
+**Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
+
+
+[← Clase anterior](#cl-18499) · [Clase siguiente →](#cl-18501)
+
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Analizar los puntos de vista expresados en un texto audiovisual {#cl-18501}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Que cada persona avance en «analizar los puntos de vista expresados en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Analizar los puntos de vista expresados en un texto audiovisual.
+
+**Meta para estudiantes:** Hoy voy a trabajar «aplicar a una situación de trabajo, hogar o comunidad: analizar los puntos de vista expresados en un texto audiovisual» con situaciones de mi vida diaria y a reconocer qué me sirve y qué quiero repasar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; contexto sugerido: escribir una carta o un correo formal. Cada persona cuenta, de palabra o por escrito, qué sabe del tema por su experiencia antes de que el grupo lo formalice; se parte de lo que ya trae y nadie debe exponer datos personales que no quiera compartir. |
+| Modelado | 20 min | Modela en voz alta «aplicar a una situación de trabajo, hogar o comunidad: analizar los puntos de vista expresados en un texto audiovisual»: nombra cada paso, usa el vocabulario del tema, comprueba el resultado y muestra cómo se corrige «resumir un texto en vez de interpretarlo» sin apurar ni ridiculizar los errores. |
+| Práctica guiada | 25 min | En parejas o grupos pequeños resuelven una variante de la tarea «analizar los puntos de vista expresados en un texto audiovisual» tomada de la vida cotidiana (contexto sugerido: escribir una carta o un correo formal); quien lee o escribe con más soltura apoya sin reemplazar a la otra persona, y el docente circula preguntando en vez de corregir de inmediato. |
+| Desempeño individual | 25 min | Cada persona desarrolla «aplicar a una situación de trabajo, hogar o comunidad: analizar los puntos de vista expresados en un texto audiovisual» en una situación propia o cercana a su experiencia (contexto sugerido: escribir una carta o un correo formal); registra el resultado con palabras, esquemas o dibujos según su nivel de escritura y explica en voz alta qué hizo y por qué. |
+| Cierre | 10 min | Dice o escribe, con sus palabras, qué hizo hoy, para qué le sirve en su vida diaria y qué parte quiere repasar. |
+
+**Materiales y preparación:** una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; pizarra, cuaderno, material concreto de la vida diaria (envases, boletas, formularios o dinero de ejemplo) y alternativa sin conectividad. Verifica que ningún material exija comprar nada ni mostrar datos personales.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y cuaderno. Todos los textos, resúmenes de obras, fichas y tablas están escritos en cada ejercicio: los textos nuevos son inventados para este cuaderno y los resúmenes de obras clásicas están escritos con palabras propias. No necesitas libros, audio, video ni internet: cuando la clase habla de imágenes o sonidos, están descritos en una tabla escrita. Si algo te cuesta leer, pide apoyo a otra persona: pedir ayuda es parte de aprender. No escribas datos personales reales (cédula, dirección ni teléfono).
+
+**Consigna exacta:** Prepara una exposición oral de dos minutos sobre el video de la ficha. Escribe en una tarjeta cuatro ideas, una por parte: qué vi, cómo lo dice, mi postura con una razón y un cierre. Si puedes, ensáyala en voz alta. Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos».
+
+**Referencia para modelar y corregir:** Qué vi: un video para que los vecinos reciclen. Cómo lo dice: imagen de basura desbordada, vecinos reunidos y música animada. Postura: muestra el problema y la solución, pero no explica el retiro. Cierre: ¿quién retira lo reciclado?
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Qué vi: un video para que los vecinos reciclen. Cómo lo dice: imagen de basura desbordada, vecinos reunidos y música animada. Postura: muestra el problema y la solución, pero no explica el retiro. Cierre: ¿quién retira lo reciclado? |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Hoy aplico lo aprendido: preparo y comunico oralmente mis conclusiones sobre un video, con orden, razones y respeto.
+
+**Lo que ya debo saber.** Sé analizar imagen, texto y sonido. Sé formular una postura con datos. Sé que puedo preparar lo que voy a decir.
+
+**Explicación.**
+
+Comunicar oralmente tus conclusiones tiene una estructura. Primero dices qué viste y de qué trata. Luego explicas cómo se usan la imagen, el texto y el sonido. Después das tu postura con una razón. Por último, cierras con una pregunta o una propuesta. En dos minutos alcanzas.
+
+Una buena exposición oral se reconoce por cuatro criterios: orden (se entiende el hilo), claridad (voz y ritmo que se escuchan), evidencia (datos de la tabla) y respeto (no se juzga a las personas). Puedes apoyarte en una tarjeta con tus ideas, pero no leas todo.
+
+En una junta de vecinos o en una reunión, tu postura puede ayudar a decidir. Por eso conviene separar los datos de tu opinión, reconocer lo que no sabes y escuchar a quien piensa distinto. Una exposición respetuosa invita a conversar, no a ganar.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| exposición oral | presentación hablada de lo que pensaste y por qué |
+| estructura | orden de las partes de una exposición |
+| evidencia | dato que apoya lo que dices |
+| tarjeta de apoyo | papel con las ideas principales para recordar |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Armar la exposición*
+
+Problema: Video: «Reciclar en el edificio».
+
+1. Qué vi: un video para que vecinos separen residuos.
+2. Cómo lo hace: imagen de basura desbordada, vecinos reunidos y música animada.
+3. Mi postura: muestra el problema, pero falta explicar el retiro.
+4. Cierre: pregunto a la administración cómo se retira.
+
+Respuesta: Exposición completa en cuatro partes
+
+*Ejemplo 2. Evaluar con criterios*
+
+Problema: Exposición B: dice qué quiere el video, cómo lo hace, su postura y un cierre.
+
+1. Orden: sí.
+2. Evidencia: cita imagen y texto.
+3. Respeto: no juzga a personas.
+
+Respuesta: Cumple los criterios
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Leer una hoja entera sin mirar al público. **Por qué ocurre:** Se pierde claridad y contacto con quien escucha. **Cómo corregirlo:** Usa una tarjeta con ideas y habla con tus palabras.
+- **Error:** Juzgar a las personas en vez de analizar el video. **Por qué ocurre:** Es una falta de respeto y no usa evidencia. **Cómo corregirlo:** Habla de lo que el video muestra y de tu razón.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Qué muestra la imagen de la escena 1 del video? A) Vecinos reciclando B) Un contenedor de basura desbordado C) Un letrero con instrucciones
+- **R2.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Qué sonido hay en la escena 2? A) Música animada B) Moscas C) Silencio
+- **R3.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Cuántas escenas tiene el video? Escribe el número.
+
+*Comprensión*
+
+- **C1.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Cuál de las exposiciones es la mejor? A) La B, porque explica los recursos, da una postura y razones B) La A, porque es corta C) La C, porque es firme
+- **C2.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Qué le falta a la Exposición A? A) Más risas B) Explicar cómo usa el video imagen, texto y sonido C) Un título
+- **C3.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Qué problema tiene la Exposición C? A) Cita demasiadas imágenes B) Es demasiado larga C) Juzga a las personas y no usa datos del video
+
+*Aplicación*
+
+- **A1.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Qué dato de la tabla usa la Exposición B para fundamentar su postura? A) La imagen del contenedor desbordado y la frase «más residuos» B) El color del contenedor
+- **A2.** En Lengua y Literatura: ¿cuál es el orden de una buena exposición oral? A) Qué vi, cómo lo dice, mi postura y un cierre B) Mi postura, qué vi y cómo lo dice C) Solo el cierre
+- **A3.** ¿Cuál de estos es un criterio de una buena exposición oral? A) Respeto: no se juzga a las personas B) Hablar siempre más fuerte C) Usar la mayor cantidad de palabras difíciles
+
+*Razonamiento y análisis*
+
+- **Z1.** ¿Para qué sirve una tarjeta de apoyo? A) Para recordar las ideas principales sin leerlo todo B) Para leer toda la exposición C) Para reemplazar lo que dices por una lectura
+- **Z2.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». Después de la postura de la Exposición B, ¿qué pregunta de cierre sirve? A) ¿Cuántos vecinos hay? B) ¿Cómo se retira lo que se separa?
+
+*Desafío*
+
+- **D1.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Qué haces si alguien no está de acuerdo con tu postura? A) Cambio de tema B) Insisto sin escuchar C) Escucho sus razones y las comparo con mis datos
+- **D2.** Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos». ¿Cuál es una forma respetuosa de decir que la Exposición C se equivoca? A) Dices que no se apoya en datos del video y propones agregar evidencia B) Dices que quien la hizo es flojo C) Dices que no vale la pena escucharla
+
+*Situaciones auténticas*
+
+- **S1.** En una junta de vecinos te piden dar tu opinión sobre un video del municipio, en dos minutos. ¿Qué haces? A) Leo sin mirar a nadie B) Improviso sin pensar C) Preparo una tarjeta con qué vi, cómo lo dice, mi postura y un cierre
+
+*Autoevaluación*
+
+- **E1.** ¿Qué cuatro partes tiene una exposición oral de hoy?
+- **E2.** En Lengua y Literatura: ¿qué es la evidencia?
+- **E3.** ¿Qué criterio evita juzgar a las personas?
+
+**Actividad abierta.** Prepara una exposición oral de dos minutos sobre el video de la ficha. Escribe en una tarjeta cuatro ideas, una por parte: qué vi, cómo lo dice, mi postura con una razón y un cierre. Si puedes, ensáyala en voz alta. Video (inventado y descrito por escrito), «Reciclar en el edificio», 3 escenas. Escena 1: Imagen: primer plano de un contenedor de basura desbordado. Voz en off: «Cada semana, más residuos». Sonido: moscas. Escena 2: Imagen: plano general de vecinos separando botellas y cartones en el patio. Texto en pantalla: «Juntos sí se puede». Sonido: música animada. Escena 3: Imagen: un letrero con las instrucciones para separar. Texto en pantalla: «Botellas, cartones y latas». Sonido: silencio. Exposición A (inventada): «El video muestra residuos y vecinos que reciclan. Me gustó. Fin». Exposición B (inventada): «El video quiere que los vecinos reciclen. Lo hace con una imagen de basura desbordada y la frase “más residuos”, y con vecinos reunidos y música animada. Pienso que muestra bien el problema, pero no explica cómo se retira lo reciclado. Por eso necesito más información antes de apoyarlo del todo». Exposición C (inventada): «Todos deberían reciclar, es obvio. Los que no reciclan son flojos».
+
+**Solucionario razonado**
+
+- **R1.** B) Un contenedor de basura desbordado. La tabla indica un primer plano del contenedor desbordado.
+- **R2.** A) Música animada. La escena 2 lleva música animada.
+- **R3.** 3. La tabla del texto describe tres escenas numeradas.
+- **C1.** A) La B, porque explica los recursos, da una postura y razones. La B cumple los criterios de orden, evidencia y respeto.
+- **C2.** B) Explicar cómo usa el video imagen, texto y sonido. Solo dice «Me gustó» sin análisis ni razones.
+- **C3.** C) Juzga a las personas y no usa datos del video. Dice «flojos» y no se apoya en evidencia.
+- **A1.** A) La imagen del contenedor desbordado y la frase «más residuos». Usa una imagen y un texto del video como evidencia.
+- **A2.** A) Qué vi, cómo lo dice, mi postura y un cierre. Esa secuencia permite seguir el hilo.
+- **A3.** A) Respeto: no se juzga a las personas. El respeto es uno de los cuatro criterios.
+- **Z1.** A) Para recordar las ideas principales sin leerlo todo. Ayuda a hablar con tus palabras.
+- **Z2.** B) ¿Cómo se retira lo que se separa?. La pregunta surge de lo que el video no explica.
+- **D1.** C) Escucho sus razones y las comparo con mis datos. El respeto exige escuchar y comparar razones.
+- **D2.** A) Dices que no se apoya en datos del video y propones agregar evidencia. Se critica el texto, no a la persona.
+- **S1.** C) Preparo una tarjeta con qué vi, cómo lo dice, mi postura y un cierre. Una estructura corta permite comunicar con orden y respeto.
+- **E1.** Qué vi, cómo lo dice, mi postura y un cierre. Dan orden a lo que se dice.
+- **E2.** Un dato que apoya lo que digo. Sin evidencia la postura es solo una opinión.
+- **E3.** El respeto. Se analiza el video, no a quien piensa distinto.
+
+**Actividad abierta · ejemplo de respuesta.** Qué vi: un video para que los vecinos reciclen. Cómo lo dice: imagen de basura desbordada, vecinos reunidos y música animada. Postura: muestra el problema y la solución, pero no explica el retiro. Cierre: ¿quién retira lo reciclado?
+
+**Criterios para evaluarla:** cuatro partes en orden; usa datos de la tabla; razón de la postura; tono respetuoso.
+
+**Evidencias aceptables:** una tarjeta con cuatro ideas.
+
+**Errores que conviene detectar:** no usar datos del video; juzgar a las personas.
+
+**Retroalimentación constructiva:** Pregunta: «¿Qué dato apoya tu postura?».
+
+**Refuerzo.** Cuenta oralmente, en un minuto, una noticia que viste ayer, sin leer.
+
+**Profundización.** Prepara otra tarjeta con una postura contraria a la tuya y explica con qué razones podría defenderla otra persona.
+
+
+**Apoyo en el mismo OA:** Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona.
+
+**Profundización:** Propone aplicar lo aprendido a otra situación de su trabajo, hogar o comunidad y explicarle a otra persona cómo lo hizo.
+
+**Evidencia:** Producción individual (oral, escrita o gráfica) de «aplicar a una situación de trabajo, hogar o comunidad: analizar los puntos de vista expresados en un texto audiovisual» con una situación de la vida adulta, el procedimiento usado y una reflexión breve.
+
+**Criterios de éxito:** desarrolla «aplicar a una situación de trabajo, hogar o comunidad: analizar los puntos de vista expresados en un texto audiovisual» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando la persona logra hacerlo y explicarlo con sus palabras; si no, localiza la barrera (lectura, escritura, cálculo o confianza), modela otro caso cercano a su vida y vuelve a probar sin etiquetarla.
+
+**Adaptación a 45 minutos:** Conserva la situación cotidiana, el modelado breve, la práctica con apoyo y el cierre oral; reduce la cantidad de casos para quien llega tarde o debe retirarse antes, sin quitar el desafío.
+
+**Tarea breve y flexible:** Observa o usa, en su casa, trabajo o barrio, una situación parecida a la de la clase y se la cuenta a alguien o la anota. No requiere comprar nada ni conectividad, y no exige mostrar datos personales.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a una situación más simple de la vida diaria y luego al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: resumir un texto en vez de interpretarlo.
+- Transferencia: aplica lo aprendido a otra situación de su trabajo, hogar o comunidad y explica el cambio.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Dice «yo no sé» o evita participar por temor a equivocarse | Parte de algo que la persona ya hace en su vida, valida ese saber y propone un primer paso breve y posible. | Participa con una respuesta propia, aunque sea parcial, y explica cómo la obtuvo. |
+| Resumir un texto en vez de interpretarlo | Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia con sus palabras. |
+| Completa la actividad, pero no sabe para qué le sirve | Pide ligarla con una situación concreta de su trabajo, hogar o comunidad y nombrar cuándo la usaría. | Explica un uso real y qué haría distinto. |
+
+**Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
+
+
+[← Clase anterior](#cl-18500) · [Clase siguiente →](#cl-18502)
+
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Analizar los puntos de vista expresados en un texto audiovisual {#cl-18502}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Que cada persona avance en «analizar los puntos de vista expresados en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Analizar los puntos de vista expresados en un texto audiovisual.
+
+**Meta para estudiantes:** Hoy voy a trabajar «revisar lo logrado y decidir los pasos siguientes: analizar los puntos de vista expresados en un texto audiovisual» con situaciones de mi vida diaria y a reconocer qué me sirve y qué quiero repasar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; contexto sugerido: compartir un cuento o una canción de la familia. Cada persona cuenta, de palabra o por escrito, qué sabe del tema por su experiencia antes de que el grupo lo formalice; se parte de lo que ya trae y nadie debe exponer datos personales que no quiera compartir. |
+| Modelado | 20 min | Modela en voz alta «revisar lo logrado y decidir los pasos siguientes: analizar los puntos de vista expresados en un texto audiovisual»: nombra cada paso, usa el vocabulario del tema, comprueba el resultado y muestra cómo se corrige «resumir un texto en vez de interpretarlo» sin apurar ni ridiculizar los errores. |
+| Práctica guiada | 25 min | En parejas o grupos pequeños resuelven una variante de la tarea «analizar los puntos de vista expresados en un texto audiovisual» tomada de la vida cotidiana (contexto sugerido: compartir un cuento o una canción de la familia); quien lee o escribe con más soltura apoya sin reemplazar a la otra persona, y el docente circula preguntando en vez de corregir de inmediato. |
+| Desempeño individual | 25 min | Cada persona desarrolla «revisar lo logrado y decidir los pasos siguientes: analizar los puntos de vista expresados en un texto audiovisual» en una situación propia o cercana a su experiencia (contexto sugerido: compartir un cuento o una canción de la familia); registra el resultado con palabras, esquemas o dibujos según su nivel de escritura y explica en voz alta qué hizo y por qué. |
+| Cierre | 10 min | Dice o escribe, con sus palabras, qué hizo hoy, para qué le sirve en su vida diaria y qué parte quiere repasar. |
+
+**Materiales y preparación:** una situación breve de la vida adulta en la que se necesita analizar los puntos de vista expresados en un texto audiovisual; pizarra, cuaderno, material concreto de la vida diaria (envases, boletas, formularios o dinero de ejemplo) y alternativa sin conectividad. Verifica que ningún material exija comprar nada ni mostrar datos personales.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Lápiz, goma y cuaderno. Todos los textos, resúmenes de obras, fichas y tablas están escritos en cada ejercicio: los textos nuevos son inventados para este cuaderno y los resúmenes de obras clásicas están escritos con palabras propias. No necesitas libros, audio, video ni internet: cuando la clase habla de imágenes o sonidos, están descritos en una tabla escrita. Si algo te cuesta leer, pide apoyo a otra persona: pedir ayuda es parte de aprender. No escribas datos personales reales (cédula, dirección ni teléfono).
+
+**Consigna exacta:** Analiza la noticia de la ficha en un texto de cinco oraciones: qué dicen imagen, texto y sonido; qué dato verificable hay; qué se omite; tu postura con un dato; y qué mejorarás de tu forma de comunicar. Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses.
+
+**Referencia para modelar y corregir:** En la noticia, la imagen muestra a una persona bajo la lluvia, la voz dice «más esperas» y la música es triste. El dato verificable es que el bus pasaba cada diez minutos y ahora cada veinte. Se omite la versión de la empresa. Mi postura es que el cambio parece afectar a los pasajeros, pero falta otra fuente. Mejoraré nombrando lo que falta.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: En la noticia, la imagen muestra a una persona bajo la lluvia, la voz dice «más esperas» y la música es triste. El dato verificable es que el bus pasaba cada diez minutos y ahora cada veinte. Se omite la versión de la empresa. Mi postura es que el cambio parece afectar a los pasajeros, pero falta otra fuente. Mejoraré nombrando lo que falta. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Hoy reviso lo logrado: analizo una noticia nueva, formulo mi postura con evidencia y decido cómo mejorar mi forma de comunicar.
+
+**Lo que ya debo saber.** Sé analizar imagen, texto y sonido. Sé que cada versión omite algo. Sé armar una exposición oral breve.
+
+**Explicación.**
+
+Revisar lo logrado es comprobar que usas bien el método. Para cada texto audiovisual, anota imagen, texto y sonido, mira si se refuerzan, detecta lo que se omite, formula tu postura con datos y comunícala con orden y respeto.
+
+Una noticia puede mostrar solo una versión. En la noticia de hoy, la voz dice «más esperas», la imagen muestra a una persona bajo la lluvia y la música es triste, pero no aparece la versión de la empresa. Eso no la hace falsa, pero sí incompleta.
+
+Para cerrar, evalúa tu propio trabajo con una lista de cuatro preguntas. ¿Usé las tres partes? ¿Señalé lo omitido? ¿Mi postura tiene datos? ¿Hablé con respeto? Después elige una cosa para mejorar la próxima vez.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| incompleta | que no muestra todas las partes |
+| autoevaluación | revisar tu propio trabajo con criterios |
+| dato verificable | dato que se puede comprobar en otra fuente |
+| emoción | sentimiento que produce algo, como pena o rabia |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Separar datos y emoción*
+
+Problema: Escena 3: pasajera dice que el bus pasaba cada diez minutos y ahora cada veinte.
+
+1. El dato es el cambio de diez a veinte minutos.
+2. La música triste de la escena 1 es emoción.
+
+Respuesta: Dato: frecuencia; emoción: música y lluvia
+
+*Ejemplo 2. Detectar lo omitido*
+
+Problema: La noticia no muestra la versión de la empresa.
+
+1. Falta la razón del cambio de horario.
+2. Falta una cifra de pasajeros.
+
+Respuesta: Faltan la versión de la empresa y datos sobre el cambio
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Usar la emoción como si fuera un dato. **Por qué ocurre:** La música triste no prueba que algo sea cierto. **Cómo corregirlo:** Apoya tu postura en datos que se puedan comprobar.
+- **Error:** Quedarse solo con la parte que coincide con lo que uno piensa. **Por qué ocurre:** Eso es un sesgo. **Cómo corregirlo:** Busca también lo que no coincide con tu opinión.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Qué dato verificable entrega la pasajera? A) Que el bus está lleno B) Que antes el bus pasaba cada diez minutos y ahora cada veinte C) Que llueve
+- **R2.** Si antes un bus pasaba cada 10 minutos, ¿cuántos buses pasaban en 60 minutos?
+- **R3.** Si ahora un bus pasa cada 20 minutos, ¿cuántos buses pasan en 60 minutos?
+
+*Comprensión*
+
+- **C1.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Qué recurso busca crear tristeza en la escena 1? A) El texto «Pasajeros molestos» B) La lluvia y la música triste C) Las bocinas
+- **C2.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Qué texto en pantalla aparece en la escena 2? A) «Pasajeros molestos» B) «Nuevo horario» C) «Más esperas»
+- **C3.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Qué se omite según la nota final? A) La voz de la pasajera B) La versión de la empresa de buses C) El bus lleno
+
+*Aplicación*
+
+- **A1.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Es falsa la noticia por omitir la versión de la empresa? A) No necesariamente: es incompleta y conviene buscar otra fuente B) Sí: toda omisión es mentira
+- **A2.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Qué parte de la noticia es una emoción y no un dato? A) La música triste con la lluvia B) El cambio de diez a veinte minutos C) El nombre «Pasajera»
+- **A3.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Cuál es una postura bien apoyada? A) Según la pasajera, el intervalo subió de 10 a 20 minutos; falta la versión de la empresa B) La empresa es culpable porque la música es triste C) Nadie debe usar buses
+
+*Razonamiento y análisis*
+
+- **Z1.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Qué haces para completar la información? A) Me quedo con mi primera impresión B) Comparto solo esta noticia C) Busco la versión de la empresa y otro testimonio
+- **Z2.** Gabriela dice: «Si el video me enoja, es verdad». ¿Qué le respondes? A) Que sentir enojo no prueba que algo sea cierto B) Que tiene razón
+
+*Desafío*
+
+- **D1.** En tu autoevaluación, ¿qué pregunta te ayuda a reconocer un sesgo? A) ¿Cuánto duró el video? B) ¿Busqué también lo que no coincide con lo que pienso? C) ¿Cuántas escenas tenía?
+- **D2.** Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses. ¿Qué recurso del sonido incluye la escena 3? A) Aplausos B) Música alegre C) Ruido de calle
+
+*Situaciones auténticas*
+
+- **S1.** Ves en las redes un video con música dramática que dice que cierran un consultorio del barrio, sin mostrar de dónde sale el dato. ¿Qué haces? A) Lo comparto de inmediato B) Busco un aviso oficial o hablo con quien puede confirmarlo C) Lo borro y no pienso más
+
+*Autoevaluación*
+
+- **E1.** En Lengua y Literatura: ¿qué es una postura bien apoyada?
+- **E2.** ¿Una música triste prueba que algo es cierto?
+- **E3.** ¿Qué cuatro preguntas hago al evaluarme?
+
+**Actividad abierta.** Analiza la noticia de la ficha en un texto de cinco oraciones: qué dicen imagen, texto y sonido; qué dato verificable hay; qué se omite; tu postura con un dato; y qué mejorarás de tu forma de comunicar. Noticia (inventada y descrita por escrito), «Nuevo horario de buses», 3 escenas. Escena 1: Imagen: primer plano de una persona esperando bajo la lluvia. Voz en off: «Nuevo horario de buses: más esperas». Sonido: lluvia y música triste. Escena 2: Imagen: plano general de un bus lleno. Texto en pantalla: «Pasajeros molestos». Sonido: bocinas. Escena 3: Imagen: entrevista a una pasajera que dice: «Antes pasaba cada diez minutos, ahora cada veinte». Texto en pantalla: «Pasajera, caso de ejemplo». Sonido: ruido de calle. Nota: la noticia no muestra la versión de la empresa de buses.
+
+**Solucionario razonado**
+
+- **R1.** B) Que antes el bus pasaba cada diez minutos y ahora cada veinte. Es una afirmación concreta que podría comprobarse con otra fuente.
+- **R2.** 6. Se divide el tiempo total por el intervalo entre buses. Cálculo: 60 ÷ 10 = 6.
+- **R3.** 3. Se divide el tiempo total por el nuevo intervalo. Cálculo: 60 ÷ 20 = 3.
+- **C1.** B) La lluvia y la música triste. La tabla anota lluvia y música triste.
+- **C2.** A) «Pasajeros molestos». La escena 2 muestra «Pasajeros molestos».
+- **C3.** B) La versión de la empresa de buses. La nota final de la ficha lo dice de forma expresa.
+- **A1.** A) No necesariamente: es incompleta y conviene buscar otra fuente. Omitir una versión la deja incompleta, pero eso no prueba que sea falsa.
+- **A2.** A) La música triste con la lluvia. La música crea una sensación, no entrega información.
+- **A3.** A) Según la pasajera, el intervalo subió de 10 a 20 minutos; falta la versión de la empresa. Usa un dato verificable y reconoce lo que falta.
+- **Z1.** C) Busco la versión de la empresa y otro testimonio. Contrastar varias versiones completa el cuadro de la situación.
+- **Z2.** A) Que sentir enojo no prueba que algo sea cierto. Las emociones no son una prueba de que un dato sea verdadero.
+- **D1.** B) ¿Busqué también lo que no coincide con lo que pienso?. El sesgo aparece cuando solo se mira un lado.
+- **D2.** C) Ruido de calle. La tabla anota ruido de calle.
+- **S1.** B) Busco un aviso oficial o hablo con quien puede confirmarlo. Un dato sin fuente debe verificarse antes de difundirse.
+- **E1.** La que usa datos verificables y reconoce lo que falta. Los datos la sostienen y la honestidad la hace más sólida.
+- **E2.** No. La música crea una emoción y no una prueba.
+- **E3.** Tres partes, lo omitido, datos y respeto. Son los cuatro criterios de revisión.
+
+**Actividad abierta · ejemplo de respuesta.** En la noticia, la imagen muestra a una persona bajo la lluvia, la voz dice «más esperas» y la música es triste. El dato verificable es que el bus pasaba cada diez minutos y ahora cada veinte. Se omite la versión de la empresa. Mi postura es que el cambio parece afectar a los pasajeros, pero falta otra fuente. Mejoraré nombrando lo que falta.
+
+**Criterios para evaluarla:** usa imagen, texto y sonido; señala un dato y una omisión; postura con dato; dice qué mejorará.
+
+**Evidencias aceptables:** cinco oraciones escritas.
+
+**Errores que conviene detectar:** usar la emoción como dato; no señalar lo omitido.
+
+**Retroalimentación constructiva:** Pregunta: «¿Qué fuente consultarías para completar la información?».
+
+**Refuerzo.** Anota en una tarjeta tus cuatro criterios de revisión y úsalos en la próxima noticia que veas.
+
+**Profundización.** Explica oralmente a otra persona, en un minuto, la diferencia entre un dato y una emoción en un video.
+
+
+**Apoyo en el mismo OA:** Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona.
+
+**Profundización:** Propone aplicar lo aprendido a otra situación de su trabajo, hogar o comunidad y explicarle a otra persona cómo lo hizo.
+
+**Evidencia:** Producción individual (oral, escrita o gráfica) de «revisar lo logrado y decidir los pasos siguientes: analizar los puntos de vista expresados en un texto audiovisual» con una situación de la vida adulta, el procedimiento usado y una reflexión breve.
+
+**Criterios de éxito:** desarrolla «revisar lo logrado y decidir los pasos siguientes: analizar los puntos de vista expresados en un texto audiovisual» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando la persona logra hacerlo y explicarlo con sus palabras; si no, localiza la barrera (lectura, escritura, cálculo o confianza), modela otro caso cercano a su vida y vuelve a probar sin etiquetarla.
+
+**Adaptación a 45 minutos:** Conserva la situación cotidiana, el modelado breve, la práctica con apoyo y el cierre oral; reduce la cantidad de casos para quien llega tarde o debe retirarse antes, sin quitar el desafío.
+
+**Tarea breve y flexible:** Observa o usa, en su casa, trabajo o barrio, una situación parecida a la de la clase y se la cuenta a alguien o la anota. No requiere comprar nada ni conectividad, y no exige mostrar datos personales.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a una situación más simple de la vida diaria y luego al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: resumir un texto en vez de interpretarlo.
+- Transferencia: aplica lo aprendido a otra situación de su trabajo, hogar o comunidad y explica el cambio.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Dice «yo no sé» o evita participar por temor a equivocarse | Parte de algo que la persona ya hace en su vida, valida ese saber y propone un primer paso breve y posible. | Participa con una respuesta propia, aunque sea parcial, y explica cómo la obtuvo. |
+| Resumir un texto en vez de interpretarlo | Ofrece lectura en voz alta del enunciado, objetos o dinero de ejemplo, dibujos, más tiempo y trabajo en pareja; conserva el desafío del aprendizaje y respeta la experiencia, el tiempo y la dignidad de la persona. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia con sus palabras. |
+| Completa la actividad, pero no sabe para qué le sirve | Pide ligarla con una situación concreta de su trabajo, hogar o comunidad y nombrar cuándo la usaría. | Explica un uso real y qué haría distinto. |
+
+**Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
+
+
+[← Clase anterior](#cl-18501)
+
+## Evaluación integradora y realidad escolar
+Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
+
+## Fuente
+- [Ficha oficial del OA](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lengua-literatura-educacion-media)
+- [Asignatura y nivel](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lengua-literatura-educacion-media)
+- Snapshot: 2026-09-24
+- [Volver a la malla](../../../CURRICULUM.md)

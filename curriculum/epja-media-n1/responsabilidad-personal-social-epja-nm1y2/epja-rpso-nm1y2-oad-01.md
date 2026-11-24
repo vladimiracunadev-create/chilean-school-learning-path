@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18165) · [Clase 2](#cl-18166) · [Clase 3](#cl-18167)
+**Clases de este OA:** [Clase 1](#cl-18647) · [Clase 2](#cl-18648) · [Clase 3](#cl-18649)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Reconocer y enumeran características personales que pueden ser consideradas fortalezas {#cl-18165}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Reconocer y enumeran características personales que pueden ser consideradas fortalezas {#cl-18647}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «reconocer y enumeran características personales que pueden ser consideradas fortalezas» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Reconocer y enumeran características personales que pueden ser consideradas fortalezas.
@@ -250,9 +250,9 @@ Respuesta: Ayudo a mi vecina a subir las compras: fortaleza de ayudar
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[Clase siguiente →](#cl-18166)
+[Clase siguiente →](#cl-18648)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Reconocer y enumeran características personales que pueden ser consideradas fortalezas {#cl-18166}
+### Clase 2 de 3: Practicar juntos con apoyo: Reconocer y enumeran características personales que pueden ser consideradas fortalezas {#cl-18648}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «reconocer y enumeran características personales que pueden ser consideradas fortalezas» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Reconocer y enumeran características personales que pueden ser consideradas fortalezas.
@@ -456,9 +456,9 @@ Respuesta: Recurso de afrontamiento personal
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18165) · [Clase siguiente →](#cl-18167)
+[← Clase anterior](#cl-18647) · [Clase siguiente →](#cl-18649)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Reconocer y enumeran características personales que pueden ser consideradas fortalezas {#cl-18167}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Reconocer y enumeran características personales que pueden ser consideradas fortalezas {#cl-18649}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «reconocer y enumeran características personales que pueden ser consideradas fortalezas» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Reconocer y enumeran características personales que pueden ser consideradas fortalezas.
@@ -663,7 +663,7 @@ Respuesta: Ensayar con alguien de confianza y pedir el permiso con anticipación
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18166) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-02.md#cl-18168)
+[← Clase anterior](#cl-18648) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-02.md#cl-18650)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

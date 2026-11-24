@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18138) · [Clase 2](#cl-18139) · [Clase 3](#cl-18140)
+**Clases de este OA:** [Clase 1](#cl-18620) · [Clase 2](#cl-18621) · [Clase 3](#cl-18622)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Modelar y evaluar formas para programar {#cl-18138}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Modelar y evaluar formas para programar {#cl-18620}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «modelar y evaluar formas para programar» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Modelar y evaluar formas para programar.
@@ -248,9 +248,9 @@ Respuesta: 64
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-peco-nm1y2-oad-07.md#cl-18137) · [Clase siguiente →](#cl-18139)
+[← Última clase del OA anterior](epja-peco-nm1y2-oad-07.md#cl-18619) · [Clase siguiente →](#cl-18621)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Modelar y evaluar formas para programar {#cl-18139}
+### Clase 2 de 3: Practicar juntos con apoyo: Modelar y evaluar formas para programar {#cl-18621}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «modelar y evaluar formas para programar» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Modelar y evaluar formas para programar.
@@ -454,9 +454,9 @@ Respuesta: 42
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18138) · [Clase siguiente →](#cl-18140)
+[← Clase anterior](#cl-18620) · [Clase siguiente →](#cl-18622)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Modelar y evaluar formas para programar {#cl-18140}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Modelar y evaluar formas para programar {#cl-18622}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «modelar y evaluar formas para programar» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Modelar y evaluar formas para programar.
@@ -660,7 +660,7 @@ Respuesta: 12 datos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18139) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-09.md#cl-18141)
+[← Clase anterior](#cl-18621) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-09.md#cl-18623)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

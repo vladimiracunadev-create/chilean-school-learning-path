@@ -186,6 +186,10 @@ _VERBS.update({
     "comunica": "comunicar", "distingue": "distinguir", "expresarse": "expresarse",
     "infiere": "inferir", "presentarse": "presentarse", "relaciona": "relacionar", "selecciona": "seleccionar",
 })
+_VERBS.update({
+    "compara": "comparar", "discuten": "discutir", "experimentan": "experimentar", "llevan": "llevar",
+    "transfieren": "transferir",
+})
 _UNKNOWN_VERBS: set[str] = set()
 
 

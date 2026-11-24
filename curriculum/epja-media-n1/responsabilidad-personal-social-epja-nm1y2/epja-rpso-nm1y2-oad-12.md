@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18198) · [Clase 2](#cl-18199) · [Clase 3](#cl-18200)
+**Clases de este OA:** [Clase 1](#cl-18680) · [Clase 2](#cl-18681) · [Clase 3](#cl-18682)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo {#cl-18198}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo {#cl-18680}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo.
@@ -248,9 +248,9 @@ Respuesta: Facilitar la participación
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-rpso-nm1y2-oad-11.md#cl-18197) · [Clase siguiente →](#cl-18199)
+[← Última clase del OA anterior](epja-rpso-nm1y2-oad-11.md#cl-18679) · [Clase siguiente →](#cl-18681)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo {#cl-18199}
+### Clase 2 de 3: Practicar juntos con apoyo: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo {#cl-18681}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo.
@@ -454,9 +454,9 @@ Respuesta: La segunda
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18198) · [Clase siguiente →](#cl-18200)
+[← Clase anterior](#cl-18680) · [Clase siguiente →](#cl-18682)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo {#cl-18200}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo {#cl-18682}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Proyectar un liderazgo colaborativo en la consecución de metas de otros o del grupo.
@@ -660,7 +660,7 @@ Respuesta: Una tarea corta y puntual
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18199) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-13.md#cl-18201)
+[← Clase anterior](#cl-18681) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-13.md#cl-18683)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

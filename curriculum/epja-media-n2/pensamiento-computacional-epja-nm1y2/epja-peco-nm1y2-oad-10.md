@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18336) · [Clase 2](#cl-18337) · [Clase 3](#cl-18338)
+**Clases de este OA:** [Clase 1](#cl-18914) · [Clase 2](#cl-18915) · [Clase 3](#cl-18916)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2) {#cl-18336}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2) {#cl-18914}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2)» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2).
@@ -250,9 +250,9 @@ Respuesta: Sí: repetir una acción hasta llegar a un estado final
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-peco-nm1y2-oad-09.md#cl-18335) · [Clase siguiente →](#cl-18337)
+[← Última clase del OA anterior](epja-peco-nm1y2-oad-09.md#cl-18913) · [Clase siguiente →](#cl-18915)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2) {#cl-18337}
+### Clase 2 de 3: Practicar juntos con apoyo: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2) {#cl-18915}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2)» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2).
@@ -458,9 +458,9 @@ Respuesta: Termina por el tope de 3 intentos y se debe avisar que no abrió
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18336) · [Clase siguiente →](#cl-18338)
+[← Clase anterior](#cl-18914) · [Clase siguiente →](#cl-18916)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2) {#cl-18338}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2) {#cl-18916}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2)» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas computacionales relacionados con la funcionalidad de un objeto (módulo 3, desempeño 2).
@@ -666,7 +666,7 @@ Respuesta: Repetir [cargar un minuto] hasta que (el indicador marque carga compl
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18337) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-11.md#cl-18339)
+[← Clase anterior](#cl-18915) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-11.md#cl-18917)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

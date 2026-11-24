@@ -1,6 +1,6 @@
 # Matemática · EPJA Básica N2
 
-[⬅️ Índice de asignaturas EPJA](README.md) · [← Lenguaje y Comunicación · EPJA Básica N2](lenguaje-comunicacion-epja-nb2.md) · [Educación Financiera · EPJA Media N1 y N2 →](educacion-financiera-epja-nm1y2.md)
+[⬅️ Índice de asignaturas EPJA](README.md) · [← Lenguaje y Comunicación · EPJA Básica N2](lenguaje-comunicacion-epja-nb2.md) · [Artes Visuales · EPJA Media N1 y N2 →](artes-visuales-epja-nm1y2.md)
 
 **16 actividades de desempeño (objetivos) · 96 clases · cuaderno del estudiante escrito en 96 de 96 clases · revisión humana pendiente**
 

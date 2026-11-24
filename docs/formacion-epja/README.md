@@ -17,12 +17,18 @@ Asignaturas de la modalidad EPJA con objetivos tomados de los [programas de estu
 | Básica N2 | Inglés | 16 | 96 | 96 | [📘 Leer guía](ingles-epja-nb2.md) |
 | Básica N2 | Lenguaje y Comunicación | 16 | 96 | 96 | [📘 Leer guía](lenguaje-comunicacion-epja-nb2.md) |
 | Básica N2 | Matemática | 16 | 96 | 96 | [📘 Leer guía](matematica-epja-nb2.md) |
+| Media N1 y N2 | Artes Visuales | 16 | 48 | 48 | [📘 Leer guía](artes-visuales-epja-nm1y2.md) |
+| Media N1 | Ciencias Naturales | 16 | 98 | 98 | [📘 Leer guía](ciencias-naturales-epja-nm1.md) |
 | Media N1 y N2 | Educación Financiera | 16 | 48 | 48 | [📘 Leer guía](educacion-financiera-epja-nm1y2.md) |
 | Media N1 y N2 | Emprendimiento y Empleabilidad | 16 | 48 | 48 | [📘 Leer guía](emprendimiento-empleabilidad-epja-nm1y2.md) |
+| Media N1 y N2 | Filosofía | 16 | 48 | 48 | [📘 Leer guía](filosofia-epja-nm1y2.md) |
+| Media N1 | Historia, Geografía y Ciencias Sociales | 16 | 96 | 96 | [📘 Leer guía](historia-geografia-ciencias-sociales-epja-nm1.md) |
+| Media N1 | Lengua y Literatura | 16 | 96 | 96 | [📘 Leer guía](lengua-literatura-epja-nm1.md) |
+| Media N1 | Matemática | 16 | 96 | 96 | [📘 Leer guía](matematica-epja-nm1.md) |
 | Media N1 y N2 | Pensamiento Computacional | 16 | 48 | 48 | [📘 Leer guía](pensamiento-computacional-epja-nm1y2.md) |
 | Media N1 y N2 | Responsabilidad Personal y Social | 16 | 48 | 48 | [📘 Leer guía](responsabilidad-personal-social-epja-nm1y2.md) |
 
-| **Total publicado** | | **176** | **910** | **910** | |
+| **Total publicado** | | **272** | **1392** | **1392** | |
 
 Las asignaturas de media que el programa declara para los niveles 1 y 2 a la vez cuentan una sola vez en esta tabla, aunque aparezcan en ambos cursos del catálogo.
 

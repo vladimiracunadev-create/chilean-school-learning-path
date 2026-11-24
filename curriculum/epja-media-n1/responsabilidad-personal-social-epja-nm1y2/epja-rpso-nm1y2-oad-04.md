@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18174) · [Clase 2](#cl-18175) · [Clase 3](#cl-18176)
+**Clases de este OA:** [Clase 1](#cl-18656) · [Clase 2](#cl-18657) · [Clase 3](#cl-18658)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Proyectar su crecimiento personal {#cl-18174}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Proyectar su crecimiento personal {#cl-18656}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proyectar su crecimiento personal» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Proyectar su crecimiento personal.
@@ -248,9 +248,9 @@ Respuesta: Autoeducación
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-rpso-nm1y2-oad-03.md#cl-18173) · [Clase siguiente →](#cl-18175)
+[← Última clase del OA anterior](epja-rpso-nm1y2-oad-03.md#cl-18655) · [Clase siguiente →](#cl-18657)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Proyectar su crecimiento personal {#cl-18175}
+### Clase 2 de 3: Practicar juntos con apoyo: Proyectar su crecimiento personal {#cl-18657}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proyectar su crecimiento personal» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Proyectar su crecimiento personal.
@@ -454,9 +454,9 @@ Respuesta: Llevar sus cuentas
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18174) · [Clase siguiente →](#cl-18176)
+[← Clase anterior](#cl-18656) · [Clase siguiente →](#cl-18658)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Proyectar su crecimiento personal {#cl-18176}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Proyectar su crecimiento personal {#cl-18658}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «proyectar su crecimiento personal» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Proyectar su crecimiento personal.
@@ -660,7 +660,7 @@ Respuesta: Un día fijo para revisar y ajustar
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18175) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-05.md#cl-18177)
+[← Clase anterior](#cl-18657) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-05.md#cl-18659)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

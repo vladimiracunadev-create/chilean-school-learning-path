@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 14012 de 14.248 clases desarrolladas tienen cuaderno del estudiante (98,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 14590 de 14.826 clases desarrolladas tienen cuaderno del estudiante (98,4 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -30,8 +30,8 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | 1.464 | 1.464 | 0 | completo | 0 | 24.888 | 2.928 | pendiente |
 | EPJA básica N1 | 238 | 238 | 0 | completo | 0 | 4.046 | 476 | pendiente |
 | EPJA básica N2 | 480 | 480 | 0 | completo | 0 | 8.160 | 960 | pendiente |
-| EPJA media N1 | 192 | 192 | 0 | completo | 0 | 3.264 | 384 | pendiente |
-| EPJA media N2 | 192 | 192 | 0 | completo | 0 | 3.264 | 384 | pendiente |
+| EPJA media N1 | 674 | 674 | 0 | completo | 0 | 11.458 | 1.348 | pendiente |
+| EPJA media N2 | 288 | 288 | 0 | completo | 0 | 4.896 | 576 | pendiente |
 
 ## Objetivos con cuaderno
 
@@ -651,6 +651,38 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º medio | ingles-propuesta | EN2M OA 11 | 5 | 5 | 85 | 10 |
 | 2.º medio | ingles-propuesta | EN2M OA 12 | 5 | 5 | 85 | 10 |
 | 2.º medio | ingles-propuesta | EN2M OA 13 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-01 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-01 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-02 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-02 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-03 | 6 | 6 | 102 | 12 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-03 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-04 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-04 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-05 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-05 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-06 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-06 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-07 | 5 | 5 | 85 | 10 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-07 | 5 | 5 | 85 | 10 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-08 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-08 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-09 | 4 | 4 | 68 | 8 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-09 | 4 | 4 | 68 | 8 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-10 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-10 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-11 | 4 | 4 | 68 | 8 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-11 | 4 | 4 | 68 | 8 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-12 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-12 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-13 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-13 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-14 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-14 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-15 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-15 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-16 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | artes-visuales-epja-nm1y2 | EPJA-AVIS-NM1y2-OAD-16 | 3 | 3 | 51 | 6 |
 | EPJA básica N2 | ciencias-naturales-epja-nb2 | EPJA-CNAT-NB2-OAD-01 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | ciencias-naturales-epja-nb2 | EPJA-CNAT-NB2-OAD-02 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | ciencias-naturales-epja-nb2 | EPJA-CNAT-NB2-OAD-03 | 6 | 6 | 102 | 12 |
@@ -667,6 +699,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | EPJA básica N2 | ciencias-naturales-epja-nb2 | EPJA-CNAT-NB2-OAD-14 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | ciencias-naturales-epja-nb2 | EPJA-CNAT-NB2-OAD-15 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | ciencias-naturales-epja-nb2 | EPJA-CNAT-NB2-OAD-16 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-01 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-02 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-03 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-04 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-05 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-06 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-07 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-08 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-09 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-10 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-11 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-12 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-13 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-14 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-15 | 8 | 8 | 136 | 16 |
+| EPJA media N1 | ciencias-naturales-epja-nm1 | EPJA-CNAT-NM1-OAD-16 | 6 | 6 | 102 | 12 |
 | EPJA media N1 | educacion-financiera-epja-nm1y2 | EPJA-EFIN-NM1y2-OAD-01 | 3 | 3 | 51 | 6 |
 | EPJA media N2 | educacion-financiera-epja-nm1y2 | EPJA-EFIN-NM1y2-OAD-01 | 3 | 3 | 51 | 6 |
 | EPJA media N1 | educacion-financiera-epja-nm1y2 | EPJA-EFIN-NM1y2-OAD-02 | 3 | 3 | 51 | 6 |
@@ -731,6 +779,38 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | EPJA media N2 | emprendimiento-empleabilidad-epja-nm1y2 | EPJA-EMEM-NM1y2-OAD-15 | 3 | 3 | 51 | 6 |
 | EPJA media N1 | emprendimiento-empleabilidad-epja-nm1y2 | EPJA-EMEM-NM1y2-OAD-16 | 3 | 3 | 51 | 6 |
 | EPJA media N2 | emprendimiento-empleabilidad-epja-nm1y2 | EPJA-EMEM-NM1y2-OAD-16 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-01 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-01 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-02 | 4 | 4 | 68 | 8 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-02 | 4 | 4 | 68 | 8 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-03 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-03 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-04 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-04 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-05 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-05 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-06 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-06 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-07 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-07 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-08 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-08 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-09 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-09 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-10 | 4 | 4 | 68 | 8 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-10 | 4 | 4 | 68 | 8 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-11 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-11 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-12 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-12 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-13 | 3 | 3 | 51 | 6 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-13 | 3 | 3 | 51 | 6 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-14 | 5 | 5 | 85 | 10 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-14 | 5 | 5 | 85 | 10 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-15 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-15 | 2 | 2 | 34 | 4 |
+| EPJA media N1 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-16 | 2 | 2 | 34 | 4 |
+| EPJA media N2 | filosofia-epja-nm1y2 | EPJA-FILO-NM1y2-OAD-16 | 2 | 2 | 34 | 4 |
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-01 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-02 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-03 | 6 | 6 | 102 | 12 |
@@ -747,6 +827,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-14 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-15 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-16 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-01 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-02 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-03 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-04 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-05 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-06 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-07 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-08 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-09 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-10 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-11 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-12 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-13 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-14 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-15 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | historia-geografia-ciencias-sociales-epja-nm1 | EPJA-HGCS-NM1-OAD-16 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-01 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-02 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-03 | 6 | 6 | 102 | 12 |
@@ -795,6 +891,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | EPJA básica N2 | lenguaje-comunicacion-epja-nb2 | EPJA-LECO-NB2-OAD-14 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | lenguaje-comunicacion-epja-nb2 | EPJA-LECO-NB2-OAD-15 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | lenguaje-comunicacion-epja-nb2 | EPJA-LECO-NB2-OAD-16 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-01 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-02 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-03 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-04 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-05 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-06 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-07 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-08 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-09 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-10 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-11 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-12 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-13 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-14 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-15 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | lengua-literatura-epja-nm1 | EPJA-LELI-NM1-OAD-16 | 6 | 6 | 102 | 12 |
 | EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-01 | 8 | 8 | 136 | 16 |
 | EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-02 | 8 | 8 | 136 | 16 |
 | EPJA básica N1 | matematica-epja-nb1 | EPJA-MATE-NB1-OAD-03 | 7 | 7 | 119 | 14 |
@@ -827,6 +939,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | EPJA básica N2 | matematica-epja-nb2 | EPJA-MATE-NB2-OAD-14 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | matematica-epja-nb2 | EPJA-MATE-NB2-OAD-15 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | matematica-epja-nb2 | EPJA-MATE-NB2-OAD-16 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-01 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-02 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-03 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-04 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-05 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-06 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-07 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-08 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-09 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-10 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-11 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-12 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-13 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-14 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-15 | 6 | 6 | 102 | 12 |
+| EPJA media N1 | matematica-epja-nm1 | EPJA-MATE-NM1-OAD-16 | 6 | 6 | 102 | 12 |
 | EPJA media N1 | pensamiento-computacional-epja-nm1y2 | EPJA-PECO-NM1y2-OAD-01 | 3 | 3 | 51 | 6 |
 | EPJA media N2 | pensamiento-computacional-epja-nm1y2 | EPJA-PECO-NM1y2-OAD-01 | 3 | 3 | 51 | 6 |
 | EPJA media N1 | pensamiento-computacional-epja-nm1y2 | EPJA-PECO-NM1y2-OAD-02 | 3 | 3 | 51 | 6 |
@@ -3026,6 +3154,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1838 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1888 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

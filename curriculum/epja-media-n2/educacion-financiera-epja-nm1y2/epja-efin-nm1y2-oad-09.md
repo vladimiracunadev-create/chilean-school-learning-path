@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18237) · [Clase 2](#cl-18238) · [Clase 3](#cl-18239)
+**Clases de este OA:** [Clase 1](#cl-18767) · [Clase 2](#cl-18768) · [Clase 3](#cl-18769)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Analizar las deudas, distinguir los agentes que participan y los elementos {#cl-18237}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Analizar las deudas, distinguir los agentes que participan y los elementos {#cl-18767}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «analizar las deudas, distinguir los agentes que participan y los elementos» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Analizar las deudas, distinguir los agentes que participan y los elementos.
@@ -251,9 +251,9 @@ Respuesta: $220.000
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-efin-nm1y2-oad-08.md#cl-18236) · [Clase siguiente →](#cl-18238)
+[← Última clase del OA anterior](epja-efin-nm1y2-oad-08.md#cl-18766) · [Clase siguiente →](#cl-18768)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Analizar las deudas, distinguir los agentes que participan y los elementos {#cl-18238}
+### Clase 2 de 3: Practicar juntos con apoyo: Analizar las deudas, distinguir los agentes que participan y los elementos {#cl-18768}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «analizar las deudas, distinguir los agentes que participan y los elementos» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Analizar las deudas, distinguir los agentes que participan y los elementos.
@@ -458,9 +458,9 @@ Respuesta: $120.000
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18237) · [Clase siguiente →](#cl-18239)
+[← Clase anterior](#cl-18767) · [Clase siguiente →](#cl-18769)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Analizar las deudas, distinguir los agentes que participan y los elementos {#cl-18239}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Analizar las deudas, distinguir los agentes que participan y los elementos {#cl-18769}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «analizar las deudas, distinguir los agentes que participan y los elementos» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Analizar las deudas, distinguir los agentes que participan y los elementos.
@@ -665,7 +665,7 @@ Respuesta: Avisar a la institución antes del vencimiento
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18238) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-10.md#cl-18240)
+[← Clase anterior](#cl-18768) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-10.md#cl-18770)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

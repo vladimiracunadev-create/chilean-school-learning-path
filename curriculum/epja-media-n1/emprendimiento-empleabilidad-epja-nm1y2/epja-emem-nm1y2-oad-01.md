@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18069) · [Clase 2](#cl-18070) · [Clase 3](#cl-18071)
+**Clases de este OA:** [Clase 1](#cl-18215) · [Clase 2](#cl-18216) · [Clase 3](#cl-18217)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Indagar sobre las características de los emprendimientos y emprendedores {#cl-18069}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Indagar sobre las características de los emprendimientos y emprendedores {#cl-18215}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «indagar sobre las características de los emprendimientos y emprendedores» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Indagar sobre las características de los emprendimientos y emprendedores.
@@ -248,9 +248,9 @@ Respuesta: Sí, es un emprendimiento
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[Clase siguiente →](#cl-18070)
+[Clase siguiente →](#cl-18216)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Indagar sobre las características de los emprendimientos y emprendedores {#cl-18070}
+### Clase 2 de 3: Practicar juntos con apoyo: Indagar sobre las características de los emprendimientos y emprendedores {#cl-18216}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «indagar sobre las características de los emprendimientos y emprendedores» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Indagar sobre las características de los emprendimientos y emprendedores.
@@ -454,9 +454,9 @@ Respuesta: Evaluación y ajuste
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18069) · [Clase siguiente →](#cl-18071)
+[← Clase anterior](#cl-18215) · [Clase siguiente →](#cl-18217)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Indagar sobre las características de los emprendimientos y emprendedores {#cl-18071}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Indagar sobre las características de los emprendimientos y emprendedores {#cl-18217}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «indagar sobre las características de los emprendimientos y emprendedores» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Indagar sobre las características de los emprendimientos y emprendedores.
@@ -660,7 +660,7 @@ Respuesta: Revisar el equipo y guardar una reserva
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18070) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-02.md#cl-18072)
+[← Clase anterior](#cl-18216) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-02.md#cl-18218)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

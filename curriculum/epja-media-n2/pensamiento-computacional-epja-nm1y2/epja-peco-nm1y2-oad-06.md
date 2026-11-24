@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18324) · [Clase 2](#cl-18325) · [Clase 3](#cl-18326)
+**Clases de este OA:** [Clase 1](#cl-18902) · [Clase 2](#cl-18903) · [Clase 3](#cl-18904)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Resolver problemas {#cl-18324}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Resolver problemas {#cl-18902}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Resolver problemas.
@@ -248,9 +248,9 @@ Respuesta: Hardware
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-peco-nm1y2-oad-05.md#cl-18323) · [Clase siguiente →](#cl-18325)
+[← Última clase del OA anterior](epja-peco-nm1y2-oad-05.md#cl-18901) · [Clase siguiente →](#cl-18903)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Resolver problemas {#cl-18325}
+### Clase 2 de 3: Practicar juntos con apoyo: Resolver problemas {#cl-18903}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Resolver problemas.
@@ -454,9 +454,9 @@ Respuesta: 10
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18324) · [Clase siguiente →](#cl-18326)
+[← Clase anterior](#cl-18902) · [Clase siguiente →](#cl-18904)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas {#cl-18326}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas {#cl-18904}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas.
@@ -660,7 +660,7 @@ Respuesta: 4 meses
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18325) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-07.md#cl-18327)
+[← Clase anterior](#cl-18903) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-07.md#cl-18905)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

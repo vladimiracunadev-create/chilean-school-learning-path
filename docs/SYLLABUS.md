@@ -6,7 +6,7 @@
 
 **1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456 · 3° medio: 495 desarrolladas · 4° medio: 466 desarrolladas**
 
-> El catálogo reúne **4.024 OA y 18.404 registros pedagógicos**: 14.248 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
+> El catálogo reúne **4.152 OA y 18.982 registros pedagógicos**: 14.826 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
 
 ---
 
@@ -282,7 +282,7 @@ Las doce denominaciones curriculares tienen desarrollo interno completo; habilid
 <!-- EPJA:syl -->
 ### Educación de Personas Jóvenes y Adultas (EPJA)
 
-11 asignaturas (Ciencias Naturales, Educación Financiera, Emprendimiento y Empleabilidad, Historia, Geografía y Ciencias Sociales, Inglés, Lenguaje y Comunicación, Matemática, Pensamiento Computacional, Responsabilidad Personal y Social) con los objetivos de los programas de estudio EPJA oficiales y 1.102 clases, de las cuales 1.102 tienen cuaderno del estudiante. Detalle en el [índice de asignaturas EPJA](formacion-epja/README.md).
+17 asignaturas (Artes Visuales, Ciencias Naturales, Educación Financiera, Emprendimiento y Empleabilidad, Filosofía, Historia, Geografía y Ciencias Sociales, Inglés, Lengua y Literatura, Lenguaje y Comunicación, Matemática, Pensamiento Computacional, Responsabilidad Personal y Social) con los objetivos de los programas de estudio EPJA oficiales y 1.680 clases, de las cuales 1.680 tienen cuaderno del estudiante. Detalle en el [índice de asignaturas EPJA](formacion-epja/README.md).
 
 <!-- /EPJA:syl -->
 <!-- TP:syl -->

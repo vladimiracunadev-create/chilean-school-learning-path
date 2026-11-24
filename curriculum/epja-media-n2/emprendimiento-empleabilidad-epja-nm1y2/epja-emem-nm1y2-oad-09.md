@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18285) · [Clase 2](#cl-18286) · [Clase 3](#cl-18287)
+**Clases de este OA:** [Clase 1](#cl-18815) · [Clase 2](#cl-18816) · [Clase 3](#cl-18817)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Investigar diversas estrategias para el diseño de prototipos de emprendimiento {#cl-18285}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Investigar diversas estrategias para el diseño de prototipos de emprendimiento {#cl-18815}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «investigar diversas estrategias para el diseño de prototipos de emprendimiento» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Investigar diversas estrategias para el diseño de prototipos de emprendimiento.
@@ -249,9 +249,9 @@ Respuesta: No como base segura: primero verificar la fuente
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-emem-nm1y2-oad-08.md#cl-18284) · [Clase siguiente →](#cl-18286)
+[← Última clase del OA anterior](epja-emem-nm1y2-oad-08.md#cl-18814) · [Clase siguiente →](#cl-18816)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Investigar diversas estrategias para el diseño de prototipos de emprendimiento {#cl-18286}
+### Clase 2 de 3: Practicar juntos con apoyo: Investigar diversas estrategias para el diseño de prototipos de emprendimiento {#cl-18816}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «investigar diversas estrategias para el diseño de prototipos de emprendimiento» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Investigar diversas estrategias para el diseño de prototipos de emprendimiento.
@@ -455,9 +455,9 @@ Respuesta: Una tarea con nombre por persona y aviso de avance
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18285) · [Clase siguiente →](#cl-18287)
+[← Clase anterior](#cl-18815) · [Clase siguiente →](#cl-18817)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Investigar diversas estrategias para el diseño de prototipos de emprendimiento {#cl-18287}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Investigar diversas estrategias para el diseño de prototipos de emprendimiento {#cl-18817}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «investigar diversas estrategias para el diseño de prototipos de emprendimiento» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Investigar diversas estrategias para el diseño de prototipos de emprendimiento.
@@ -661,7 +661,7 @@ Respuesta: No: describir una brecha no justifica repetirla
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18286) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-10.md#cl-18288)
+[← Clase anterior](#cl-18816) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-10.md#cl-18818)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

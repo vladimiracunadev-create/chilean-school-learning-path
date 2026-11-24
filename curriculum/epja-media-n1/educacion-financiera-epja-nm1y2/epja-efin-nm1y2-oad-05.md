@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18033) · [Clase 2](#cl-18034) · [Clase 3](#cl-18035)
+**Clases de este OA:** [Clase 1](#cl-18179) · [Clase 2](#cl-18180) · [Clase 3](#cl-18181)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Fundamentar la importancia de una planificación financiera que permita ahorrar {#cl-18033}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Fundamentar la importancia de una planificación financiera que permita ahorrar {#cl-18179}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «fundamentar la importancia de una planificación financiera que permita ahorrar» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Fundamentar la importancia de una planificación financiera que permita ahorrar.
@@ -248,9 +248,9 @@ Respuesta: 12 meses
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-efin-nm1y2-oad-04.md#cl-18032) · [Clase siguiente →](#cl-18034)
+[← Última clase del OA anterior](epja-efin-nm1y2-oad-04.md#cl-18178) · [Clase siguiente →](#cl-18180)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Fundamentar la importancia de una planificación financiera que permita ahorrar {#cl-18034}
+### Clase 2 de 3: Practicar juntos con apoyo: Fundamentar la importancia de una planificación financiera que permita ahorrar {#cl-18180}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «fundamentar la importancia de una planificación financiera que permita ahorrar» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Fundamentar la importancia de una planificación financiera que permita ahorrar.
@@ -454,9 +454,9 @@ Respuesta: $30.000 al mes
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18033) · [Clase siguiente →](#cl-18035)
+[← Clase anterior](#cl-18179) · [Clase siguiente →](#cl-18181)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Fundamentar la importancia de una planificación financiera que permita ahorrar {#cl-18035}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Fundamentar la importancia de una planificación financiera que permita ahorrar {#cl-18181}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «fundamentar la importancia de una planificación financiera que permita ahorrar» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Fundamentar la importancia de una planificación financiera que permita ahorrar.
@@ -660,7 +660,7 @@ Respuesta: $550.000, es decir $50.000 más de lo recibido
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18034) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-06.md#cl-18036)
+[← Clase anterior](#cl-18180) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-06.md#cl-18182)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

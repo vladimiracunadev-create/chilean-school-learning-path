@@ -324,6 +324,12 @@ Estado: planes docentes generados por el proyecto desde los programas de estudio
 - **Ciencias Naturales · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/ciencias-naturales-epja-nb2.md).
 - **Historia, Geografía y Ciencias Sociales · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/historia-geografia-ciencias-sociales-epja-nb2.md).
 - **Inglés · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/ingles-epja-nb2.md).
+- **Matemática · EPJA Media N1:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/matematica-epja-nm1.md).
+- **Lengua y Literatura · EPJA Media N1:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/lengua-literatura-epja-nm1.md).
+- **Ciencias Naturales · EPJA Media N1:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/ciencias-naturales-epja-nm1.md).
+- **Historia, Geografía y Ciencias Sociales · EPJA Media N1:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/historia-geografia-ciencias-sociales-epja-nm1.md).
+- **Artes Visuales · EPJA Media N1 y N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/artes-visuales-epja-nm1y2.md).
+- **Filosofía · EPJA Media N1 y N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/filosofia-epja-nm1y2.md).
 <!-- /EPJA:rev -->
 
 <!-- EPJA:rev2 -->

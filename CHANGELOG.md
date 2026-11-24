@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-23 · Fase C (EPJA): bloque 7: Educación Media Nivel 1
+
+- Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 18.982 registros (14.826 clases y 4.156 integradas) y 4.152 OA. Total EPJA publicado: 1.680 clases en 17 asignaturas; cuaderno del estudiante escrito en 1.680 de 1.680 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.
+- Límites: escrito y leído por IA, sin revisión profesional humana; no se contrastó con el Currículum Nacional más allá del sitio oficial; los módulos electivos de proyecto o problemas no suman clases; el bloque de clase de 90 minutos se puede partir o acortar. Detalle en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md) y en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
+
 ## 2026-11-23 · Fase C (EPJA): bloque 6: Inglés optativo de Educación Básica Nivel 2 y su diccionario
 
 - Bloque 6: **Inglés · EPJA Básica N2** con 96 clases cerradas (4 módulos de 24 horas, 16 desempeños de 6 clases), cuaderno del estudiante de nivel A1 para personas adultas escrito por IA y leído por otra instancia de IA que resolvió cada ejercicio; nuevo **diccionario de inglés EPJA** (273 palabras y 51 verbos, vocabulario adulto que no repite los 12 diccionarios escolares) en [docs/diccionarios/epja-basica-n2/ingles.md](docs/diccionarios/epja-basica-n2/ingles.md). Con cuaderno escrito y leído: 910 de 1.390 clases únicas (65 %). Límites: sin audio ni video (los «videos» del programa se trabajan como transcripción escrita), pronunciación aproximada y sin revisión de un especialista en inglés.

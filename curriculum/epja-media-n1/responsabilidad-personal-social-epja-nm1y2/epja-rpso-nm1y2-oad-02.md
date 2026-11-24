@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18168) · [Clase 2](#cl-18169) · [Clase 3](#cl-18170)
+**Clases de este OA:** [Clase 1](#cl-18650) · [Clase 2](#cl-18651) · [Clase 3](#cl-18652)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Identificar y enumeran las características del contexto sociocultural en el que se {#cl-18168}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Identificar y enumeran las características del contexto sociocultural en el que se {#cl-18650}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar y enumeran las características del contexto sociocultural en el que se» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Identificar y enumeran las características del contexto sociocultural en el que se.
@@ -248,9 +248,9 @@ Respuesta: Un servicio y una oportunidad
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-rpso-nm1y2-oad-01.md#cl-18167) · [Clase siguiente →](#cl-18169)
+[← Última clase del OA anterior](epja-rpso-nm1y2-oad-01.md#cl-18649) · [Clase siguiente →](#cl-18651)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Identificar y enumeran las características del contexto sociocultural en el que se {#cl-18169}
+### Clase 2 de 3: Practicar juntos con apoyo: Identificar y enumeran las características del contexto sociocultural en el que se {#cl-18651}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar y enumeran las características del contexto sociocultural en el que se» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Identificar y enumeran las características del contexto sociocultural en el que se.
@@ -454,9 +454,9 @@ Respuesta: Apoyo práctico
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18168) · [Clase siguiente →](#cl-18170)
+[← Clase anterior](#cl-18650) · [Clase siguiente →](#cl-18652)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Identificar y enumeran las características del contexto sociocultural en el que se {#cl-18170}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Identificar y enumeran las características del contexto sociocultural en el que se {#cl-18652}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar y enumeran las características del contexto sociocultural en el que se» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Identificar y enumeran las características del contexto sociocultural en el que se.
@@ -660,7 +660,7 @@ Respuesta: El grupo de traslados compartidos de la junta de vecinos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18169) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-03.md#cl-18171)
+[← Clase anterior](#cl-18651) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-03.md#cl-18653)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
