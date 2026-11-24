@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-24 · Datasets, skills y agentes para crear datasets de conocimiento
+
+- Se incorporan a este repositorio 4 skills generales (`dataset-conocimiento-extraer`, `dataset-verificar`, `dataset-construir-publicar`, `dataset-pack-nuevo`) y 4 agentes (`extractor-conocimiento`, `verificador-independiente`, `curador-datasets`, `auditor-derechos-datos`) en `.claude/`, copiados del repositorio [learning-path-datasets](https://github.com/vladimiracunadev-create/learning-path-datasets).
+- Nueva guía `docs/DATASETS_Y_AGENTES.md` y enlace desde el README: explica que este repositorio es la fuente, que el dataset JSONL de 1.º básico y la base vectorial viven en el repositorio de datasets, y cómo se conectan por un commit fijo.
+- Límites: el dataset publicado cubre solo 1.º básico; todo el contenido es asistido por IA sin revisión humana profesional; los datos escolares son CC BY-NC-SA 4.0; la búsqueda vectorial por defecto es léxica; las skills y los agentes se verificaron en estructura y enlaces, no en calidad de salida.
+
 ## 2026-11-23 · Fase C (EPJA): bloque 7: Educación Media Nivel 1
 
 - Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 18.982 registros (14.826 clases y 4.156 integradas) y 4.152 OA. Total EPJA publicado: 1.680 clases en 17 asignaturas; cuaderno del estudiante escrito en 1.680 de 1.680 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.

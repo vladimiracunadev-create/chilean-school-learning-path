@@ -1,8 +1,17 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-11-23",
+  "latest_date": "2026-11-24",
   "updates": [
+    {
+      "date": "2026-11-24",
+      "title": "Datasets, skills y agentes para crear datasets de conocimiento",
+      "summary": [
+        "Se incorporan a este repositorio 4 skills generales (`dataset-conocimiento-extraer`, `dataset-verificar`, `dataset-construir-publicar`, `dataset-pack-nuevo`) y 4 agentes (`extractor-conocimiento`, `verificador-independiente`, `curador-datasets`, `auditor-derechos-datos`) en `.claude/`, copiados del repositorio [learning-path-datasets](https://github.com/vladimiracunadev-create/learning-path-datasets).",
+        "Nueva guía `docs/DATASETS_Y_AGENTES.md` y enlace desde el README: explica que este repositorio es la fuente, que el dataset JSONL de 1.º básico y la base vectorial viven en el repositorio de datasets, y cómo se conectan por un commit fijo.",
+        "Límites: el dataset publicado cubre solo 1.º básico; todo el contenido es asistido por IA sin revisión humana profesional; los datos escolares son CC BY-NC-SA 4.0; la búsqueda vectorial por defecto es léxica; las skills y los agentes se verificaron en estructura y enlaces, no en calidad de salida."
+      ]
+    },
     {
       "date": "2026-11-23",
       "title": "Fase C (EPJA): bloque 7: Educación Media Nivel 1",
@@ -19,15 +28,6 @@
         "Bloque 6: **Inglés · EPJA Básica N2** con 96 clases cerradas (4 módulos de 24 horas, 16 desempeños de 6 clases), cuaderno del estudiante de nivel A1 para personas adultas escrito por IA y leído por otra instancia de IA que resolvió cada ejercicio; nuevo **diccionario de inglés EPJA** (273 palabras y 51 verbos, vocabulario adulto que no repite los 12 diccionarios escolares) en [docs/diccionarios/epja-basica-n2/ingles.md](docs/diccionarios/epja-basica-n2/ingles.md). Con cuaderno escrito y leído: 910 de 1.390 clases únicas (65 %). Límites: sin audio ni video (los «videos» del programa se trabajan como transcripción escrita), pronunciación aproximada y sin revisión de un especialista en inglés.",
         "Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 18.404 registros (14.248 clases y 4.156 integradas) y 4.024 OA. Total EPJA publicado: 1.102 clases en 11 asignaturas; cuaderno del estudiante escrito en 1.102 de 1.102 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.",
         "Límites: escrito y leído por IA, sin revisión profesional humana; no se contrastó con el Currículum Nacional más allá del sitio oficial; los módulos electivos de proyecto o problemas no suman clases; el bloque de clase de 90 minutos se puede partir o acortar. Detalle en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md) y en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
-      ]
-    },
-    {
-      "date": "2026-11-23",
-      "title": "Fase C (EPJA): Bloques 3 y 4: instrumentales y Nivel 2 basico",
-      "summary": [
-        "Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 18.308 registros (14.152 clases y 4.156 integradas) y 4.008 OA. Total EPJA publicado: 1.006 clases en 10 asignaturas; cuaderno del estudiante escrito en 1.006 de 1.006 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.",
-        "Límites: escrito y leído por IA, sin revisión profesional humana; no se contrastó con el Currículum Nacional más allá del sitio oficial; los módulos electivos de proyecto o problemas no suman clases; el bloque de clase de 90 minutos se puede partir o acortar. Detalle en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md) y en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).",
-        "Cierre de jornada: 814 clases únicas de 1.390 con programa publicado (59 %) tienen cuaderno escrito y leído; las 192 de las instrumentales se publican con los mismos cuadernos en Media Nivel 1 y Nivel 2, por eso el catálogo cuenta 1.006. Pendientes: Inglés optativo de Nivel 2 (96) y Media Nivel 1 (480); el Nivel 3 básico no tiene programa publicado. Detalle en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
       ]
     }
   ]
