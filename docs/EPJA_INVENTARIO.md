@@ -66,8 +66,10 @@ Prefijo de todas las direcciones: `https://www.curriculumnacional.cl`.
 | 4 | Educación Básica Nivel 2 (sin Inglés) | 4 | 384 |
 | 5 | Educación Básica Nivel 3 | 0 (sin programa publicado) | 0 |
 | 6 | Inglés optativo básico (solo Nivel 2) | 1 | 96 |
-| 7 | Educación Media Nivel 1 (general y diferenciada) | 6 | 480 |
-| | **Total publicado hoy** | **17** | **1.392** |
+| 7 | Educación Media Nivel 1 (general y diferenciada) | 6 | 482 |
+| | **Total publicado hoy** | **17** | **1.394** |
+
+Reconciliación del bloque 7 (24-nov-2026): las seis asignaturas de Media Nivel 1 suman 482 y no 480. Ciencias Naturales declara 24 horas para el módulo 4, pero sus cuatro actividades de desempeño suman 26 (la tercera dura 8 horas); se publica la cifra de los desempeños, como se hizo con Lenguaje de Nivel 1 básico. Por esa misma regla, las clases efectivamente publicadas son 1.392 (Lenguaje N1 básico publica 118 y no 120, Ciencias Naturales de media 98 y no 96). La extracción automática de los programas dejó frases desordenadas u omitidas y horas o OA faltantes en Artes Visuales, Filosofía, Matemática, Lengua, Ciencias e Historia; se corrigieron contra la página de cada actividad de desempeño (herramienta `fix_fuente_nm1.py`); dos páginas de Filosofía y los conocimientos esenciales de Artes Visuales se completaron a mano desde el texto oficial. Artes Visuales y Filosofía se publican en Nivel 1 y Nivel 2 con el mismo código y los mismos cuadernos.
 
 Reconciliación del bloque 6 (24-nov-2026): el programa de Inglés de Nivel 2 declara 4 módulos de 24 horas y 16 desempeños de 6 horas cada uno, es decir 96 clases; coincide con la cifra del inventario y no hubo que corregirla. Los programas oficiales mencionan videos y audio; el proyecto no incluye audio ni video, así que esas actividades se trabajan con guion o transcripción escrita.
 
