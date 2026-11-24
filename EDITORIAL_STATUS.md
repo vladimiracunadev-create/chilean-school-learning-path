@@ -315,6 +315,28 @@ Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación
 Los objetivos son las actividades de desempeño de los programas de estudio EPJA oficiales (4 módulos obligatorios con 4 actividades cada uno); las clases de cada objetivo son las horas pedagógicas que el programa le asigna. Las clases con cuaderno del estudiante son 1006 de 1006; el resto figura como pendiente en [docs/COBERTURA_ESTUDIANTE.md](docs/COBERTURA_ESTUDIANTE.md). Los módulos electivos de proyecto o de problemas reutilizan los mismos conocimientos y no suman clases. Tono de persona adulta o joven, sin infantilizar. Escrito por IA, revisión humana pendiente. Índice en [docs/formacion-epja/README.md](docs/formacion-epja/README.md) e [inventario](docs/EPJA_INVENTARIO.md).
 
 <!-- /EPJA:estado -->
+
+<!-- EPJA:cierre -->
+### Cobertura de la Fase C al cierre de la jornada (2026-11-24)
+
+Se cuentan por separado las clases únicas y los registros del catálogo: las cuatro instrumentales (192 clases únicas) se publican con los mismos cuadernos en Media Nivel 1 y Nivel 2, por eso el catálogo registra 1.006 y no 814.
+
+| Bloque | Contenido | Clases únicas | Con cuaderno, escritas y leídas | Estado |
+|---|---|---:|---:|---|
+| 1 | Arquitectura EPJA | — | — | en main |
+| 2 | Básica Nivel 1: Lenguaje y Matemática | 238 | 238 | en main |
+| 3 | Instrumentales de media (4 asignaturas) | 192 | 192 | en main |
+| 4 | Básica Nivel 2 sin Inglés (4 asignaturas) | 384 | 384 | en main |
+| 5 | Básica Nivel 3 | 0 | — | sin programa de estudio publicado |
+| 6 | Inglés optativo de Nivel 2 y su diccionario | 96 | 0 | pendiente |
+| 7 | Media Nivel 1 (6 asignaturas) | 480 | 0 | pendiente |
+| | **Total con programa publicado** | **1.390** | **814** | **59 %** |
+
+Pendiente declarado: los bloques 6 y 7 (576 clases) no se escribieron en esta jornada; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](EPJA_INVENTARIO.md)).
+
+Límites: escrito por IA y leído por otra instancia de IA, sin revisión humana profesional ni contraste con el Currículum Nacional más allá de lo leído en el sitio oficial; sin audio, video, calculadora real, experimentos ni materiales físicos; los textos de salud, dinero y trámites son lectura de ejemplos con datos inventados, sin consejo clínico, legal ni financiero; la hora pedagógica del programa no coincide con el bloque de 90 minutos del proyecto.
+<!-- /EPJA:cierre -->
+
 ## Cobertura publicada
 
 - 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC, especialidades técnico-profesionales de 3° y 4° medio y asignaturas de EPJA.

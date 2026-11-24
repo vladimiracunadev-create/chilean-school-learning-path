@@ -324,3 +324,15 @@ Estado: planes docentes generados por el proyecto desde los programas de estudio
 - **Ciencias Naturales · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/ciencias-naturales-epja-nb2.md).
 - **Historia, Geografía y Ciencias Sociales · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/historia-geografia-ciencias-sociales-epja-nb2.md).
 <!-- /EPJA:rev -->
+
+<!-- EPJA:rev2 -->
+### Puntos concretos para especialista (informes de autores y lectores de la Fase C)
+
+- **Lenguaje N1:** fichas de hierbas (manzanilla, menta, cedrón) con nota de consultar a un profesional de la salud; silabeo, hiato y diptongo («poema», «cañería», «puntualidad», «biblioteca»); hechos de reciclaje de vidrio y compost escritos de forma genérica; textos de banco y dinero con advertencia genérica. El código escrito de base no tiene un programa sistemático de correspondencia grafema-fonema.
+- **Matemática N1:** progresión del valor de posición y de las lecturas «cien» y «ciento»; piso de un edificio tratado como ordinal (OAD-03 clase 2); comparación de cuota y contado con cifras inventadas (OAD-08 clase 4); parámetros de ejemplo de pintura, baldosas y postes (OAD-12).
+- **Instrumentales de media:** educación financiera (funciones del dinero, medios de pago, indicadores, costo total del crédito y protección al consumidor) solo como definiciones con datos inventados; el tema de género y finanzas debe revisarse para que no caiga en estereotipos; Pensamiento Computacional sin computador, con Python solo para leer y rastrear a mano; Responsabilidad Personal y Social con casos ficticios y derivación general a redes de apoyo, sin números reales.
+- **Nivel 2 básico:** Ciencias Naturales e Historia sin experimentos ni fuentes reales, solo descripciones. Dato para el Bloque 7 pendiente: en el programa oficial de Ciencias Naturales de Media Nivel 1 el módulo 4 suma 26 horas de desempeños frente a las 24 del módulo.
+- **Fuente EFIN:** en una actividad del programa de Educación Financiera el OA 1 trae un texto que parece copiado de otra asignatura; se usó el texto oficial del OA de EFIN.
+- Nada de lo anterior fue revisado por una persona profesional ni contrastado con el Currículum Nacional más allá del sitio oficial.
+<!-- /EPJA:rev2 -->
+

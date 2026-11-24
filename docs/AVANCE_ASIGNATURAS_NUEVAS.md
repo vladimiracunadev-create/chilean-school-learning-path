@@ -162,3 +162,25 @@ Fuente: [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum
 | Responsabilidad Personal y Social · EPJA Media N1 y N2 | 16 | 96 | 96 | 0 | 100 % |
 
 <!-- /EPJA:avance -->
+
+<!-- EPJA:cierre -->
+### Cobertura de la Fase C al cierre de la jornada (2026-11-24)
+
+Se cuentan por separado las clases únicas y los registros del catálogo: las cuatro instrumentales (192 clases únicas) se publican con los mismos cuadernos en Media Nivel 1 y Nivel 2, por eso el catálogo registra 1.006 y no 814.
+
+| Bloque | Contenido | Clases únicas | Con cuaderno, escritas y leídas | Estado |
+|---|---|---:|---:|---|
+| 1 | Arquitectura EPJA | — | — | en main |
+| 2 | Básica Nivel 1: Lenguaje y Matemática | 238 | 238 | en main |
+| 3 | Instrumentales de media (4 asignaturas) | 192 | 192 | en main |
+| 4 | Básica Nivel 2 sin Inglés (4 asignaturas) | 384 | 384 | en main |
+| 5 | Básica Nivel 3 | 0 | — | sin programa de estudio publicado |
+| 6 | Inglés optativo de Nivel 2 y su diccionario | 96 | 0 | pendiente |
+| 7 | Media Nivel 1 (6 asignaturas) | 480 | 0 | pendiente |
+| | **Total con programa publicado** | **1.390** | **814** | **59 %** |
+
+Pendiente declarado: los bloques 6 y 7 (576 clases) no se escribieron en esta jornada; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](EPJA_INVENTARIO.md)).
+
+Límites: escrito por IA y leído por otra instancia de IA, sin revisión humana profesional ni contraste con el Currículum Nacional más allá de lo leído en el sitio oficial; sin audio, video, calculadora real, experimentos ni materiales físicos; los textos de salud, dinero y trámites son lectura de ejemplos con datos inventados, sin consejo clínico, legal ni financiero; la hora pedagógica del programa no coincide con el bloque de 90 minutos del proyecto.
+<!-- /EPJA:cierre -->
+
