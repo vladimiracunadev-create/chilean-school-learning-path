@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17745) · [Clase 2](#cl-17746) · [Clase 3](#cl-17747) · [Clase 4](#cl-17748) · [Clase 5](#cl-17749) · [Clase 6](#cl-17750)
+**Clases de este OA:** [Clase 1](#cl-17841) · [Clase 2](#cl-17842) · [Clase 3](#cl-17843) · [Clase 4](#cl-17844) · [Clase 5](#cl-17845) · [Clase 6](#cl-17846)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Justificar sus preferencias literarias {#cl-17745}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Justificar sus preferencias literarias {#cl-17841}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «justificar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Justificar sus preferencias literarias.
@@ -249,9 +249,9 @@ Respuesta: No justifica: falta razón y dato
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-02.md#cl-17744) · [Clase siguiente →](#cl-17746)
+[← Última clase del OA anterior](epja-leco-nb2-oad-02.md#cl-17840) · [Clase siguiente →](#cl-17842)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Justificar sus preferencias literarias {#cl-17746}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Justificar sus preferencias literarias {#cl-17842}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «justificar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Justificar sus preferencias literarias.
@@ -455,9 +455,9 @@ Respuesta: Sinónimo: agotado; antónimo: descansado
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17745) · [Clase siguiente →](#cl-17747)
+[← Clase anterior](#cl-17841) · [Clase siguiente →](#cl-17843)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Justificar sus preferencias literarias {#cl-17747}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Justificar sus preferencias literarias {#cl-17843}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «justificar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Justificar sus preferencias literarias.
@@ -663,9 +663,9 @@ Respuesta: La cita no justifica la razón
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17746) · [Clase siguiente →](#cl-17748)
+[← Clase anterior](#cl-17842) · [Clase siguiente →](#cl-17844)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Justificar sus preferencias literarias {#cl-17748}
+### Clase 4 de 6: Practicar juntos con apoyo: Justificar sus preferencias literarias {#cl-17844}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «justificar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Justificar sus preferencias literarias.
@@ -869,9 +869,9 @@ Respuesta: Salió es el pretérito
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17747) · [Clase siguiente →](#cl-17749)
+[← Clase anterior](#cl-17843) · [Clase siguiente →](#cl-17845)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Justificar sus preferencias literarias {#cl-17749}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Justificar sus preferencias literarias {#cl-17845}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «justificar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Justificar sus preferencias literarias.
@@ -1075,9 +1075,9 @@ Respuesta: por qué (duda) y porque (razón)
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17748) · [Clase siguiente →](#cl-17750)
+[← Clase anterior](#cl-17844) · [Clase siguiente →](#cl-17846)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Justificar sus preferencias literarias {#cl-17750}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Justificar sus preferencias literarias {#cl-17846}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «justificar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Justificar sus preferencias literarias.
@@ -1281,7 +1281,7 @@ Respuesta: Falta un dato del texto
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17749) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-04.md#cl-17751)
+[← Clase anterior](#cl-17845) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-04.md#cl-17847)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

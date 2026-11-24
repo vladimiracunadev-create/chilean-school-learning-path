@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18201) · [Clase 2](#cl-18202) · [Clase 3](#cl-18203)
+**Clases de este OA:** [Clase 1](#cl-18297) · [Clase 2](#cl-18298) · [Clase 3](#cl-18299)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto {#cl-18201}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto {#cl-18297}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «reconocer cómo sus características personales contribuyen al desarrollo de su proyecto» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto.
@@ -249,9 +249,9 @@ Respuesta: Un proyecto de diseño o confección de ropa
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-emem-nm1y2-oad-12.md#cl-18200) · [Clase siguiente →](#cl-18202)
+[← Última clase del OA anterior](epja-emem-nm1y2-oad-12.md#cl-18296) · [Clase siguiente →](#cl-18298)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto {#cl-18202}
+### Clase 2 de 3: Practicar juntos con apoyo: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto {#cl-18298}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «reconocer cómo sus características personales contribuyen al desarrollo de su proyecto» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto.
@@ -455,9 +455,9 @@ Respuesta: Practicar con pocas personas y aumentar de a poco
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18201) · [Clase siguiente →](#cl-18203)
+[← Clase anterior](#cl-18297) · [Clase siguiente →](#cl-18299)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto {#cl-18203}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto {#cl-18299}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «reconocer cómo sus características personales contribuyen al desarrollo de su proyecto» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Reconocer cómo sus características personales contribuyen al desarrollo de su proyecto.
@@ -661,7 +661,7 @@ Respuesta: «¿Qué dato lo respalda? Aprender sirve a cualquier edad»
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18202) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-14.md#cl-18204)
+[← Clase anterior](#cl-18298) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-14.md#cl-18300)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -4,13 +4,13 @@ Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.jso
 
 | Estado | Clases | Significado |
 |---|---:|---|
-| Inventariada | 18.308 | OA, nivel, asignatura, eje y fuente oficial identificados |
-| Secuenciada | 18.308 | posición, fase y duración propuestas dentro del OA |
+| Inventariada | 18.404 | OA, nivel, asignatura, eje y fuente oficial identificados |
+| Secuenciada | 18.404 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores |
-| Desarrollada | 14.152 | contenido disciplinar específico validado contra el contrato estructural |
+| Desarrollada | 14.248 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
-| Publicada | 18.308 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
+| Publicada | 18.404 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
@@ -304,22 +304,23 @@ Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación
 | EPJA | Matemática · EPJA Básica N1 | 16 | 120 | 120 |
 | EPJA | Ciencias Naturales · EPJA Básica N2 | 16 | 96 | 96 |
 | EPJA | Historia, Geografía y Ciencias Sociales · EPJA Básica N2 | 16 | 96 | 96 |
+| EPJA | Inglés · EPJA Básica N2 | 16 | 96 | 96 |
 | EPJA | Lenguaje y Comunicación · EPJA Básica N2 | 16 | 96 | 96 |
 | EPJA | Matemática · EPJA Básica N2 | 16 | 96 | 96 |
 | EPJA | Educación Financiera · EPJA Media N1 y N2 | 16 | 96 | 96 |
 | EPJA | Emprendimiento y Empleabilidad · EPJA Media N1 y N2 | 16 | 96 | 96 |
 | EPJA | Pensamiento Computacional · EPJA Media N1 y N2 | 16 | 96 | 96 |
 | EPJA | Responsabilidad Personal y Social · EPJA Media N1 y N2 | 16 | 96 | 96 |
-| **Total** | **10 asignaturas** | **160** | **1006** | **1006** |
+| **Total** | **11 asignaturas** | **176** | **1102** | **1102** |
 
-Los objetivos son las actividades de desempeño de los programas de estudio EPJA oficiales (4 módulos obligatorios con 4 actividades cada uno); las clases de cada objetivo son las horas pedagógicas que el programa le asigna. Las clases con cuaderno del estudiante son 1006 de 1006; el resto figura como pendiente en [docs/COBERTURA_ESTUDIANTE.md](docs/COBERTURA_ESTUDIANTE.md). Los módulos electivos de proyecto o de problemas reutilizan los mismos conocimientos y no suman clases. Tono de persona adulta o joven, sin infantilizar. Escrito por IA, revisión humana pendiente. Índice en [docs/formacion-epja/README.md](docs/formacion-epja/README.md) e [inventario](docs/EPJA_INVENTARIO.md).
+Los objetivos son las actividades de desempeño de los programas de estudio EPJA oficiales (4 módulos obligatorios con 4 actividades cada uno); las clases de cada objetivo son las horas pedagógicas que el programa le asigna. Las clases con cuaderno del estudiante son 1102 de 1102; el resto figura como pendiente en [docs/COBERTURA_ESTUDIANTE.md](docs/COBERTURA_ESTUDIANTE.md). Los módulos electivos de proyecto o de problemas reutilizan los mismos conocimientos y no suman clases. Tono de persona adulta o joven, sin infantilizar. Escrito por IA, revisión humana pendiente. Índice en [docs/formacion-epja/README.md](docs/formacion-epja/README.md) e [inventario](docs/EPJA_INVENTARIO.md).
 
 <!-- /EPJA:estado -->
 
 <!-- EPJA:cierre -->
 ### Cobertura de la Fase C al cierre de la jornada (2026-11-24)
 
-Se cuentan por separado las clases únicas y los registros del catálogo: las cuatro instrumentales (192 clases únicas) se publican con los mismos cuadernos en Media Nivel 1 y Nivel 2, por eso el catálogo registra 1.006 y no 814.
+Se cuentan por separado las clases únicas y los registros del catálogo: las cuatro instrumentales (192 clases únicas) se publican con los mismos cuadernos en Media Nivel 1 y Nivel 2, por eso el catálogo registra 1.102 registros y no 910.
 
 | Bloque | Contenido | Clases únicas | Con cuaderno, escritas y leídas | Estado |
 |---|---|---:|---:|---|
@@ -328,11 +329,11 @@ Se cuentan por separado las clases únicas y los registros del catálogo: las cu
 | 3 | Instrumentales de media (4 asignaturas) | 192 | 192 | en main |
 | 4 | Básica Nivel 2 sin Inglés (4 asignaturas) | 384 | 384 | en main |
 | 5 | Básica Nivel 3 | 0 | — | sin programa de estudio publicado |
-| 6 | Inglés optativo de Nivel 2 y su diccionario | 96 | 0 | pendiente |
+| 6 | Inglés optativo de Nivel 2 y su diccionario | 96 | 96 | en main |
 | 7 | Media Nivel 1 (6 asignaturas) | 480 | 0 | pendiente |
-| | **Total con programa publicado** | **1.390** | **814** | **59 %** |
+| | **Total con programa publicado** | **1.390** | **910** | **65 %** |
 
-Pendiente declarado: los bloques 6 y 7 (576 clases) no se escribieron en esta jornada; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](docs/EPJA_INVENTARIO.md)).
+Pendiente declarado: el bloque 7 (480 clases) aún no está publicado; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](docs/EPJA_INVENTARIO.md)).
 
 Límites: escrito por IA y leído por otra instancia de IA, sin revisión humana profesional ni contraste con el Currículum Nacional más allá de lo leído en el sitio oficial; sin audio, video, calculadora real, experimentos ni materiales físicos; los textos de salud, dinero y trámites son lectura de ejemplos con datos inventados, sin consejo clínico, legal ni financiero; la hora pedagógica del programa no coincide con el bloque de 90 minutos del proyecto.
 <!-- /EPJA:cierre -->
@@ -340,10 +341,10 @@ Límites: escrito por IA y leído por otra instancia de IA, sin revisión humana
 ## Cobertura publicada
 
 - 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC, especialidades técnico-profesionales de 3° y 4° medio y asignaturas de EPJA.
-- 125 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC, 53 de formación técnico-profesional contando las menciones como denominaciones propias, y 10 de EPJA).
-- 4.008 Objetivos de Aprendizaje.
+- 126 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC, 53 de formación técnico-profesional contando las menciones como denominaciones propias, y 11 de EPJA).
+- 4.024 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 4.008 páginas HTML de OA con anclas estables para 18.308 registros pedagógicos: 14.152 clases y 4.156 experiencias integradas.
+- 4.024 páginas HTML de OA con anclas estables para 18.404 registros pedagógicos: 14.248 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

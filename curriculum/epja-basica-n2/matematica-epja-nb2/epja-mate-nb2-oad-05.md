@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17853) · [Clase 2](#cl-17854) · [Clase 3](#cl-17855) · [Clase 4](#cl-17856) · [Clase 5](#cl-17857) · [Clase 6](#cl-17858)
+**Clases de este OA:** [Clase 1](#cl-17949) · [Clase 2](#cl-17950) · [Clase 3](#cl-17951) · [Clase 4](#cl-17952) · [Clase 5](#cl-17953) · [Clase 6](#cl-17954)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17853}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17949}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar definiciones y reglas asociadas a los patrones y sucesiones» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Explicar definiciones y reglas asociadas a los patrones y sucesiones.
@@ -248,9 +248,9 @@ Respuesta: Regla: restar 15. Marcará 75 litros
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-04.md#cl-17852) · [Clase siguiente →](#cl-17854)
+[← Última clase del OA anterior](epja-mate-nb2-oad-04.md#cl-17948) · [Clase siguiente →](#cl-17950)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17854}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17950}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar definiciones y reglas asociadas a los patrones y sucesiones» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Explicar definiciones y reglas asociadas a los patrones y sucesiones.
@@ -454,9 +454,9 @@ Respuesta: Es decreciente y se resta 7 en cada paso
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17853) · [Clase siguiente →](#cl-17855)
+[← Clase anterior](#cl-17949) · [Clase siguiente →](#cl-17951)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17855}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17951}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar definiciones y reglas asociadas a los patrones y sucesiones» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Explicar definiciones y reglas asociadas a los patrones y sucesiones.
@@ -660,9 +660,9 @@ Respuesta: 28
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17854) · [Clase siguiente →](#cl-17856)
+[← Clase anterior](#cl-17950) · [Clase siguiente →](#cl-17952)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17856}
+### Clase 4 de 6: Practicar juntos con apoyo: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17952}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar definiciones y reglas asociadas a los patrones y sucesiones» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Explicar definiciones y reglas asociadas a los patrones y sucesiones.
@@ -866,9 +866,9 @@ Respuesta: Parte en 9 y se suma 4 cada vez; 9 + 4 = 13 y 13 + 4 = 17
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17855) · [Clase siguiente →](#cl-17857)
+[← Clase anterior](#cl-17951) · [Clase siguiente →](#cl-17953)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17857}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17953}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar definiciones y reglas asociadas a los patrones y sucesiones» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Explicar definiciones y reglas asociadas a los patrones y sucesiones.
@@ -1072,9 +1072,9 @@ Respuesta: El día 40
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17856) · [Clase siguiente →](#cl-17858)
+[← Clase anterior](#cl-17952) · [Clase siguiente →](#cl-17954)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17858}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar definiciones y reglas asociadas a los patrones y sucesiones {#cl-17954}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar definiciones y reglas asociadas a los patrones y sucesiones» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Explicar definiciones y reglas asociadas a los patrones y sucesiones.
@@ -1278,7 +1278,7 @@ Respuesta: Parte en 100 y se resta 7 cada vez; es decreciente
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17857) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-06.md#cl-17859)
+[← Clase anterior](#cl-17953) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-06.md#cl-17955)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17763) · [Clase 2](#cl-17764) · [Clase 3](#cl-17765) · [Clase 4](#cl-17766) · [Clase 5](#cl-17767) · [Clase 6](#cl-17768)
+**Clases de este OA:** [Clase 1](#cl-17859) · [Clase 2](#cl-17860) · [Clase 3](#cl-17861) · [Clase 4](#cl-17862) · [Clase 5](#cl-17863) · [Clase 6](#cl-17864)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17763}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17859}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «distinguir hechos y opiniones en textos de los medios de comunicación» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Distinguir hechos y opiniones en textos de los medios de comunicación.
@@ -248,9 +248,9 @@ Respuesta: Es una opinión.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-05.md#cl-17762) · [Clase siguiente →](#cl-17764)
+[← Última clase del OA anterior](epja-leco-nb2-oad-05.md#cl-17858) · [Clase siguiente →](#cl-17860)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17764}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17860}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «distinguir hechos y opiniones en textos de los medios de comunicación» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Distinguir hechos y opiniones en textos de los medios de comunicación.
@@ -454,9 +454,9 @@ Respuesta: Es un hecho.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17763) · [Clase siguiente →](#cl-17765)
+[← Clase anterior](#cl-17859) · [Clase siguiente →](#cl-17861)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17765}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17861}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «distinguir hechos y opiniones en textos de los medios de comunicación» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Distinguir hechos y opiniones en textos de los medios de comunicación.
@@ -662,9 +662,9 @@ Respuesta: Que lo dijo es hecho; que la cancha está en mal estado es opinión s
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17764) · [Clase siguiente →](#cl-17766)
+[← Clase anterior](#cl-17860) · [Clase siguiente →](#cl-17862)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17766}
+### Clase 4 de 6: Practicar juntos con apoyo: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17862}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «distinguir hechos y opiniones en textos de los medios de comunicación» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Distinguir hechos y opiniones en textos de los medios de comunicación.
@@ -870,9 +870,9 @@ Respuesta: La carpeta amarilla es información accesoria.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17765) · [Clase siguiente →](#cl-17767)
+[← Clase anterior](#cl-17861) · [Clase siguiente →](#cl-17863)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17767}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17863}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «distinguir hechos y opiniones en textos de los medios de comunicación» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Distinguir hechos y opiniones en textos de los medios de comunicación.
@@ -1078,9 +1078,9 @@ Respuesta: Son tres señales de alerta: sin autor, urgencia y presión.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17766) · [Clase siguiente →](#cl-17768)
+[← Clase anterior](#cl-17862) · [Clase siguiente →](#cl-17864)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17768}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Distinguir hechos y opiniones en textos de los medios de comunicación {#cl-17864}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «distinguir hechos y opiniones en textos de los medios de comunicación» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Distinguir hechos y opiniones en textos de los medios de comunicación.
@@ -1286,7 +1286,7 @@ Respuesta: Es una opinión sin respaldo que descalifica.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17767) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-07.md#cl-17769)
+[← Clase anterior](#cl-17863) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-07.md#cl-17865)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

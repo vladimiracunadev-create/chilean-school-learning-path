@@ -1,6 +1,6 @@
 # Cobertura completa y navegable
 
-El catálogo cubre 12 niveles, 4.008 Objetivos de Aprendizaje (OA) y 18.308 registros pedagógicos: 14.152 clases disciplinares y 4.156 experiencias de integración transversal. Estas experiencias no son clases independientes. El [índice curricular Markdown](../CURRICULUM.md) permite abrir cada OA sin mezclar la navegación del sitio HTML.
+El catálogo cubre 12 niveles, 4.024 Objetivos de Aprendizaje (OA) y 18.404 registros pedagógicos: 14.248 clases disciplinares y 4.156 experiencias de integración transversal. Estas experiencias no son clases independientes. El [índice curricular Markdown](../CURRICULUM.md) permite abrir cada OA sin mezclar la navegación del sitio HTML.
 
 | Nivel | OA | Propuestas | Desarrolladas | Integradas | Borradores |
 |---|---:|---:|---:|---:|---:|
@@ -24,11 +24,11 @@ El catálogo cubre 12 niveles, 4.008 Objetivos de Aprendizaje (OA) y 18.308 regi
 <!-- /TP:cob -->
 <!-- EPJA:cob -->
 | EPJA · Educación Básica Nivel 1 | 32 | 238 | 238 | 0 | 0 |
-| EPJA · Educación Básica Nivel 2 | 64 | 384 | 384 | 0 | 0 |
+| EPJA · Educación Básica Nivel 2 | 80 | 480 | 480 | 0 | 0 |
 | EPJA · Educación Media Nivel 1 | 64 | 192 | 192 | 0 | 0 |
 | EPJA · Educación Media Nivel 2 | 64 | 192 | 192 | 0 | 0 |
 <!-- /EPJA:cob -->
-| **Total** | **4.008** | **18.308** | **14.152** | **4.156** | **0** |
+| **Total** | **4.024** | **18.404** | **14.248** | **4.156** | **0** |
 
 “Secuenciada” significa que la clase tiene posición y dosificación. “Desarrollada” exige contenido pedagógico completo. “Revisada” exige evidencia humana registrada; actualmente hay 0 clases revisadas. Estas categorías no son equivalentes.
 

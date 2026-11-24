@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17739) · [Clase 2](#cl-17740) · [Clase 3](#cl-17741) · [Clase 4](#cl-17742) · [Clase 5](#cl-17743) · [Clase 6](#cl-17744)
+**Clases de este OA:** [Clase 1](#cl-17835) · [Clase 2](#cl-17836) · [Clase 3](#cl-17837) · [Clase 4](#cl-17838) · [Clase 5](#cl-17839) · [Clase 6](#cl-17840)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comparar textos literarios {#cl-17739}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comparar textos literarios {#cl-17835}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar textos literarios» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Comparar textos literarios.
@@ -248,9 +248,9 @@ Respuesta: P expresa sensaciones; Q cuenta hechos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-01.md#cl-17738) · [Clase siguiente →](#cl-17740)
+[← Última clase del OA anterior](epja-leco-nb2-oad-01.md#cl-17834) · [Clase siguiente →](#cl-17836)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Comparar textos literarios {#cl-17740}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Comparar textos literarios {#cl-17836}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar textos literarios» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Comparar textos literarios.
@@ -456,9 +456,9 @@ Respuesta: «(sin aire)» es una acotación
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17739) · [Clase siguiente →](#cl-17741)
+[← Clase anterior](#cl-17835) · [Clase siguiente →](#cl-17837)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Comparar textos literarios {#cl-17741}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Comparar textos literarios {#cl-17837}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar textos literarios» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Comparar textos literarios.
@@ -663,9 +663,9 @@ Respuesta: P expresa la calma de un domingo y Q cuenta lo que hacen dos vecinos 
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17740) · [Clase siguiente →](#cl-17742)
+[← Clase anterior](#cl-17836) · [Clase siguiente →](#cl-17838)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Comparar textos literarios {#cl-17742}
+### Clase 4 de 6: Practicar juntos con apoyo: Comparar textos literarios {#cl-17838}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar textos literarios» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Comparar textos literarios.
@@ -870,9 +870,9 @@ Respuesta: El cuento lo cuenta; la escena lo indica
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17741) · [Clase siguiente →](#cl-17743)
+[← Clase anterior](#cl-17837) · [Clase siguiente →](#cl-17839)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comparar textos literarios {#cl-17743}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comparar textos literarios {#cl-17839}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar textos literarios» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Comparar textos literarios.
@@ -1076,9 +1076,9 @@ Respuesta: Se representa la escena de 3 minutos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17742) · [Clase siguiente →](#cl-17744)
+[← Clase anterior](#cl-17838) · [Clase siguiente →](#cl-17840)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comparar textos literarios {#cl-17744}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comparar textos literarios {#cl-17840}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar textos literarios» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Comparar textos literarios.
@@ -1282,7 +1282,7 @@ Respuesta: Notas breves del Texto 2
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17743) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-03.md#cl-17745)
+[← Clase anterior](#cl-17839) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-03.md#cl-17841)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

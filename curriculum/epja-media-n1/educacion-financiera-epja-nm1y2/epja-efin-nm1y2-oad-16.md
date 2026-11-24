@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17970) · [Clase 2](#cl-17971) · [Clase 3](#cl-17972)
+**Clases de este OA:** [Clase 1](#cl-18066) · [Clase 2](#cl-18067) · [Clase 3](#cl-18068)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones {#cl-17970}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones {#cl-18066}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones.
@@ -249,9 +249,9 @@ Respuesta: La boleta
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-efin-nm1y2-oad-15.md#cl-17969) · [Clase siguiente →](#cl-17971)
+[← Última clase del OA anterior](epja-efin-nm1y2-oad-15.md#cl-18065) · [Clase siguiente →](#cl-18067)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones {#cl-17971}
+### Clase 2 de 3: Practicar juntos con apoyo: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones {#cl-18067}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones.
@@ -456,9 +456,9 @@ Respuesta: Reclamando por escrito y guardando la respuesta
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17970) · [Clase siguiente →](#cl-17972)
+[← Clase anterior](#cl-18066) · [Clase siguiente →](#cl-18068)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones {#cl-17972}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones {#cl-18068}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Fundamentar la importancia de mecanismos de protección al consumidor en sus interacciones.
@@ -662,7 +662,7 @@ Respuesta: No entrego la clave, corto y llamo al número oficial
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17971)
+[← Clase anterior](#cl-18067)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

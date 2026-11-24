@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18192) · [Clase 2](#cl-18193) · [Clase 3](#cl-18194)
+**Clases de este OA:** [Clase 1](#cl-18288) · [Clase 2](#cl-18289) · [Clase 3](#cl-18290)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Construir un prototipo de emprendimiento {#cl-18192}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Construir un prototipo de emprendimiento {#cl-18288}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «construir un prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Construir un prototipo de emprendimiento.
@@ -248,9 +248,9 @@ Respuesta: Ana el dibujo; Luis la lista de gastos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-emem-nm1y2-oad-09.md#cl-18191) · [Clase siguiente →](#cl-18193)
+[← Última clase del OA anterior](epja-emem-nm1y2-oad-09.md#cl-18287) · [Clase siguiente →](#cl-18289)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Construir un prototipo de emprendimiento {#cl-18193}
+### Clase 2 de 3: Practicar juntos con apoyo: Construir un prototipo de emprendimiento {#cl-18289}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «construir un prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Construir un prototipo de emprendimiento.
@@ -454,9 +454,9 @@ Respuesta: 10 minutos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18192) · [Clase siguiente →](#cl-18194)
+[← Clase anterior](#cl-18288) · [Clase siguiente →](#cl-18290)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Construir un prototipo de emprendimiento {#cl-18194}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Construir un prototipo de emprendimiento {#cl-18290}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «construir un prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Construir un prototipo de emprendimiento.
@@ -660,7 +660,7 @@ Respuesta: Primero armar la mesa
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18193) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-11.md#cl-18195)
+[← Clase anterior](#cl-18289) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-11.md#cl-18291)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

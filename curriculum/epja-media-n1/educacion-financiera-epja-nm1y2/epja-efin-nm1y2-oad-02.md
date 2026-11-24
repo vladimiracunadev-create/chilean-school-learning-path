@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17928) · [Clase 2](#cl-17929) · [Clase 3](#cl-17930)
+**Clases de este OA:** [Clase 1](#cl-18024) · [Clase 2](#cl-18025) · [Clase 3](#cl-18026)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener {#cl-17928}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener {#cl-18024}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener.
@@ -248,9 +248,9 @@ Respuesta: Depende del uso: la clasificación mira la situación
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-efin-nm1y2-oad-01.md#cl-17927) · [Clase siguiente →](#cl-17929)
+[← Última clase del OA anterior](epja-efin-nm1y2-oad-01.md#cl-18023) · [Clase siguiente →](#cl-18025)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener {#cl-17929}
+### Clase 2 de 3: Practicar juntos con apoyo: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener {#cl-18025}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener.
@@ -454,9 +454,9 @@ Respuesta: Ambas, porque cada una recibe algo que valora más que lo que entrega
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17928) · [Clase siguiente →](#cl-17930)
+[← Clase anterior](#cl-18024) · [Clase siguiente →](#cl-18026)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener {#cl-17930}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener {#cl-18026}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Clasificar y jerarquizan necesidades para identificar beneficios que se pueden obtener.
@@ -660,7 +660,7 @@ Respuesta: $30.000, solo como ejercicio para ver que ese trabajo tiene valor
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17929) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-03.md#cl-17931)
+[← Clase anterior](#cl-18025) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-03.md#cl-18027)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17829) · [Clase 2](#cl-17830) · [Clase 3](#cl-17831) · [Clase 4](#cl-17832) · [Clase 5](#cl-17833) · [Clase 6](#cl-17834)
+**Clases de este OA:** [Clase 1](#cl-17925) · [Clase 2](#cl-17926) · [Clase 3](#cl-17927) · [Clase 4](#cl-17928) · [Clase 5](#cl-17929) · [Clase 6](#cl-17930)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17829}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17925}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar fracciones como decimales, identificando la parte del todo en situaciones» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Expresar fracciones como decimales, identificando la parte del todo en situaciones.
@@ -248,9 +248,9 @@ Respuesta: 5/12
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[Clase siguiente →](#cl-17830)
+[Clase siguiente →](#cl-17926)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17830}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17926}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar fracciones como decimales, identificando la parte del todo en situaciones» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Expresar fracciones como decimales, identificando la parte del todo en situaciones.
@@ -454,9 +454,9 @@ Respuesta: 0,04
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17829) · [Clase siguiente →](#cl-17831)
+[← Clase anterior](#cl-17925) · [Clase siguiente →](#cl-17927)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17831}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17927}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar fracciones como decimales, identificando la parte del todo en situaciones» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Expresar fracciones como decimales, identificando la parte del todo en situaciones.
@@ -660,9 +660,9 @@ Respuesta: 0,36
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17830) · [Clase siguiente →](#cl-17832)
+[← Clase anterior](#cl-17926) · [Clase siguiente →](#cl-17928)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17832}
+### Clase 4 de 6: Practicar juntos con apoyo: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17928}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar fracciones como decimales, identificando la parte del todo en situaciones» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Expresar fracciones como decimales, identificando la parte del todo en situaciones.
@@ -866,9 +866,9 @@ Respuesta: 1,75
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17831) · [Clase siguiente →](#cl-17833)
+[← Clase anterior](#cl-17927) · [Clase siguiente →](#cl-17929)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17833}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17929}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar fracciones como decimales, identificando la parte del todo en situaciones» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Expresar fracciones como decimales, identificando la parte del todo en situaciones.
@@ -1072,9 +1072,9 @@ Respuesta: 0,15 de su capacidad
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17832) · [Clase siguiente →](#cl-17834)
+[← Clase anterior](#cl-17928) · [Clase siguiente →](#cl-17930)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17834}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Expresar fracciones como decimales, identificando la parte del todo en situaciones {#cl-17930}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar fracciones como decimales, identificando la parte del todo en situaciones» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Expresar fracciones como decimales, identificando la parte del todo en situaciones.
@@ -1278,7 +1278,7 @@ Respuesta: 3/10 = 0,3
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17833) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-02.md#cl-17835)
+[← Clase anterior](#cl-17929) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-02.md#cl-17931)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

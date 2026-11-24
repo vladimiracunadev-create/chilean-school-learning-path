@@ -43,12 +43,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a leer una fracción como parte de un todo y a decir cuántas partes iguales hay y cuántas se toman. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17829) |
-| 2 | Hoy aprenderé qué es un decimal, cómo se leen las décimas y las centésimas y cómo escribir con coma las fracciones de denominador 10 y 100. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17830) |
-| 3 | Hoy aprenderé a pasar una fracción a decimal dividiendo el numerador por el denominador, paso a paso. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17831) |
-| 4 | Hoy practicaré cómo pasar a decimal fracciones mayores que 1 y números mixtos, y a comparar fracciones con decimales. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17832) |
-| 5 | Hoy usaré la conversión de fracciones a decimales para comparar y decidir en situaciones de trabajo, hogar o comunidad. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17833) |
-| 6 | Hoy repasaré lo aprendido sobre fracciones y decimales, revisaré errores y decidiré qué parte quiero reforzar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17834) |
+| 1 | Hoy aprenderé a leer una fracción como parte de un todo y a decir cuántas partes iguales hay y cuántas se toman. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17925) |
+| 2 | Hoy aprenderé qué es un decimal, cómo se leen las décimas y las centésimas y cómo escribir con coma las fracciones de denominador 10 y 100. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17926) |
+| 3 | Hoy aprenderé a pasar una fracción a decimal dividiendo el numerador por el denominador, paso a paso. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17927) |
+| 4 | Hoy practicaré cómo pasar a decimal fracciones mayores que 1 y números mixtos, y a comparar fracciones con decimales. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17928) |
+| 5 | Hoy usaré la conversión de fracciones a decimales para comparar y decidir en situaciones de trabajo, hogar o comunidad. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17929) |
+| 6 | Hoy repasaré lo aprendido sobre fracciones y decimales, revisaré errores y decidiré qué parte quiero reforzar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-01.md#cl-17930) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -67,12 +67,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a sumar y restar fracciones que tienen el mismo denominador y a explicar cómo resolví cada cuenta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17835) |
-| 2 | Hoy aprenderé a sumar y restar fracciones con distinto denominador, buscando un denominador común. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17836) |
-| 3 | Hoy aprenderé a sumar y restar decimales alineando la coma y a revisar que el resultado tenga sentido. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17837) |
-| 4 | Hoy aprenderé a sumar y restar cuando hay fracciones y decimales juntos, transformando unos en otros. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17838) |
-| 5 | Hoy aplicaré sumas y restas con fracciones y decimales a situaciones de trabajo y hogar, y aprenderé a leer una pantalla de calculadora y a revisar su resultado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17839) |
-| 6 | Hoy repasaré las sumas y restas de fracciones y decimales, y practicaré explicar mi solución y revisar la de otra persona con respeto. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17840) |
+| 1 | Hoy aprenderé a sumar y restar fracciones que tienen el mismo denominador y a explicar cómo resolví cada cuenta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17931) |
+| 2 | Hoy aprenderé a sumar y restar fracciones con distinto denominador, buscando un denominador común. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17932) |
+| 3 | Hoy aprenderé a sumar y restar decimales alineando la coma y a revisar que el resultado tenga sentido. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17933) |
+| 4 | Hoy aprenderé a sumar y restar cuando hay fracciones y decimales juntos, transformando unos en otros. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17934) |
+| 5 | Hoy aplicaré sumas y restas con fracciones y decimales a situaciones de trabajo y hogar, y aprenderé a leer una pantalla de calculadora y a revisar su resultado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17935) |
+| 6 | Hoy repasaré las sumas y restas de fracciones y decimales, y practicaré explicar mi solución y revisar la de otra persona con respeto. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-02.md#cl-17936) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -90,12 +90,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a calcular una fracción de una cantidad, que es multiplicar una fracción por un número natural. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17841) |
-| 2 | Hoy aprenderé a multiplicar fracciones: calcular una parte de otra parte y escribir el resultado simplificado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17842) |
-| 3 | Hoy aprenderé a multiplicar decimales por números naturales y por otros decimales, y a ubicar bien la coma. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17843) |
-| 4 | Hoy practicaré dividir fracciones y decimales entre números naturales y calcular cuántas veces cabe un decimal en una cantidad. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17844) |
-| 5 | Hoy aplicaré la multiplicación y la división de fracciones y decimales a situaciones de trabajo y hogar, y usaré una calculadora de ejemplo con estimación. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17845) |
-| 6 | Hoy repasaré multiplicación y división de fracciones y decimales, explicaré mis procedimientos y revisaré soluciones ajenas con respeto. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17846) |
+| 1 | Hoy aprenderé a calcular una fracción de una cantidad, que es multiplicar una fracción por un número natural. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17937) |
+| 2 | Hoy aprenderé a multiplicar fracciones: calcular una parte de otra parte y escribir el resultado simplificado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17938) |
+| 3 | Hoy aprenderé a multiplicar decimales por números naturales y por otros decimales, y a ubicar bien la coma. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17939) |
+| 4 | Hoy practicaré dividir fracciones y decimales entre números naturales y calcular cuántas veces cabe un decimal en una cantidad. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17940) |
+| 5 | Hoy aplicaré la multiplicación y la división de fracciones y decimales a situaciones de trabajo y hogar, y usaré una calculadora de ejemplo con estimación. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17941) |
+| 6 | Hoy repasaré multiplicación y división de fracciones y decimales, explicaré mis procedimientos y revisaré soluciones ajenas con respeto. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-03.md#cl-17942) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -112,12 +112,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a leer un problema, separar los datos que sirven de los que sobran y decidir qué operaciones necesito antes de calcular. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17847) |
-| 2 | Hoy aprenderé el orden en que se hacen las operaciones cuando una cuenta mezcla sumas, restas, multiplicaciones, divisiones, fracciones y decimales. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17848) |
-| 3 | Hoy aprenderé a elegir una estrategia: pasar todo a decimales o trabajar todo con fracciones, según los números de la cuenta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17849) |
-| 4 | Hoy practicaré problemas de dos o más pasos con fracciones y decimales, escribiendo cada paso y comprobando el resultado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17850) |
-| 5 | Hoy aplicaré operaciones combinadas con fracciones y decimales a situaciones de compras, recetas y medidas, y usaré una calculadora de ejemplo con estimación. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17851) |
-| 6 | Hoy repasaré la operatoria combinada con fracciones y decimales, explicaré mis estrategias y revisaré soluciones de otras personas con respeto. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17852) |
+| 1 | Hoy aprenderé a leer un problema, separar los datos que sirven de los que sobran y decidir qué operaciones necesito antes de calcular. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17943) |
+| 2 | Hoy aprenderé el orden en que se hacen las operaciones cuando una cuenta mezcla sumas, restas, multiplicaciones, divisiones, fracciones y decimales. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17944) |
+| 3 | Hoy aprenderé a elegir una estrategia: pasar todo a decimales o trabajar todo con fracciones, según los números de la cuenta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17945) |
+| 4 | Hoy practicaré problemas de dos o más pasos con fracciones y decimales, escribiendo cada paso y comprobando el resultado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17946) |
+| 5 | Hoy aplicaré operaciones combinadas con fracciones y decimales a situaciones de compras, recetas y medidas, y usaré una calculadora de ejemplo con estimación. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17947) |
+| 6 | Hoy repasaré la operatoria combinada con fracciones y decimales, explicaré mis estrategias y revisaré soluciones de otras personas con respeto. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-04.md#cl-17948) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -143,12 +143,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a reconocer patrones en la vida diaria, a decir qué es una sucesión de números y a explicar su regla con mis palabras. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17853) |
-| 2 | Hoy aprenderé las palabras término, posición, diferencia, creciente y decreciente para hablar con precisión de una sucesión. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17854) |
-| 3 | Hoy aprenderé un método paso a paso para encontrar la regla de una sucesión y usarla para completar términos que faltan. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17855) |
-| 4 | Hoy practicaré cómo explicar con palabras una regla, incluso cuando el patrón es de multiplicar, y cómo decidir si una explicación es completa. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17856) |
-| 5 | Hoy aplicaré sucesiones a situaciones del hogar, el trabajo y la comunidad, y explicaré la regla a otra persona. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17857) |
-| 6 | Hoy revisaré lo logrado sobre sucesiones: definiciones, reglas y explicaciones, y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17858) |
+| 1 | Hoy aprenderé a reconocer patrones en la vida diaria, a decir qué es una sucesión de números y a explicar su regla con mis palabras. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17949) |
+| 2 | Hoy aprenderé las palabras término, posición, diferencia, creciente y decreciente para hablar con precisión de una sucesión. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17950) |
+| 3 | Hoy aprenderé un método paso a paso para encontrar la regla de una sucesión y usarla para completar términos que faltan. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17951) |
+| 4 | Hoy practicaré cómo explicar con palabras una regla, incluso cuando el patrón es de multiplicar, y cómo decidir si una explicación es completa. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17952) |
+| 5 | Hoy aplicaré sucesiones a situaciones del hogar, el trabajo y la comunidad, y explicaré la regla a otra persona. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17953) |
+| 6 | Hoy revisaré lo logrado sobre sucesiones: definiciones, reglas y explicaciones, y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-05.md#cl-17954) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -166,12 +166,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a identificar el patrón de una secuencia numérica, con o sin situación de la vida diaria, y a ver si suma, resta o multiplica. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17859) |
-| 2 | Hoy aprenderé qué es una regla de formación y cómo se escribe con una letra, para describir cualquier término de una secuencia. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17860) |
-| 3 | Hoy aprenderé un método paso a paso para encontrar la regla de formación de una tabla y escribirla con una expresión algebraica. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17861) |
-| 4 | Hoy practicaré cómo aplicar un patrón a situaciones idénticas, cambiando el punto de partida o el contexto, para generar nuevas secuencias. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17862) |
-| 5 | Hoy aplicaré patrones a situaciones de trabajo, hogar y comunidad, y generaré nuevas secuencias con expresiones de letras. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17863) |
-| 6 | Hoy revisaré lo logrado: identificar patrones, escribir reglas de formación y generar nuevas secuencias, y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17864) |
+| 1 | Hoy aprenderé a identificar el patrón de una secuencia numérica, con o sin situación de la vida diaria, y a ver si suma, resta o multiplica. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17955) |
+| 2 | Hoy aprenderé qué es una regla de formación y cómo se escribe con una letra, para describir cualquier término de una secuencia. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17956) |
+| 3 | Hoy aprenderé un método paso a paso para encontrar la regla de formación de una tabla y escribirla con una expresión algebraica. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17957) |
+| 4 | Hoy practicaré cómo aplicar un patrón a situaciones idénticas, cambiando el punto de partida o el contexto, para generar nuevas secuencias. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17958) |
+| 5 | Hoy aplicaré patrones a situaciones de trabajo, hogar y comunidad, y generaré nuevas secuencias con expresiones de letras. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17959) |
+| 6 | Hoy revisaré lo logrado: identificar patrones, escribir reglas de formación y generar nuevas secuencias, y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-06.md#cl-17960) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -189,12 +189,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé que un mismo problema de patrones se puede resolver con varias estrategias, y cómo elegir la que conviene. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17865) |
-| 2 | Hoy aprenderé qué significa generalizar un patrón, qué es el término general y por qué una idea sobre un patrón debe comprobarse. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17866) |
-| 3 | Hoy aprenderé a combinar estrategias paso a paso para encontrar el término general de una lista, incluso si la lista baja. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17867) |
-| 4 | Hoy practicaré cómo usar el dibujo y la tabla para descubrir un patrón y generalizarlo a cualquier figura. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17868) |
-| 5 | Hoy aplicaré estrategias para generalizar patrones en situaciones de trabajo y comunidad, y elegiré cuándo conviene la lista y cuándo la expresión. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17869) |
-| 6 | Hoy revisaré las estrategias para identificar y generalizar patrones, detectaré errores en expresiones y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17870) |
+| 1 | Hoy aprenderé que un mismo problema de patrones se puede resolver con varias estrategias, y cómo elegir la que conviene. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17961) |
+| 2 | Hoy aprenderé qué significa generalizar un patrón, qué es el término general y por qué una idea sobre un patrón debe comprobarse. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17962) |
+| 3 | Hoy aprenderé a combinar estrategias paso a paso para encontrar el término general de una lista, incluso si la lista baja. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17963) |
+| 4 | Hoy practicaré cómo usar el dibujo y la tabla para descubrir un patrón y generalizarlo a cualquier figura. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17964) |
+| 5 | Hoy aplicaré estrategias para generalizar patrones en situaciones de trabajo y comunidad, y elegiré cuándo conviene la lista y cuándo la expresión. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17965) |
+| 6 | Hoy revisaré las estrategias para identificar y generalizar patrones, detectaré errores en expresiones y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-07.md#cl-17966) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -211,12 +211,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé qué es un crecimiento aditivo, cómo reconocerlo en problemas de la vida diaria y cómo identificar sus datos. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17871) |
-| 2 | Hoy aprenderé el vocabulario del crecimiento aditivo: valor inicial, incremento, pasos, incógnita y tabla de valores. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17872) |
-| 3 | Hoy aprenderé un procedimiento de cinco pasos para resolver problemas de crecimiento aditivo, incluso cuando el texto trae datos que no sirven. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17873) |
-| 4 | Hoy practicaré problemas de crecimiento aditivo con preguntas al revés, como «¿cuándo llega a...?», y con cantidades que disminuyen. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17874) |
-| 5 | Hoy aplicaré el crecimiento aditivo a una situación de la comunidad: comparar dos formas de cobro y explicar qué conviene según el tiempo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17875) |
-| 6 | Hoy revisaré lo logrado en problemas de crecimiento aditivo: reconocer datos, elegir estrategia, calcular, comprobar y explicar, y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17876) |
+| 1 | Hoy aprenderé qué es un crecimiento aditivo, cómo reconocerlo en problemas de la vida diaria y cómo identificar sus datos. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17967) |
+| 2 | Hoy aprenderé el vocabulario del crecimiento aditivo: valor inicial, incremento, pasos, incógnita y tabla de valores. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17968) |
+| 3 | Hoy aprenderé un procedimiento de cinco pasos para resolver problemas de crecimiento aditivo, incluso cuando el texto trae datos que no sirven. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17969) |
+| 4 | Hoy practicaré problemas de crecimiento aditivo con preguntas al revés, como «¿cuándo llega a...?», y con cantidades que disminuyen. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17970) |
+| 5 | Hoy aplicaré el crecimiento aditivo a una situación de la comunidad: comparar dos formas de cobro y explicar qué conviene según el tiempo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17971) |
+| 6 | Hoy revisaré lo logrado en problemas de crecimiento aditivo: reconocer datos, elegir estrategia, calcular, comprobar y explicar, y decidiré qué quiero repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-08.md#cl-17972) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -244,12 +244,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a ubicar puntos en una cuadrícula con dos números y a describir cuánto se mueve un objeto, base para hablar de reflexiones y traslaciones. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17877) |
-| 2 | Hoy aprenderé qué es una traslación y qué es una reflexión de una figura, y qué cosas cambian y cuáles se conservan. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17878) |
-| 3 | Hoy aprenderé a trasladar una figura usando coordenadas: sumar o restar el mismo desplazamiento a todos sus vértices. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17879) |
-| 4 | Hoy aprenderé a reflejar una figura sobre un eje usando coordenadas: medir la distancia al eje y ponerla al otro lado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17880) |
-| 5 | Hoy aprenderé a aplicar traslaciones y reflexiones para armar patrones, como frisos de baldosas, rejas o estampados, y a describirlos con números. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17881) |
-| 6 | Hoy aprenderé a combinar reflexiones y traslaciones, a describirlas con lenguaje matemático claro y a revisar lo que logré en este módulo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17882) |
+| 1 | Hoy aprenderé a ubicar puntos en una cuadrícula con dos números y a describir cuánto se mueve un objeto, base para hablar de reflexiones y traslaciones. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17973) |
+| 2 | Hoy aprenderé qué es una traslación y qué es una reflexión de una figura, y qué cosas cambian y cuáles se conservan. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17974) |
+| 3 | Hoy aprenderé a trasladar una figura usando coordenadas: sumar o restar el mismo desplazamiento a todos sus vértices. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17975) |
+| 4 | Hoy aprenderé a reflejar una figura sobre un eje usando coordenadas: medir la distancia al eje y ponerla al otro lado. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17976) |
+| 5 | Hoy aprenderé a aplicar traslaciones y reflexiones para armar patrones, como frisos de baldosas, rejas o estampados, y a describirlos con números. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17977) |
+| 6 | Hoy aprenderé a combinar reflexiones y traslaciones, a describirlas con lenguaje matemático claro y a revisar lo que logré en este módulo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-09.md#cl-17978) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -266,12 +266,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a describir giros de la vida diaria con vueltas, cuartos de vuelta, grados y sentido horario o antihorario. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17883) |
-| 2 | Hoy aprenderé qué es un ángulo, cómo se llaman sus partes y cómo se clasifica según su medida. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17884) |
-| 3 | Hoy aprenderé a medir un ángulo con un transportador: dónde poner el 0, qué escala leer y cómo restar cuando el ángulo no parte en 0. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17885) |
-| 4 | Hoy aprenderé a rotar una figura alrededor de un punto: decir cuánto gira, hacia qué lado y dónde queda, incluso con coordenadas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17886) |
-| 5 | Hoy aprenderé a usar giros y ángulos para resolver situaciones de la casa, el trabajo y la comunidad: sumar y restar ángulos alrededor de un punto y en una recta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17887) |
-| 6 | Hoy aprenderé a explicar con claridad cómo resolví un problema de giros y ángulos, a revisar la solución de otra persona con respeto y a decidir qué repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17888) |
+| 1 | Hoy aprenderé a describir giros de la vida diaria con vueltas, cuartos de vuelta, grados y sentido horario o antihorario. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17979) |
+| 2 | Hoy aprenderé qué es un ángulo, cómo se llaman sus partes y cómo se clasifica según su medida. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17980) |
+| 3 | Hoy aprenderé a medir un ángulo con un transportador: dónde poner el 0, qué escala leer y cómo restar cuando el ángulo no parte en 0. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17981) |
+| 4 | Hoy aprenderé a rotar una figura alrededor de un punto: decir cuánto gira, hacia qué lado y dónde queda, incluso con coordenadas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17982) |
+| 5 | Hoy aprenderé a usar giros y ángulos para resolver situaciones de la casa, el trabajo y la comunidad: sumar y restar ángulos alrededor de un punto y en una recta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17983) |
+| 6 | Hoy aprenderé a explicar con claridad cómo resolví un problema de giros y ángulos, a revisar la solución de otra persona con respeto y a decidir qué repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-10.md#cl-17984) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -288,12 +288,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a distinguir el perímetro (el borde) del área (la superficie) en situaciones de la vida diaria y a contarlos en una cuadrícula. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17889) |
-| 2 | Hoy aprenderé las reglas para calcular el perímetro y el área de rectángulos y cuadrados, con sus unidades. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17890) |
-| 3 | Hoy aprenderé un método de cuatro pasos para resolver problemas de perímetro y área, y a calcular figuras compuestas con rectángulos. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17891) |
-| 4 | Hoy aprenderé a calcular el área de un triángulo como la mitad de un rectángulo, a pasar de metros a centímetros y a practicar con apoyo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17892) |
-| 5 | Hoy aprenderé a aplicar perímetro y área a una situación de casa, trabajo o comunidad: cuánto material hace falta y cuánto cuesta con precios de ejemplo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17893) |
-| 6 | Hoy aprenderé a revisar lo logrado en perímetro y área: comprobar resultados, comparar figuras con el mismo perímetro y decidir qué repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17894) |
+| 1 | Hoy aprenderé a distinguir el perímetro (el borde) del área (la superficie) en situaciones de la vida diaria y a contarlos en una cuadrícula. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17985) |
+| 2 | Hoy aprenderé las reglas para calcular el perímetro y el área de rectángulos y cuadrados, con sus unidades. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17986) |
+| 3 | Hoy aprenderé un método de cuatro pasos para resolver problemas de perímetro y área, y a calcular figuras compuestas con rectángulos. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17987) |
+| 4 | Hoy aprenderé a calcular el área de un triángulo como la mitad de un rectángulo, a pasar de metros a centímetros y a practicar con apoyo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17988) |
+| 5 | Hoy aprenderé a aplicar perímetro y área a una situación de casa, trabajo o comunidad: cuánto material hace falta y cuánto cuesta con precios de ejemplo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17989) |
+| 6 | Hoy aprenderé a revisar lo logrado en perímetro y área: comprobar resultados, comparar figuras con el mismo perímetro y decidir qué repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-11.md#cl-17990) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -313,12 +313,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a comparar una figura con su imagen después de una traslación, una reflexión o una rotación: qué se conserva y qué cambia. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17895) |
-| 2 | Hoy aprenderé el vocabulario para comparar figuras: congruentes, correspondientes, original e imagen, orientación y movimiento. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17896) |
-| 3 | Hoy aprenderé un procedimiento para decidir qué movimiento lleva una figura a su imagen: comparar medidas, ver la orientación y mirar las coordenadas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17897) |
-| 4 | Hoy aprenderé a practicar con apoyo la comparación de figuras e imágenes: calcular perímetro y área de las imágenes sin dibujarlas de nuevo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17898) |
-| 5 | Hoy aprenderé a aplicar lo aprendido a un trabajo de diseño o de revestimiento: contar baldosas, comparar áreas y perímetros y usar movimientos para repetir un motivo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17899) |
-| 6 | Hoy aprenderé a revisar lo logrado en todo el módulo: comparar figuras tras movimientos, con ángulos, perímetro y área, y a decidir qué repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17900) |
+| 1 | Hoy aprenderé a comparar una figura con su imagen después de una traslación, una reflexión o una rotación: qué se conserva y qué cambia. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17991) |
+| 2 | Hoy aprenderé el vocabulario para comparar figuras: congruentes, correspondientes, original e imagen, orientación y movimiento. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17992) |
+| 3 | Hoy aprenderé un procedimiento para decidir qué movimiento lleva una figura a su imagen: comparar medidas, ver la orientación y mirar las coordenadas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17993) |
+| 4 | Hoy aprenderé a practicar con apoyo la comparación de figuras e imágenes: calcular perímetro y área de las imágenes sin dibujarlas de nuevo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17994) |
+| 5 | Hoy aprenderé a aplicar lo aprendido a un trabajo de diseño o de revestimiento: contar baldosas, comparar áreas y perímetros y usar movimientos para repetir un motivo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17995) |
+| 6 | Hoy aprenderé a revisar lo logrado en todo el módulo: comparar figuras tras movimientos, con ángulos, perímetro y área, y a decidir qué repasar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-12.md#cl-17996) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -347,12 +347,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a explicar de dónde sale la media: el valor que tendría cada dato si todos fueran iguales, y por qué se suma y se divide. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17901) |
-| 2 | Hoy aprenderé a explicar cómo se encuentra la moda, el dato que más se repite, y por qué sirve para saber qué es lo más común. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17902) |
-| 3 | Hoy aprenderé a explicar cómo se encuentra la mediana cuando hay una cantidad impar de datos, y por qué primero hay que ordenarlos. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17903) |
-| 4 | Hoy aprenderé a explicar cómo se halla la mediana cuando la cantidad de datos es par, y a decir qué mide cada una de las tres medidas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17904) |
-| 5 | Hoy aprenderé a explicar con mis palabras, paso a paso, cómo se calculan la media, la moda y la mediana, y a revisar la explicación de otra persona. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17905) |
-| 6 | Hoy aprenderé a revisar lo que logré: calcular media, moda y mediana, explicar cada paso con mis palabras y escuchar con respeto otras explicaciones. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17906) |
+| 1 | Hoy aprenderé a explicar de dónde sale la media: el valor que tendría cada dato si todos fueran iguales, y por qué se suma y se divide. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17997) |
+| 2 | Hoy aprenderé a explicar cómo se encuentra la moda, el dato que más se repite, y por qué sirve para saber qué es lo más común. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17998) |
+| 3 | Hoy aprenderé a explicar cómo se encuentra la mediana cuando hay una cantidad impar de datos, y por qué primero hay que ordenarlos. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-17999) |
+| 4 | Hoy aprenderé a explicar cómo se halla la mediana cuando la cantidad de datos es par, y a decir qué mide cada una de las tres medidas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-18000) |
+| 5 | Hoy aprenderé a explicar con mis palabras, paso a paso, cómo se calculan la media, la moda y la mediana, y a revisar la explicación de otra persona. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-18001) |
+| 6 | Hoy aprenderé a revisar lo que logré: calcular media, moda y mediana, explicar cada paso con mis palabras y escuchar con respeto otras explicaciones. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-13.md#cl-18002) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -370,12 +370,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a elegir la moda cuando necesito saber qué es lo más común o lo más pedido, y a reconocer cuándo la media no responde esa pregunta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-17907) |
-| 2 | Hoy aprenderé a elegir la media cuando necesito repartir un total en partes iguales o calcular cuánto reservar en un período. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-17908) |
-| 3 | Hoy aprenderé a elegir la mediana cuando hay un dato extremo que distorsiona la media, y a explicar por qué la media se mueve y la mediana no. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-17909) |
-| 4 | Hoy aprenderé que el tipo de dato limita qué medida puedo usar: con categorías solo la moda, con categorías ordenadas la moda y la mediana, y con números las tres. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-17910) |
-| 5 | Hoy aprenderé a decidir entre media, moda y mediana en situaciones distintas y a dar una razón clara de mi elección. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-17911) |
-| 6 | Hoy aprenderé a revisar mis elecciones de medida: comprobar que la elegida responde la pregunta, que es posible con los datos y que la razón es clara. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-17912) |
+| 1 | Hoy aprenderé a elegir la moda cuando necesito saber qué es lo más común o lo más pedido, y a reconocer cuándo la media no responde esa pregunta. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-18003) |
+| 2 | Hoy aprenderé a elegir la media cuando necesito repartir un total en partes iguales o calcular cuánto reservar en un período. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-18004) |
+| 3 | Hoy aprenderé a elegir la mediana cuando hay un dato extremo que distorsiona la media, y a explicar por qué la media se mueve y la mediana no. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-18005) |
+| 4 | Hoy aprenderé que el tipo de dato limita qué medida puedo usar: con categorías solo la moda, con categorías ordenadas la moda y la mediana, y con números las tres. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-18006) |
+| 5 | Hoy aprenderé a decidir entre media, moda y mediana en situaciones distintas y a dar una razón clara de mi elección. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-18007) |
+| 6 | Hoy aprenderé a revisar mis elecciones de medida: comprobar que la elegida responde la pregunta, que es posible con los datos y que la razón es clara. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-14.md#cl-18008) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -393,12 +393,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a resolver problemas de media: leer la pregunta, separar los datos que sirven de los que sobran y escribir el procedimiento. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-17913) |
-| 2 | Hoy aprenderé a encontrar un dato que falta para alcanzar una media: calculo el total que necesito y le resto lo que ya tengo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-17914) |
-| 3 | Hoy aprenderé a calcular la media cuando los datos vienen en una tabla de frecuencias: multiplico cada valor por cuántas veces se repite. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-17915) |
-| 4 | Hoy aprenderé a resolver problemas con moda y mediana: ordenar, contar posiciones y leer los datos en listas y en tablas de frecuencias. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-17916) |
-| 5 | Hoy aprenderé estrategias para controlar un problema de media: estimar antes de calcular, comprobar después y detectar resultados imposibles. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-17917) |
-| 6 | Hoy aprenderé a revisar el proceso completo de un problema: identificar datos, elegir la estrategia, calcular, comprobar y explicar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-17918) |
+| 1 | Hoy aprenderé a resolver problemas de media: leer la pregunta, separar los datos que sirven de los que sobran y escribir el procedimiento. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-18009) |
+| 2 | Hoy aprenderé a encontrar un dato que falta para alcanzar una media: calculo el total que necesito y le resto lo que ya tengo. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-18010) |
+| 3 | Hoy aprenderé a calcular la media cuando los datos vienen en una tabla de frecuencias: multiplico cada valor por cuántas veces se repite. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-18011) |
+| 4 | Hoy aprenderé a resolver problemas con moda y mediana: ordenar, contar posiciones y leer los datos en listas y en tablas de frecuencias. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-18012) |
+| 5 | Hoy aprenderé estrategias para controlar un problema de media: estimar antes de calcular, comprobar después y detectar resultados imposibles. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-18013) |
+| 6 | Hoy aprenderé a revisar el proceso completo de un problema: identificar datos, elegir la estrategia, calcular, comprobar y explicar. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-15.md#cl-18014) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 
@@ -416,12 +416,12 @@ Reúne 16 actividades de desempeño en 4 módulos obligatorios. Cada una se trab
 
 | Clase | Qué se trabaja | Ficha |
 |---:|---|---|
-| 1 | Hoy aprenderé a contrastar dos grupos de datos usando la media: calcular la de cada uno, compararlas y escribir qué significa la diferencia. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-17919) |
-| 2 | Hoy aprenderé a contrastar dos grupos con la moda: encontrar lo más común en cada uno y decir si coincide o no. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-17920) |
-| 3 | Hoy aprenderé a contrastar dos grupos con la mediana y a ver que dos grupos pueden tener la misma media y medianas distintas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-17921) |
-| 4 | Hoy aprenderé a contrastar dos grupos cuando sus datos vienen en distintas representaciones: gráfico de barras, tabla y lista. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-17922) |
-| 5 | Hoy aprenderé a contrastar dos poblaciones usando las tres medidas juntas y a escribir una conclusión que diga en qué se parecen y en qué se diferencian. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-17923) |
-| 6 | Hoy aprenderé a revisar cómo contrasté dos grupos: si calculé bien cada medida, si comparé con el mismo criterio y si mi conclusión es justa. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-17924) |
+| 1 | Hoy aprenderé a contrastar dos grupos de datos usando la media: calcular la de cada uno, compararlas y escribir qué significa la diferencia. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-18015) |
+| 2 | Hoy aprenderé a contrastar dos grupos con la moda: encontrar lo más común en cada uno y decir si coincide o no. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-18016) |
+| 3 | Hoy aprenderé a contrastar dos grupos con la mediana y a ver que dos grupos pueden tener la misma media y medianas distintas. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-18017) |
+| 4 | Hoy aprenderé a contrastar dos grupos cuando sus datos vienen en distintas representaciones: gráfico de barras, tabla y lista. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-18018) |
+| 5 | Hoy aprenderé a contrastar dos poblaciones usando las tres medidas juntas y a escribir una conclusión que diga en qué se parecen y en qué se diferencian. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-18019) |
+| 6 | Hoy aprenderé a revisar cómo contrasté dos grupos: si calculé bien cada medida, si comparé con el mismo criterio y si mi conclusión es justa. | [Educación Básica Nivel 2](../../curriculum/epja-basica-n2/matematica-epja-nb2/epja-mate-nb2-oad-16.md#cl-18020) |
 
 [Programa de estudio EPJA (fuente del objetivo)](https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica)
 

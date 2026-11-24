@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17877) · [Clase 2](#cl-17878) · [Clase 3](#cl-17879) · [Clase 4](#cl-17880) · [Clase 5](#cl-17881) · [Clase 6](#cl-17882)
+**Clases de este OA:** [Clase 1](#cl-17973) · [Clase 2](#cl-17974) · [Clase 3](#cl-17975) · [Clase 4](#cl-17976) · [Clase 5](#cl-17977) · [Clase 6](#cl-17978)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Expresar acciones e información del entorno {#cl-17877}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Expresar acciones e información del entorno {#cl-17973}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar acciones e información del entorno» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Expresar acciones e información del entorno.
@@ -248,9 +248,9 @@ Respuesta: Queda en (5, 5)
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-08.md#cl-17876) · [Clase siguiente →](#cl-17878)
+[← Última clase del OA anterior](epja-mate-nb2-oad-08.md#cl-17972) · [Clase siguiente →](#cl-17974)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Expresar acciones e información del entorno {#cl-17878}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Expresar acciones e información del entorno {#cl-17974}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar acciones e información del entorno» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Expresar acciones e información del entorno.
@@ -454,9 +454,9 @@ Respuesta: Una reflexión
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17877) · [Clase siguiente →](#cl-17879)
+[← Clase anterior](#cl-17973) · [Clase siguiente →](#cl-17975)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Expresar acciones e información del entorno {#cl-17879}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Expresar acciones e información del entorno {#cl-17975}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar acciones e información del entorno» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Expresar acciones e información del entorno.
@@ -660,9 +660,9 @@ Respuesta: 3 a la derecha y 4 hacia arriba
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17878) · [Clase siguiente →](#cl-17880)
+[← Clase anterior](#cl-17974) · [Clase siguiente →](#cl-17976)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Expresar acciones e información del entorno {#cl-17880}
+### Clase 4 de 6: Practicar juntos con apoyo: Expresar acciones e información del entorno {#cl-17976}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar acciones e información del entorno» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Expresar acciones e información del entorno.
@@ -866,9 +866,9 @@ Respuesta: (4, 5)
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17879) · [Clase siguiente →](#cl-17881)
+[← Clase anterior](#cl-17975) · [Clase siguiente →](#cl-17977)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Expresar acciones e información del entorno {#cl-17881}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Expresar acciones e información del entorno {#cl-17977}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar acciones e información del entorno» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Expresar acciones e información del entorno.
@@ -1072,9 +1072,9 @@ Respuesta: En la columna 12
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17880) · [Clase siguiente →](#cl-17882)
+[← Clase anterior](#cl-17976) · [Clase siguiente →](#cl-17978)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Expresar acciones e información del entorno {#cl-17882}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Expresar acciones e información del entorno {#cl-17978}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «expresar acciones e información del entorno» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Expresar acciones e información del entorno.
@@ -1278,7 +1278,7 @@ Respuesta: Reflexión sobre x = 4 y traslación de 3 filas hacia arriba
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17881) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-10.md#cl-17883)
+[← Clase anterior](#cl-17977) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-10.md#cl-17979)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17883) · [Clase 2](#cl-17884) · [Clase 3](#cl-17885) · [Clase 4](#cl-17886) · [Clase 5](#cl-17887) · [Clase 6](#cl-17888)
+**Clases de este OA:** [Clase 1](#cl-17979) · [Clase 2](#cl-17980) · [Clase 3](#cl-17981) · [Clase 4](#cl-17982) · [Clase 5](#cl-17983) · [Clase 6](#cl-17984)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17883}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17979}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar la rotación y la medida de ángulos utilizados en soluciones propias» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Explicar la rotación y la medida de ángulos utilizados en soluciones propias.
@@ -248,9 +248,9 @@ Respuesta: En el 3
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-09.md#cl-17882) · [Clase siguiente →](#cl-17884)
+[← Última clase del OA anterior](epja-mate-nb2-oad-09.md#cl-17978) · [Clase siguiente →](#cl-17980)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17884}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17980}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar la rotación y la medida de ángulos utilizados en soluciones propias» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Explicar la rotación y la medida de ángulos utilizados en soluciones propias.
@@ -456,9 +456,9 @@ Respuesta: Le faltan 20°
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17883) · [Clase siguiente →](#cl-17885)
+[← Clase anterior](#cl-17979) · [Clase siguiente →](#cl-17981)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17885}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17981}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar la rotación y la medida de ángulos utilizados en soluciones propias» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Explicar la rotación y la medida de ángulos utilizados en soluciones propias.
@@ -662,9 +662,9 @@ Respuesta: 75°
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17884) · [Clase siguiente →](#cl-17886)
+[← Clase anterior](#cl-17980) · [Clase siguiente →](#cl-17982)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17886}
+### Clase 4 de 6: Practicar juntos con apoyo: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17982}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar la rotación y la medida de ángulos utilizados en soluciones propias» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Explicar la rotación y la medida de ángulos utilizados en soluciones propias.
@@ -868,9 +868,9 @@ Respuesta: En (2, 3)
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17885) · [Clase siguiente →](#cl-17887)
+[← Clase anterior](#cl-17981) · [Clase siguiente →](#cl-17983)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17887}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17983}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar la rotación y la medida de ángulos utilizados en soluciones propias» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Explicar la rotación y la medida de ángulos utilizados en soluciones propias.
@@ -1074,9 +1074,9 @@ Respuesta: 4 posiciones
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17886) · [Clase siguiente →](#cl-17888)
+[← Clase anterior](#cl-17982) · [Clase siguiente →](#cl-17984)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17888}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar la rotación y la medida de ángulos utilizados en soluciones propias {#cl-17984}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar la rotación y la medida de ángulos utilizados en soluciones propias» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Explicar la rotación y la medida de ángulos utilizados en soluciones propias.
@@ -1280,7 +1280,7 @@ Respuesta: Hay que multiplicar los 20 minutos por 6° de cada minuto: 120°
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17887) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-11.md#cl-17889)
+[← Clase anterior](#cl-17983) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-11.md#cl-17985)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

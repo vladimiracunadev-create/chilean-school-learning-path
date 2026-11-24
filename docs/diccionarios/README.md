@@ -20,3 +20,11 @@ Para cada nivel, de 1.º básico a 4.º medio, hay dos diccionarios que crecen a
 | 2.º medio | 713 + 120 | 468 + 59 | 6389 / 3854 | [Español](2-medio/espanol.md) · [Inglés](2-medio/ingles.md) |
 | 3.º medio | 784 + 110 | 519 + 80 | 7283 / 4453 | [Español](3-medio/espanol.md) · [Inglés](3-medio/ingles.md) |
 | 4.º medio | 840 + 126 | 554 + 89 | 8249 / 5096 | [Español](4-medio/espanol.md) · [Inglés](4-medio/ingles.md) |
+
+## Educación de Personas Jóvenes y Adultas (EPJA)
+
+Para las personas que estudian Inglés en la modalidad EPJA hay un diccionario propio, de **inglés**, con vocabulario adulto (trabajo, trámites, familia, barrio, transporte, comida y salud sencilla). No repite las palabras de los diccionarios de 1.º básico a 4.º medio: las palabras básicas comunes están en los diccionarios de 1.º a 6.º básico. Mismo alcance que los demás: selección propia, sin revisión de especialistas y con pronunciación aproximada, sin audio.
+
+| Nivel | Inglés: palabras + verbos nuevos | Abrir |
+|---|---:|---|
+| EPJA Educación Básica Nivel 2 (5.º y 6.º básico) | 273 + 51 | [Inglés](epja-basica-n2/ingles.md) |

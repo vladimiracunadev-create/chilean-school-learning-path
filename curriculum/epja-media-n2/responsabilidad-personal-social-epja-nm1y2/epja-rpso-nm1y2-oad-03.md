@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18267) · [Clase 2](#cl-18268) · [Clase 3](#cl-18269)
+**Clases de este OA:** [Clase 1](#cl-18363) · [Clase 2](#cl-18364) · [Clase 3](#cl-18365)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Internalizar y valorar los recursos individuales y de contexto en el logro {#cl-18267}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Internalizar y valorar los recursos individuales y de contexto en el logro {#cl-18363}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «internalizar y valorar los recursos individuales y de contexto en el logro» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Internalizar y valorar los recursos individuales y de contexto en el logro.
@@ -248,9 +248,9 @@ Respuesta: Usa «nunca» y «nada» sin mostrar hechos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-rpso-nm1y2-oad-02.md#cl-18266) · [Clase siguiente →](#cl-18268)
+[← Última clase del OA anterior](epja-rpso-nm1y2-oad-02.md#cl-18362) · [Clase siguiente →](#cl-18364)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Internalizar y valorar los recursos individuales y de contexto en el logro {#cl-18268}
+### Clase 2 de 3: Practicar juntos con apoyo: Internalizar y valorar los recursos individuales y de contexto en el logro {#cl-18364}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «internalizar y valorar los recursos individuales y de contexto en el logro» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Internalizar y valorar los recursos individuales y de contexto en el logro.
@@ -454,9 +454,9 @@ Respuesta: Hizo falta paciencia y dedicación, por lo tanto sí es mérito
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18267) · [Clase siguiente →](#cl-18269)
+[← Clase anterior](#cl-18363) · [Clase siguiente →](#cl-18365)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Internalizar y valorar los recursos individuales y de contexto en el logro {#cl-18269}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Internalizar y valorar los recursos individuales y de contexto en el logro {#cl-18365}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «internalizar y valorar los recursos individuales y de contexto en el logro» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Internalizar y valorar los recursos individuales y de contexto en el logro.
@@ -660,7 +660,7 @@ Respuesta: «Dejé los estudios por cuidar a un familiar; hoy retomo con apoyo»
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18268) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-04.md#cl-18270)
+[← Clase anterior](#cl-18364) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-04.md#cl-18366)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

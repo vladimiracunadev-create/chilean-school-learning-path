@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17733) · [Clase 2](#cl-17734) · [Clase 3](#cl-17735) · [Clase 4](#cl-17736) · [Clase 5](#cl-17737) · [Clase 6](#cl-17738)
+**Clases de este OA:** [Clase 1](#cl-17829) · [Clase 2](#cl-17830) · [Clase 3](#cl-17831) · [Clase 4](#cl-17832) · [Clase 5](#cl-17833) · [Clase 6](#cl-17834)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17733}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17829}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «caracterizar el cuento como género narrativo a través de la comparación y seleccionar» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar.
@@ -249,9 +249,9 @@ Respuesta: No es un cuento; informa
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[Clase siguiente →](#cl-17734)
+[Clase siguiente →](#cl-17830)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17734}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17830}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «caracterizar el cuento como género narrativo a través de la comparación y seleccionar» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar.
@@ -457,9 +457,9 @@ Respuesta: Narrador que cuenta desde afuera
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17733) · [Clase siguiente →](#cl-17735)
+[← Clase anterior](#cl-17829) · [Clase siguiente →](#cl-17831)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17735}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17831}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «caracterizar el cuento como género narrativo a través de la comparación y seleccionar» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar.
@@ -666,9 +666,9 @@ Respuesta: Se diferencian en el problema
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17734) · [Clase siguiente →](#cl-17736)
+[← Clase anterior](#cl-17830) · [Clase siguiente →](#cl-17832)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17736}
+### Clase 4 de 6: Practicar juntos con apoyo: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17832}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «caracterizar el cuento como género narrativo a través de la comparación y seleccionar» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar.
@@ -872,9 +872,9 @@ Respuesta: Quedó contenta de haber resuelto su trámite
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17735) · [Clase siguiente →](#cl-17737)
+[← Clase anterior](#cl-17831) · [Clase siguiente →](#cl-17833)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17737}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17833}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «caracterizar el cuento como género narrativo a través de la comparación y seleccionar» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar.
@@ -1079,9 +1079,9 @@ Respuesta: Elijo el cuento 2
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17736) · [Clase siguiente →](#cl-17738)
+[← Clase anterior](#cl-17832) · [Clase siguiente →](#cl-17834)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17738}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar {#cl-17834}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «caracterizar el cuento como género narrativo a través de la comparación y seleccionar» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Caracterizar el cuento como género narrativo a través de la comparación y seleccionar.
@@ -1285,7 +1285,7 @@ Respuesta: Nota: problema = su puesto está ocupado
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17737) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-02.md#cl-17739)
+[← Clase anterior](#cl-17833) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-02.md#cl-17835)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

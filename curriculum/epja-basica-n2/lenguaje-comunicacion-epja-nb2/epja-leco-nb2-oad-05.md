@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17757) · [Clase 2](#cl-17758) · [Clase 3](#cl-17759) · [Clase 4](#cl-17760) · [Clase 5](#cl-17761) · [Clase 6](#cl-17762)
+**Clases de este OA:** [Clase 1](#cl-17853) · [Clase 2](#cl-17854) · [Clase 3](#cl-17855) · [Clase 4](#cl-17856) · [Clase 5](#cl-17857) · [Clase 6](#cl-17858)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Relacionar información del texto con sus conocimientos {#cl-17757}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Relacionar información del texto con sus conocimientos {#cl-17853}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar información del texto con sus conocimientos» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Relacionar información del texto con sus conocimientos.
@@ -250,9 +250,9 @@ Respuesta: El corte de tránsito dura 4 horas.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-04.md#cl-17756) · [Clase siguiente →](#cl-17758)
+[← Última clase del OA anterior](epja-leco-nb2-oad-04.md#cl-17852) · [Clase siguiente →](#cl-17854)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Relacionar información del texto con sus conocimientos {#cl-17758}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Relacionar información del texto con sus conocimientos {#cl-17854}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar información del texto con sus conocimientos» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Relacionar información del texto con sus conocimientos.
@@ -458,9 +458,9 @@ Respuesta: Empieza un taller de computación.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17757) · [Clase siguiente →](#cl-17759)
+[← Clase anterior](#cl-17853) · [Clase siguiente →](#cl-17855)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Relacionar información del texto con sus conocimientos {#cl-17759}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Relacionar información del texto con sus conocimientos {#cl-17855}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar información del texto con sus conocimientos» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Relacionar información del texto con sus conocimientos.
@@ -666,9 +666,9 @@ Respuesta: La inferencia es razonable porque el texto no la contradice y las pis
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17758) · [Clase siguiente →](#cl-17760)
+[← Clase anterior](#cl-17854) · [Clase siguiente →](#cl-17856)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Relacionar información del texto con sus conocimientos {#cl-17760}
+### Clase 4 de 6: Practicar juntos con apoyo: Relacionar información del texto con sus conocimientos {#cl-17856}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar información del texto con sus conocimientos» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Relacionar información del texto con sus conocimientos.
@@ -874,9 +874,9 @@ Respuesta: Es inferencia lo primero; lo segundo es suposición.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17759) · [Clase siguiente →](#cl-17761)
+[← Clase anterior](#cl-17855) · [Clase siguiente →](#cl-17857)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Relacionar información del texto con sus conocimientos {#cl-17761}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Relacionar información del texto con sus conocimientos {#cl-17857}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar información del texto con sus conocimientos» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Relacionar información del texto con sus conocimientos.
@@ -1082,9 +1082,9 @@ Respuesta: Probablemente la charla comience puntual.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17760) · [Clase siguiente →](#cl-17762)
+[← Clase anterior](#cl-17856) · [Clase siguiente →](#cl-17858)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Relacionar información del texto con sus conocimientos {#cl-17762}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Relacionar información del texto con sus conocimientos {#cl-17858}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar información del texto con sus conocimientos» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Relacionar información del texto con sus conocimientos.
@@ -1290,7 +1290,7 @@ Respuesta: La frase B no coincide con lo que sé y requiere comprobación.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17761) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-06.md#cl-17763)
+[← Clase anterior](#cl-17857) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-06.md#cl-17859)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

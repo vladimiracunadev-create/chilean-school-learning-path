@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17865) · [Clase 2](#cl-17866) · [Clase 3](#cl-17867) · [Clase 4](#cl-17868) · [Clase 5](#cl-17869) · [Clase 6](#cl-17870)
+**Clases de este OA:** [Clase 1](#cl-17961) · [Clase 2](#cl-17962) · [Clase 3](#cl-17963) · [Clase 4](#cl-17964) · [Clase 5](#cl-17965) · [Clase 6](#cl-17966)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17865}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17961}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «buscar y seleccionar estrategias para identificar y generalizar el comportamiento» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento.
@@ -248,9 +248,9 @@ Respuesta: 91 cajas
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-06.md#cl-17864) · [Clase siguiente →](#cl-17866)
+[← Última clase del OA anterior](epja-mate-nb2-oad-06.md#cl-17960) · [Clase siguiente →](#cl-17962)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17866}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17962}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «buscar y seleccionar estrategias para identificar y generalizar el comportamiento» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento.
@@ -454,9 +454,9 @@ Respuesta: Sirve y el término 15 vale 31
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17865) · [Clase siguiente →](#cl-17867)
+[← Clase anterior](#cl-17961) · [Clase siguiente →](#cl-17963)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17867}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17963}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «buscar y seleccionar estrategias para identificar y generalizar el comportamiento» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento.
@@ -660,9 +660,9 @@ Respuesta: 54 − 4n; el término 10 vale 14
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17866) · [Clase siguiente →](#cl-17868)
+[← Clase anterior](#cl-17962) · [Clase siguiente →](#cl-17964)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17868}
+### Clase 4 de 6: Practicar juntos con apoyo: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17964}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «buscar y seleccionar estrategias para identificar y generalizar el comportamiento» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento.
@@ -866,9 +866,9 @@ Respuesta: La figura 15 tiene 61 puntos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17867) · [Clase siguiente →](#cl-17869)
+[← Clase anterior](#cl-17963) · [Clase siguiente →](#cl-17965)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17869}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17965}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «buscar y seleccionar estrategias para identificar y generalizar el comportamiento» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento.
@@ -1072,9 +1072,9 @@ Respuesta: 14 sillas
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17868) · [Clase siguiente →](#cl-17870)
+[← Clase anterior](#cl-17964) · [Clase siguiente →](#cl-17966)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17870}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento {#cl-17966}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «buscar y seleccionar estrategias para identificar y generalizar el comportamiento» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Buscar y seleccionar estrategias para identificar y generalizar el comportamiento.
@@ -1278,7 +1278,7 @@ Respuesta: No: no tiene diferencia fija
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17869) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-08.md#cl-17871)
+[← Clase anterior](#cl-17965) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-08.md#cl-17967)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

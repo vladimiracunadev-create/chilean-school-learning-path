@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17775) · [Clase 2](#cl-17776) · [Clase 3](#cl-17777) · [Clase 4](#cl-17778) · [Clase 5](#cl-17779) · [Clase 6](#cl-17780)
+**Clases de este OA:** [Clase 1](#cl-17871) · [Clase 2](#cl-17872) · [Clase 3](#cl-17873) · [Clase 4](#cl-17874) · [Clase 5](#cl-17875) · [Clase 6](#cl-17876)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17775}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17871}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «exponer oralmente ideas respaldadas de forma clara y efectiva» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Exponer oralmente ideas respaldadas de forma clara y efectiva.
@@ -250,9 +250,9 @@ Respuesta: Idea: la espera es larga; respaldo: 45 de 120 esperaron más de una h
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-07.md#cl-17774) · [Clase siguiente →](#cl-17776)
+[← Última clase del OA anterior](epja-leco-nb2-oad-07.md#cl-17870) · [Clase siguiente →](#cl-17872)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17776}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17872}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «exponer oralmente ideas respaldadas de forma clara y efectiva» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Exponer oralmente ideas respaldadas de forma clara y efectiva.
@@ -458,9 +458,9 @@ Respuesta: Bajar el ritmo y hacer pausas.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17775) · [Clase siguiente →](#cl-17777)
+[← Clase anterior](#cl-17871) · [Clase siguiente →](#cl-17873)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17777}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17873}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «exponer oralmente ideas respaldadas de forma clara y efectiva» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Exponer oralmente ideas respaldadas de forma clara y efectiva.
@@ -667,9 +667,9 @@ Respuesta: Cada idea del desarrollo trae un dato con su fuente.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17776) · [Clase siguiente →](#cl-17778)
+[← Clase anterior](#cl-17872) · [Clase siguiente →](#cl-17874)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17778}
+### Clase 4 de 6: Practicar juntos con apoyo: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17874}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «exponer oralmente ideas respaldadas de forma clara y efectiva» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Exponer oralmente ideas respaldadas de forma clara y efectiva.
@@ -875,9 +875,9 @@ Respuesta: La primera es opinión honesta; la segunda es opinión disfrazada.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17777) · [Clase siguiente →](#cl-17779)
+[← Clase anterior](#cl-17873) · [Clase siguiente →](#cl-17875)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17779}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17875}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «exponer oralmente ideas respaldadas de forma clara y efectiva» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Exponer oralmente ideas respaldadas de forma clara y efectiva.
@@ -1082,9 +1082,9 @@ Respuesta: Se pone énfasis en 24.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17778) · [Clase siguiente →](#cl-17780)
+[← Clase anterior](#cl-17874) · [Clase siguiente →](#cl-17876)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17780}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Exponer oralmente ideas respaldadas de forma clara y efectiva {#cl-17876}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «exponer oralmente ideas respaldadas de forma clara y efectiva» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Exponer oralmente ideas respaldadas de forma clara y efectiva.
@@ -1291,7 +1291,7 @@ Respuesta: Comentario con logro, punto a mejorar y sugerencia.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17779) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-09.md#cl-17781)
+[← Clase anterior](#cl-17875) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-09.md#cl-17877)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

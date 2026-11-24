@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17901) · [Clase 2](#cl-17902) · [Clase 3](#cl-17903) · [Clase 4](#cl-17904) · [Clase 5](#cl-17905) · [Clase 6](#cl-17906)
+**Clases de este OA:** [Clase 1](#cl-17997) · [Clase 2](#cl-17998) · [Clase 3](#cl-17999) · [Clase 4](#cl-18000) · [Clase 5](#cl-18001) · [Clase 6](#cl-18002)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar el razonamiento matemático utilizado para determinar {#cl-17901}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar el razonamiento matemático utilizado para determinar {#cl-17997}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar el razonamiento matemático utilizado para determinar» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Explicar el razonamiento matemático utilizado para determinar.
@@ -249,9 +249,9 @@ Respuesta: 15 minutos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-12.md#cl-17900) · [Clase siguiente →](#cl-17902)
+[← Última clase del OA anterior](epja-mate-nb2-oad-12.md#cl-17996) · [Clase siguiente →](#cl-17998)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar el razonamiento matemático utilizado para determinar {#cl-17902}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar el razonamiento matemático utilizado para determinar {#cl-17998}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar el razonamiento matemático utilizado para determinar» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Explicar el razonamiento matemático utilizado para determinar.
@@ -455,9 +455,9 @@ Respuesta: 3 minutos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17901) · [Clase siguiente →](#cl-17903)
+[← Clase anterior](#cl-17997) · [Clase siguiente →](#cl-17999)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar el razonamiento matemático utilizado para determinar {#cl-17903}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar el razonamiento matemático utilizado para determinar {#cl-17999}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar el razonamiento matemático utilizado para determinar» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Explicar el razonamiento matemático utilizado para determinar.
@@ -662,9 +662,9 @@ Respuesta: 9 kilos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17902) · [Clase siguiente →](#cl-17904)
+[← Clase anterior](#cl-17998) · [Clase siguiente →](#cl-18000)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Explicar el razonamiento matemático utilizado para determinar {#cl-17904}
+### Clase 4 de 6: Practicar juntos con apoyo: Explicar el razonamiento matemático utilizado para determinar {#cl-18000}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar el razonamiento matemático utilizado para determinar» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Explicar el razonamiento matemático utilizado para determinar.
@@ -869,9 +869,9 @@ Respuesta: 6,5
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17903) · [Clase siguiente →](#cl-17905)
+[← Clase anterior](#cl-17999) · [Clase siguiente →](#cl-18001)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar el razonamiento matemático utilizado para determinar {#cl-17905}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar el razonamiento matemático utilizado para determinar {#cl-18001}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar el razonamiento matemático utilizado para determinar» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Explicar el razonamiento matemático utilizado para determinar.
@@ -1076,9 +1076,9 @@ Respuesta: La media es 7 kilos: lo que se habría vendido cada día si todos fue
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17904) · [Clase siguiente →](#cl-17906)
+[← Clase anterior](#cl-18000) · [Clase siguiente →](#cl-18002)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar el razonamiento matemático utilizado para determinar {#cl-17906}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar el razonamiento matemático utilizado para determinar {#cl-18002}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar el razonamiento matemático utilizado para determinar» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Explicar el razonamiento matemático utilizado para determinar.
@@ -1283,7 +1283,7 @@ Respuesta: Sí, está bien: la mediana es 5
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17905) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-14.md#cl-17907)
+[← Clase anterior](#cl-18001) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-14.md#cl-18003)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

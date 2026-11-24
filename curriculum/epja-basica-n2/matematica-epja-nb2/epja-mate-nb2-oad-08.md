@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17871) · [Clase 2](#cl-17872) · [Clase 3](#cl-17873) · [Clase 4](#cl-17874) · [Clase 5](#cl-17875) · [Clase 6](#cl-17876)
+**Clases de este OA:** [Clase 1](#cl-17967) · [Clase 2](#cl-17968) · [Clase 3](#cl-17969) · [Clase 4](#cl-17970) · [Clase 5](#cl-17971) · [Clase 6](#cl-17972)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17871}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17967}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar procedimientos de identificacion de patrones y selección de estrategias» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Aplicar procedimientos de identificacion de patrones y selección de estrategias.
@@ -248,9 +248,9 @@ Respuesta: 300 litros
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-07.md#cl-17870) · [Clase siguiente →](#cl-17872)
+[← Última clase del OA anterior](epja-mate-nb2-oad-07.md#cl-17966) · [Clase siguiente →](#cl-17968)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17872}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17968}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar procedimientos de identificacion de patrones y selección de estrategias» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Aplicar procedimientos de identificacion de patrones y selección de estrategias.
@@ -454,9 +454,9 @@ Respuesta: 25, 35, 45, 55
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17871) · [Clase siguiente →](#cl-17873)
+[← Clase anterior](#cl-17967) · [Clase siguiente →](#cl-17969)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17873}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17969}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar procedimientos de identificacion de patrones y selección de estrategias» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Aplicar procedimientos de identificacion de patrones y selección de estrategias.
@@ -660,9 +660,9 @@ Respuesta: 483 visitas; la estimación 500 lo confirma
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17872) · [Clase siguiente →](#cl-17874)
+[← Clase anterior](#cl-17968) · [Clase siguiente →](#cl-17970)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17874}
+### Clase 4 de 6: Practicar juntos con apoyo: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17970}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar procedimientos de identificacion de patrones y selección de estrategias» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Aplicar procedimientos de identificacion de patrones y selección de estrategias.
@@ -866,9 +866,9 @@ Respuesta: Quedan 240 litros tras 7 horas, y 120 litros tras 11 horas
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17873) · [Clase siguiente →](#cl-17875)
+[← Clase anterior](#cl-17969) · [Clase siguiente →](#cl-17971)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17875}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17971}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar procedimientos de identificacion de patrones y selección de estrategias» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Aplicar procedimientos de identificacion de patrones y selección de estrategias.
@@ -1072,9 +1072,9 @@ Respuesta: 10 km
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17874) · [Clase siguiente →](#cl-17876)
+[← Clase anterior](#cl-17970) · [Clase siguiente →](#cl-17972)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17876}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Aplicar procedimientos de identificacion de patrones y selección de estrategias {#cl-17972}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar procedimientos de identificacion de patrones y selección de estrategias» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Aplicar procedimientos de identificacion de patrones y selección de estrategias.
@@ -1278,7 +1278,7 @@ Respuesta: 5 días
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17875) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-09.md#cl-17877)
+[← Clase anterior](#cl-17971) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-09.md#cl-17973)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

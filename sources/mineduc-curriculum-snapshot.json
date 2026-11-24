@@ -35407,6 +35407,132 @@
           "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-historia-geografia-ciencias-sociales-nivel-2-educacion-basica"
         }
       ]
+    },
+    {
+      "course": "EPJA · Educación Básica Nivel 2 (5.º y 6.º básico)",
+      "course_slug": "epja-basica-n2",
+      "course_order": 18,
+      "course_url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0",
+      "subject": "Inglés · EPJA Básica N2",
+      "subject_slug": "ingles-epja-nb2",
+      "subject_url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0",
+      "coverage": "formacion-epja",
+      "approach": "partir de situaciones de la vida adulta (trabajo, familia, trámites, dinero, salud, vecindario) y de lo que cada persona ya sabe, con apoyo oral y gráfico cuando se necesite",
+      "evidence": "producción breve, oral, escrita o gráfica, que muestre lo aprendido en una situación de la vida diaria",
+      "objectives": [
+        {
+          "code": "EPJA-INGL-NB2-OAD-01",
+          "description": "Saludar y entregar información básica sobre sí mismos y otras personas. Objetivos de aprendizaje nucleares: OA 1: Identificar tema, ideas principales, y vocabulario en textos orales, exposiciones y diálogos. (Comprensión auditiva). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, tales como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Funciones tales como saludar, presentarse y presentar a otros. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Horas pedagógicas: 6.",
+          "axis": "Módulo 1: Cuando ampliamos nuestro vocabulario, mejoramos nuestra forma de hacernos entender",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-02",
+          "description": "Preguntar por información personal, describirse y describir a otros física y emocionalmente. Objetivos de aprendizaje nucleares: OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Adjetivos calificativos, posesivos y demostrativos. Números cardinales y ordinales. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Horas pedagógicas: 6.",
+          "axis": "Módulo 1: Cuando ampliamos nuestro vocabulario, mejoramos nuestra forma de hacernos entender",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-03",
+          "description": "Describir y preguntar por intereses propios y de otras personas. Objetivos de aprendizaje nucleares: OA 2: Identificar propósito, idea o tema general, vocabulario temático, palabras y expresiones de uso común en textos simples, literarios y no literarios, vinculados con sus contextos e intereses. (Comprensión lectora). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple, con verbos regulares e irregulares; verbo ser, estar (to be). Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; y hacer predicciones. Horas pedagógicas: 6.",
+          "axis": "Módulo 1: Cuando ampliamos nuestro vocabulario, mejoramos nuestra forma de hacernos entender",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-04",
+          "description": "Presentarse y presentar a una persona cercana frente a la clase. Objetivos de aprendizaje nucleares: OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Números cardinales y ordinales. Adjetivos calificativos, posesivos y demostrativos. Horas pedagógicas: 6.",
+          "axis": "Módulo 1: Cuando ampliamos nuestro vocabulario, mejoramos nuestra forma de hacernos entender",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-05",
+          "description": "Comprender y discutir un texto escrito, para luego presentar sus hábitos alimentarios y los de alguien cercano. Objetivos de aprendizaje nucleares: OA 2: Identificar propósito, idea o tema general, vocabulario temático, palabras y expresiones de uso común en textos simples, literarios y no literarios, vinculados con sus contextos e intereses. (Comprensión lectora). OA 3: Escribir textos breves y simples de acuerdo con un modelo, utilizando el vocabulario y la gramática que corresponde, con actitud proactiva. (Expresión escrita). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Horas pedagógicas: 6.",
+          "axis": "Módulo 2: Expresarse oralmente en inglés permite explorar y conocer nuestro entorno y el mundo",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-06",
+          "description": "Comprender un video, y describir sus ciudades de origen y desafíos climáticos. Objetivos de aprendizaje nucleares: OA 3: Escribir textos breves y simples de acuerdo con un modelo, utilizando el vocabulario y la gramática que corresponde, con actitud proactiva. (Expresión escrita). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Adjetivos calificativos, posesivos y demostrativos. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Horas pedagógicas: 6.",
+          "axis": "Módulo 2: Expresarse oralmente en inglés permite explorar y conocer nuestro entorno y el mundo",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-07",
+          "description": "Conversar sobre el transporte en su comunidad, y dar instrucciones a sus compañeros, para llegar desde sus hogares al establecimiento. Objetivos de aprendizaje nucleares: OA 3: Escribir textos breves y simples de acuerdo con un modelo, utilizando el vocabulario y la gramática que corresponde, con actitud proactiva. (Expresión escrita). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Horas pedagógicas: 6.",
+          "axis": "Módulo 2: Expresarse oralmente en inglés permite explorar y conocer nuestro entorno y el mundo",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-08",
+          "description": "Presentar a su familia, hogar, barrio y reglas de la casa. Acordar reglas para la clase e imaginar otras para la comunidad del futuro. Objetivos de aprendizaje nucleares: OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Números cardinales y ordinales. Adjetivos calificativos, posesivos y demostrativos. Horas pedagógicas: 6.",
+          "axis": "Módulo 2: Expresarse oralmente en inglés permite explorar y conocer nuestro entorno y el mundo",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-09",
+          "description": "Entregar información personal respecto de qué tan a menudo realizan ciertas acciones. Objetivos de aprendizaje nucleares: OA 1: Identificar tema, ideas principales, y vocabulario en textos orales, exposiciones y diálogos. (Comprensión auditiva). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Adverbios de tiempo como now, at the moment, always, generally, etcétera. Horas pedagógicas: 6.",
+          "axis": "Módulo 3: Cada idioma tiene un sistema de reglas que lo distingue de otras lenguas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-10",
+          "description": "Preguntar y entregar información personal respecto de proyectos personales. Objetivos de aprendizaje nucleares: OA 1: Identificar tema, ideas principales, y vocabulario en textos orales, exposiciones y diálogos. (Comprensión auditiva). OA 2: Identificar propósito, idea o tema general, vocabulario temático, palabras y expresiones de uso común en textos simples, literarios y no literarios, vinculados con sus contextos e intereses. (Comprensión lectora). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Horas pedagógicas: 6.",
+          "axis": "Módulo 3: Cada idioma tiene un sistema de reglas que lo distingue de otras lenguas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-11",
+          "description": "Describir y preguntar por rutinas diarias propias y de otros. Objetivos de aprendizaje nucleares: OA 1: Identificar tema, ideas principales, y vocabulario en textos orales, exposiciones y diálogos. (Comprensión auditiva). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Adverbios de tiempo como now, at the moment, always, generally, etcétera. Horas pedagógicas: 6.",
+          "axis": "Módulo 3: Cada idioma tiene un sistema de reglas que lo distingue de otras lenguas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-12",
+          "description": "Presentar un referente personal frente a la clase, incluyendo rutina, proyectos e información básica. Objetivos de aprendizaje nucleares: OA 2: Identificar propósito, idea o tema general, vocabulario temático, palabras y expresiones de uso común en textos simples, literarios y no literarios, vinculados con sus contextos e intereses. (Comprensión lectora). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Adverbios de tiempo como now, at the moment, always, generally, etcétera. Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Horas pedagógicas: 6.",
+          "axis": "Módulo 3: Cada idioma tiene un sistema de reglas que lo distingue de otras lenguas",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-13",
+          "description": "Entregar información y consejos sobre hábitos y diferentes generaciones. Objetivos de aprendizaje nucleares: OA 2: Identificar propósito, idea o tema general, vocabulario temático, palabras y expresiones de uso común en textos simples, literarios y no literarios, vinculados con sus contextos e intereses. (Comprensión lectora). OA 4: Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Adjetivos calificativos, posesivos y demostrativos. Horas pedagógicas: 6.",
+          "axis": "Módulo 4: Los lectores con un nivel de lectura adecuado pueden comprender el significado de un texto",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-14",
+          "description": "Expresarse sobre actividades relajantes. Crear una actividad inusual y relajante. Objetivos de aprendizaje nucleares: OA 1: Identificar tema, ideas principales, y vocabulario en textos orales, exposiciones y diálogos. (Comprensión auditiva). OA 3: Escribir textos breves y simples de acuerdo con un modelo, utilizando el vocabulario y la gramática que corresponde, con actitud proactiva. (Expresión escrita). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Horas pedagógicas: 6.",
+          "axis": "Módulo 4: Los lectores con un nivel de lectura adecuado pueden comprender el significado de un texto",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-15",
+          "description": "Expresarse e investigar sobre nuevas maneras de alimentarse. Objetivos de aprendizaje nucleares: OA 2: Identificar propósito, idea o tema general, vocabulario temático, palabras y expresiones de uso común en textos simples, literarios y no literarios, vinculados con sus contextos e intereses. (Comprensión lectora). OA 3: Escribir textos breves y simples de acuerdo con un modelo, utilizando el vocabulario y la gramática que corresponde, con actitud proactiva. (Expresión escrita). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Horas pedagógicas: 6.",
+          "axis": "Módulo 4: Los lectores con un nivel de lectura adecuado pueden comprender el significado de un texto",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        },
+        {
+          "code": "EPJA-INGL-NB2-OAD-16",
+          "description": "Comprender un video y crear un texto acerca de trabajos inusuales. Objetivos de aprendizaje nucleares: OA 1: Identificar tema, ideas principales, y vocabulario en textos orales, exposiciones y diálogos. (Comprensión auditiva). OA 3: Escribir textos breves y simples de acuerdo con un modelo, utilizando el vocabulario y la gramática que corresponde, con actitud proactiva. (Expresión escrita). Conocimientos esenciales: Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad. Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones. Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be). Adverbios de tiempo como now, at the moment, always, generally, etcétera. Preposiciones de lugar como to, on, inside, next to, at, etcétera. Horas pedagógicas: 6.",
+          "axis": "Módulo 4: Los lectores con un nivel de lectura adecuado pueden comprender el significado de un texto",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0"
+        }
+      ]
     }
   ],
   "readings_verified_at": "2026-09-24"

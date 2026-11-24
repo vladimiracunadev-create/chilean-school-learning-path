@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18249) · [Clase 2](#cl-18250) · [Clase 3](#cl-18251)
+**Clases de este OA:** [Clase 1](#cl-18345) · [Clase 2](#cl-18346) · [Clase 3](#cl-18347)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Evaluar las herramientas necesarias para poder trabajar con información requerida {#cl-18249}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Evaluar las herramientas necesarias para poder trabajar con información requerida {#cl-18345}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar las herramientas necesarias para poder trabajar con información requerida» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Evaluar las herramientas necesarias para poder trabajar con información requerida.
@@ -248,9 +248,9 @@ Respuesta: Tabla o lista para el valor exacto; gráfico para comparar
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-peco-nm1y2-oad-12.md#cl-18248) · [Clase siguiente →](#cl-18250)
+[← Última clase del OA anterior](epja-peco-nm1y2-oad-12.md#cl-18344) · [Clase siguiente →](#cl-18346)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Evaluar las herramientas necesarias para poder trabajar con información requerida {#cl-18250}
+### Clase 2 de 3: Practicar juntos con apoyo: Evaluar las herramientas necesarias para poder trabajar con información requerida {#cl-18346}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar las herramientas necesarias para poder trabajar con información requerida» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Evaluar las herramientas necesarias para poder trabajar con información requerida.
@@ -454,9 +454,9 @@ Respuesta: Lista breve para 4; tabla o gráfico para 40
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18249) · [Clase siguiente →](#cl-18251)
+[← Clase anterior](#cl-18345) · [Clase siguiente →](#cl-18347)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar las herramientas necesarias para poder trabajar con información requerida {#cl-18251}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar las herramientas necesarias para poder trabajar con información requerida {#cl-18347}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar las herramientas necesarias para poder trabajar con información requerida» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Evaluar las herramientas necesarias para poder trabajar con información requerida.
@@ -661,7 +661,7 @@ Respuesta: B
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18250) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-14.md#cl-18252)
+[← Clase anterior](#cl-18346) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-14.md#cl-18348)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

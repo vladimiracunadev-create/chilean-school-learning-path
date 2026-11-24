@@ -69,6 +69,8 @@ Prefijo de todas las direcciones: `https://www.curriculumnacional.cl`.
 | 7 | Educación Media Nivel 1 (general y diferenciada) | 6 | 480 |
 | | **Total publicado hoy** | **17** | **1.392** |
 
+Reconciliación del bloque 6 (24-nov-2026): el programa de Inglés de Nivel 2 declara 4 módulos de 24 horas y 16 desempeños de 6 horas cada uno, es decir 96 clases; coincide con la cifra del inventario y no hubo que corregirla. Los programas oficiales mencionan videos y audio; el proyecto no incluye audio ni video, así que esas actividades se trabajan con guion o transcripción escrita.
+
 Esta cifra reemplaza la estimación inicial de 250 a 3.000 clases. Cada programa tiene 4 módulos obligatorios con 4 actividades de desempeño cada uno (16 por asignatura, 272 en total); las clases se reparten dentro de cada desempeño según las horas que el propio programa le asigna.
 
 ## 4. Pendiente declarado y motivo

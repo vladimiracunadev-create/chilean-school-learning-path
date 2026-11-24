@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17805) · [Clase 2](#cl-17806) · [Clase 3](#cl-17807) · [Clase 4](#cl-17808) · [Clase 5](#cl-17809) · [Clase 6](#cl-17810)
+**Clases de este OA:** [Clase 1](#cl-17901) · [Clase 2](#cl-17902) · [Clase 3](#cl-17903) · [Clase 4](#cl-17904) · [Clase 5](#cl-17905) · [Clase 6](#cl-17906)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17805}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17901}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados.
@@ -250,9 +250,9 @@ Respuesta: Título: La reja. Género: texto dramático. Personajes: Laura y Marc
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-12.md#cl-17804) · [Clase siguiente →](#cl-17806)
+[← Última clase del OA anterior](epja-leco-nb2-oad-12.md#cl-17900) · [Clase siguiente →](#cl-17902)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17806}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17902}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados.
@@ -457,9 +457,9 @@ Respuesta: Rojas Pérez, Ana. El paradero. Talca: Editorial Río Claro, 2017.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17805) · [Clase siguiente →](#cl-17807)
+[← Clase anterior](#cl-17901) · [Clase siguiente →](#cl-17903)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17807}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17903}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados.
@@ -665,9 +665,9 @@ Respuesta: Hoy se retrasó para la reunión
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17806) · [Clase siguiente →](#cl-17808)
+[← Clase anterior](#cl-17902) · [Clase siguiente →](#cl-17904)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17808}
+### Clase 4 de 6: Practicar juntos con apoyo: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17904}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados.
@@ -872,9 +872,9 @@ Respuesta: Piden la sede el sábado para una reunión chica
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17807) · [Clase siguiente →](#cl-17809)
+[← Clase anterior](#cl-17903) · [Clase siguiente →](#cl-17905)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17809}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17905}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados.
@@ -1078,9 +1078,9 @@ Respuesta: «El comité» es un texto dramático breve sobre cómo se organizan 
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17808) · [Clase siguiente →](#cl-17810)
+[← Clase anterior](#cl-17904) · [Clase siguiente →](#cl-17906)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17810}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados {#cl-17906}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Sintetizar en una ficha bibliográfica información sobre textos dramáticos seleccionados.
@@ -1288,7 +1288,7 @@ Respuesta: Berta compra un diario en el kiosco de Nicolás, que se lo entrega si
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17809) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-14.md#cl-17811)
+[← Clase anterior](#cl-17905) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-14.md#cl-17907)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17847) · [Clase 2](#cl-17848) · [Clase 3](#cl-17849) · [Clase 4](#cl-17850) · [Clase 5](#cl-17851) · [Clase 6](#cl-17852)
+**Clases de este OA:** [Clase 1](#cl-17943) · [Clase 2](#cl-17944) · [Clase 3](#cl-17945) · [Clase 4](#cl-17946) · [Clase 5](#cl-17947) · [Clase 6](#cl-17948)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17847}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17943}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar datos, seleccionar una estrategia de cálculo de operatoria combinada» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada.
@@ -248,9 +248,9 @@ Respuesta: 6 litros
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-03.md#cl-17846) · [Clase siguiente →](#cl-17848)
+[← Última clase del OA anterior](epja-mate-nb2-oad-03.md#cl-17942) · [Clase siguiente →](#cl-17944)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17848}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17944}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar datos, seleccionar una estrategia de cálculo de operatoria combinada» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada.
@@ -454,9 +454,9 @@ Respuesta: 3
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17847) · [Clase siguiente →](#cl-17849)
+[← Clase anterior](#cl-17943) · [Clase siguiente →](#cl-17945)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17849}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17945}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar datos, seleccionar una estrategia de cálculo de operatoria combinada» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada.
@@ -660,9 +660,9 @@ Respuesta: 1/3
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17848) · [Clase siguiente →](#cl-17850)
+[← Clase anterior](#cl-17944) · [Clase siguiente →](#cl-17946)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17850}
+### Clase 4 de 6: Practicar juntos con apoyo: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17946}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar datos, seleccionar una estrategia de cálculo de operatoria combinada» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada.
@@ -866,9 +866,9 @@ Respuesta: 14,5 km
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17849) · [Clase siguiente →](#cl-17851)
+[← Clase anterior](#cl-17945) · [Clase siguiente →](#cl-17947)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17851}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17947}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar datos, seleccionar una estrategia de cálculo de operatoria combinada» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada.
@@ -1072,9 +1072,9 @@ Respuesta: 2 1/4 kg
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17850) · [Clase siguiente →](#cl-17852)
+[← Clase anterior](#cl-17946) · [Clase siguiente →](#cl-17948)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17852}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada {#cl-17948}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar datos, seleccionar una estrategia de cálculo de operatoria combinada» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada.
@@ -1278,7 +1278,7 @@ Respuesta: El exacto es 2/3
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17851) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-05.md#cl-17853)
+[← Clase anterior](#cl-17947) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-05.md#cl-17949)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17895) · [Clase 2](#cl-17896) · [Clase 3](#cl-17897) · [Clase 4](#cl-17898) · [Clase 5](#cl-17899) · [Clase 6](#cl-17900)
+**Clases de este OA:** [Clase 1](#cl-17991) · [Clase 2](#cl-17992) · [Clase 3](#cl-17993) · [Clase 4](#cl-17994) · [Clase 5](#cl-17995) · [Clase 6](#cl-17996)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17895}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17991}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar.
@@ -248,9 +248,9 @@ Respuesta: No: cambió el tamaño
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-11.md#cl-17894) · [Clase siguiente →](#cl-17896)
+[← Última clase del OA anterior](epja-mate-nb2-oad-11.md#cl-17990) · [Clase siguiente →](#cl-17992)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17896}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17992}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar.
@@ -454,9 +454,9 @@ Respuesta: Reflexión
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17895) · [Clase siguiente →](#cl-17897)
+[← Clase anterior](#cl-17991) · [Clase siguiente →](#cl-17993)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17897}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17993}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar.
@@ -660,9 +660,9 @@ Respuesta: El centro es (5, 4)
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17896) · [Clase siguiente →](#cl-17898)
+[← Clase anterior](#cl-17992) · [Clase siguiente →](#cl-17994)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17898}
+### Clase 4 de 6: Practicar juntos con apoyo: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17994}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar.
@@ -866,9 +866,9 @@ Respuesta: Área 8 m² y perímetro 12 m
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17897) · [Clase siguiente →](#cl-17899)
+[← Clase anterior](#cl-17993) · [Clase siguiente →](#cl-17995)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17899}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17995}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar.
@@ -1072,9 +1072,9 @@ Respuesta: 3 baldosas
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17898) · [Clase siguiente →](#cl-17900)
+[← Clase anterior](#cl-17994) · [Clase siguiente →](#cl-17996)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17900}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar {#cl-17996}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar.
@@ -1278,7 +1278,7 @@ Respuesta: En el mismo lugar, (8, 5)
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17899) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-13.md#cl-17901)
+[← Clase anterior](#cl-17995) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-13.md#cl-17997)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

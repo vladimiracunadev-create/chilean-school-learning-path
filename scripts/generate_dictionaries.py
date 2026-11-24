@@ -25,6 +25,10 @@ LEVELS = {
     "07": ("7-basico", "7.º básico"), "08": ("8-basico", "8.º básico"), "09": ("1-medio", "1.º medio"),
     "10": ("2-medio", "2.º medio"), "11": ("3-medio", "3.º medio"), "12": ("4-medio", "4.º medio"),
 }
+# Diccionarios para personas jóvenes y adultas (EPJA): solo inglés, un archivo por nivel de la modalidad.
+EPJA_LEVELS = {
+    "epja-nb2": ("epja-basica-n2", "EPJA Educación Básica Nivel 2 (5.º y 6.º básico)"),
+}
 ES_WORD_FIELDS = 8
 ES_VERB_FIELDS = 10
 EN_WORD_FIELDS = 9
@@ -153,7 +157,36 @@ def english(module, label: str) -> str:
     return render_english(words, verbs, module.NIVEL)
 
 
+def render_english_epja(words, verbs, nivel_slug: str) -> str:
+    nivel = next(name for slug, name in EPJA_LEVELS.values() if slug == nivel_slug)
+    lines = [
+        f"# Diccionario de inglés · {nivel}", "",
+        "[Volver a los diccionarios](../README.md)", "",
+        f"Este diccionario reúne **{len(words)} palabras nuevas** y **{len(verbs)} verbos nuevos** en inglés para personas jóvenes y adultas "
+        "que estudian Inglés en la Educación de Personas Jóvenes y Adultas (nivel A1 a A2): vocabulario de trabajo, trámites, "
+        "familia, barrio, transporte, comida y salud sencilla. Las palabras básicas comunes (colores, números, familia cercana, rutinas simples, "
+        "verbos como go, eat o work) NO se repiten aquí: ya están en los diccionarios de [1.º básico](../1-basico/ingles.md) a "
+        "[6.º básico](../6-basico/ingles.md) y de los niveles siguientes. Cada entrada trae la traducción al español, la pronunciación, "
+        "el significado explicado en español y una oración de ejemplo con su traducción.", "",
+        "> **Sobre la pronunciación:** la columna «Cómo suena» es una aproximación escrita para quien habla español; "
+        "la sílaba que se dice más fuerte va en MAYÚSCULAS. La columna IPA usa el alfabeto fonético internacional con la "
+        "variante estadounidense. Ninguna de las dos reemplaza escuchar a un hablante nativo o una grabación: "
+        "este proyecto todavía no incluye audio.", "",
+        "> **Importante:** es una selección propia de este proyecto, escrita por IA y sin revisión de especialistas en enseñanza de idiomas. "
+        "No es un listado oficial del Ministerio de Educación ni reemplaza a un diccionario publicado. Las oraciones de ejemplo son inventadas.", "",
+        "## Cómo usarlo", "",
+        "1. Busca la palabra por su letra inicial.",
+        "2. Lee cómo suena y repítela en voz alta tres veces.",
+        "3. Lee la oración de ejemplo en inglés y luego en español.",
+        "4. Inventa una oración parecida sobre tu trabajo, tu familia o tu barrio.", "",
+        "## Palabras por orden alfabético", "",
+    ]
+    return _english_body(lines, words, verbs)
+
+
 def render_english(words, verbs, nivel_slug: str) -> str:
+    if any(slug == nivel_slug for slug, _ in EPJA_LEVELS.values()):
+        return render_english_epja(words, verbs, nivel_slug)
     nivel = next(name for slug, name in LEVELS.values() if slug == nivel_slug)
     prev_note = previous_note(nivel_slug, "ingles.md")
     lines = [
@@ -176,6 +209,10 @@ def render_english(words, verbs, nivel_slug: str) -> str:
         "4. Inventa una oración parecida con otra palabra de la lista.", "",
         "## Palabras por orden alfabético", "",
     ]
+    return _english_body(lines, words, verbs)
+
+
+def _english_body(lines, words, verbs) -> str:
     by_letter: dict[str, list] = {}
     for row in words:
         by_letter.setdefault(letter_of(row[0]), []).append(row)
@@ -249,6 +286,28 @@ def main(argv: list[str]) -> int:
             folder.mkdir(parents=True, exist_ok=True)
             (folder / "espanol.md").write_text(es_text, encoding="utf-8", newline="\n")
             (folder / "ingles.md").write_text(en_text, encoding="utf-8", newline="\n")
+    epja_summary = []
+    for code, (slug, name) in EPJA_LEVELS.items():
+        en_name = f"dict_data_en_{code.replace('-', '_')}"
+        if not (DATA / f"{en_name}.py").exists():
+            continue
+        en_mod = importlib.import_module(en_name)
+        for r in rows(en_mod.PALABRAS, EN_WORD_FIELDS, ""):
+            key = (r[0].lower(), r[1])
+            if key in seen_en:
+                problems.append(f"inglés {name}: «{r[0]}» ({r[1]}) ya estaba en {seen_en[key]}")
+            seen_en.setdefault(key, name)
+        for r in rows(en_mod.VERBOS, EN_VERB_FIELDS, ""):
+            key = (r[0].lower(), "verb")
+            if key in seen_en:
+                problems.append(f"inglés {name}: verbo «{r[0]}» ya estaba en {seen_en[key]}")
+            seen_en.setdefault(key, name)
+        en_text = english(en_mod, en_name)
+        epja_summary.append((slug, name, len(rows(en_mod.PALABRAS, EN_WORD_FIELDS, "")), len(rows(en_mod.VERBOS, EN_VERB_FIELDS, ""))))
+        if not check_only:
+            folder = OUT / slug
+            folder.mkdir(parents=True, exist_ok=True)
+            (folder / "ingles.md").write_text(en_text, encoding="utf-8", newline="\n")
     if not summary:
         print("No hay datos de diccionarios.")
         return 1
@@ -257,13 +316,15 @@ def main(argv: list[str]) -> int:
         print(f"{len(problems)} palabras repetidas entre niveles")
         return 1
     if not check_only:
-        write_index(summary)
+        write_index(summary, epja_summary)
     for slug, name, n_es, n_en in summary:
         print(f"{name}: español {n_es[0]} palabras + {n_es[1]} verbos · inglés {n_en[0]} palabras + {n_en[1]} verbos")
+    for slug, name, n_w, n_v in epja_summary:
+        print(f"{name}: inglés {n_w} palabras + {n_v} verbos")
     return 0
 
 
-def write_index(summary) -> None:
+def write_index(summary, epja_summary=()) -> None:
     lines = [
         "# Diccionarios por nivel: español e inglés", "",
         "[Volver al README principal](../../README.md) · [Glosario del proyecto](../GLOSARIO.md)", "",
@@ -285,6 +346,17 @@ def write_index(summary) -> None:
             lines.append(f"| {name} | {n_es[0]} + {n_es[1]} | {n_en[0]} + {n_en[1]} | {cum_es} / {cum_en} | [Español]({slug}/espanol.md) · [Inglés]({slug}/ingles.md) |")
         else:
             lines.append(f"| {name} | pendiente | pendiente | - | en preparación |")
+    if epja_summary:
+        lines += [
+            "", "## Educación de Personas Jóvenes y Adultas (EPJA)", "",
+            "Para las personas que estudian Inglés en la modalidad EPJA hay un diccionario propio, de **inglés**, con vocabulario adulto "
+            "(trabajo, trámites, familia, barrio, transporte, comida y salud sencilla). No repite las palabras de los diccionarios de "
+            "1.º básico a 4.º medio: las palabras básicas comunes están en los diccionarios de 1.º a 6.º básico. Mismo alcance que los demás: "
+            "selección propia, sin revisión de especialistas y con pronunciación aproximada, sin audio.", "",
+            "| Nivel | Inglés: palabras + verbos nuevos | Abrir |", "|---|---:|---|",
+        ]
+        for slug, name, n_w, n_v in epja_summary:
+            lines.append(f"| {name} | {n_w} + {n_v} | [Inglés]({slug}/ingles.md) |")
     lines.append("")
     (OUT / "README.md").write_text("\n".join(lines), encoding="utf-8", newline="\n")
 

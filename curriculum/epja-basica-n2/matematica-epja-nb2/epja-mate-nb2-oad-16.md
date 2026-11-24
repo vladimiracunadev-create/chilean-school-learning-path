@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17919) · [Clase 2](#cl-17920) · [Clase 3](#cl-17921) · [Clase 4](#cl-17922) · [Clase 5](#cl-17923) · [Clase 6](#cl-17924)
+**Clases de este OA:** [Clase 1](#cl-18015) · [Clase 2](#cl-18016) · [Clase 3](#cl-18017) · [Clase 4](#cl-18018) · [Clase 5](#cl-18019) · [Clase 6](#cl-18020)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Contrastar utilizando los criterios de moda {#cl-17919}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Contrastar utilizando los criterios de moda {#cl-18015}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «contrastar utilizando los criterios de moda» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Contrastar utilizando los criterios de moda.
@@ -250,9 +250,9 @@ Respuesta: El grupo 2, con 25 minutos por persona
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-15.md#cl-17918) · [Clase siguiente →](#cl-17920)
+[← Última clase del OA anterior](epja-mate-nb2-oad-15.md#cl-18014) · [Clase siguiente →](#cl-18016)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Contrastar utilizando los criterios de moda {#cl-17920}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Contrastar utilizando los criterios de moda {#cl-18016}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «contrastar utilizando los criterios de moda» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Contrastar utilizando los criterios de moda.
@@ -458,9 +458,9 @@ Respuesta: Norte prefiere la tarde; Sur, la mañana
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17919) · [Clase siguiente →](#cl-17921)
+[← Clase anterior](#cl-18015) · [Clase siguiente →](#cl-18017)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Contrastar utilizando los criterios de moda {#cl-17921}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Contrastar utilizando los criterios de moda {#cl-18017}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «contrastar utilizando los criterios de moda» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Contrastar utilizando los criterios de moda.
@@ -665,9 +665,9 @@ Respuesta: Los dos, 105 kilos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17920) · [Clase siguiente →](#cl-17922)
+[← Clase anterior](#cl-18016) · [Clase siguiente →](#cl-18018)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Contrastar utilizando los criterios de moda {#cl-17922}
+### Clase 4 de 6: Practicar juntos con apoyo: Contrastar utilizando los criterios de moda {#cl-18018}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «contrastar utilizando los criterios de moda» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Contrastar utilizando los criterios de moda.
@@ -872,9 +872,9 @@ Respuesta: 2, 2, 2, 3
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17921) · [Clase siguiente →](#cl-17923)
+[← Clase anterior](#cl-18017) · [Clase siguiente →](#cl-18019)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Contrastar utilizando los criterios de moda {#cl-17923}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Contrastar utilizando los criterios de moda {#cl-18019}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «contrastar utilizando los criterios de moda» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Contrastar utilizando los criterios de moda.
@@ -1079,9 +1079,9 @@ Respuesta: «En promedio esperan igual, 5 minutos, pero en la sede Este la esper
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17922) · [Clase siguiente →](#cl-17924)
+[← Clase anterior](#cl-18018) · [Clase siguiente →](#cl-18020)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Contrastar utilizando los criterios de moda {#cl-17924}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Contrastar utilizando los criterios de moda {#cl-18020}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «contrastar utilizando los criterios de moda» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Contrastar utilizando los criterios de moda.
@@ -1286,7 +1286,7 @@ Respuesta: Misma media, 6; Rojo tiene mediana y moda menores
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17923)
+[← Clase anterior](#cl-18019)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

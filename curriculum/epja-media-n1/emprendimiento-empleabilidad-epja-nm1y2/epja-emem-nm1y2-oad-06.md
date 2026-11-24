@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17988) · [Clase 2](#cl-17989) · [Clase 3](#cl-17990)
+**Clases de este OA:** [Clase 1](#cl-18084) · [Clase 2](#cl-18085) · [Clase 3](#cl-18086)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Evaluar las implicancias de las regulaciones asociadas a la creación y operación {#cl-17988}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Evaluar las implicancias de las regulaciones asociadas a la creación y operación {#cl-18084}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar las implicancias de las regulaciones asociadas a la creación y operación» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Evaluar las implicancias de las regulaciones asociadas a la creación y operación.
@@ -248,9 +248,9 @@ Respuesta: En la fuente oficial vigente
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-emem-nm1y2-oad-05.md#cl-17987) · [Clase siguiente →](#cl-17989)
+[← Última clase del OA anterior](epja-emem-nm1y2-oad-05.md#cl-18083) · [Clase siguiente →](#cl-18085)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Evaluar las implicancias de las regulaciones asociadas a la creación y operación {#cl-17989}
+### Clase 2 de 3: Practicar juntos con apoyo: Evaluar las implicancias de las regulaciones asociadas a la creación y operación {#cl-18085}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar las implicancias de las regulaciones asociadas a la creación y operación» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Evaluar las implicancias de las regulaciones asociadas a la creación y operación.
@@ -454,9 +454,9 @@ Respuesta: $428.000
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17988) · [Clase siguiente →](#cl-17990)
+[← Clase anterior](#cl-18084) · [Clase siguiente →](#cl-18086)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar las implicancias de las regulaciones asociadas a la creación y operación {#cl-17990}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar las implicancias de las regulaciones asociadas a la creación y operación {#cl-18086}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar las implicancias de las regulaciones asociadas a la creación y operación» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Evaluar las implicancias de las regulaciones asociadas a la creación y operación.
@@ -660,7 +660,7 @@ Respuesta: El documento de la municipalidad
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17989) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-07.md#cl-17991)
+[← Clase anterior](#cl-18085) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-07.md#cl-18087)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

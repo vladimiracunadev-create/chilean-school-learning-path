@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17787) · [Clase 2](#cl-17788) · [Clase 3](#cl-17789) · [Clase 4](#cl-17790) · [Clase 5](#cl-17791) · [Clase 6](#cl-17792)
+**Clases de este OA:** [Clase 1](#cl-17883) · [Clase 2](#cl-17884) · [Clase 3](#cl-17885) · [Clase 4](#cl-17886) · [Clase 5](#cl-17887) · [Clase 6](#cl-17888)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Evaluar textos audiovisuales {#cl-17787}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Evaluar textos audiovisuales {#cl-17883}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar textos audiovisuales» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Evaluar textos audiovisuales.
@@ -250,9 +250,9 @@ Respuesta: La primera es un hecho; la segunda, una opinión
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-09.md#cl-17786) · [Clase siguiente →](#cl-17788)
+[← Última clase del OA anterior](epja-leco-nb2-oad-09.md#cl-17882) · [Clase siguiente →](#cl-17884)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Evaluar textos audiovisuales {#cl-17788}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Evaluar textos audiovisuales {#cl-17884}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar textos audiovisuales» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Evaluar textos audiovisuales.
@@ -459,9 +459,9 @@ Respuesta: Tesis: más sillas. Argumento: el taller se llena
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17787) · [Clase siguiente →](#cl-17789)
+[← Clase anterior](#cl-17883) · [Clase siguiente →](#cl-17885)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Evaluar textos audiovisuales {#cl-17789}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Evaluar textos audiovisuales {#cl-17885}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar textos audiovisuales» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Evaluar textos audiovisuales.
@@ -668,9 +668,9 @@ Respuesta: Promete: presente. Prometió: pasado. Prometerá: futuro
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17788) · [Clase siguiente →](#cl-17790)
+[← Clase anterior](#cl-17884) · [Clase siguiente →](#cl-17886)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Evaluar textos audiovisuales {#cl-17790}
+### Clase 4 de 6: Practicar juntos con apoyo: Evaluar textos audiovisuales {#cl-17886}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar textos audiovisuales» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Evaluar textos audiovisuales.
@@ -876,9 +876,9 @@ Respuesta: Corazón, lápiz, pájaro
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17789) · [Clase siguiente →](#cl-17791)
+[← Clase anterior](#cl-17885) · [Clase siguiente →](#cl-17887)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar textos audiovisuales {#cl-17791}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar textos audiovisuales {#cl-17887}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar textos audiovisuales» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Evaluar textos audiovisuales.
@@ -1084,9 +1084,9 @@ Respuesta: Pregunta: por qué. Respuesta: porque
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17790) · [Clase siguiente →](#cl-17792)
+[← Clase anterior](#cl-17886) · [Clase siguiente →](#cl-17888)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Evaluar textos audiovisuales {#cl-17792}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Evaluar textos audiovisuales {#cl-17888}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar textos audiovisuales» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Evaluar textos audiovisuales.
@@ -1292,7 +1292,7 @@ Respuesta: Explica, explicó, explicará
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17791) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-11.md#cl-17793)
+[← Clase anterior](#cl-17887) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-11.md#cl-17889)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

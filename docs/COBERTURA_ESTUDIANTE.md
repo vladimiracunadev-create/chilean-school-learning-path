@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 13916 de 14.152 clases desarrolladas tienen cuaderno del estudiante (98,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 14012 de 14.248 clases desarrolladas tienen cuaderno del estudiante (98,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -29,7 +29,7 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 3.º medio TP | 1.281 | 1.281 | 0 | completo | 0 | 21.777 | 2.562 | pendiente |
 | 4.º medio TP | 1.464 | 1.464 | 0 | completo | 0 | 24.888 | 2.928 | pendiente |
 | EPJA básica N1 | 238 | 238 | 0 | completo | 0 | 4.046 | 476 | pendiente |
-| EPJA básica N2 | 384 | 384 | 0 | completo | 0 | 6.528 | 768 | pendiente |
+| EPJA básica N2 | 480 | 480 | 0 | completo | 0 | 8.160 | 960 | pendiente |
 | EPJA media N1 | 192 | 192 | 0 | completo | 0 | 3.264 | 384 | pendiente |
 | EPJA media N2 | 192 | 192 | 0 | completo | 0 | 3.264 | 384 | pendiente |
 
@@ -747,6 +747,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-14 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-15 | 6 | 6 | 102 | 12 |
 | EPJA básica N2 | historia-geografia-ciencias-sociales-epja-nb2 | EPJA-HGCS-NB2-OAD-16 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-01 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-02 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-03 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-04 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-05 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-06 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-07 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-08 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-09 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-10 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-11 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-12 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-13 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-14 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-15 | 6 | 6 | 102 | 12 |
+| EPJA básica N2 | ingles-epja-nb2 | EPJA-INGL-NB2-OAD-16 | 6 | 6 | 102 | 12 |
 | EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-01 | 9 | 9 | 153 | 18 |
 | EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-02 | 7 | 7 | 119 | 14 |
 | EPJA básica N1 | lenguaje-comunicacion-epja-nb1 | EPJA-LECO-NB1-OAD-03 | 7 | 7 | 119 | 14 |
@@ -3010,6 +3026,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1835 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1838 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

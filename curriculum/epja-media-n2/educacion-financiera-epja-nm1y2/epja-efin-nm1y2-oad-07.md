@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18135) · [Clase 2](#cl-18136) · [Clase 3](#cl-18137)
+**Clases de este OA:** [Clase 1](#cl-18231) · [Clase 2](#cl-18232) · [Clase 3](#cl-18233)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Definir los indicadores económicos que reflejan patrones y tendencias económicas {#cl-18135}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Definir los indicadores económicos que reflejan patrones y tendencias económicas {#cl-18231}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «definir los indicadores económicos que reflejan patrones y tendencias económicas» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Definir los indicadores económicos que reflejan patrones y tendencias económicas.
@@ -248,9 +248,9 @@ Respuesta: 2.400 pesos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-efin-nm1y2-oad-06.md#cl-18134) · [Clase siguiente →](#cl-18136)
+[← Última clase del OA anterior](epja-efin-nm1y2-oad-06.md#cl-18230) · [Clase siguiente →](#cl-18232)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Definir los indicadores económicos que reflejan patrones y tendencias económicas {#cl-18136}
+### Clase 2 de 3: Practicar juntos con apoyo: Definir los indicadores económicos que reflejan patrones y tendencias económicas {#cl-18232}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «definir los indicadores económicos que reflejan patrones y tendencias económicas» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Definir los indicadores económicos que reflejan patrones y tendencias económicas.
@@ -454,9 +454,9 @@ Respuesta: Tendencia a la baja
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18135) · [Clase siguiente →](#cl-18137)
+[← Clase anterior](#cl-18231) · [Clase siguiente →](#cl-18233)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Definir los indicadores económicos que reflejan patrones y tendencias económicas {#cl-18137}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Definir los indicadores económicos que reflejan patrones y tendencias económicas {#cl-18233}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «definir los indicadores económicos que reflejan patrones y tendencias económicas» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Definir los indicadores económicos que reflejan patrones y tendencias económicas.
@@ -660,7 +660,7 @@ Respuesta: Suele subir
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18136) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-08.md#cl-18138)
+[← Clase anterior](#cl-18232) · [Primera clase del OA siguiente →](epja-efin-nm1y2-oad-08.md#cl-18234)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

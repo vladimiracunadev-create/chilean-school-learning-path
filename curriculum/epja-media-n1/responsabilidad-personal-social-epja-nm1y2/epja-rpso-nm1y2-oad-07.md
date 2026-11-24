@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18087) · [Clase 2](#cl-18088) · [Clase 3](#cl-18089)
+**Clases de este OA:** [Clase 1](#cl-18183) · [Clase 2](#cl-18184) · [Clase 3](#cl-18185)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Internalizar y valorar el enfoque de género y la importancia de la igualdad {#cl-18087}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Internalizar y valorar el enfoque de género y la importancia de la igualdad {#cl-18183}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «internalizar y valorar el enfoque de género y la importancia de la igualdad» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Internalizar y valorar el enfoque de género y la importancia de la igualdad.
@@ -248,9 +248,9 @@ Respuesta: La frase B
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-rpso-nm1y2-oad-06.md#cl-18086) · [Clase siguiente →](#cl-18088)
+[← Última clase del OA anterior](epja-rpso-nm1y2-oad-06.md#cl-18182) · [Clase siguiente →](#cl-18184)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Internalizar y valorar el enfoque de género y la importancia de la igualdad {#cl-18088}
+### Clase 2 de 3: Practicar juntos con apoyo: Internalizar y valorar el enfoque de género y la importancia de la igualdad {#cl-18184}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «internalizar y valorar el enfoque de género y la importancia de la igualdad» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Internalizar y valorar el enfoque de género y la importancia de la igualdad.
@@ -454,9 +454,9 @@ Respuesta: «Se necesitan personas con capacidad para cargar y ordenar mercader�
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18087) · [Clase siguiente →](#cl-18089)
+[← Clase anterior](#cl-18183) · [Clase siguiente →](#cl-18185)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Internalizar y valorar el enfoque de género y la importancia de la igualdad {#cl-18089}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Internalizar y valorar el enfoque de género y la importancia de la igualdad {#cl-18185}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «internalizar y valorar el enfoque de género y la importancia de la igualdad» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Internalizar y valorar el enfoque de género y la importancia de la igualdad.
@@ -660,7 +660,7 @@ Respuesta: Cambiar el horario o compartir un resumen
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18088) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-08.md#cl-18090)
+[← Clase anterior](#cl-18184) · [Primera clase del OA siguiente →](epja-rpso-nm1y2-oad-08.md#cl-18186)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

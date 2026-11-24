@@ -1,6 +1,6 @@
 # Historia, Geografía y Ciencias Sociales · EPJA Básica N2
 
-[⬅️ Índice de asignaturas EPJA](README.md) · [← Ciencias Naturales · EPJA Básica N2](ciencias-naturales-epja-nb2.md) · [Lenguaje y Comunicación · EPJA Básica N2 →](lenguaje-comunicacion-epja-nb2.md)
+[⬅️ Índice de asignaturas EPJA](README.md) · [← Ciencias Naturales · EPJA Básica N2](ciencias-naturales-epja-nb2.md) · [Inglés · EPJA Básica N2 →](ingles-epja-nb2.md)
 
 **16 actividades de desempeño (objetivos) · 96 clases · cuaderno del estudiante escrito en 96 de 96 clases · revisión humana pendiente**
 

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17769) · [Clase 2](#cl-17770) · [Clase 3](#cl-17771) · [Clase 4](#cl-17772) · [Clase 5](#cl-17773) · [Clase 6](#cl-17774)
+**Clases de este OA:** [Clase 1](#cl-17865) · [Clase 2](#cl-17866) · [Clase 3](#cl-17867) · [Clase 4](#cl-17868) · [Clase 5](#cl-17869) · [Clase 6](#cl-17870)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17769}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17865}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «escribir un párrafo para las redes sociales en el que expresen hechos y opiniones» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones.
@@ -250,9 +250,9 @@ Respuesta: El hecho es el reparto de 40 platos y la opinión es que fue una acti
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-06.md#cl-17768) · [Clase siguiente →](#cl-17770)
+[← Última clase del OA anterior](epja-leco-nb2-oad-06.md#cl-17864) · [Clase siguiente →](#cl-17866)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17770}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17866}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «escribir un párrafo para las redes sociales en el que expresen hechos y opiniones» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones.
@@ -458,9 +458,9 @@ Respuesta: El antónimo de abrir es cerrar.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17769) · [Clase siguiente →](#cl-17771)
+[← Clase anterior](#cl-17865) · [Clase siguiente →](#cl-17867)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17771}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17867}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «escribir un párrafo para las redes sociales en el que expresen hechos y opiniones» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones.
@@ -666,9 +666,9 @@ Respuesta: Se usa «porque» para dar la razón.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17770) · [Clase siguiente →](#cl-17772)
+[← Clase anterior](#cl-17866) · [Clase siguiente →](#cl-17868)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17772}
+### Clase 4 de 6: Practicar juntos con apoyo: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17868}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «escribir un párrafo para las redes sociales en el que expresen hechos y opiniones» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones.
@@ -874,9 +874,9 @@ Respuesta: envase y cambio
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17771) · [Clase siguiente →](#cl-17773)
+[← Clase anterior](#cl-17867) · [Clase siguiente →](#cl-17869)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17773}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17869}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «escribir un párrafo para las redes sociales en el que expresen hechos y opiniones» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones.
@@ -1082,9 +1082,9 @@ Respuesta: No se publican teléfonos personales sin permiso.
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17772) · [Clase siguiente →](#cl-17774)
+[← Clase anterior](#cl-17868) · [Clase siguiente →](#cl-17870)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17774}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones {#cl-17870}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «escribir un párrafo para las redes sociales en el que expresen hechos y opiniones» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Escribir un párrafo para las redes sociales en el que expresen hechos y opiniones.
@@ -1289,7 +1289,7 @@ Respuesta: El lunes se repartió pan en la plaza. Me pareció una linda activida
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17773) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-08.md#cl-17775)
+[← Clase anterior](#cl-17869) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-08.md#cl-17871)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

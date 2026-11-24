@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17859) · [Clase 2](#cl-17860) · [Clase 3](#cl-17861) · [Clase 4](#cl-17862) · [Clase 5](#cl-17863) · [Clase 6](#cl-17864)
+**Clases de este OA:** [Clase 1](#cl-17955) · [Clase 2](#cl-17956) · [Clase 3](#cl-17957) · [Clase 4](#cl-17958) · [Clase 5](#cl-17959) · [Clase 6](#cl-17960)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17859}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17955}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar patrones en secuencias numéricas con o sin contexto y aplicarlos» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos.
@@ -248,9 +248,9 @@ Respuesta: Duplica; tendrá 32 g
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-05.md#cl-17858) · [Clase siguiente →](#cl-17860)
+[← Última clase del OA anterior](epja-mate-nb2-oad-05.md#cl-17954) · [Clase siguiente →](#cl-17956)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17860}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17956}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar patrones en secuencias numéricas con o sin contexto y aplicarlos» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos.
@@ -454,9 +454,9 @@ Respuesta: 4, 8 y 12
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17859) · [Clase siguiente →](#cl-17861)
+[← Clase anterior](#cl-17955) · [Clase siguiente →](#cl-17957)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17861}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17957}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar patrones en secuencias numéricas con o sin contexto y aplicarlos» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos.
@@ -660,9 +660,9 @@ Respuesta: 2n + 10
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17860) · [Clase siguiente →](#cl-17862)
+[← Clase anterior](#cl-17956) · [Clase siguiente →](#cl-17958)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17862}
+### Clase 4 de 6: Practicar juntos con apoyo: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17958}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar patrones en secuencias numéricas con o sin contexto y aplicarlos» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos.
@@ -866,9 +866,9 @@ Respuesta: 5, 8, 11, 14, 17
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17861) · [Clase siguiente →](#cl-17863)
+[← Clase anterior](#cl-17957) · [Clase siguiente →](#cl-17959)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17863}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17959}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar patrones en secuencias numéricas con o sin contexto y aplicarlos» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos.
@@ -1072,9 +1072,9 @@ Respuesta: 12, 24, 36, 48, 60; expresión 12n
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17862) · [Clase siguiente →](#cl-17864)
+[← Clase anterior](#cl-17958) · [Clase siguiente →](#cl-17960)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17864}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos {#cl-17960}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «identificar patrones en secuencias numéricas con o sin contexto y aplicarlos» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos.
@@ -1278,7 +1278,7 @@ Respuesta: 10, 13, 16, 19
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17863) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-07.md#cl-17865)
+[← Clase anterior](#cl-17959) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-07.md#cl-17961)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

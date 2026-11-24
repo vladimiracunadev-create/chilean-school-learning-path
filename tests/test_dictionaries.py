@@ -55,6 +55,28 @@ class DictionaryTests(unittest.TestCase):
             self.assertEqual(published_es, gd.spanish(es, code))
             self.assertEqual(published_en, gd.english(en, code))
 
+    def test_epja_english_dictionary_is_new_vocabulary_and_published(self):
+        seen = set()
+        for code in self.levels():
+            en = importlib.import_module(f"dict_data_en_{code}")
+            seen.update((row[0].lower(), row[1]) for row in gd.rows(en.PALABRAS, gd.EN_WORD_FIELDS, ""))
+            seen.update((row[0].lower(), "verb") for row in gd.rows(en.VERBOS, gd.EN_VERB_FIELDS, ""))
+        for code, (slug, _name) in gd.EPJA_LEVELS.items():
+            mod = importlib.import_module(f"dict_data_en_{code.replace('-', '_')}")
+            self.assertEqual(mod.NIVEL, slug)
+            words = gd.rows(mod.PALABRAS, gd.EN_WORD_FIELDS, "")
+            verbs = gd.rows(mod.VERBOS, gd.EN_VERB_FIELDS, "")
+            self.assertGreater(len(words), 200)
+            self.assertGreater(len(verbs), 30)
+            for row in words:
+                self.assertNotIn((row[0].lower(), row[1]), seen, row[0])
+            for row in verbs:
+                self.assertNotIn((row[0].lower(), "verb"), seen, row[0])
+            published = (ROOT / "docs" / "diccionarios" / slug / "ingles.md").read_text(encoding="utf-8")
+            self.assertEqual(published, gd.english(mod, code))
+            index = (ROOT / "docs" / "diccionarios" / "README.md").read_text(encoding="utf-8")
+            self.assertIn(f"{slug}/ingles.md", index)
+
     def test_main_readme_links_the_dictionaries(self):
         self.assertIn("docs/diccionarios/README.md", (ROOT / "README.md").read_text(encoding="utf-8"))
 

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18003) · [Clase 2](#cl-18004) · [Clase 3](#cl-18005)
+**Clases de este OA:** [Clase 1](#cl-18099) · [Clase 2](#cl-18100) · [Clase 3](#cl-18101)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Evaluar un prototipo de emprendimiento {#cl-18003}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Evaluar un prototipo de emprendimiento {#cl-18099}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar un prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Evaluar un prototipo de emprendimiento.
@@ -248,9 +248,9 @@ Respuesta: La hora 7:30
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-emem-nm1y2-oad-10.md#cl-18002) · [Clase siguiente →](#cl-18004)
+[← Última clase del OA anterior](epja-emem-nm1y2-oad-10.md#cl-18098) · [Clase siguiente →](#cl-18100)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Evaluar un prototipo de emprendimiento {#cl-18004}
+### Clase 2 de 3: Practicar juntos con apoyo: Evaluar un prototipo de emprendimiento {#cl-18100}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar un prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Evaluar un prototipo de emprendimiento.
@@ -454,9 +454,9 @@ Respuesta: «¿Qué te parece el precio y por qué?»
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18003) · [Clase siguiente →](#cl-18005)
+[← Clase anterior](#cl-18099) · [Clase siguiente →](#cl-18101)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar un prototipo de emprendimiento {#cl-18005}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Evaluar un prototipo de emprendimiento {#cl-18101}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «evaluar un prototipo de emprendimiento» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Evaluar un prototipo de emprendimiento.
@@ -660,7 +660,7 @@ Respuesta: No: es un criterio discriminatorio
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18004) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-12.md#cl-18006)
+[← Clase anterior](#cl-18100) · [Primera clase del OA siguiente →](epja-emem-nm1y2-oad-12.md#cl-18102)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

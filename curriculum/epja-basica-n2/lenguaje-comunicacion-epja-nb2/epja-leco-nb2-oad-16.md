@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17823) · [Clase 2](#cl-17824) · [Clase 3](#cl-17825) · [Clase 4](#cl-17826) · [Clase 5](#cl-17827) · [Clase 6](#cl-17828)
+**Clases de este OA:** [Clase 1](#cl-17919) · [Clase 2](#cl-17920) · [Clase 3](#cl-17921) · [Clase 4](#cl-17922) · [Clase 5](#cl-17923) · [Clase 6](#cl-17924)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17823}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17919}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar oralmente sus preferencias al conocer la obra dramática» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Comunicar oralmente sus preferencias al conocer la obra dramática.
@@ -249,9 +249,9 @@ Respuesta: Preferencia: me gustó. Razón: muestra preocupación por un vecino
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-15.md#cl-17822) · [Clase siguiente →](#cl-17824)
+[← Última clase del OA anterior](epja-leco-nb2-oad-15.md#cl-17918) · [Clase siguiente →](#cl-17920)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17824}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17920}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar oralmente sus preferencias al conocer la obra dramática» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Comunicar oralmente sus preferencias al conocer la obra dramática.
@@ -455,9 +455,9 @@ Respuesta: La obra trata de un horario de buses
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17823) · [Clase siguiente →](#cl-17825)
+[← Clase anterior](#cl-17919) · [Clase siguiente →](#cl-17921)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17825}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17921}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar oralmente sus preferencias al conocer la obra dramática» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Comunicar oralmente sus preferencias al conocer la obra dramática.
@@ -663,9 +663,9 @@ Respuesta: La prueba es «¿Revisamos el buzón cada viernes?»
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17824) · [Clase siguiente →](#cl-17826)
+[← Clase anterior](#cl-17920) · [Clase siguiente →](#cl-17922)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17826}
+### Clase 4 de 6: Practicar juntos con apoyo: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17922}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar oralmente sus preferencias al conocer la obra dramática» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Comunicar oralmente sus preferencias al conocer la obra dramática.
@@ -869,9 +869,9 @@ Respuesta: Estuvimos aquí antes de las nueve
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17825) · [Clase siguiente →](#cl-17827)
+[← Clase anterior](#cl-17921) · [Clase siguiente →](#cl-17923)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17827}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17923}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar oralmente sus preferencias al conocer la obra dramática» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Comunicar oralmente sus preferencias al conocer la obra dramática.
@@ -1076,9 +1076,9 @@ Respuesta: La obra muestra orden: hay diez cupos y llevan una lista de quienes s
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17826) · [Clase siguiente →](#cl-17828)
+[← Clase anterior](#cl-17922) · [Clase siguiente →](#cl-17924)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17828}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comunicar oralmente sus preferencias al conocer la obra dramática {#cl-17924}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar oralmente sus preferencias al conocer la obra dramática» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Comunicar oralmente sus preferencias al conocer la obra dramática.
@@ -1285,7 +1285,7 @@ Respuesta: Buenas tardes. Les hablaré de «El letrero». El letrero dice que ab
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17827)
+[← Clase anterior](#cl-17923)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

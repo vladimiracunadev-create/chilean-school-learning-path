@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17841) · [Clase 2](#cl-17842) · [Clase 3](#cl-17843) · [Clase 4](#cl-17844) · [Clase 5](#cl-17845) · [Clase 6](#cl-17846)
+**Clases de este OA:** [Clase 1](#cl-17937) · [Clase 2](#cl-17938) · [Clase 3](#cl-17939) · [Clase 4](#cl-17940) · [Clase 5](#cl-17941) · [Clase 6](#cl-17942)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17841}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17937}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de multiplicaciones y divisiones de fracciones» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Explicar soluciones propias de multiplicaciones y divisiones de fracciones.
@@ -248,9 +248,9 @@ Respuesta: 15
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-02.md#cl-17840) · [Clase siguiente →](#cl-17842)
+[← Última clase del OA anterior](epja-mate-nb2-oad-02.md#cl-17936) · [Clase siguiente →](#cl-17938)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17842}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17938}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de multiplicaciones y divisiones de fracciones» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Explicar soluciones propias de multiplicaciones y divisiones de fracciones.
@@ -454,9 +454,9 @@ Respuesta: 6/35
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17841) · [Clase siguiente →](#cl-17843)
+[← Clase anterior](#cl-17937) · [Clase siguiente →](#cl-17939)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17843}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17939}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de multiplicaciones y divisiones de fracciones» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Explicar soluciones propias de multiplicaciones y divisiones de fracciones.
@@ -660,9 +660,9 @@ Respuesta: 0,21
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17842) · [Clase siguiente →](#cl-17844)
+[← Clase anterior](#cl-17938) · [Clase siguiente →](#cl-17940)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17844}
+### Clase 4 de 6: Practicar juntos con apoyo: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17940}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de multiplicaciones y divisiones de fracciones» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Explicar soluciones propias de multiplicaciones y divisiones de fracciones.
@@ -866,9 +866,9 @@ Respuesta: 8
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17843) · [Clase siguiente →](#cl-17845)
+[← Clase anterior](#cl-17939) · [Clase siguiente →](#cl-17941)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17845}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17941}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de multiplicaciones y divisiones de fracciones» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Explicar soluciones propias de multiplicaciones y divisiones de fracciones.
@@ -1072,9 +1072,9 @@ Respuesta: 12 tiras
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17844) · [Clase siguiente →](#cl-17846)
+[← Clase anterior](#cl-17940) · [Clase siguiente →](#cl-17942)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17846}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar soluciones propias de multiplicaciones y divisiones de fracciones {#cl-17942}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de multiplicaciones y divisiones de fracciones» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Explicar soluciones propias de multiplicaciones y divisiones de fracciones.
@@ -1278,7 +1278,7 @@ Respuesta: 1/8
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17845) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-04.md#cl-17847)
+[← Clase anterior](#cl-17941) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-04.md#cl-17943)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

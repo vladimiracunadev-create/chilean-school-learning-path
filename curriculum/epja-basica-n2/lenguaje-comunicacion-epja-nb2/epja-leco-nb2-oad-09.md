@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17781) · [Clase 2](#cl-17782) · [Clase 3](#cl-17783) · [Clase 4](#cl-17784) · [Clase 5](#cl-17785) · [Clase 6](#cl-17786)
+**Clases de este OA:** [Clase 1](#cl-17877) · [Clase 2](#cl-17878) · [Clase 3](#cl-17879) · [Clase 4](#cl-17880) · [Clase 5](#cl-17881) · [Clase 6](#cl-17882)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17781}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17877}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar elementos verbales y no verbales en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Relacionar elementos verbales y no verbales en un texto audiovisual.
@@ -250,9 +250,9 @@ Respuesta: Verbal: las palabras. No verbal: volumen, ritmo y luz roja; juntos co
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-08.md#cl-17780) · [Clase siguiente →](#cl-17782)
+[← Última clase del OA anterior](epja-leco-nb2-oad-08.md#cl-17876) · [Clase siguiente →](#cl-17878)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17782}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17878}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar elementos verbales y no verbales en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Relacionar elementos verbales y no verbales en un texto audiovisual.
@@ -460,9 +460,9 @@ Respuesta: El primero es formal; el segundo, informal
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17781) · [Clase siguiente →](#cl-17783)
+[← Clase anterior](#cl-17877) · [Clase siguiente →](#cl-17879)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17783}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17879}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar elementos verbales y no verbales en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Relacionar elementos verbales y no verbales en un texto audiovisual.
@@ -669,9 +669,9 @@ Respuesta: Se contradicen: conviene dudar de las palabras y mirar el tono y el g
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17782) · [Clase siguiente →](#cl-17784)
+[← Clase anterior](#cl-17878) · [Clase siguiente →](#cl-17880)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17784}
+### Clase 4 de 6: Practicar juntos con apoyo: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17880}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar elementos verbales y no verbales en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Relacionar elementos verbales y no verbales en un texto audiovisual.
@@ -879,9 +879,9 @@ Respuesta: Una cita completa dice quién, título, tipo de texto y año
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17783) · [Clase siguiente →](#cl-17785)
+[← Clase anterior](#cl-17879) · [Clase siguiente →](#cl-17881)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17785}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17881}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar elementos verbales y no verbales en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Relacionar elementos verbales y no verbales en un texto audiovisual.
@@ -1087,9 +1087,9 @@ Respuesta: El texto y el camión comunican lo esencial aunque no haya sonido
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17784) · [Clase siguiente →](#cl-17786)
+[← Clase anterior](#cl-17880) · [Clase siguiente →](#cl-17882)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17786}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Relacionar elementos verbales y no verbales en un texto audiovisual {#cl-17882}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «relacionar elementos verbales y no verbales en un texto audiovisual» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Relacionar elementos verbales y no verbales en un texto audiovisual.
@@ -1295,7 +1295,7 @@ Respuesta: Describe lo observado y no adivines las causas
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17785) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-10.md#cl-17787)
+[← Clase anterior](#cl-17881) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-10.md#cl-17883)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

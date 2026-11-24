@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17907) · [Clase 2](#cl-17908) · [Clase 3](#cl-17909) · [Clase 4](#cl-17910) · [Clase 5](#cl-17911) · [Clase 6](#cl-17912)
+**Clases de este OA:** [Clase 1](#cl-18003) · [Clase 2](#cl-18004) · [Clase 3](#cl-18005) · [Clase 4](#cl-18006) · [Clase 5](#cl-18007) · [Clase 6](#cl-18008)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Seleccionar entre media, moda o mediana {#cl-17907}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Seleccionar entre media, moda o mediana {#cl-18003}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «seleccionar entre media, moda o mediana» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Seleccionar entre media, moda o mediana.
@@ -249,9 +249,9 @@ Respuesta: No, porque no hay una opción más repetida
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-13.md#cl-17906) · [Clase siguiente →](#cl-17908)
+[← Última clase del OA anterior](epja-mate-nb2-oad-13.md#cl-18002) · [Clase siguiente →](#cl-18004)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Seleccionar entre media, moda o mediana {#cl-17908}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Seleccionar entre media, moda o mediana {#cl-18004}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «seleccionar entre media, moda o mediana» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Seleccionar entre media, moda o mediana.
@@ -456,9 +456,9 @@ Respuesta: Unos $60.000
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17907) · [Clase siguiente →](#cl-17909)
+[← Clase anterior](#cl-18003) · [Clase siguiente →](#cl-18005)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Seleccionar entre media, moda o mediana {#cl-17909}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Seleccionar entre media, moda o mediana {#cl-18005}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «seleccionar entre media, moda o mediana» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Seleccionar entre media, moda o mediana.
@@ -663,9 +663,9 @@ Respuesta: La media, porque conserva el total
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17908) · [Clase siguiente →](#cl-17910)
+[← Clase anterior](#cl-18004) · [Clase siguiente →](#cl-18006)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Seleccionar entre media, moda o mediana {#cl-17910}
+### Clase 4 de 6: Practicar juntos con apoyo: Seleccionar entre media, moda o mediana {#cl-18006}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «seleccionar entre media, moda o mediana» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Seleccionar entre media, moda o mediana.
@@ -871,9 +871,9 @@ Respuesta: Sí, la mediana es «buena»
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17909) · [Clase siguiente →](#cl-17911)
+[← Clase anterior](#cl-18005) · [Clase siguiente →](#cl-18007)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Seleccionar entre media, moda o mediana {#cl-17911}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Seleccionar entre media, moda o mediana {#cl-18007}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «seleccionar entre media, moda o mediana» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Seleccionar entre media, moda o mediana.
@@ -1078,9 +1078,9 @@ Respuesta: La moda: la porción doble
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17910) · [Clase siguiente →](#cl-17912)
+[← Clase anterior](#cl-18006) · [Clase siguiente →](#cl-18008)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Seleccionar entre media, moda o mediana {#cl-17912}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Seleccionar entre media, moda o mediana {#cl-18008}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «seleccionar entre media, moda o mediana» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Seleccionar entre media, moda o mediana.
@@ -1285,7 +1285,7 @@ Respuesta: No: conviene la media, porque con ella se recupera el total
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17911) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-15.md#cl-17913)
+[← Clase anterior](#cl-18007) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-15.md#cl-18009)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

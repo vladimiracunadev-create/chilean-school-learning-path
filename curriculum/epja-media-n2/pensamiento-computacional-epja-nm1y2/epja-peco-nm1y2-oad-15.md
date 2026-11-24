@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18255) · [Clase 2](#cl-18256) · [Clase 3](#cl-18257)
+**Clases de este OA:** [Clase 1](#cl-18351) · [Clase 2](#cl-18352) · [Clase 3](#cl-18353)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje {#cl-18255}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje {#cl-18351}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje.
@@ -250,9 +250,9 @@ Respuesta: descuento = 200 / neto = total - descuento / print(neto)
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-peco-nm1y2-oad-14.md#cl-18254) · [Clase siguiente →](#cl-18256)
+[← Última clase del OA anterior](epja-peco-nm1y2-oad-14.md#cl-18350) · [Clase siguiente →](#cl-18352)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje {#cl-18256}
+### Clase 2 de 3: Practicar juntos con apoyo: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje {#cl-18352}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje.
@@ -457,9 +457,9 @@ Respuesta: 72: «Cumple»; 55: «No cumple»
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18255) · [Clase siguiente →](#cl-18257)
+[← Clase anterior](#cl-18351) · [Clase siguiente →](#cl-18353)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje {#cl-18257}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje {#cl-18353}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje.
@@ -664,7 +664,7 @@ Respuesta: Debe usar >= en lugar de >
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18256) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-16.md#cl-18258)
+[← Clase anterior](#cl-18352) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-16.md#cl-18354)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

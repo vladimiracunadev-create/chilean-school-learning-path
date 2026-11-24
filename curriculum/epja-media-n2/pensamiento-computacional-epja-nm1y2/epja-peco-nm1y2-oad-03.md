@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18219) · [Clase 2](#cl-18220) · [Clase 3](#cl-18221)
+**Clases de este OA:** [Clase 1](#cl-18315) · [Clase 2](#cl-18316) · [Clase 3](#cl-18317)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura {#cl-18219}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura {#cl-18315}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura.
@@ -248,9 +248,9 @@ Respuesta: Fideos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-peco-nm1y2-oad-02.md#cl-18218) · [Clase siguiente →](#cl-18220)
+[← Última clase del OA anterior](epja-peco-nm1y2-oad-02.md#cl-18314) · [Clase siguiente →](#cl-18316)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura {#cl-18220}
+### Clase 2 de 3: Practicar juntos con apoyo: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura {#cl-18316}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura.
@@ -454,9 +454,9 @@ Respuesta: id
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18219) · [Clase siguiente →](#cl-18221)
+[← Clase anterior](#cl-18315) · [Clase siguiente →](#cl-18317)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura {#cl-18221}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura {#cl-18317}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Modelar bases de datos en contextos que plantean la necesidad de soluciones con apertura.
@@ -660,7 +660,7 @@ Respuesta: 2 libros
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18220) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-04.md#cl-18222)
+[← Clase anterior](#cl-18316) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-04.md#cl-18318)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17751) · [Clase 2](#cl-17752) · [Clase 3](#cl-17753) · [Clase 4](#cl-17754) · [Clase 5](#cl-17755) · [Clase 6](#cl-17756)
+**Clases de este OA:** [Clase 1](#cl-17847) · [Clase 2](#cl-17848) · [Clase 3](#cl-17849) · [Clase 4](#cl-17850) · [Clase 5](#cl-17851) · [Clase 6](#cl-17852)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comunicar sus preferencias literarias {#cl-17751}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comunicar sus preferencias literarias {#cl-17847}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Comunicar sus preferencias literarias.
@@ -251,9 +251,9 @@ Respuesta: Quiero recomendarles un cuento. Trata de vecinos que comparten. Me gu
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-03.md#cl-17750) · [Clase siguiente →](#cl-17752)
+[← Última clase del OA anterior](epja-leco-nb2-oad-03.md#cl-17846) · [Clase siguiente →](#cl-17848)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Comunicar sus preferencias literarias {#cl-17752}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Comunicar sus preferencias literarias {#cl-17848}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Comunicar sus preferencias literarias.
@@ -459,9 +459,9 @@ Respuesta: Presentar, contar, razón y cierre
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17751) · [Clase siguiente →](#cl-17753)
+[← Clase anterior](#cl-17847) · [Clase siguiente →](#cl-17849)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Comunicar sus preferencias literarias {#cl-17753}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Comunicar sus preferencias literarias {#cl-17849}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Comunicar sus preferencias literarias.
@@ -667,9 +667,9 @@ Respuesta: 2 minutos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17752) · [Clase siguiente →](#cl-17754)
+[← Clase anterior](#cl-17848) · [Clase siguiente →](#cl-17850)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Comunicar sus preferencias literarias {#cl-17754}
+### Clase 4 de 6: Practicar juntos con apoyo: Comunicar sus preferencias literarias {#cl-17850}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Comunicar sus preferencias literarias.
@@ -873,9 +873,9 @@ Respuesta: La feria es enorme y la gente, amable
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17753) · [Clase siguiente →](#cl-17755)
+[← Clase anterior](#cl-17849) · [Clase siguiente →](#cl-17851)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comunicar sus preferencias literarias {#cl-17755}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comunicar sus preferencias literarias {#cl-17851}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Comunicar sus preferencias literarias.
@@ -1081,9 +1081,9 @@ Respuesta: La misma idea, con voz y pausas
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17754) · [Clase siguiente →](#cl-17756)
+[← Clase anterior](#cl-17850) · [Clase siguiente →](#cl-17852)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comunicar sus preferencias literarias {#cl-17756}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comunicar sus preferencias literarias {#cl-17852}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar sus preferencias literarias» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Comunicar sus preferencias literarias.
@@ -1290,7 +1290,7 @@ Respuesta: Notas con personaje y hechos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17755) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-05.md#cl-17757)
+[← Clase anterior](#cl-17851) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-05.md#cl-17853)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

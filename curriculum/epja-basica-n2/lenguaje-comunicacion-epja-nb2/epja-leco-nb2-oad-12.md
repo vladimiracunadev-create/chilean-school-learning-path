@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17799) · [Clase 2](#cl-17800) · [Clase 3](#cl-17801) · [Clase 4](#cl-17802) · [Clase 5](#cl-17803) · [Clase 6](#cl-17804)
+**Clases de este OA:** [Clase 1](#cl-17895) · [Clase 2](#cl-17896) · [Clase 3](#cl-17897) · [Clase 4](#cl-17898) · [Clase 5](#cl-17899) · [Clase 6](#cl-17900)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17799}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17895}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar por medio de una presentación oral de manera clara y efectiva» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Comunicar por medio de una presentación oral de manera clara y efectiva.
@@ -251,9 +251,9 @@ Respuesta: Tiene inicio, desarrollo y cierre
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-11.md#cl-17798) · [Clase siguiente →](#cl-17800)
+[← Última clase del OA anterior](epja-leco-nb2-oad-11.md#cl-17894) · [Clase siguiente →](#cl-17896)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17800}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17896}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar por medio de una presentación oral de manera clara y efectiva» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Comunicar por medio de una presentación oral de manera clara y efectiva.
@@ -460,9 +460,9 @@ Respuesta: El primero es formal; el segundo, informal
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17799) · [Clase siguiente →](#cl-17801)
+[← Clase anterior](#cl-17895) · [Clase siguiente →](#cl-17897)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17801}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17897}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar por medio de una presentación oral de manera clara y efectiva» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Comunicar por medio de una presentación oral de manera clara y efectiva.
@@ -668,9 +668,9 @@ Respuesta: El esquema ordena la presentación en tres partes
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17800) · [Clase siguiente →](#cl-17802)
+[← Clase anterior](#cl-17896) · [Clase siguiente →](#cl-17898)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17802}
+### Clase 4 de 6: Practicar juntos con apoyo: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17898}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar por medio de una presentación oral de manera clara y efectiva» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Comunicar por medio de una presentación oral de manera clara y efectiva.
@@ -876,9 +876,9 @@ Respuesta: Dura 2 minutos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17801) · [Clase siguiente →](#cl-17803)
+[← Clase anterior](#cl-17897) · [Clase siguiente →](#cl-17899)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17803}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17899}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar por medio de una presentación oral de manera clara y efectiva» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Comunicar por medio de una presentación oral de manera clara y efectiva.
@@ -1085,9 +1085,9 @@ Respuesta: «No lo sé; lo reviso y les respondo»: es honesto y confiable
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17802) · [Clase siguiente →](#cl-17804)
+[← Clase anterior](#cl-17898) · [Clase siguiente →](#cl-17900)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17804}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comunicar por medio de una presentación oral de manera clara y efectiva {#cl-17900}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comunicar por medio de una presentación oral de manera clara y efectiva» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Comunicar por medio de una presentación oral de manera clara y efectiva.
@@ -1292,7 +1292,7 @@ Respuesta: Mejorar el cierre y el inicio
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17803) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-13.md#cl-17805)
+[← Clase anterior](#cl-17899) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-13.md#cl-17901)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

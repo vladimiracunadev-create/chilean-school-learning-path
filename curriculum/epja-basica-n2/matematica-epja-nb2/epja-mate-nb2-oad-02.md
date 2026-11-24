@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17835) · [Clase 2](#cl-17836) · [Clase 3](#cl-17837) · [Clase 4](#cl-17838) · [Clase 5](#cl-17839) · [Clase 6](#cl-17840)
+**Clases de este OA:** [Clase 1](#cl-17931) · [Clase 2](#cl-17932) · [Clase 3](#cl-17933) · [Clase 4](#cl-17934) · [Clase 5](#cl-17935) · [Clase 6](#cl-17936)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17835}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17931}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de adiciones y sustracciones de fracciones y decimales» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales.
@@ -248,9 +248,9 @@ Respuesta: 1/2
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-mate-nb2-oad-01.md#cl-17834) · [Clase siguiente →](#cl-17836)
+[← Última clase del OA anterior](epja-mate-nb2-oad-01.md#cl-17930) · [Clase siguiente →](#cl-17932)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17836}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17932}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de adiciones y sustracciones de fracciones y decimales» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales.
@@ -454,9 +454,9 @@ Respuesta: 3/8
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17835) · [Clase siguiente →](#cl-17837)
+[← Clase anterior](#cl-17931) · [Clase siguiente →](#cl-17933)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17837}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17933}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de adiciones y sustracciones de fracciones y decimales» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales.
@@ -660,9 +660,9 @@ Respuesta: 4,85
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17836) · [Clase siguiente →](#cl-17838)
+[← Clase anterior](#cl-17932) · [Clase siguiente →](#cl-17934)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17838}
+### Clase 4 de 6: Practicar juntos con apoyo: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17934}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de adiciones y sustracciones de fracciones y decimales» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales.
@@ -866,9 +866,9 @@ Respuesta: 2,2
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17837) · [Clase siguiente →](#cl-17839)
+[← Clase anterior](#cl-17933) · [Clase siguiente →](#cl-17935)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17839}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17935}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de adiciones y sustracciones de fracciones y decimales» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales.
@@ -1072,9 +1072,9 @@ Respuesta: Sí: 9,75 es razonable
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17838) · [Clase siguiente →](#cl-17840)
+[← Clase anterior](#cl-17934) · [Clase siguiente →](#cl-17936)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17840}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales {#cl-17936}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «explicar soluciones propias de adiciones y sustracciones de fracciones y decimales» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales.
@@ -1278,7 +1278,7 @@ Respuesta: 5,25
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17839) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-03.md#cl-17841)
+[← Clase anterior](#cl-17935) · [Primera clase del OA siguiente →](epja-mate-nb2-oad-03.md#cl-17937)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

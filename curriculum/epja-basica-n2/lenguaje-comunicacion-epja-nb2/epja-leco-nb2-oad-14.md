@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-17811) · [Clase 2](#cl-17812) · [Clase 3](#cl-17813) · [Clase 4](#cl-17814) · [Clase 5](#cl-17815) · [Clase 6](#cl-17816)
+**Clases de este OA:** [Clase 1](#cl-17907) · [Clase 2](#cl-17908) · [Clase 3](#cl-17909) · [Clase 4](#cl-17910) · [Clase 5](#cl-17911) · [Clase 6](#cl-17912)
 
-### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17811}
+### Clase 1 de 6: Partir de lo que ya se sabe y de la vida diaria: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17907}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar el conflicto expresado y las características de los personajes en dos obras» y lo conecte con su vida adulta; en esta clase: partir de lo que ya se sabe y de la vida diaria: Comparar el conflicto expresado y las características de los personajes en dos obras.
@@ -249,9 +249,9 @@ Respuesta: El conflicto se resuelve: Eduardo devuelve la llave
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-leco-nb2-oad-13.md#cl-17810) · [Clase siguiente →](#cl-17812)
+[← Última clase del OA anterior](epja-leco-nb2-oad-13.md#cl-17906) · [Clase siguiente →](#cl-17908)
 
-### Clase 2 de 6: Reconocer la idea y su vocabulario: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17812}
+### Clase 2 de 6: Reconocer la idea y su vocabulario: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17908}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar el conflicto expresado y las características de los personajes en dos obras» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Comparar el conflicto expresado y las características de los personajes en dos obras.
@@ -455,9 +455,9 @@ Respuesta: Su motivación es que la reunión parta puntual
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17811) · [Clase siguiente →](#cl-17813)
+[← Clase anterior](#cl-17907) · [Clase siguiente →](#cl-17909)
 
-### Clase 3 de 6: Ver cómo se hace, paso a paso: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17813}
+### Clase 3 de 6: Ver cómo se hace, paso a paso: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17909}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar el conflicto expresado y las características de los personajes en dos obras» y lo conecte con su vida adulta; en esta clase: ver cómo se hace, paso a paso: Comparar el conflicto expresado y las características de los personajes en dos obras.
@@ -662,9 +662,9 @@ Respuesta: En A hay solución; en B el conflicto queda sin resolver
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17812) · [Clase siguiente →](#cl-17814)
+[← Clase anterior](#cl-17908) · [Clase siguiente →](#cl-17910)
 
-### Clase 4 de 6: Practicar juntos con apoyo: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17814}
+### Clase 4 de 6: Practicar juntos con apoyo: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17910}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar el conflicto expresado y las características de los personajes en dos obras» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Comparar el conflicto expresado y las características de los personajes en dos obras.
@@ -868,9 +868,9 @@ Respuesta: El conserje de A es atento; el de B es descortés
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17813) · [Clase siguiente →](#cl-17815)
+[← Clase anterior](#cl-17909) · [Clase siguiente →](#cl-17911)
 
-### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17815}
+### Clase 5 de 6: Aplicar a una situación de trabajo, hogar o comunidad: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17911}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar el conflicto expresado y las características de los personajes en dos obras» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Comparar el conflicto expresado y las características de los personajes en dos obras.
@@ -1075,9 +1075,9 @@ Respuesta: En A Iván muestra disposición; en B, una actitud cerrada
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17814) · [Clase siguiente →](#cl-17816)
+[← Clase anterior](#cl-17910) · [Clase siguiente →](#cl-17912)
 
-### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17816}
+### Clase 6 de 6: Revisar lo logrado y decidir los pasos siguientes: Comparar el conflicto expresado y las características de los personajes en dos obras {#cl-17912}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «comparar el conflicto expresado y las características de los personajes en dos obras» y lo conecte con su vida adulta; en esta clase: revisar lo logrado y decidir los pasos siguientes: Comparar el conflicto expresado y las características de los personajes en dos obras.
@@ -1282,7 +1282,7 @@ Respuesta: Hay que corregir: son textos dramáticos
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-17815) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-15.md#cl-17817)
+[← Clase anterior](#cl-17911) · [Primera clase del OA siguiente →](epja-leco-nb2-oad-15.md#cl-17913)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

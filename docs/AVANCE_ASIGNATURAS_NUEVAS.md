@@ -154,6 +154,7 @@ Fuente: [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum
 | Matemática · EPJA Básica N1 | 16 | 120 | 120 | 0 | 100 % |
 | Ciencias Naturales · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
 | Historia, Geografía y Ciencias Sociales · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
+| Inglés · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
 | Lenguaje y Comunicación · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
 | Matemática · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
 | Educación Financiera · EPJA Media N1 y N2 | 16 | 96 | 96 | 0 | 100 % |
@@ -166,7 +167,7 @@ Fuente: [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum
 <!-- EPJA:cierre -->
 ### Cobertura de la Fase C al cierre de la jornada (2026-11-24)
 
-Se cuentan por separado las clases únicas y los registros del catálogo: las cuatro instrumentales (192 clases únicas) se publican con los mismos cuadernos en Media Nivel 1 y Nivel 2, por eso el catálogo registra 1.006 y no 814.
+Se cuentan por separado las clases únicas y los registros del catálogo: las cuatro instrumentales (192 clases únicas) se publican con los mismos cuadernos en Media Nivel 1 y Nivel 2, por eso el catálogo registra 1.102 registros y no 910.
 
 | Bloque | Contenido | Clases únicas | Con cuaderno, escritas y leídas | Estado |
 |---|---|---:|---:|---|
@@ -175,11 +176,11 @@ Se cuentan por separado las clases únicas y los registros del catálogo: las cu
 | 3 | Instrumentales de media (4 asignaturas) | 192 | 192 | en main |
 | 4 | Básica Nivel 2 sin Inglés (4 asignaturas) | 384 | 384 | en main |
 | 5 | Básica Nivel 3 | 0 | — | sin programa de estudio publicado |
-| 6 | Inglés optativo de Nivel 2 y su diccionario | 96 | 0 | pendiente |
+| 6 | Inglés optativo de Nivel 2 y su diccionario | 96 | 96 | en main |
 | 7 | Media Nivel 1 (6 asignaturas) | 480 | 0 | pendiente |
-| | **Total con programa publicado** | **1.390** | **814** | **59 %** |
+| | **Total con programa publicado** | **1.390** | **910** | **65 %** |
 
-Pendiente declarado: los bloques 6 y 7 (576 clases) no se escribieron en esta jornada; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](EPJA_INVENTARIO.md)).
+Pendiente declarado: el bloque 7 (480 clases) aún no está publicado; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](EPJA_INVENTARIO.md)).
 
 Límites: escrito por IA y leído por otra instancia de IA, sin revisión humana profesional ni contraste con el Currículum Nacional más allá de lo leído en el sitio oficial; sin audio, video, calculadora real, experimentos ni materiales físicos; los textos de salud, dinero y trámites son lectura de ejemplos con datos inventados, sin consejo clínico, legal ni financiero; la hora pedagógica del programa no coincide con el bloque de 90 minutos del proyecto.
 <!-- /EPJA:cierre -->

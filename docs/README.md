@@ -4,7 +4,7 @@
 
 ## **1° básico a 4° medio completos internamente**
 
-**4.008 OA · 14.152 clases disciplinares · 4.156 experiencias integradas · 18.308 registros pedagógicos · 149 guías · 0 revisiones humanas registradas**
+**4.024 OA · 14.248 clases disciplinares · 4.156 experiencias integradas · 18.404 registros pedagógicos · 149 guías · 0 revisiones humanas registradas**
 
 **1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430**
 
@@ -81,9 +81,9 @@ Aquí puedes responder:
 | Ver la formación técnico-profesional de 3° y 4° medio | [Especialidades TP](formacion-tp/README.md) | 35 especialidades, 2.745 clases con cuaderno del estudiante |
 <!-- /TP:fila -->
 <!-- EPJA:fila -->
-| Ver la Educación de Personas Jóvenes y Adultas | [Asignaturas EPJA](formacion-epja/README.md) | 10 asignaturas, 1.006 clases; cuaderno del estudiante en 1.006; ver el [inventario de la fase](EPJA_INVENTARIO.md) |
+| Ver la Educación de Personas Jóvenes y Adultas | [Asignaturas EPJA](formacion-epja/README.md) | 11 asignaturas, 1.102 clases; cuaderno del estudiante en 1.102; ver el [inventario de la fase](EPJA_INVENTARIO.md) |
 <!-- /EPJA:fila -->
-| Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia de 14.152 clases y 4.156 experiencias integradas |
+| Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia de 14.248 clases y 4.156 experiencias integradas |
 | Entender cómo se versiona y publica | [Flujo de contenido](CONTENT_LIFECYCLE.md) | fuente, versión, changelog, generación, CI, Pages y rollback |
 | Revisar presentación y enlaces | [Estándar Markdown, HTML y PDF](CONTENT_PRESENTATION_STANDARD.md) | jerarquía visual, enlaces por formato y PDF derivados |
 | Reutilizar contenido o código | [Licencias](LICENCIAS.md) | reglas por tipo de obra y atribución |
@@ -167,13 +167,13 @@ flowchart TD
 
 | Estado | Clases | Lectura correcta |
 |---|---:|---|
-| Inventariadas | 18.308 | tienen OA, nivel, asignatura, eje y fuente |
-| Secuenciadas | 18.308 | tienen posición y dosificación |
+| Inventariadas | 18.404 | tienen OA, nivel, asignatura, eje y fuente |
+| Secuenciadas | 18.404 | tienen posición y dosificación |
 | Borradores | 0 | no quedan propuestas pendientes ni plantillas que aparenten desarrollo |
-| Desarrolladas | 14.152 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Desarrolladas | 14.248 | contienen decisiones disciplinares y contrato pedagógico completo |
 | Integradas | 4.156 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
-| Publicadas | 18.308 | tienen Markdown y HTML navegable |
+| Publicadas | 18.404 | tienen Markdown y HTML navegable |
 
 1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515; 8°, 771 y 430; 1° medio, 753 y 456; 2° medio, 744 y 456; 3° medio, 495 clases desarrolladas; y 4° medio, 466. La revisión profesional humana permanece pendiente.
 

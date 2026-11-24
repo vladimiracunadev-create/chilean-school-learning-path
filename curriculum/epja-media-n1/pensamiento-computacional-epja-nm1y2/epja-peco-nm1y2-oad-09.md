@@ -42,9 +42,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-18045) · [Clase 2](#cl-18046) · [Clase 3](#cl-18047)
+**Clases de este OA:** [Clase 1](#cl-18141) · [Clase 2](#cl-18142) · [Clase 3](#cl-18143)
 
-### Clase 1 de 3: Reconocer la idea y su vocabulario: Resolver problemas computacionales relacionados con la funcionalidad de un objeto {#cl-18045}
+### Clase 1 de 3: Reconocer la idea y su vocabulario: Resolver problemas computacionales relacionados con la funcionalidad de un objeto {#cl-18141}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas computacionales relacionados con la funcionalidad de un objeto» y lo conecte con su vida adulta; en esta clase: reconocer la idea y su vocabulario: Resolver problemas computacionales relacionados con la funcionalidad de un objeto.
@@ -250,9 +250,9 @@ Respuesta: 3 veces; el contador queda en 3
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Última clase del OA anterior](epja-peco-nm1y2-oad-08.md#cl-18044) · [Clase siguiente →](#cl-18046)
+[← Última clase del OA anterior](epja-peco-nm1y2-oad-08.md#cl-18140) · [Clase siguiente →](#cl-18142)
 
-### Clase 2 de 3: Practicar juntos con apoyo: Resolver problemas computacionales relacionados con la funcionalidad de un objeto {#cl-18046}
+### Clase 2 de 3: Practicar juntos con apoyo: Resolver problemas computacionales relacionados con la funcionalidad de un objeto {#cl-18142}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas computacionales relacionados con la funcionalidad de un objeto» y lo conecte con su vida adulta; en esta clase: practicar juntos con apoyo: Resolver problemas computacionales relacionados con la funcionalidad de un objeto.
@@ -457,9 +457,9 @@ Respuesta: Mientras (el balde no esté lleno), echar un jarro
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18045) · [Clase siguiente →](#cl-18047)
+[← Clase anterior](#cl-18141) · [Clase siguiente →](#cl-18143)
 
-### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas computacionales relacionados con la funcionalidad de un objeto {#cl-18047}
+### Clase 3 de 3: Aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas computacionales relacionados con la funcionalidad de un objeto {#cl-18143}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Que cada persona avance en «resolver problemas computacionales relacionados con la funcionalidad de un objeto» y lo conecte con su vida adulta; en esta clase: aplicar a una situación de trabajo, hogar o comunidad: Resolver problemas computacionales relacionados con la funcionalidad de un objeto.
@@ -665,7 +665,7 @@ Respuesta: Repetir [bajar la cortina un poco] hasta que (la cortina esté abajo 
 **Coordinación de roles profesionales:** El docente acuerda con cada persona los apoyos que necesita (lectura, ritmo, tiempos) y resguarda la privacidad de sus datos personales y laborales; el centro coordina horarios compatibles con trabajo y cuidado familiar, y la asistencia irregular se resuelve recuperando la clase, sin sancionar.
 
 
-[← Clase anterior](#cl-18046) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-10.md#cl-18048)
+[← Clase anterior](#cl-18142) · [Primera clase del OA siguiente →](epja-peco-nm1y2-oad-10.md#cl-18144)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
