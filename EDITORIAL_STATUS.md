@@ -332,7 +332,7 @@ Se cuentan por separado las clases únicas y los registros del catálogo: las cu
 | 7 | Media Nivel 1 (6 asignaturas) | 480 | 0 | pendiente |
 | | **Total con programa publicado** | **1.390** | **814** | **59 %** |
 
-Pendiente declarado: los bloques 6 y 7 (576 clases) no se escribieron en esta jornada; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](EPJA_INVENTARIO.md)).
+Pendiente declarado: los bloques 6 y 7 (576 clases) no se escribieron en esta jornada; el Nivel 3 básico, Media Nivel 2 de formación general, Inglés de media, Educación Física y Salud y los oficios no tienen programa de estudio publicado, así que no se inventó una dosificación (ver [EPJA_INVENTARIO.md](docs/EPJA_INVENTARIO.md)).
 
 Límites: escrito por IA y leído por otra instancia de IA, sin revisión humana profesional ni contraste con el Currículum Nacional más allá de lo leído en el sitio oficial; sin audio, video, calculadora real, experimentos ni materiales físicos; los textos de salud, dinero y trámites son lectura de ejemplos con datos inventados, sin consejo clínico, legal ni financiero; la hora pedagógica del programa no coincide con el bloque de 90 minutos del proyecto.
 <!-- /EPJA:cierre -->
