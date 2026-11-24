@@ -1,0 +1,87 @@
+"""Filosofía EPJA Media N1 y N2, módulo 4, desempeño 3 (OAD-15): discutir el problema de la inducción (por qué el pasado no garantiza el futuro). Casos inventados; ideas de Hume y Popper resumidas con palabras propias."""
+from __future__ import annotations
+
+from epja_filo_d_common import K, O15
+
+# ====================================================== OAD-15 clase 1
+F = ("Ficha 1 (casos de ejemplo). Caso 1: Teresa, personaje ficticio, lleva años tomando la micro de las 7:10 y siempre pasó; mañana saldrá sin revisar el horario. "
+     "Caso 2: «El sol ha salido cada mañana durante toda mi vida; por lo tanto, saldrá mañana». "
+     "Caso 3: durante siglos, en Europa todos los cisnes que se habían visto eran blancos y se pensaba que todos lo eran; después se encontraron cisnes negros en Australia. "
+     "Resumen de ideas: Hume, filósofo empirista, planteó que no hay una prueba lógica de que el futuro vaya a parecerse al pasado. Popper, filósofo de la ciencia, propuso que las teorías se ponen a prueba intentando refutarlas: un solo caso contrario basta para refutar «todos los cisnes son blancos», pero ninguna cantidad de cisnes blancos lo demuestra.")
+K(O15, 1, F,
+  "Hoy reconoceré qué es el razonamiento inductivo y por qué el problema de la inducción plantea que el pasado no garantiza el futuro, y comenzaré a discutirlo con razones.",
+  ["La inducción es el razonamiento que va de casos observados a una conclusión general o a lo que ocurrirá. Lo usas todos los días: confías en que la micro pasará porque siempre pasó, en que el pan se hornea igual porque siempre se ha horneado así, en que el pronóstico servirá porque ha acertado antes. Gran parte de la vida y de la ciencia se apoya en ella.",
+   "El problema de la inducción, planteado por Hume, es este: ¿qué razón tenemos para creer que el futuro será como el pasado? No hay una prueba lógica que lo asegure. Si respondemos «porque siempre ha sido así», usamos la inducción para justificar la inducción, y eso da vueltas en círculo. El caso de los cisnes lo muestra: muchos cisnes blancos vistos no impidieron que existieran cisnes negros.",
+   "Esto no obliga a dejar de inducir. Obliga a ser cuidadosos: una conclusión inductiva es probable, nunca segura, y puede ser más fuerte o más débil según los casos que la apoyen. Popper llevó la idea a la ciencia: más que acumular casos que confirman, conviene buscar casos que podrían refutar. Aquí empiezas a discutir con razones, no con frases tajantes."],
+  [("inducción", "razonamiento que va de casos observados a una conclusión general o a lo que ocurrirá"), ("generalización", "afirmación sobre todos los casos de un tipo, hecha desde algunos casos"), ("contraejemplo", "caso que contradice una generalización"), ("refutar", "mostrar que una afirmación es falsa")],
+  [("Reconocer una inducción", "{F} ¿El Caso 2 (el sol saldrá mañana) es un razonamiento inductivo?", ["Parte de lo observado en el pasado.", "Concluye algo sobre el futuro."], "Sí, es inductivo"),
+   ("Reconocer el problema", "{F} ¿Qué enseña el Caso 3, el de los cisnes?", ["Se creía que todos los cisnes eran blancos por los casos vistos.", "Aun así existían cisnes negros."], "Que una generalización apoyada en muchos casos puede ser falsa")],
+  [("Decir «el futuro será como el pasado porque siempre lo ha sido» como si fuera una prueba.", "Se usa la inducción para justificar la inducción.", "Reconoce que da probabilidad, no garantía lógica."),
+   ("Concluir que, como la inducción no da certeza, hay que dejar de usarla.", "Se pasa de «no es segura» a «no sirve».", "Se usa con cuidado, graduando la confianza según los casos.")],
+  [("abc", "En Filosofía: ¿qué es la inducción?", "El razonamiento que va de casos observados a una conclusión general o a lo que ocurrirá", "El razonamiento donde la conclusión está contenida en las premisas", "El rechazo de toda forma de conocimiento", "Induce quien generaliza o predice desde lo observado."),
+   ("ab", "El argumento «el sol salió todas las mañanas hasta hoy, saldrá mañana» es", "inductivo", "deductivo", "Predice lo que ocurrirá a partir de casos observados."),
+   ("abc", "¿Cuál es el problema de la inducción?", "Que no hay una prueba lógica de que el futuro se parezca al pasado", "Que nadie observa casos", "Que solo funciona con números", "Hume planteó que la semejanza futura no se puede probar."),
+   ("abc", "{F} ¿Qué ejemplo de la ficha muestra que muchos casos observados pueden no bastar?", "El de los cisnes blancos y los cisnes negros", "El de la micro de las 7:10", "El de la salida del sol", "Una generalización apoyada en siglos de casos resultó falsa."),
+   ("ab", "Alguien dice: «el futuro será como el pasado porque siempre ha sido así». Su razón", "usa la inducción para justificar la inducción", "es una prueba lógica definitiva", "Da por válido lo mismo que quería probar."),
+   ("=", "Si el sol salió cada mañana durante 30 años de 365 días, sin contar los años bisiestos, ¿cuántas mañanas fueron?", "30*365", "Se multiplica la cantidad de años por los días de cada año.", " mañanas"),
+   ("abc", "{F} Según el resumen de Popper, ¿qué basta para refutar «todos los cisnes son blancos»?", "Un solo cisne negro", "Cien cisnes blancos más", "Que mucha gente lo crea", "Un solo contraejemplo contradice la generalización."),
+   ("abc", "{F} Según el resumen de Popper, ¿qué ocurre con la cantidad de cisnes blancos que se observen?", "Ninguna cantidad demuestra con certeza que todos son blancos", "Con mil bastan para demostrarlo", "No sirven para ninguna conclusión probable", "Más casos dan más apoyo, pero no certeza."),
+   ("abc", "¿Cuál argumento inductivo es más fuerte?", "«De 200 pedidos revisados, 190 llegaron completos; el próximo probablemente llegará completo».", "«De 2 pedidos revisados, 2 llegaron completos; todos llegarán completos siempre».", "«Un pedido llegó completo; los demás también».", "Tiene más casos y una conclusión más cuidada."),
+   ("abc", "Una persona dice: «como la inducción no da seguridad, no debemos fiarnos de nada». ¿Qué respuesta es mejor?", "Aunque no dé certeza, sí da razones más o menos fuertes para decidir", "Tiene razón: todo es igualmente dudoso", "Nunca hay razones para nada", "La falta de garantía no vuelve inútil a la inducción."),
+   ("ab", "Una conclusión inductiva bien expresada usa palabras como", "«probablemente» o «en general»", "«siempre y sin excepción»", "Lo probable describe mejor lo que la inducción puede apoyar."),
+   ("abc", "Un mecánico dice: «vi 12 autos de este modelo con el mismo problema; el próximo también lo tendrá, seguro». ¿Qué corrige mejor su frase?", "Cambiar «seguro» por «probablemente»", "Cambiar «12» por «1»", "Quitar la palabra «autos»", "Sus casos apoyan una conclusión probable, no segura."),
+   ("abc", "{F} En el Caso 1, Teresa sale sin revisar el horario. ¿Qué podría hacer para guiarse mejor por la inducción?", "Revisar el horario si hoy hay una razón para dudar, como un paro anunciado", "Pensar que la micro no pasará nunca", "No salir de su casa", "Si algo cambió, el pasado deja de ser buena guía.")],
+  ("abc", "Una dueña de casa observa que el pan de una panadería nueva estuvo caliente tres días seguidos y concluye: «siempre estará caliente». ¿Cómo se evalúa su conclusión?", "Es inductiva y débil: pocos casos y una afirmación demasiado fuerte", "Es deductiva y segura", "Es una refutación", "Tres casos no apoyan un «siempre»."),
+  [("En Filosofía: ¿qué es un contraejemplo?", "Un caso que contradice una generalización", "Uno solo basta para mostrar que la generalización es falsa."),
+   ("¿Qué plantea el problema de la inducción?", "Que el pasado no garantiza lógicamente el futuro", "No hay prueba de que el futuro se parezca al pasado."),
+   ("¿Cómo se expresa mejor una conclusión inductiva?", "Con palabras como «probablemente»", "Evita afirmar seguridad que no tiene.")],
+  ("{F} Elige un caso de tu vida o de tu oficio en que confías en que el futuro se parecerá al pasado. Escribe los casos del pasado que te apoyan, la conclusión, cuánta seguridad te da (probable, muy probable o segura) y por qué, y qué caso contrario te haría cambiar de idea.",
+   "Caso: confío en que el camión de reparto llegue los martes, porque llegó 12 martes seguidos. Conclusión: probablemente llegará el próximo martes. Si hubiera un paro anunciado o un cambio de ruta, dudaría.",
+   ["describe los casos del pasado", "formula la conclusión con palabras de probabilidad", "justifica el grado de seguridad", "nombra un caso contrario que lo haría dudar"],
+   ["texto breve con casos, conclusión, grado de seguridad y caso contrario"],
+   ["decir «seguro» sin razones", "no pensar en ningún caso contrario"],
+   "Comprueba que la conclusión se exprese con probabilidad. Si dice «seguro», pregunta qué pasaría con un caso contrario. Se evalúa la calidad del razonamiento, no el ejemplo elegido."),
+  "Escribe tres cosas que esperas que ocurran mañana por inducción y qué podría hacer que no ocurran.",
+  "Escribe con tus palabras por qué «siempre ha sido así» no prueba que seguirá siendo así.")
+
+# ====================================================== OAD-15 clase 2
+F = ("Ficha 2 (casos de ejemplo). Caso 1: don Raúl, mecánico ficticio, ha reparado 40 autos de un mismo modelo y en 38 falló la misma pieza; hoy llega otro igual y él dice que será esa pieza. "
+     "Caso 2: una garantía ficticia cubre un año porque, en las pruebas del fabricante, 95 de cada 100 aparatos duraron más de un año. "
+     "Caso 3: un diario ficticio dice que «los jóvenes de la comuna no votan» porque entrevistó a tres jóvenes que no votan. "
+     "Criterios para evaluar una inducción: cantidad de casos, variedad de casos, ausencia de casos contrarios y relación entre los casos y la conclusión. "
+     "Posición A: «Como la inducción no garantiza nada, no sirve para decidir.» Posición B: «La inducción no garantiza, pero da razones graduadas para decidir y actuar.»")
+K(O15, 2, F,
+  "Hoy aplicaré el problema de la inducción a situaciones de trabajo, hogar y comunidad, evaluaré qué tan fuertes son varias inducciones y discutiré dos posiciones con razones.",
+  ["Ya sabes que una inducción da probabilidad y no certeza. Ahora importa evaluar cuánta. Una inducción es más fuerte cuando se apoya en muchos casos, en casos variados, sin casos en contra y cuando los casos tienen que ver con la conclusión. Es más débil cuando se apoya en pocos casos, en casos parecidos entre sí o cuando se pasa de «algunos» a «todos».",
+   "Estas ideas sirven en la vida diaria. El mecánico que ha visto 38 fallas en 40 autos tiene una buena razón para sospechar, aunque conviene comprobar la pieza antes de cambiarla. Una garantía se apoya en pruebas pasadas, pero un aparato en particular puede ser excepción. Una noticia que generaliza desde tres personas apoya muy poco su conclusión.",
+   "El problema de la inducción también abre una discusión de fondo: ¿hay que dejar de inducir si no hay garantía lógica? Quien sostiene que sí tiene la dificultad de que no tendría base alguna para actuar. Quien sostiene que no puede decir que la inducción da razones de distinta fuerza. Tú discutirás con razones, ejemplos y una objeción."],
+  [("muestra", "conjunto de casos observados"), ("variedad", "diferencia entre los casos observados"), ("fuerza inductiva", "grado en que los casos apoyan la conclusión"), ("excepción", "caso que no sigue la regla general")],
+  [("Evaluar la fuerza", "{F} ¿El argumento del Caso 3 (tres jóvenes entrevistados) es fuerte o débil?", ["Son solo tres casos.", "Pasa de tres personas a «los jóvenes de la comuna»."], "Es débil"),
+   ("Calcular un dato", "{F} En el Caso 1, ¿cuántos de los 40 autos no tuvieron la falla?", ["Son 40 autos y 38 tuvieron la falla.", "Se resta 40 - 38."], "2 autos")],
+  [("Pasar de «algunos» a «todos» sin más casos.", "Se confunde una muestra con el total.", "Cuida que la conclusión no diga más de lo que dicen los casos."),
+   ("Pensar que una inducción fuerte es una prueba.", "Se olvida que sigue sin ser segura.", "Una inducción fuerte da mucha probabilidad, pero no certeza.")],
+  [("abc", "En Filosofía: ¿qué vuelve más fuerte a un argumento inductivo?", "Muchos casos variados y sin casos en contra", "Una conclusión dicha con mucha seguridad", "Que lo diga una persona conocida", "La cantidad y variedad de casos aumentan el apoyo."),
+   ("=", "{F} En el Caso 1, ¿cuántos de los 40 autos no tuvieron la falla?", "40-38", "Se resta los autos con falla del total de autos reparados.", " autos"),
+   ("ab", "{F} El Caso 3 es un argumento débil porque", "se apoya en solo tres casos y generaliza a todos los jóvenes", "usa cifras demasiado grandes", "De tres personas no se puede saber qué hace toda una comuna."),
+   ("abc", "{F} ¿Cuál es el límite de la garantía del Caso 2 para un aparato en particular?", "Ese aparato podría ser una excepción a lo observado en las pruebas", "No hay ningún límite", "Las pruebas no se hicieron nunca", "La estadística de pruebas no asegura cada aparato."),
+   ("abc", "{F} ¿Qué haría don Raúl para reducir el riesgo de equivocarse en el Caso 1?", "Comprobar la pieza antes de cambiarla", "Cambiar la pieza sin mirar el auto", "No reparar autos de ese modelo", "Una prueba directa complementa la sospecha inductiva."),
+   ("abc", "¿Qué es un contraejemplo a «todas las ferias del sector abren los domingos»?", "Una feria del sector que no abre los domingos", "Tres ferias que sí abren los domingos", "Una feria de otro sector que abre", "Un solo caso que no cumple basta para refutarla."),
+   ("ab", "{F} Con las cifras del Caso 1, ¿cómo se expresa mejor la conclusión de don Raúl?", "Probablemente fallará la misma pieza", "Seguro que fallará la misma pieza", "En 38 de 40 casos hubo falla, lo que apoya una probabilidad alta, no una certeza."),
+   ("=", "{F} En el Caso 1, 38 de 40 autos tuvieron la falla. ¿Qué porcentaje es?", "38/40*100", "Se divide 38 por 40 y se multiplica por 100.", " %"),
+   ("abc", "¿Cuándo conviene pedir más casos antes de concluir?", "Cuando equivocarse tendría consecuencias graves", "Nunca, porque más casos no sirven", "Solo cuando la conclusión nos gusta", "Si el costo del error es alto, conviene mayor apoyo."),
+   ("abc", "{F} ¿Qué respuesta da la Posición B a la Posición A?", "Que sin garantía lógica aún hay razones graduadas para decidir", "Que la inducción sí garantiza certeza", "Que no hay que decidir nada", "B reconoce el límite y defiende su utilidad."),
+   ("abc", "{F} ¿Qué dificultad enfrenta quien sostiene la Posición A?", "No tendría base alguna para actuar ni planificar", "Debe comprar una garantía", "Debe aprender mecánica", "Si ninguna inducción sirve, no hay cómo decidir con razones."),
+   ("ab", "Una persona dice: «uso la inducción a diario, aunque sé que no da garantías». Su actitud es", "coherente, porque la usa sabiendo sus límites", "contradictoria, porque nadie puede usarla", "Reconocer el límite y usarla con cuidado es una postura razonable."),
+   ("abc", "Alguien responde a la Posición A diciendo «eso lo piensa solo quien no trabaja». ¿Qué falla?", "Ataca a la persona en vez de examinar sus razones", "Aporta un dato numérico", "Presenta una objeción seria", "No responde a las razones de la posición.")],
+  ("abc", "Una dueña de casa vio que el pan de una panadería estuvo caliente tres días y concluye que «siempre estará caliente». Otra vecina dice que ha comprado allí durante un año y estuvo caliente casi todos los días. ¿Quién tiene el argumento inductivo más fuerte?", "La vecina, porque tiene muchos más casos", "La dueña de casa, porque dice «siempre»", "Ninguna, porque las dos usan inducción", "Un año de casos apoya más que tres días."),
+  [("En Filosofía: ¿qué hace más fuerte a una inducción?", "Más casos, variados y sin casos en contra", "Aumentan el apoyo a la conclusión."),
+   ("¿Qué es una excepción?", "Un caso que no sigue la regla general", "Una garantía no asegura que un aparato concreto no lo sea."),
+   ("¿Qué responde la Posición B a la Posición A?", "Que sin garantía lógica aún hay razones graduadas para decidir", "Reconoce el límite sin renunciar a usarla.")],
+  ("{F} Discute con razones: ¿hay que dejar de usar la inducción porque no ofrece garantía (Posición A) o conviene usarla con cuidado (Posición B)? Escribe tu tesis, dos razones, un ejemplo de tu trabajo, hogar o comunidad, una objeción y tu réplica. Evalúa también la fuerza de la inducción que usas en tu ejemplo.",
+   "Tesis: conviene usarla con cuidado (B). Razón 1: sin ella no podríamos planificar. Razón 2: sus conclusiones se pueden graduar. Ejemplo: sé por 12 martes seguidos que el camión llega, pero confirmo si hay paro. Objeción: puede fallar justo hoy. Réplica: por eso compruebo cuando hay una razón para dudar. Fuerza: bastante alta, 12 casos sin contrarios.",
+   ["tesis clara", "dos razones", "ejemplo propio", "objeción y réplica", "evaluación de la fuerza inductiva del ejemplo"],
+   ["texto breve con tesis, razones, ejemplo, objeción, réplica y evaluación"],
+   ["tesis sin razones", "objeción débil elegida a propósito", "decir que la inducción garantiza certeza"],
+   "Se evalúa la calidad argumentativa, no la posición elegida. Comprueba que evalúe la fuerza del ejemplo con los criterios de la ficha y que la réplica responda a la objeción."),
+  "Escribe los cuatro criterios para evaluar una inducción y aplícalos a un caso de tu trabajo.",
+  "Escribe un contraejemplo a una generalización que hayas escuchado en tu trabajo o tu barrio.")

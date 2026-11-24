@@ -1,0 +1,127 @@
+"""Filosofía EPJA Media N1 y N2, módulo 2, OAD-06: elaborar visiones personales y preguntas sobre el sentido de la vida a partir de una perspectiva filosófica. Textos de ejemplo originales; todo en papel."""
+from __future__ import annotations
+
+from epja_filo_b_common import make_K
+
+K = make_K()
+O = "EPJA-FILO-NM1y2-OAD-06"
+
+# ====================================================== clase 1
+F = ("Ficha 4 (preguntas de ejemplo, en el caso de Rosa, personaje ficticio que trabaja en una feria). "
+     "P1: ¿A qué hora abre el consultorio del barrio? P2: ¿Qué es una vida que vale la pena vivir? P3: ¿Es más bonito el color azul que el verde? "
+     "P4: ¿Cuántas horas trabajó Rosa esta semana? P5: ¿Tiene sentido esforzarse si el resultado no depende solo de uno? P6: ¿Por qué la vida tiene un único sentido?")
+K(O, 1, F,
+  "Hoy aprenderé a reconocer una pregunta filosófica sobre el sentido de la vida, a distinguirla de otras preguntas y a mejorarla.",
+  ["No todas las preguntas son iguales. Una pregunta factual se responde con un dato que se puede comprobar, como la hora de apertura de un consultorio. Una pregunta de gusto depende de lo que a cada persona le agrada. Una pregunta filosófica trata de ideas básicas como el sentido, el valor o la libertad, y no se responde con un dato, sino con razones que se pueden discutir.",
+   "Una buena pregunta filosófica es clara, abierta y se refiere a un concepto. Es clara cuando se entiende qué se pregunta. Es abierta cuando admite más de una respuesta razonada. Se refiere a un concepto cuando gira en torno a una idea, como «vida que vale la pena». Una pregunta como «¿es bueno el trabajo?» es muy vaga; se mejora preguntando qué hace que un trabajo tenga sentido más allá del sueldo.",
+   "Muchas preguntas llevan un supuesto, que es algo que dan por cierto sin decirlo. La pregunta «¿por qué la vida tiene un único sentido?» supone que existe un solo sentido. Descubrir los supuestos es parte de pensar con cuidado. A partir de una pregunta bien planteada, cada persona puede elaborar una visión propia, que se construye con razones y se puede revisar."],
+  [("pregunta factual", "pregunta que se responde con un dato comprobable"), ("pregunta filosófica", "pregunta abierta sobre una idea básica, que se responde con razones"), ("concepto", "idea general, como libertad o sentido"), ("supuesto", "algo que una pregunta da por cierto sin decirlo"), ("visión personal", "posición propia sostenida con razones")],
+  [("Tipo de pregunta", "«¿Cuántos días tiene este mes?». ¿Es factual o filosófica?", ["Se responde con un dato que se puede comprobar.", "No pide razones sobre una idea básica."], "Factual"),
+   ("Descubrir un supuesto", "«¿Por qué todas las personas quieren ser ricas?». ¿Qué supone esa pregunta?", ["Mira lo que da por cierto antes de preguntar.", "Da por cierto que todas las personas quieren ser ricas."], "Que todas las personas quieren ser ricas")],
+  [("Creer que una pregunta filosófica es solo una pregunta difícil.", "Se confunde dificultad con tipo de pregunta.", "Es filosófica cuando trata de una idea básica y pide razones, no un dato."),
+   ("No ver el supuesto de una pregunta y responderla igual.", "Se acepta lo que la pregunta da por cierto sin examinarlo.", "Pregunta primero qué da por cierto y decide si lo aceptas.")],
+  [("abc", "En Filosofía: ¿qué es una pregunta factual?", "Una pregunta que se responde con un dato comprobable", "Una pregunta que depende solo del gusto de cada cual", "Una pregunta sin ninguna respuesta posible", "El dato se puede verificar, como una hora de apertura."),
+   ("abc", "{F} ¿Cuál es una pregunta factual?", "P1, sobre la hora de apertura del consultorio", "P2, sobre la vida que vale la pena", "P5, sobre esforzarse sin garantía", "P1 se responde con un dato que se puede comprobar."),
+   ("ab", "{F} ¿Qué tipo de pregunta es P3?", "De gusto, porque depende de lo que agrada a cada persona", "Filosófica, porque trata del sentido de la vida", "Comparar dos colores no pide razones sobre una idea básica."),
+   ("abc", "Una pregunta filosófica sobre el sentido de la vida", "se responde con razones que se pueden discutir", "se responde con un número exacto", "no admite ninguna razón", "Pide razonar sobre una idea básica y no dar un dato."),
+   ("abc", "{F} ¿Cuál de estos pares tiene solo preguntas filosóficas?", "P2 y P5", "P1 y P4", "P3 y P4", "P2 y P5 tratan del sentido y piden razones; los otros pares incluyen preguntas de dato o de gusto."),
+   ("ab", "{F} ¿Por qué P4 no es filosófica?", "Se responde con un dato: las horas trabajadas", "Porque habla de una persona ficticia", "Un número comprobable zanja la pregunta, sin necesidad de razones sobre ideas."),
+   ("abc", "{F} ¿Qué supone la pregunta P6?", "Que la vida tiene un único sentido", "Que nadie busca sentido en su trabajo", "Que el sentido solo existe en el trabajo", "Al decir «el único» da por cierto que hay uno solo."),
+   ("abc", "¿Cuál es una forma más precisa de preguntar «¿es bueno el trabajo?»", "¿Qué hace que un trabajo tenga sentido más allá del sueldo?", "¿Cuánto se paga por hora en una feria?", "¿Es más lindo trabajar de día que de noche?", "Fija el concepto de sentido y deja la pregunta abierta."),
+   ("abc", "Una buena pregunta filosófica debe ser", "clara y abierta", "cerrada y de un solo dato", "tan vaga que nadie la entienda", "Debe entenderse y admitir más de una respuesta razonada."),
+   ("ab", "{F} ¿Cuáles de las seis preguntas son filosóficas?", "P2, P5 y P6", "P1 y P4", "P2, P5 y P6 tratan del sentido y piden razones; P1 y P4 piden un dato."),
+   ("abc", "Dos personas responden P2. Pedro dice: «Es una vida con trabajo estable». Luisa dice: «Es una vida en que puedo cuidar lo que me importa, porque eso me da un para qué». ¿Cuál respuesta da una razón?", "La de Luisa, porque explica por qué", "La de Pedro, porque es más corta", "Ninguna, porque no son datos", "Luisa incluye un «porque» que apoya su posición."),
+   ("abc", "Una persona cree que preguntar «¿tiene sentido esforzarse?» no sirve porque no tiene respuesta de un dato. ¿Qué es lo más correcto decir?", "Sirve, porque se puede discutir con razones aunque no haya un dato", "Tiene razón: lo que no es un dato no vale", "Solo sirve si todos responden igual", "La filosofía trabaja con razones, no con un dato único."),
+   ("abc", "La pregunta «¿por qué quienes trabajan más son más felices?» supone que", "quienes trabajan más son más felices", "quienes trabajan menos son más felices", "todas las personas trabajan lo mismo", "Da por cierta esa relación antes de preguntar por su causa.")],
+  ("abc", "En una conversación alguien dice: «¿Para qué tanto esfuerzo?». ¿Cuál reformulación la vuelve una buena pregunta filosófica?", "¿Qué hace valioso un esfuerzo, más allá de su resultado?", "¿Cuántas horas faltan para salir?", "¿Quién llegó primero hoy?", "Se refiere al concepto de valor y admite varias respuestas razonadas."),
+  [("En Filosofía: ¿qué es una pregunta filosófica?", "Una pregunta abierta sobre una idea básica que se responde con razones", "Pide razonar, no dar un dato."),
+   ("En Filosofía: ¿qué es un supuesto de una pregunta?", "Algo que una pregunta da por cierto sin decirlo", "Descubrirlo ayuda a decidir si se acepta la pregunta."),
+   ("¿Cuál es una pregunta factual de ejemplo?", "¿A qué hora abre el consultorio?", "Se responde con un dato comprobable.")],
+  ("{F} Escribe tres preguntas filosóficas sobre el sentido de la vida (puedes basarte en el caso de Rosa o inventar un personaje; no hace falta contar nada personal). Para cada una escribe si es clara, si es abierta y qué supone. Elige una y escribe una visión inicial de tres líneas con una razón.",
+   "Pregunta: ¿Qué hace que una tarea repetida valga la pena? Clara: sí. Abierta: sí. Supone que una tarea repetida puede valer la pena. Visión inicial: creo que vale la pena cuando sirve a algo que valoro, porque el esfuerzo se vuelve un medio para algo importante.",
+   ["escribe tres preguntas filosóficas y no factuales", "evalúa si cada una es clara y abierta", "identifica un supuesto", "esboza una visión con una razón"],
+   ["tabla o lista con tres preguntas, su evaluación y la visión inicial"],
+   ["escribir preguntas que se responden con un dato", "olvidar el supuesto"],
+   "Valora la precisión de las preguntas y la razón de la visión, no la posición elegida. Si una pregunta se responde con un dato, pide que la convierta en «¿por qué...?» o «¿qué hace que...?»."),
+  "Clasifica cinco preguntas de tu elección, o inventadas, en factuales, de gusto o filosóficas.",
+  "Toma una pregunta de la ficha y escribe dos supuestos que podría tener.")
+
+# ====================================================== clase 2
+F = ("Ficha 5 (textos de ejemplo, escritos para esta ficha). Texto A, inspirado en el existencialismo (corriente que defendió, entre otros, Jean-Paul Sartre): "
+     "«No hay un propósito escrito de antemano para cada vida. Cada persona da sentido a la suya mediante lo que elige hacer y se hace responsable de esas elecciones.» "
+     "Texto B, inspirado en Aristóteles, que planteó que cada cosa tiene una función propia: «Así como un instrumento tiene una función, el ser humano tiene una actividad propia, que es vivir según la razón. Una vida tiene sentido cuando desarrolla esa actividad.»")
+K(O, 2, F,
+  "Hoy practicaré, con apoyo, cómo pasar de una pregunta sobre el sentido de la vida a una visión personal con razones, comparando dos perspectivas.",
+  ["La ficha trae dos perspectivas sobre el sentido de la vida. El texto A sostiene que el sentido no viene dado: cada persona lo construye con lo que elige hacer. El texto B sostiene que el ser humano tiene una actividad propia, vivir según la razón, y que la vida tiene sentido cuando la desarrolla. Son respuestas distintas a la misma pregunta.",
+   "Para elaborar una visión personal se pueden seguir cinco pasos. Primero, formular la pregunta. Segundo, escribir tu posición en una frase. Tercero, dar al menos una razón con «porque». Cuarto, poner un ejemplo. Quinto, pensar una objeción y responderla. Una opinión sin razones solo dice lo que alguien cree; un argumento muestra por qué.",
+   "Responder una objeción puede llevar a reelaborar la propia idea, y eso no es una derrota. Si la objeción tiene fuerza, se puede precisar la posición, limitarla o cambiarla. Pensar con flexibilidad es poder decir «mi razón no alcanzaba y la mejoro». Todo esto se hace con respeto: se examinan las ideas, no se juzga a la persona."],
+  [("existencialismo", "corriente que sostiene que cada persona da sentido a su vida con sus elecciones"), ("función propia", "actividad que distingue a algo de lo demás, según Aristóteles"), ("objeción", "razón en contra de una posición"), ("reelaborar", "mejorar o cambiar una idea después de examinarla"), ("argumento", "razones que apoyan una conclusión")],
+  [("Quién dice qué", "Texto A: el sentido se construye con las elecciones. Texto B: el sentido está en desarrollar la actividad propia del ser humano. Una persona dice: «Nadie me dio un propósito; lo voy armando con lo que decido». ¿Qué texto se parece más a esa idea?", ["Habla de un sentido que se construye.", "Eso lo dice el texto A."], "El texto A"),
+   ("Argumento corto", "«Si el sentido se construye con elecciones, entonces cada persona es responsable de su sentido. El sentido se construye con elecciones. Por lo tanto, cada persona es responsable de su sentido». ¿Cuál es la conclusión?", ["La conclusión aparece tras «por lo tanto».", "Es: cada persona es responsable de su sentido."], "Cada persona es responsable de su sentido")],
+  [("Decir «mi opinión es esa» y no dar razones.", "Se toma la opinión como si fuera un argumento.", "Agrega un «porque» con una razón y un ejemplo."),
+   ("Cambiar una idea después de una objeción y sentir que se perdió.", "Se cree que cambiar es fracasar.", "Reelaborar una idea con una buena razón es parte de pensar bien.")],
+  [("abc", "{F} Según el texto A, el sentido de una vida", "se construye con lo que cada persona elige hacer", "viene dado desde antes de nacer", "depende solo del azar", "El texto A dice que no hay propósito previo y que cada persona da sentido."),
+   ("abc", "{F} Según el texto B, una vida tiene sentido cuando", "desarrolla la actividad propia del ser humano, vivir según la razón", "evita toda elección", "consigue mucho dinero", "Esa es la condición que plantea el texto B."),
+   ("ab", "{F} ¿Qué texto sostiene que existe una función propia del ser humano?", "El texto B", "El texto A", "El texto B habla de una actividad propia, el vivir según la razón."),
+   ("abc", "{F} ¿En qué se diferencian los textos A y B?", "En A el sentido se construye; en B se desarrolla una actividad propia", "En A no hay razones y en B sí las hay", "En B el sentido es un reflejo del cuerpo", "Son dos respuestas distintas a la pregunta por el sentido."),
+   ("abc", "Primer paso de una visión personal con razones:", "formular la pregunta que se quiere responder", "dar un ejemplo sin posición", "esperar una objeción", "Antes de responder hay que saber qué se pregunta."),
+   ("abc", "¿Qué convierte una opinión en un argumento?", "Agregar razones que la apoyan", "Decirla con más fuerza", "Repetirla dos veces", "El argumento muestra por qué se sostiene la posición."),
+   ("ab", "Argumento de ejemplo: «Cada persona elige; quien elige se hace responsable; por lo tanto, cada persona es responsable». ¿Cuántas premisas tiene?", "Dos", "Una", "Las premisas son «cada persona elige» y «quien elige se hace responsable»."),
+   ("abc", "En el argumento anterior, ¿cuál es la conclusión?", "Cada persona es responsable", "Cada persona elige", "Quien elige se hace responsable", "Es la frase que sigue a «por lo tanto»."),
+   ("abc", "Una objeción posible a A: «No todas las personas pueden elegir lo mismo, porque sus condiciones difieren». ¿Qué hace?", "Plantea una razón que pone límites a la tesis", "Confirma la tesis sin discusión", "Cambia de tema a un reflejo", "Es una razón en contra de A."),
+   ("abc", "Alguien responde a esa objeción: «Aunque las condiciones difieren, cada persona igual elige dentro de las suyas». ¿Qué hace esta respuesta?", "Reelabora la tesis, reconociendo límites", "Ataca a quien objetó", "Abandona toda razón", "Mantiene la tesis precisándola frente a la objeción."),
+   ("abc", "Una persona dice: «Tu idea es mala porque vienes de otro barrio». ¿Qué error comete?", "Ataca a la persona en vez de examinar su idea", "Da una razón sobre el sentido", "Formula una pregunta factual", "No dice nada sobre la razón que sostiene la idea."),
+   ("abc", "Al examinar una objeción fuerte, ¿qué conducta muestra pensar con flexibilidad?", "Precisar o cambiar la idea cuando la razón lo justifica", "Mantener la idea aunque no tenga razones", "Evitar toda conversación", "Se revisa la posición según las razones disponibles."),
+   ("ab", "Dos personas defienden perspectivas distintas pero ambas dan razones. ¿Qué se puede concluir?", "Que el diálogo es posible porque comparten el hábito de razonar", "Que ninguna puede tener razón", "Con razones se puede conversar aunque no se coincida.")],
+  ("abc", "Una vecina ficticia dice: «Para mí el sentido está en lo que elijo cada día, porque nadie lo elige por mí; por ejemplo, decidí volver a estudiar». ¿Qué tiene su frase?", "Una posición, una razón y un ejemplo", "Solo una posición", "Solo un ejemplo sin posición", "Contiene las tres partes de una visión elaborada."),
+  [("En Filosofía: ¿qué es una objeción?", "Una razón en contra de una posición", "Sirve para probar la fuerza de una idea."),
+   ("¿Qué pasos tiene una visión personal?", "Pregunta, posición, razón, ejemplo y objeción con respuesta", "Cada paso la hace más clara."),
+   ("¿Qué significa reelaborar una idea?", "Mejorarla o cambiarla tras examinarla", "No es perder, es pensar mejor.")],
+  ("{F} Escribe tu visión sobre esta pregunta: «¿De dónde viene el sentido de una vida?». Usa los cinco pasos: pregunta, posición en una frase, razón con «porque», ejemplo (puede ser de un personaje ficticio) y una objeción con tu respuesta. Puedes apoyarte en A, en B o en ninguna.",
+   "Pregunta: ¿de dónde viene el sentido de una vida? Posición: se construye, pero con ciertos límites. Razón: porque cada persona elige, aunque no elige todas sus condiciones. Ejemplo: alguien que cambia de oficio con lo que tiene a mano. Objeción: ¿y quien no puede elegir? Respuesta: elige dentro de sus límites, y aun así su elección cuenta.",
+   ["formula la pregunta y una posición clara", "da una razón con «porque»", "usa un ejemplo", "plantea una objeción y la responde"],
+   ["texto de cinco a siete líneas con los cinco pasos marcados"],
+   ["dar una opinión sin razón", "no responder la objeción"],
+   "Evalúa los pasos y la calidad de la razón, no la posición. Si la objeción solo repite la tesis, pide una razón distinta."),
+  "Escribe qué diría el texto A y qué diría el B sobre una persona que cambia de oficio.",
+  "Inventa una objeción al texto B y escribe cómo se podría responder.")
+
+# ====================================================== clase 3
+F = ("Ficha 6 (caso y diálogo de ejemplo, personajes ficticios). Caso: Gladys trabaja haciendo aseo en un edificio de oficinas y se pregunta si su trabajo tiene sentido. "
+     "Diálogo. Mario: «Tu trabajo tiene sentido porque cuida a todas las personas que usan el edificio.» Gladys: «Pero nadie lo nota; entonces, ¿cuál es el sentido?» "
+     "Mario: «Que nadie lo note no cambia lo que produce: un lugar limpio.» Gladys: «Aun así, yo decidí quedarme en este trabajo, y esa decisión también le da sentido.»")
+K(O, 3, F,
+  "Hoy aplicaré lo aprendido al sentido del trabajo: leeré un diálogo, reconoceré sus razones y elaboraré preguntas y una visión propia.",
+  ["El sentido del trabajo es un buen tema para la reflexión filosófica, porque muchas personas pasan gran parte de su vida trabajando. En el diálogo de la ficha aparecen dos ideas: que el trabajo tiene sentido por lo que produce y por a quién cuida, y que también lo tiene por la decisión de quien lo hace. Ambas son razones que se pueden examinar.",
+   "En un diálogo filosófico se hacen movimientos reconocibles. Se pregunta, se da una razón, se objeta, se responde la objeción y se concede un punto cuando la otra persona tiene razón. Dialogar con empatía significa escuchar la idea completa, reformularla con tus palabras y objetar la idea, no a la persona. Así la conversación sirve para pensar mejor, no para ganar.",
+   "Una visión personal sobre el sentido del trabajo se arma con la misma estructura de siempre: posición, razón, ejemplo y objeción respondida. Además, de la visión nacen nuevas preguntas, que es una señal de buen pensamiento. Una visión puede quedar abierta a revisión: tomar posición y seguir preguntando no se contradicen."],
+  [("empatía", "esfuerzo por entender la razón de otra persona"), ("reformular", "decir con tus palabras lo que otra persona dijo"), ("conceder", "reconocer que la otra persona tiene razón en un punto"), ("objeción", "razón en contra de una posición"), ("diálogo filosófico", "conversación que examina ideas con razones")],
+  [("Movimiento del diálogo", "En un diálogo de ejemplo, Ana dice: «Un trabajo vale cuando deja algo útil». Beto responde: «Pero hay trabajos útiles que agotan a quien los hace; ¿también valen?». ¿Qué movimiento hace Beto?", ["Plantea una duda a la razón de Ana.", "Es una objeción en forma de pregunta."], "Objeta"),
+   ("Conceder", "Alguien dice: «Tienes razón en que el reconocimiento importa, pero creo que no es lo único». ¿Qué hace?", ["Reconoce una razón de la otra persona.", "Luego añade su propia posición."], "Concede un punto y mantiene su posición")],
+  [("Responder atacando a la persona y no a su razón.", "Se confunde ganar la discusión con pensar juntos.", "Reformula la idea de la otra persona y objeta su razón."),
+   ("No cerrar nunca la propia posición por miedo a equivocarse.", "Se evita asumir el riesgo de pensar.", "Toma una posición con razones, sabiendo que puede revisarse.")],
+  [("abc", "{F} ¿Qué razón da Mario para decir que el trabajo de Gladys tiene sentido?", "Que cuida a quienes usan el edificio", "Que le pagan un sueldo alto", "Que otras personas lo reconocen siempre", "La razón de Mario es el cuidado de las personas que usan el edificio."),
+   ("ab", "{F} ¿Qué razón agrega Gladys al final?", "Que su decisión de quedarse también le da sentido", "Que el trabajo no le sirve a nadie", "Gladys menciona su decisión como otra fuente de sentido."),
+   ("abc", "{F} ¿Qué objeción plantea Gladys a Mario?", "Que nadie nota su trabajo", "Que el edificio es demasiado grande", "Que Mario no tiene trabajo", "Es la razón con la que pone en duda la idea de Mario."),
+   ("abc", "{F} ¿Cómo responde Mario a esa objeción?", "Dice que el hecho de que nadie lo note no cambia lo que produce", "Ataca a Gladys por quejarse", "Abandona su posición sin razones", "Responde con una razón y no con un ataque."),
+   ("abc", "Reformular lo que dijo otra persona sirve para", "comprobar que se entendió su idea antes de objetar", "evitar escuchar el resto", "ganar la discusión", "Evita objetar algo que la persona nunca dijo."),
+   ("abc", "Argumento de ejemplo: «Un trabajo que cuida a otros tiene sentido. El aseo cuida a quienes usan el edificio. Por lo tanto, el aseo tiene sentido». ¿Cuál es la premisa general?", "Un trabajo que cuida a otros tiene sentido", "El aseo tiene sentido", "El aseo cuida a quienes usan el edificio", "Es la regla general que apoya la conclusión."),
+   ("ab", "En ese mismo argumento, ¿cuál es la conclusión?", "El aseo tiene sentido", "Un trabajo que cuida a otros tiene sentido", "Es la frase que sigue a «por lo tanto»."),
+   ("abc", "Un compañero dice: «Gladys solo se queja, así que su idea no vale». ¿Qué error comete?", "Descalifica a la persona en vez de examinar la razón", "Usa un dato verificable", "Formula una pregunta abierta", "No considera el contenido de lo que dijo Gladys."),
+   ("abc", "¿Qué respuesta dialoga con empatía?", "«Entiendo que te importa el reconocimiento; ¿qué pasa si nadie lo da?»", "«Eso es una tontería»", "«No digas más»", "Reconoce su idea y sigue preguntando con razones."),
+   ("abc", "De la idea «la decisión de quedarme le da sentido» nace una nueva pregunta filosófica. ¿Cuál?", "¿Una decisión puede dar sentido a lo que se hace?", "¿Cuántas horas dura un turno?", "¿Cuánto cuesta el aseo?", "Es una pregunta abierta sobre decisión y sentido."),
+   ("abc", "Dos personas piensan distinto sobre si el sentido del trabajo está en el sueldo. ¿Qué actitud es la más filosófica?", "Pedir y examinar razones de ambos lados", "Imponer la propia idea", "Evitar el tema", "Examinar razones permite avanzar sin imponer."),
+   ("ab", "Tomar una posición sobre el sentido del trabajo y mantenerla abierta a revisión es", "compatible: se sostiene con razones y se revisa si hay una mejor", "contradictorio: o se sostiene o se revisa", "Una posición razonada puede cambiar cuando aparece una razón mejor."),
+   ("abc", "Un ejemplo adecuado para apoyar una visión sobre el sentido del trabajo es", "un caso concreto, como un turno de aseo que deja el edificio limpio", "una frase vaga como «todo depende»", "una pregunta factual", "Un caso concreto muestra cómo se aplica la razón.")],
+  ("abc", "Un vendedor ficticio dice: «Mi trabajo tiene sentido porque elijo hacerlo bien cada día, por ejemplo cuando corrijo un error de cuentas aunque nadie lo ve». ¿Qué perspectiva se parece más a la suya?", "La que pone el sentido en la decisión de la persona", "La que dice que el sentido depende solo del sueldo", "La que niega toda razón", "El sentido nace de lo que él elige hacer."),
+  [("En Filosofía: ¿qué es empatía en un diálogo?", "Entender la razón de otra persona antes de objetar", "Permite discutir las razones sin atacar a nadie."),
+   ("¿Qué es conceder un punto?", "Reconocer que la otra persona tiene razón en algo", "Se puede conceder y mantener otra posición."),
+   ("¿Qué se objeta en un diálogo?", "La idea o la razón, no la persona", "El respeto es parte del diálogo.")],
+  ("{F} Escribe tu visión sobre el sentido del trabajo, a partir del diálogo entre Mario y Gladys. Incluye posición, razón, ejemplo y una objeción respondida, y termina con dos preguntas nuevas que te surjan. Puedes usar solo el caso ficticio.",
+   "Creo que el sentido del trabajo viene de lo que produce y de que alguien decide hacerlo bien. Razón: aunque nadie lo note, el lugar queda limpio. Ejemplo: Gladys elige mantener el cuidado cada día. Objeción: sin reconocimiento se pierden las ganas. Respuesta: el reconocimiento ayuda, pero no es la única fuente. Preguntas: ¿Qué pasa si el trabajo no produce nada visible? ¿Se puede elegir el sentido de un trabajo que no se eligió?",
+   ["toma una posición clara", "da una razón y un ejemplo", "responde una objeción con otra razón", "formula dos preguntas filosóficas nuevas"],
+   ["texto de siete a diez líneas con posición, razón, ejemplo, objeción respondida y dos preguntas"],
+   ["no responder la objeción", "preguntas que se responden con un dato"],
+   "Evalúa la calidad argumentativa y el respeto del tono. Si las preguntas nuevas se responden con un dato, pide que las conviertan en «¿qué hace que...?»."),
+  "Reformula con tus palabras lo que dice cada personaje del diálogo en una frase.",
+  "Escribe una objeción a la última frase de Gladys y una respuesta.")

@@ -1,0 +1,126 @@
+"""Artes Visuales EPJA Media N1 y N2, módulo 4, OAD-16: presentar una muestra de artes visuales y evaluarla con criterios estéticos y funcionales. Muestra, encuestas y cifras ficticias; todo en papel."""
+from __future__ import annotations
+
+from epja_avis_d_common import K, O16
+
+# ====================================================== OAD-16 clase 1
+F = ("Ficha 1 (apertura de la muestra ficticia «Miradas de Invierno», 10 obras). Criterios estéticos: E1, las obras se relacionan con el tema; E2, los colores y el orden visual del conjunto son armónicos; E3, el recorrido se entiende como un relato. "
+     "Criterios funcionales: F1, las fichas de obra se leen sin esfuerzo; F2, hay paso libre y seguro para circular, también con silla de ruedas o coche de bebé; F3, la luz permite ver cada obra sin reflejos; F4, el montaje es seguro (cables fijos y obras bien sujetas). "
+     "Guion del día de apertura: bienvenida, 5 minutos; presentación del tema y del equipo, 10 minutos; recorrido guiado, 20 minutos; conversación con el público, 10 minutos; cierre y agradecimientos, 5 minutos.")
+K(O16, 1, F,
+  "Hoy aprenderé a presentar una muestra con un guion claro y a distinguir criterios estéticos y funcionales para evaluarla.",
+  ["Presentar una muestra es recibir al público y ayudarle a mirar. Un guion de apertura ordena los momentos: bienvenida, presentación del tema y del equipo, recorrido, conversación y cierre. Cada momento tiene un tiempo. Quien presenta explica sin imponer una sola interpretación, porque cada persona puede ver algo distinto en una obra.",
+   "Una muestra se evalúa con dos tipos de criterios. Los criterios estéticos miran cómo se ve y qué comunica el conjunto: relación con el tema, armonía de color y orden, claridad del recorrido. Los criterios funcionales miran si la muestra sirve a las personas: fichas legibles, paso libre y seguro, buena luz, montaje seguro. Una muestra hermosa pero incómoda o insegura está a medio camino.",
+   "También hay distintos formatos de presentación: la palabra de quien guía, la ficha de sala junto a cada obra, un folleto de mano y una proyección. Cada uno ayuda a públicos distintos, por ejemplo a quien llega sin guía. Todos los datos de esta clase son de ejemplo."],
+  [("guion", "orden de los momentos y tiempos de una presentación"), ("criterio estético", "aspecto que mira cómo se ve la muestra y qué comunica"), ("criterio funcional", "aspecto que mira si la muestra sirve y es segura para las personas"), ("mediación", "ayuda que se da al público para mirar y comprender las obras")],
+  [("Clasificar un criterio", "«Las fichas de obra se leen sin esfuerzo» (F1). ¿Es estético o funcional?", ["Mira si la muestra sirve a las personas.", "Es un asunto de uso y legibilidad."], "Funcional"),
+   ("Sumar el guion", "El guion tiene 5, 10, 20, 10 y 5 minutos. ¿Cuánto dura la apertura?", ["Se suman los cinco momentos.", "5 + 10 + 20 + 10 + 5 = 50."], "50 minutos")],
+  [("Evaluar la muestra solo por lo bonito que se ve.", "Se olvida que la muestra también debe servir y ser segura.", "Evalúa con criterios estéticos y funcionales."),
+   ("Explicar cada obra diciendo qué significa en forma única.", "Se cree que quien presenta debe dar la interpretación correcta.", "Invita a mirar y acepta que haya más de una lectura.")],
+  [("abc", "En Artes Visuales: ¿qué mira un criterio funcional?", "Si la muestra sirve y es segura para las personas", "Si los colores son del gusto del curador", "Si la obra es la más cara", "Lo funcional mira uso, legibilidad y seguridad."),
+   ("ab", "Un criterio estético de una muestra es", "el orden visual del conjunto y su relación con el tema", "la seguridad de los cables en el piso", "Lo estético mira lo que se ve y lo que comunica."),
+   ("abc", "{F} ¿Cuál de estos criterios es funcional?", "F2, que haya paso libre y seguro para circular", "E1, que las obras se relacionen con el tema", "E3, que el recorrido se entienda como un relato", "El paso libre y seguro depende del uso y la comodidad."),
+   ("=", "{F} Si la conversación con el público se alarga de 10 a 15 minutos, ¿cuánto dura el guion completo?", "5+10+20+15+5", "Se suman los cinco momentos con la conversación de 15 minutos.", " minutos"),
+   ("abc", "{F} Hay un cable suelto cruzando el pasillo. ¿Qué criterio se ve afectado?", "F4, el montaje seguro", "E2, la armonía de colores", "E1, la relación con el tema", "Un cable suelto puede hacer tropezar y es un riesgo."),
+   ("=", "{F} El recorrido guiado dura 20 minutos y hay 10 obras. ¿Cuántos minutos corresponden a cada obra?", "20/10", "Se divide el tiempo del recorrido entre el número de obras.", " minutos"),
+   ("ab", "Quien presenta una muestra debe", "invitar a mirar y aceptar distintas lecturas de una obra", "decir que solo hay una interpretación correcta", "Cada persona ve algo propio, y la mediación no cierra el sentido."),
+   ("abc", "{F} Dos mesas están a 60 cm entre sí y una persona en silla de ruedas no alcanza a pasar. ¿Qué criterio falla?", "F2, el paso libre y seguro", "E2, la armonía de colores", "E1, la relación con el tema", "Un paso estrecho impide circular con comodidad."),
+   ("abc", "Alguien llega a la muestra sin guía. ¿Qué formato le ayuda más a entender cada obra?", "La ficha de sala junto a cada obra y un folleto de mano", "Un aviso que diga «no tocar» en la puerta", "Un cartel con el nombre del equipo", "Una ficha junto a la obra informa sin necesidad de una persona."),
+   ("abc", "Una muestra tiene obras muy hermosas, pero la luz crea reflejos en todas. ¿Cuál es la mejor conclusión?", "Es hermosa pero falla en lo funcional y conviene ajustar la luz", "No tiene ningún problema", "Debe retirarse del todo", "La luz que molesta es un problema funcional que se puede corregir."),
+   ("ab", "Evaluar con criterios estéticos y funcionales a la vez sirve porque", "una muestra puede ser atractiva y aun así incómoda para el público", "así se evita revisar la seguridad", "Ambos tipos de criterio miran aspectos distintos de la misma muestra."),
+   ("abc", "Se observa que muchas personas se saltan la última sala. ¿Qué ajuste es más razonable?", "Revisar el recorrido y poner señales claras que la anuncien", "Quitar la última sala sin revisar nada", "Pedir al público que no se vaya", "Un recorrido poco claro afecta lo estético y lo funcional."),
+   ("abc", "En la apertura, la bienvenida de 5 minutos se alargó a 20. ¿Qué efecto tiene en el guion?", "Hay que acortar otros momentos o mover la hora de cierre", "Nada, porque el guion no importa", "Se debe repetir la bienvenida", "Sin ajustar, el resto del guion queda sin tiempo.")],
+  ("abc", "Una persona prepara la apertura de su muestra en una sede vecinal y quiere evaluarla después. ¿Qué es lo primero que conviene hacer?", "Escribir un guion y una lista de criterios estéticos y funcionales", "Esperar a ver cómo sale", "Repartir las sillas sin planificar", "Con guion y criterios, la apertura y la evaluación tienen orden."),
+  [("En Artes Visuales: ¿qué es un criterio funcional?", "Un aspecto que mide si la muestra sirve y es segura para las personas", "Se evalúa uso, legibilidad y seguridad."),
+   ("¿Qué mira un criterio estético en una muestra?", "Cómo se ve y qué comunica el conjunto", "Se observa color, orden y relación con el tema."),
+   ("¿Para qué sirve un guion de apertura?", "Para ordenar los momentos y los tiempos de la presentación", "Un guion evita improvisar y cuida el tiempo.")],
+  ("{F} Escribe una lista de cuatro criterios para evaluar una muestra tuya o inventada: dos estéticos y dos funcionales. Para cada uno, anota qué observarías para decir que se cumple.",
+   "Estético: relación con el tema (todas las obras muestran invierno en el barrio); armonía (colores no chocan). Funcional: fichas legibles (se leen a un metro de distancia); paso libre (cabe una silla de ruedas por todo el recorrido).",
+   ["escribe dos criterios estéticos y dos funcionales", "dice qué observaría en cada uno", "usa indicadores que se pueden comprobar"],
+   ["lista de cuatro criterios con su indicador"],
+   ["mezclar criterios estéticos y funcionales sin distinguirlos", "indicadores que son solo opinión"],
+   "Comprueba que haya dos de cada tipo y que cada indicador sea observable. Si alguien escribe «que se vea lindo», pide que diga qué observaría para decirlo."),
+  "Escribe con tus palabras la diferencia entre un criterio estético y uno funcional.",
+  "Inventa un guion de apertura de 40 minutos con cuatro momentos y escribe cuánto dura cada uno.")
+
+# ====================================================== OAD-16 clase 2
+F = ("Ficha 2 (resultados de ejemplo de una encuesta anónima a 40 personas que visitaron la muestra ficticia «Miradas de Invierno»; opciones: Sí, Más o menos, No). "
+     "A, «El recorrido se entendió»: Sí 28, Más o menos 8, No 4. B, «Las fichas se leen bien»: Sí 30, Más o menos 6, No 4. "
+     "C, «La luz permitió ver bien las obras»: Sí 24, Más o menos 10, No 6. D, «Pude moverme con comodidad»: Sí 32, Más o menos 6, No 2. "
+     "Comentarios de ejemplo: «El rincón del video estaba muy oscuro». «Me gustó el orden del recorrido». «La letra de las fichas era pequeña».")
+K(O16, 2, F,
+  "Hoy aprenderé a evaluar una muestra con una encuesta: leer sus resultados, calcular porcentajes y decidir qué mejorar.",
+  ["Una encuesta es el conjunto de las mismas preguntas hechas a varias personas. Si es anónima, nadie debe poner su nombre, lo que ayuda a responder con confianza. Cada pregunta mira un criterio: si el recorrido se entendió, si las fichas se leen bien, si la luz es buena, si se pudo circular con comodidad.",
+   "Para leer los resultados se cuentan las respuestas y se calcula un porcentaje, que es cuántas personas de cada 100 eligieron una opción. Se calcula así: cantidad que eligió la opción, dividida por el total de personas, por 100. Por ejemplo, 18 de 24 personas es 18 dividido 24 por 100, que da 75 %. El porcentaje permite comparar preguntas con claridad.",
+   "Los números se leen junto con los comentarios. Los números dicen cuántas personas piensan algo; los comentarios explican por qué. Luego se decide qué mejorar primero: lo que tiene menos respuestas «Sí» y más impacto en el público. Una evaluación útil no busca culpables, busca mejorar para la próxima muestra."],
+  [("encuesta", "las mismas preguntas hechas a varias personas"), ("porcentaje", "cuántas personas de cada 100 eligieron una opción"), ("anónima", "que no pide el nombre de quien responde"), ("prioridad", "lo que se decide mejorar primero")],
+  [("Calcular un porcentaje", "21 de 30 personas dijeron «Sí» a una pregunta. ¿Qué porcentaje es?", ["Se divide 21 entre 30.", "0,70 x 100 = 70 %."], "70 %"),
+   ("Elegir qué mejorar", "El «Sí» fue 70 % en A y 60 % en C. ¿Cuál tiene más espacio para mejorar?", ["Se compara el porcentaje de «Sí».", "C tiene el menor."], "La pregunta C")],
+  [("Comparar solo cantidades cuando los totales son distintos.", "No se calculan porcentajes y se confunde cuál es mayor.", "Calcula el porcentaje para comparar con la misma vara."),
+   ("Ignorar los comentarios y mirar solo los números.", "Se cree que los comentarios son solo opiniones sueltas.", "Lee números y comentarios juntos para entender las causas.")],
+  [("=", "{F} Calcula el porcentaje de «Sí» en la pregunta A: 28 de 40 personas.", "28/40*100", "Se divide la cantidad entre el total y se multiplica por cien.", " %"),
+   ("=", "{F} Calcula el porcentaje de «Sí» en la pregunta B: 30 de 40 personas.", "30/40*100", "Se divide 30 entre 40 y se multiplica por cien.", " %"),
+   ("=", "{F} Comprueba el total de respuestas de la pregunta C sumando 24, 10 y 6.", "24+10+6", "Las tres opciones deben sumar el total de personas encuestadas.", " personas"),
+   ("=", "{F} Calcula el porcentaje de «Sí» en la pregunta D: 32 de 40 personas.", "32/40*100", "Se divide 32 entre 40 y se multiplica por cien.", " %"),
+   ("abc", "{F} ¿Qué pregunta tuvo el menor porcentaje de «Sí»?", "C, sobre la luz", "A, sobre el recorrido", "D, sobre la comodidad", "C tiene 24 de 40, que equivale a 60 %."),
+   ("ab", "Una encuesta anónima sirve porque", "las personas responden sin sentirse expuestas", "permite saber quién respondió cada cosa", "No pedir nombres da más confianza para decir lo que se piensa."),
+   ("=", "{F} Calcula cuántas personas no respondieron «Sí» a la pregunta C (Más o menos y No).", "10+6", "Se suman las personas que eligieron las otras dos opciones.", " personas"),
+   ("abc", "{F} Los resultados de C y un comentario dicen «el rincón del video estaba muy oscuro». ¿Qué mejora tiene más fundamento?", "Reforzar la iluminación en el rincón del video", "Cambiar el color de todas las paredes", "Quitar todas las fichas", "El dato y el comentario apuntan al mismo problema."),
+   ("=", "{F} Si 8 de las personas que dijeron «Más o menos» o «No» en C pasaran a «Sí», ¿qué porcentaje de «Sí» habría?", "(24+8)/40*100", "Se suman los nuevos «Sí» y se calcula el porcentaje sobre 40.", " %"),
+   ("abc", "{F} En la pregunta A, el 10 % dijo «No». ¿Qué conclusión es razonable?", "La mayoría entendió el recorrido, pero algunas personas tuvieron dudas", "Nadie entendió el recorrido", "El recorrido no necesita ninguna revisión", "El 70 % dijo Sí, pero el 30 % restante señala dudas por atender."),
+   ("ab", "Alguien dice: «Un solo comentario sobre la letra pequeña no importa». ¿Qué respuesta es más adecuada?", "Contrastarlo con la pregunta B antes de decidir", "Tiene razón, los comentarios no sirven", "Los datos de la pregunta B permiten ver si el comentario es compartido."),
+   ("abc", "Si se encuesta solo a las amistades del equipo, ¿qué problema aparece?", "Las respuestas pueden ser menos variadas y más favorables", "Habrá demasiadas preguntas", "El porcentaje se calcula distinto", "Una muestra de personas cercanas puede inclinar los resultados."),
+   ("abc", "Un equipo decide qué mejorar primero. ¿Qué criterio de prioridad es más sensato?", "Lo que tiene menos «Sí» y más efecto en la experiencia del público", "Lo que es más caro de arreglar", "Lo que prefiere una sola persona", "Priorizar por impacto y datos hace más útil la evaluación.")],
+  ("abc", "Una persona ficticia dice: «En la pregunta B, 30 personas dijeron Sí y en D, 32. Entonces las fichas están igual de bien que la comodidad». ¿Qué respuesta es más precisa?", "D tiene un porcentaje más alto: 80 % frente a 75 %", "Son idénticos porque ambos pasan de 25", "B es mayor porque 30 está antes de 32", "Con 40 personas, 32 es 80 % y 30 es 75 %."),
+  [("En Artes Visuales: ¿qué es un porcentaje?", "Cuántas personas de cada 100 eligieron una opción", "Sirve para comparar resultados con una misma escala."),
+   ("¿Cómo se calcula el porcentaje de una opción?", "Cantidad dividida por el total y multiplicada por 100", "Esa fórmula convierte cualquier cantidad en una proporción de 100."),
+   ("¿Por qué leer los comentarios junto con los números?", "Porque los comentarios explican las causas de los datos", "Los números cuentan y los comentarios aclaran por qué.")],
+  ("{F} Elige dos preguntas de la ficha. Calcula su porcentaje de «Sí» y de «No», escribe qué problema detectas y propone una mejora concreta para la próxima muestra.",
+   "Pregunta C: Sí 24/40 = 60 %, No 6/40 = 15 %. El rincón del video está oscuro. Mejora: poner una cortina y reubicar el foco antes de abrir. Pregunta A: Sí 70 %, No 10 %. Mejora: agregar flechas en el piso.",
+   ["calcula porcentajes de dos preguntas", "identifica un problema usando datos o comentarios", "propone una mejora concreta y viable"],
+   ["dos cálculos de porcentaje y una mejora por pregunta"],
+   ["dividir al revés (total entre cantidad)", "proponer una mejora que no se relaciona con el dato"],
+   "Comprueba los porcentajes: A 70, B 75, C 60, D 80 para «Sí». Si la mejora no se relaciona con el dato, pide que cite el comentario o la pregunta que la origina."),
+  "Calcula el porcentaje de «No» en la pregunta B (4 de 40 personas).",
+  "Escribe tres preguntas para una encuesta anónima sobre una muestra de tu barrio y sus opciones de respuesta.")
+
+# ====================================================== OAD-16 clase 3
+F = ("Ficha 3 (cierre de la muestra ficticia «Miradas de Invierno»; cifras de ejemplo). Asistencia: día 1, 62 personas; día 2, 48 personas; meta del equipo, 100 personas en total. "
+     "Valoración de las 40 personas encuestadas, de 3 a 5 estrellas: 5 estrellas, 20 personas; 4 estrellas, 15 personas; 3 estrellas, 5 personas. "
+     "Finanzas: aportes por $20.000 y gasto real por $18.350. Obras: 10 prestadas, 10 devueltas con un acta firmada. "
+     "Mejoras propuestas: M1, reforzar la luz del rincón del video; M2, agregar flechas de recorrido; M3, letra más grande en las fichas.")
+K(O16, 3, F,
+  "Hoy aprenderé a cerrar un proyecto de difusión: reunir datos, evaluar logros y mejoras, comunicar los resultados y cerrar con agradecimientos y devolución de obras.",
+  ["Cerrar un proyecto es parte de la gestión. El informe de cierre reúne los resultados: cuánta gente asistió, qué opinó, cómo quedaron las cuentas y qué ocurrió con las obras. Se compara lo logrado con la meta que el equipo se puso al principio, y se anotan las lecciones aprendidas: lo que salió bien y lo que se repetiría o cambiaría.",
+   "Un informe útil usa datos claros y lenguaje simple. Incluye el total de asistentes, el promedio por día, la valoración del público, el saldo del presupuesto y las mejoras priorizadas. Se escribe sin culpar a nadie: se evalúa el trabajo del equipo y no a las personas. Las mejoras se ordenan según su impacto y la facilidad de hacerlas.",
+   "Al terminar se devuelven las obras a sus autoras y autores con un acta, se agradece a quienes colaboraron y se da el crédito correspondiente. El informe se comunica a quienes aportaron: la junta de vecinos, la biblioteca, el equipo y las personas que participaron. Se muestran solo las imágenes con autorización. Todos los datos de esta clase son inventados."],
+  [("informe de cierre", "documento que reúne los resultados de un proyecto terminado"), ("meta", "resultado que el equipo se propuso lograr"), ("lección aprendida", "enseñanza que deja el proyecto para hacer algo mejor"), ("acta", "documento breve que deja constancia de algo, como la devolución de obras")],
+  [("Calcular el total", "35 personas el día 1 y 41 el día 2. ¿Cuántas asistieron en total?", ["Se suman los dos días.", "35 + 41 = 76."], "76 personas"),
+   ("Comparar con la meta", "La meta era 80 personas y asistieron 76. ¿Qué pasó con la meta?", ["Se compara el resultado con la meta.", "76 es menor que 80."], "No se alcanzó; faltaron 4 personas")],
+  [("Escribir un informe solo con opiniones y sin datos.", "Se cree que alcanza con decir «salió bien».", "Usa cifras de asistencia, valoración y presupuesto junto con las opiniones."),
+   ("Cerrar el proyecto sin devolver las obras con constancia.", "Se supone que todo está claro de palabra.", "Entrega las obras con un acta que lo deje registrado.")],
+  [("=", "{F} Calcula la asistencia total sumando los dos días.", "62+48", "Se suman las personas del día 1 y del día 2.", " personas"),
+   ("=", "{F} Calcula cuántas personas superó la asistencia la meta de 100.", "110-100", "Se resta la meta al total de personas que asistieron.", " personas"),
+   ("=", "{F} Calcula el promedio de asistentes por día, con 110 personas en 2 días.", "110/2", "El promedio se calcula dividiendo el total entre los días.", " personas"),
+   ("=", "{F} Calcula el saldo restando el gasto real ($18.350) a los aportes ($20.000).", "20000-18350", "El saldo es lo reunido menos lo gastado realmente.", " pesos"),
+   ("abc", "{F} ¿Cuántas personas menos asistieron el día 2 respecto del día 1?", "14 personas menos", "10 personas menos", "110 personas menos", "62 menos 48 da 14 personas."),
+   ("=", "{F} Calcula la valoración promedio: (5 x 20 + 4 x 15 + 3 x 5) dividido por 40 personas.", "(5*20+4*15+3*5)/40", "Se suman los puntos de todas las valoraciones y se divide por el total.", " estrellas"),
+   ("abc", "En Artes Visuales: ¿qué incluye un informe de cierre?", "Asistencia, valoración, presupuesto, mejoras y agradecimientos", "Solo la lista de obras más caras", "Únicamente fotografías sin texto", "El informe reúne los resultados y las lecciones del proyecto."),
+   ("abc", "{F} ¿Por qué se devuelven las 10 obras con un acta firmada?", "Para dejar constancia de que cada obra volvió a su autoría", "Para anotar quién visitó la muestra", "Para cambiar la autoría de las obras", "El acta evita dudas sobre quién recibió qué."),
+   ("ab", "Al comunicar resultados a quienes aportaron, conviene", "un informe breve con datos claros y fotos autorizadas", "mostrar fotos de todas las personas sin avisar", "Los aportes se retribuyen con transparencia, respetando el consentimiento."),
+   ("abc", "{F} ¿Cuál mejora es más urgente si el comentario más repetido del público fue que el rincón del video estaba muy oscuro?", "M1, reforzar la luz del rincón del video", "M3, letra más grande en las fichas", "Ninguna, porque todo salió perfecto", "M1 responde directamente al problema que más se repitió."),
+   ("abc", "La asistencia bajó del día 1 al día 2. ¿Qué pregunta es más útil para explicarlo?", "¿Qué pudo influir ese día, como el clima o la hora de apertura?", "¿Quién tiene la culpa de que bajara?", "¿Por qué hacemos muestras?", "Buscar causas posibles ayuda a decidir mejoras sin culpar."),
+   ("ab", "En la autoevaluación del equipo, lo más útil es", "reconocer lo que funcionó y lo que se mejoraría sin culpar a personas", "señalar quién se equivocó más", "Evaluar el trabajo y no a las personas mantiene la confianza del equipo."),
+   ("abc", "Un equipo prioriza sus mejoras. ¿Cuál criterio es más razonable?", "Hacer primero lo que más ayuda al público y es fácil de lograr", "Hacer primero lo más caro", "Hacer primero lo que pide una sola persona", "El impacto y la facilidad orientan el orden de las mejoras.")],
+  ("abc", "Una persona ficticia redactó este cierre: «La muestra salió bien porque todos estuvieron contentos». ¿Qué le falta para ser un buen informe de cierre?", "Datos concretos como asistencia, valoración y saldo", "Más adjetivos sobre lo bonito que fue", "Menos información para no aburrir", "Un informe con datos permite comparar y aprender."),
+  [("En Artes Visuales: ¿qué es una lección aprendida?", "Una enseñanza que deja el proyecto para hacer algo mejor", "Las lecciones convierten la experiencia en mejoras futuras."),
+   ("¿Cómo se calcula un promedio por día?", "Se divide el total entre el número de días", "El promedio reparte el total de manera pareja."),
+   ("¿Qué se hace al terminar con las obras prestadas?", "Se devuelven con un acta y el crédito de su autoría", "El acta deja constancia de la devolución.")],
+  ("{F} Escribe un informe de cierre de una página con cuatro partes: resultados con datos, un logro, dos mejoras priorizadas (elegidas de M1 a M3) y un agradecimiento con créditos.",
+   "Resultados: 110 personas (meta 100), promedio 55 por día, valoración 4,375 estrellas, saldo $1.650, 10 obras devueltas con acta. Logro: se superó la meta. Mejoras: M1 (luz) y M2 (flechas), porque ayudan al público y son fáciles. Agradecimientos: a la biblioteca, a la junta de vecinos y a cada persona autora.",
+   ["incluye al menos tres datos con cifras correctas", "escribe un logro y dos mejoras priorizadas", "incluye agradecimientos y créditos"],
+   ["informe de una página con cuatro partes"],
+   ["escribir solo opiniones sin datos", "no priorizar las mejoras"],
+   "Revisa las cifras: 110 personas, promedio 55, saldo 1.650. Acepta otras mejoras elegidas si están justificadas por impacto y facilidad. Comprueba que haya agradecimientos y créditos."),
+  "Calcula el saldo si los aportes son $15.000 y el gasto es $12.800.",
+  "Escribe un texto de agradecimiento de tres líneas para una persona que prestó su sede o su proyector para una muestra inventada.")

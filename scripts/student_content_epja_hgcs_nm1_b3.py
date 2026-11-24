@@ -1,0 +1,253 @@
+"""HGCS EPJA Media N1, módulo 2 (parte 3): OAD-07, caracterizar conflictos globales y regionales del siglo XX y sus consecuencias (revoluciones, guerras, totalitarismos, populismos, Guerra Fría). Datos y fuentes de ejemplo en papel, sin mapas, con tono neutral."""
+from __future__ import annotations
+
+from epja_hgcs_nm1_b_common import K
+
+O = "EPJA-HGCS-NM1-OAD-07"
+
+# ====================================================== clase 1: partir de lo que ya se sabe
+F = ("Ficha 1 (caso de ejemplo, inventado, y cronología escolar básica). Conflicto en «Buses del Valle», empresa ficticia. Causa: la empresa cambió los turnos de los conductores sin avisar. "
+     "Partes: el sindicato de conductores y la gerencia. Desarrollo: hubo una paralización de dos días y tres reuniones con una persona mediadora. "
+     "Consecuencia: se firmó un acuerdo que obliga a avisar por escrito los cambios de turno. "
+     "Cronología escolar básica: 1914 a 1918, Primera Guerra Mundial; 1939 a 1945, Segunda Guerra Mundial; desde 1947 hasta 1991, aproximadamente, Guerra Fría.")
+K(O, 1, F,
+  "Hoy parto de los conflictos que conozco de la vida diaria para entender cómo se caracteriza un conflicto: partes, causas, desarrollo y consecuencias.",
+  ["Todas las personas han vivido o presenciado un conflicto: un desacuerdo en el trabajo, entre vecinos o en la familia. Un conflicto es una situación en que dos o más partes tienen intereses o ideas opuestas. Para entenderlo, conviene preguntar quiénes participan, por qué comenzó, cómo se desarrolló y qué consecuencias dejó.",
+   "En el siglo XX hubo conflictos de enorme escala. Algunos fueron globales, como la Primera y la Segunda Guerra Mundial, porque involucraron a muchos países de varios continentes. Otros fueron regionales, es decir, afectaron sobre todo a una parte del mundo o a un país, como ciertas revoluciones o dictaduras. Y hubo períodos de tensión sin guerra directa entre las grandes potencias, como la Guerra Fría.",
+   "Los conflictos grandes y los pequeños se parecen en su estructura, aunque se diferencian en la escala y en el sufrimiento que provocan. Estudiarlos no es admirar la violencia, sino comprender sus causas y consecuencias. Lo hacemos con respeto por las personas afectadas y sin tomar partido de manera simplista."],
+  [("conflicto", "situación en que dos o más partes tienen intereses o ideas opuestas"), ("causa", "razón que explica por qué comenzó algo"), ("consecuencia", "resultado o efecto que deja un hecho"), ("conflicto global", "conflicto que involucra a muchos países de varios continentes"), ("conflicto regional", "conflicto que afecta sobre todo a una región o a un país")],
+  [("Caracterizar un conflicto", "{F} Anota las partes y la causa del conflicto de Buses del Valle.", ["Las partes son el sindicato de conductores y la gerencia.", "La causa fue el cambio de turnos sin aviso."], "Partes: sindicato y gerencia. Causa: cambio de turnos sin aviso"),
+   ("Calcular una duración", "{F} ¿Cuántos años duró la Primera Guerra Mundial, según la cronología?", ["Años: 1914 y 1918.", "Se resta: 1918 − 1914 = 4."], "4 años")],
+  [("Pensar que una causa explica todo el conflicto.", "Los conflictos suelen tener varias causas que se suman.", "Busca causas económicas, políticas y sociales, no solo una."),
+   ("Buscar solo «culpables» y no comprender el proceso.", "Estudiar un conflicto es explicarlo con evidencia, no solo acusar.", "Describe qué hizo cada parte según las fuentes, con respeto.")],
+  [("abc", "{F} ¿Cuánto duró la paralización de los conductores?", "Dos días", "Una semana", "Un mes", "La ficha indica una paralización de dos días."),
+   ("ab", "En Historia: ¿qué es un conflicto?", "Una situación en que dos o más partes tienen intereses o ideas opuestas", "Un acuerdo en que todas las partes piensan igual", "Un conflicto nace de intereses o ideas que se oponen."),
+   ("=", "{F} ¿Cuántos años duró la Segunda Guerra Mundial, según la cronología?", "1945-1939", "Se restan los años de inicio y fin que da la ficha.", " años"),
+   ("abc", "{F} ¿Qué ayudó a resolver el conflicto de Buses del Valle?", "Reuniones con una persona mediadora y un acuerdo", "Una nueva paralización", "Cerrar la empresa", "La ficha indica reuniones con mediación y un acuerdo."),
+   ("ab", "En Historia: un conflicto que involucra a muchos países de varios continentes se llama", "Conflicto global", "Conflicto vecinal", "La escala de varios países y continentes lo hace global."),
+   ("{F} ¿Cuántas reuniones con mediación hubo, según la ficha?", "Tres", "La ficha dice que hubo tres reuniones con una persona mediadora."),
+   ("abc", "{F} ¿Cuál fue la consecuencia del conflicto de Buses del Valle?", "Un acuerdo que obliga a avisar por escrito los cambios de turno", "El despido de todos los conductores", "La venta de la empresa", "La ficha cierra con ese acuerdo como resultado."),
+   ("abc", "{F} ¿Cuál ocurrió primero?", "La Primera Guerra Mundial", "La Segunda Guerra Mundial", "La Guerra Fría", "1914 es anterior a 1939 y a 1947."),
+   ("ab", "Un compañero dice: «Los conflictos pequeños no tienen nada en común con los grandes». ¿Qué respuesta es mejor?", "Comparten una estructura: partes, causas, desarrollo y consecuencias, aunque varía la escala", "Tiene razón, son totalmente distintos", "Los dos tipos de conflicto se pueden describir con las mismas preguntas."),
+   ("abc", "¿Qué elementos conviene anotar para caracterizar un conflicto?", "Las partes, las causas, el desarrollo y las consecuencias", "Solo quién ganó", "Solo la fecha de término", "Una caracterización completa responde a esas cuatro preguntas."),
+   ("abc", "{F} Se quiere caracterizar el conflicto de la empresa. ¿Qué dato NO aparece en la ficha?", "Cuántos conductores participaron", "La causa del conflicto", "El resultado final", "La ficha no entrega la cantidad de conductores."),
+   ("abc", "¿Por qué es útil estudiar conflictos del pasado?", "Para comprender sus causas y consecuencias y aprender de ellos", "Para encontrar culpables sin explicar nada", "Para memorizar fechas sin entenderlas", "El objetivo es comprender las causas y consecuencias, no solo acusar ni memorizar."),
+   ("abc", "{F} ¿Qué diferencia hay entre el conflicto de la empresa y la Segunda Guerra Mundial?", "La escala: uno es local y el otro involucró a muchos países", "Que el primero no tuvo consecuencias", "Que la guerra no tuvo causas", "Ambos tienen causas y consecuencias; cambia la escala y el alcance.")],
+  ("abc", "Una junta de vecinos de ejemplo tiene un conflicto por el uso de una cancha: un grupo quiere usarla de noche y otro lo rechaza por el ruido. ¿Cuál es la mejor primera acción para caracterizar el conflicto?", "Anotar quiénes son las partes, qué quiere cada una y qué ha ocurrido hasta ahora", "Decidir quién tiene razón antes de escuchar", "Cerrar la cancha sin conversar", "Caracterizar es describir partes, intereses y desarrollo antes de proponer salidas."),
+  [("En un conflicto del siglo XX: ¿qué es una consecuencia?", "Un resultado o efecto que deja un hecho", "Las consecuencias muestran qué cambió después."),
+   ("¿Qué diferencia a un conflicto global de uno regional?", "El global involucra muchos países de varios continentes", "El regional afecta sobre todo a una región."),
+   ("¿Qué preguntas ayudan a caracterizar un conflicto?", "Quiénes, por qué, cómo se desarrolló y qué dejó", "Ordenan la información de manera clara.")],
+  ("Elige una opción. Opción 1: caracteriza el conflicto de Buses del Valle en cuatro frases (partes, causa, desarrollo, consecuencia). Opción 2: caracteriza un desacuerdo que conozcas del trabajo o del barrio, sin nombres ni datos personales, con las mismas cuatro frases.",
+   "Partes: sindicato de conductores y gerencia. Causa: cambio de turnos sin aviso. Desarrollo: paralización de dos días y tres reuniones con mediación. Consecuencia: acuerdo para avisar por escrito los cambios de turno.",
+   ["incluye partes, causa, desarrollo y consecuencia", "usa datos de la ficha o del caso elegido", "no incluye datos personales", "usa un tono respetuoso"],
+   ["cuatro frases escritas"],
+   ["dar solo una causa", "culpar sin explicar"],
+   "Pregunta: «¿Mi frase describe lo que pasó o solo juzga?»."),
+  "Piensa en un desacuerdo que viste en tu entorno y anota quiénes eran las partes y qué querían.",
+  "Explica con un ejemplo cómo dos conflictos de distinta escala pueden tener causas parecidas.")
+
+# ====================================================== clase 2: reconocer la idea y su vocabulario
+F = ("Ficha 2 (cronología escolar básica, sin mapas). 1910: comienza la Revolución mexicana. 1914 a 1918: Primera Guerra Mundial. 1917: revolución en Rusia, que da origen en 1922 a la Unión Soviética. "
+     "1922: en Italia llega al gobierno un régimen fascista. 1929: crisis económica mundial. 1933: llega al poder en Alemania el régimen nazi. 1939 a 1945: Segunda Guerra Mundial. "
+     "1946: comienza en Argentina el primer gobierno de Juan Domingo Perón, que muchos especialistas citan como ejemplo de populismo en América Latina (otros prefieren otras categorías: el término es debatido). 1959: triunfa la Revolución cubana. 1973: golpe de Estado en Chile, que inicia un régimen militar hasta 1990. 1991: se disuelve la Unión Soviética.")
+K(O, 2, F,
+  "Hoy aprendo el vocabulario de los conflictos del siglo XX: revolución, totalitarismo, populismo, dictadura y Guerra Fría.",
+  ["Una revolución es un cambio profundo y rápido del orden político, económico o social, a menudo con violencia. Un totalitarismo es un régimen en que el Estado busca controlar todos los aspectos de la vida pública y privada, con partido único, propaganda y represión de la oposición. La Alemania nazi y la Unión Soviética bajo Stalin se citan con frecuencia como ejemplos; para otros casos, como la Italia fascista, los especialistas discuten cuánto control total alcanzaron.",
+   "Un populismo es un estilo de gobierno en que un líder se presenta como voz directa del pueblo frente a las élites, con apoyo de sectores populares. En América Latina se cita a veces el primer gobierno de Perón en Argentina, aunque no todas las personas expertas lo clasifican así. Una dictadura es un régimen sin elecciones libres ni límites efectivos al poder, a veces militar. Los especialistas debaten cómo clasificar cada caso.",
+   "La Guerra Fría fue un largo enfrentamiento político, económico y militar entre dos bloques: el liderado por Estados Unidos y el liderado por la Unión Soviética, sin guerra directa entre ambos. Se expresó en conflictos regionales en distintas partes del mundo, incluida América Latina. Para ubicar estos procesos conviene usar una cronología simple y no confundir fechas."],
+  [("totalitarismo", "régimen que busca controlar todos los aspectos de la vida pública y privada"), ("populismo", "estilo de gobierno en que un líder apela directamente al pueblo frente a las élites"), ("dictadura", "régimen sin elecciones libres ni límites efectivos al poder"), ("Guerra Fría", "enfrentamiento entre dos bloques liderados por Estados Unidos y la Unión Soviética, sin guerra directa"), ("propaganda", "difusión organizada de ideas para influir en las personas")],
+  [("Ubicar en la cronología", "{F} ¿Qué ocurrió en 1959, según la ficha?", ["Se busca la fecha 1959.", "Triunfa la Revolución cubana."], "Triunfa la Revolución cubana"),
+   ("Calcular el período", "{F} ¿Cuántos años duró el régimen militar en Chile, según la ficha?", ["Años: 1973 y 1990.", "Se resta: 1990 − 1973 = 17."], "17 años")],
+  [("Llamar totalitario a cualquier gobierno que no nos gusta.", "El término tiene una definición: control casi total y partido único.", "Usa la definición y revisa si el caso cumple sus rasgos."),
+   ("Creer que Guerra Fría significa que hubo frío extremo.", "«Fría» indica que no hubo guerra directa entre las dos potencias.", "Recuerda: tensión entre dos bloques sin enfrentamiento directo.")],
+  [("abc", "En los conflictos del siglo XX: ¿qué es un totalitarismo?", "Un régimen que busca controlar todos los aspectos de la vida pública y privada", "Un gobierno elegido y limitado por la ley", "Un grupo de vecinos", "Su rasgo central es el control total del Estado."),
+   ("ab", "{F} ¿Cuál de estos hechos ocurrió primero?", "La Revolución mexicana (1910)", "La Revolución cubana (1959)", "1910 es muy anterior a 1959 en la cronología."),
+   ("{F} ¿En qué año se disuelve la Unión Soviética, según la ficha?", "1991", "La ficha lo indica como el año de disolución."),
+   ("abc", "En Historia: ¿qué es la Guerra Fría?", "Un enfrentamiento entre dos bloques, sin guerra directa entre ambos", "Una guerra con combates directos entre las dos potencias", "Una alianza militar entre Estados Unidos y la Unión Soviética", "El nombre alude a la ausencia de guerra directa entre las dos potencias."),
+   ("ab", "{F} ¿Qué gobierno de América Latina cita la ficha como caso que muchos especialistas llaman populista?", "El primer gobierno de Perón en Argentina, desde 1946", "La Revolución cubana de 1959", "La ficha menciona a Perón y aclara que el término es debatido."),
+   ("=", "{F} ¿Cuántos años pasaron entre el triunfo de la Revolución cubana y el golpe de Estado en Chile?", "1973-1959", "Se restan los años de ambos hechos de la ficha.", " años"),
+   ("abc", "{F} ¿Qué ocurrió en 1929, según la ficha?", "Una crisis económica mundial", "El inicio de la Primera Guerra Mundial", "La disolución de la Unión Soviética", "La ficha ubica la crisis económica mundial en 1929."),
+   ("abc", "En Historia: ¿qué es la propaganda?", "La difusión organizada de ideas para influir en las personas", "Una ley sobre las elecciones", "Un acuerdo de paz entre países", "Los regímenes totalitarios la usaron mucho."),
+   ("ab", "{F} ¿Qué hecho de la ficha se cita con frecuencia como ejemplo de totalitarismo?", "El régimen nazi en Alemania, desde 1933", "La crisis económica mundial de 1929", "Los textos escolares citan al régimen nazi; la crisis de 1929 fue un hecho económico."),
+   ("abc", "{F} ¿Cuál es una buena forma de decir lo que ocurrió en 1973 en Chile?", "Hubo un golpe de Estado que inició un régimen militar hasta 1990", "Se disolvió la Unión Soviética", "Comenzó la Guerra Fría", "La ficha lo expresa de manera neutral y con fechas."),
+   ("abc", "Un amigo dice: «Todos los gobiernos populares son populismo y son lo mismo». ¿Qué respuesta es mejor?", "El populismo es un estilo de liderazgo con rasgos definidos y los especialistas debaten cada caso", "Tiene razón, es lo mismo", "Populismo solo significa popularidad", "Se usa una definición y se analiza cada caso con cuidado."),
+   ("abc", "{F} ¿Cuál es el orden cronológico correcto?", "1917, 1929, 1939, 1959", "1959, 1939, 1929, 1917", "1929, 1917, 1959, 1939", "Se ordena de la fecha menor a la mayor."),
+   ("abc", "{F} Un estudiante escribe: «La Guerra Fría comenzó en 1914». ¿Cuál es la corrección?", "Ese año comenzó la Primera Guerra Mundial; la Guerra Fría fue después de 1945", "Tiene razón", "La Guerra Fría comenzó en 1929", "La ficha ubica el comienzo de la Primera Guerra Mundial en 1914.")],
+  ("abc", "Una biblioteca comunitaria arma un mural de cronología con las tarjetas «1917», «1933», «1945» y «1991». Debe ubicar la llegada al poder del régimen nazi en Alemania. ¿En qué tarjeta va?", "1933", "1917", "1991", "La ficha indica 1933 como el año en que el régimen nazi llega al poder."),
+  [("En los conflictos del siglo XX: ¿qué es un totalitarismo?", "Un régimen que controla casi todos los aspectos de la vida", "Tiene partido único, propaganda y represión."),
+   ("En Historia: ¿qué es un populismo?", "Un estilo de gobierno donde un líder apela directamente al pueblo", "Se define por la relación entre líder y pueblo."),
+   ("En el siglo XX: ¿qué fue la Guerra Fría?", "Un enfrentamiento entre dos bloques sin guerra directa", "Fue un conflicto político, económico y militar.")],
+  ("Con la cronología de la ficha, arma una tabla de cinco filas: año, hecho y tipo de conflicto (revolución, guerra, totalitarismo, populismo, dictadura o Guerra Fría). Usa cinco de las fechas de la ficha. Escribe una frase que explique por qué es mejor usar fechas que decir «hace mucho».",
+   "1917, revolución en Rusia, revolución. 1939 a 1945, Segunda Guerra Mundial, guerra. 1933, régimen nazi, totalitarismo. 1946, primer gobierno de Perón, caso que se discute como populismo. 1973, golpe de Estado en Chile, régimen militar. Las fechas permiten comparar y ordenar con precisión.",
+   ["usa cinco fechas de la ficha", "clasifica cada hecho con una palabra del vocabulario", "las fechas son correctas", "explica el valor de las fechas"],
+   ["tabla de cinco filas y una frase"],
+   ["confundir los tipos de conflicto", "mezclar fechas"],
+   "Pregunta: «¿Esta fecha está en la ficha?»."),
+  "Repite en voz alta tres fechas de la ficha con su hecho.",
+  "Explica con tus palabras la diferencia entre un populismo y una dictadura.")
+
+# ====================================================== clase 3: ver cómo se hace, paso a paso
+F = ("Ficha 3 (datos escolares básicos y descripción geográfica en palabras, sin mapas). Primera Guerra Mundial, 1914 a 1918. "
+     "Causas de largo plazo: rivalidades entre potencias, carrera armamentista y sistema de alianzas. Hecho que la desencadenó: el asesinato en Sarajevo, el 28 de junio de 1914, del heredero al trono del Imperio austrohúngaro. "
+     "Partes: dos grupos de países aliados, uno con Francia, Reino Unido y Rusia, y otro con Alemania y el Imperio austrohúngaro. "
+     "Escenario principal: Europa, con frentes en el oeste (Francia y Bélgica) y en el este de Europa. Fin: armisticio del 11 de noviembre de 1918 y tratados de paz en 1919, entre ellos el de Versalles. "
+     "Consecuencias: desaparición de cuatro imperios (alemán, austrohúngaro, ruso y otomano), cambio de fronteras en Europa y creación de nuevos Estados.")
+K(O, 3, F,
+  "Hoy sigo cinco pasos para caracterizar un conflicto global con datos: partes y lugar, causas, desarrollo, consecuencias y conclusión.",
+  ["Para caracterizar un conflicto con método sigue cinco pasos. Paso 1: ubica cuándo y dónde ocurrió, con fechas y regiones. Paso 2: identifica las partes. Paso 3: separa las causas de largo plazo del hecho que lo desencadenó. Paso 4: describe el desarrollo en pocas frases. Paso 5: anota las consecuencias políticas, económicas, sociales y territoriales.",
+   "Es importante distinguir una causa de un desencadenante. Las causas son procesos de fondo, como las rivalidades y las alianzas. El desencadenante es el hecho concreto que inicia el conflicto, como el asesinato de Sarajevo. Sin las causas de fondo, ese hecho no habría llevado a una guerra mundial.",
+   "Cuando hablamos de lugares sin mapa, usamos descripciones: «el frente oeste, en Francia y Bélgica» o «los territorios de los imperios que desaparecieron». También usamos tablas de datos. Y siempre mantenemos un tono neutral y respetuoso con las personas afectadas: la guerra dejó mucho dolor y hablamos de ella con seriedad."],
+  [("desencadenante", "hecho concreto que inicia un conflicto"), ("alianza", "acuerdo entre países para apoyarse"), ("armisticio", "acuerdo para detener los combates"), ("frente", "zona donde se enfrentan los ejércitos"), ("tratado de paz", "documento que fija los términos del fin de una guerra")],
+  [("Paso 1 y 2", "{F} ¿Cuándo comenzó, dónde fue el escenario principal y quiénes eran las partes?", ["Comenzó en 1914 y su escenario principal fue Europa.", "Hubo dos grupos de países aliados, uno con Francia, Reino Unido y Rusia y otro con Alemania y el Imperio austrohúngaro."], "En 1914, en Europa; dos bloques de países aliados"),
+   ("Paso 3", "{F} Separa una causa de largo plazo del desencadenante.", ["Causa de largo plazo: las rivalidades entre potencias.", "Desencadenante: el asesinato en Sarajevo."], "Causa: rivalidades y alianzas. Desencadenante: el asesinato en Sarajevo")],
+  [("Decir que el asesinato de Sarajevo fue la única causa de la guerra.", "Fue el hecho que la desencadenó, pero había causas de fondo.", "Distingue siempre causas de largo plazo y desencadenante."),
+   ("Mezclar las consecuencias con las causas.", "Las consecuencias vienen después del conflicto.", "Revisa la secuencia: antes, durante y después.")],
+  [("abc", "{F} ¿A qué imperio pertenecía el heredero al trono asesinado en Sarajevo?", "Al Imperio austrohúngaro", "Al Imperio alemán", "Al Imperio otomano", "La ficha dice que era el heredero al trono del Imperio austrohúngaro."),
+   ("ab", "{F} ¿Cuál de estos datos describe un proceso de fondo y no un hecho puntual?", "La carrera armamentista entre las potencias", "El asesinato del 28 de junio de 1914", "La carrera armamentista duró años; el asesinato fue un hecho de un día."),
+   ("=", "{F} ¿Cuántos años pasaron entre el asesinato en Sarajevo y el armisticio?", "1918-1914", "Se restan los años de ambos hechos de la ficha.", " años"),
+   ("abc", "{F} ¿Cuál era el escenario principal de la guerra?", "Europa", "América del Sur", "Oceanía", "La ficha lo ubica principalmente en Europa."),
+   ("ab", "En Historia: ¿qué es un armisticio?", "Un acuerdo para detener los combates", "Un tipo de arma", "Detiene la lucha, aunque la paz formal viene después."),
+   ("{F} ¿En qué fecha fue el armisticio, según la ficha?", "11 de noviembre de 1918", "La ficha lo anota con esa fecha."),
+   ("abc", "{F} ¿Cuál de estas es una consecuencia territorial?", "Cambio de fronteras en Europa y creación de nuevos Estados", "El asesinato de Sarajevo", "El sistema de alianzas", "Se produce después de la guerra y modifica el territorio."),
+   ("abc", "{F} ¿Cuántos imperios desaparecieron, según la ficha?", "Cuatro", "Dos", "Uno", "La ficha menciona los imperios alemán, austrohúngaro, ruso y otomano."),
+   ("ab", "{F} ¿Cómo se describe el frente oeste sin mapa?", "En Francia y Bélgica", "En el norte de África", "La ficha lo ubica en esos dos países."),
+   ("abc", "Un estudiante dice: «La guerra comenzó solo porque asesinaron a una persona». ¿Cuál es una mejor explicación?", "Había rivalidades y alianzas de fondo, y ese asesinato fue el hecho que las activó", "Tiene razón, no hubo otras causas", "Fue una casualidad sin relación", "Combinar causas de fondo y desencadenante explica mejor."),
+   ("abc", "{F} ¿Qué paso del método usas al escribir «se crearon nuevos Estados en Europa»?", "El paso 5, consecuencias", "El paso 1, ubicar cuándo y dónde", "El paso 2, partes", "La creación de nuevos Estados es algo que ocurrió después de la guerra."),
+   ("abc", "{F} ¿Cuál es el orden correcto de estos tres hechos?", "Asesinato en Sarajevo, armisticio, tratados de paz de 1919", "Armisticio, asesinato en Sarajevo, tratados de paz de 1919", "Tratados de paz de 1919, asesinato en Sarajevo, armisticio", "El asesinato fue en junio de 1914, el armisticio en noviembre de 1918 y los tratados en 1919."),
+   ("abc", "{F} ¿Qué tono corresponde al hablar de este conflicto?", "Neutral y respetuoso con las personas afectadas", "Burlón", "Celebratorio", "La guerra causó sufrimiento; se habla con seriedad y datos.")],
+  ("abc", "Una radio local de ejemplo prepara una cápsula de dos minutos sobre la Primera Guerra Mundial. ¿Qué orden de contenido sigue mejor el método?", "Cuándo y dónde, partes, causas y desencadenante, desarrollo, consecuencias", "Consecuencias, partes, dónde, cuándo", "Solo el desencadenante", "El método ordena la información de manera lógica."),
+  [("En Historia: ¿qué es un desencadenante?", "El hecho concreto que inicia un conflicto", "Se distingue de las causas de fondo."),
+   ("¿Qué es un armisticio?", "Un acuerdo para detener los combates", "Se firma antes del tratado de paz."),
+   ("¿Qué consecuencias tuvo la Primera Guerra Mundial en Europa?", "Cambio de fronteras, nuevos Estados y desaparición de imperios", "Fueron consecuencias territoriales y políticas de la guerra.")],
+  ("Caracteriza la Primera Guerra Mundial con los cinco pasos y los datos de la ficha. Escribe una línea por paso (cuándo y dónde, partes, causa y desencadenante, desarrollo breve, consecuencias). Usa un tono neutral.",
+   "1) 1914 a 1918, sobre todo en Europa. 2) Dos grupos de países aliados. 3) Causas: rivalidades y alianzas; desencadenante: asesinato en Sarajevo, 1914. 4) Combates en frentes, como el oeste en Francia y Bélgica, hasta el armisticio de 1918. 5) Desaparición de cuatro imperios, cambio de fronteras y nuevos Estados.",
+   ["escribe los cinco pasos con datos de la ficha", "distingue causa y desencadenante", "las fechas son correctas", "usa tono neutral"],
+   ["cinco líneas numeradas"],
+   ["decir que hubo una sola causa", "agregar datos que no están en la ficha"],
+   "Pregunta: «¿Este dato aparece en la ficha?»."),
+  "Escribe una frase que explique la diferencia entre una causa de fondo y un desencadenante con un ejemplo cotidiano.",
+  "Elige otro conflicto que conozcas y anota qué datos necesitarías para llenar los cinco pasos.")
+
+# ====================================================== clase 4: practicar juntos con apoyo
+F = ("Ficha 4 (tabla de ejemplo con datos escolares básicos). Comparación de las dos guerras mundiales. "
+     "Primera Guerra Mundial: 1914 a 1918; desencadenante: asesinato en Sarajevo; paz: tratado de Versalles, 1919; consecuencia principal: cambio de fronteras en Europa y desaparición de imperios. "
+     "Segunda Guerra Mundial: 1939 a 1945; desencadenante: la invasión de Alemania a Polonia, el 1 de septiembre de 1939; hubo frentes en Europa, Asia, África y el Pacífico; "
+     "el régimen nazi persiguió y asesinó de forma sistemática a millones de personas, en especial judías (el Holocausto), y también de otros grupos; en 1945 se creó la Organización de las Naciones Unidas (ONU). "
+     "Totalitarismo, rasgos de ejemplo: partido único, propaganda, represión de la oposición, control de la educación y los medios.")
+K(O, 4, F,
+  "Hoy practico con apoyo comparar las dos guerras mundiales y reconocer los rasgos de un totalitarismo, usando una tabla.",
+  ["Comparar dos conflictos es una forma de entender mejor cada uno. Se hace una tabla con las mismas filas: fecha, desencadenante, escenarios, consecuencias. Así se ve en qué se parecen y en qué se diferencian. Ambas guerras fueron globales, pero la primera se desarrolló sobre todo en Europa y la segunda tuvo frentes en Europa, Asia, África y el Pacífico.",
+   "En la Segunda Guerra Mundial el régimen nazi persiguió y asesinó de forma sistemática a millones de personas, en especial judías (el Holocausto). La guerra dejó además destrucción de ciudades, y la creación de la ONU en 1945, que busca prevenir nuevas guerras mediante la cooperación entre los países. Hablamos de estos hechos con respeto por las víctimas y sin simplificar.",
+   "Los totalitarismos europeos compartieron rasgos: un partido único, mucha propaganda, represión de quienes pensaban distinto y control de la educación y de los medios de comunicación. Reconocer esos rasgos ayuda a entender cómo se concentra el poder y por qué los derechos y las libertades importan. Usamos la tabla y la ficha como evidencia."],
+  [("comparar", "ver en qué se parecen y en qué se diferencian dos cosas"), ("ONU", "Organización de las Naciones Unidas, creada en 1945 para promover la paz y la cooperación"), ("represión", "uso de la fuerza o del miedo para impedir la oposición"), ("partido único", "sistema en que solo se permite un partido político")],
+  [("Comparar con una tabla", "{F} ¿En qué fecha se inició la Segunda Guerra Mundial?", ["Se busca la fila de la Segunda Guerra Mundial.", "El desencadenante es la invasión a Polonia, el 1 de septiembre de 1939."], "El 1 de septiembre de 1939"),
+   ("Reconocer rasgos", "{F} Nombra dos rasgos de un régimen totalitario de la ficha.", ["La ficha lista rasgos de ejemplo.", "Por ejemplo: partido único y propaganda."], "Partido único y propaganda")],
+  [("Decir que las dos guerras fueron iguales.", "Se parecen en su escala, pero difieren en desencadenante, escenarios y consecuencias.", "Usa la tabla para separar semejanzas y diferencias."),
+   ("Hablar de las víctimas con ligereza o con chistes.", "Fueron hechos muy dolorosos para millones de personas.", "Usa un lenguaje respetuoso y basado en datos.")],
+  [("=", "{F} ¿Cuántos años pasaron entre el término de la Primera Guerra Mundial y el inicio de la Segunda?", "1939-1918", "Se restan el año en que terminó la primera guerra y el año en que comenzó la segunda.", " años"),
+   ("ab", "{F} ¿Qué tratado de paz de 1919 menciona la ficha para la Primera Guerra Mundial?", "El tratado de Versalles", "La creación de la ONU", "La ficha indica Versalles como uno de los tratados de paz de 1919; la ONU se creó en 1945."),
+   ("=", "{F} ¿Cuántos años duró la Segunda Guerra Mundial?", "1945-1939", "Se restan las fechas de inicio y fin que da la ficha.", " años"),
+   ("abc", "{F} ¿Qué organismo se creó en 1945, según la ficha?", "La Organización de las Naciones Unidas", "El Muro de Berlín", "La Unión Soviética", "La ficha menciona la creación de la ONU."),
+   ("ab", "{F} ¿Cuál de estos es un rasgo de un régimen totalitario de la ficha?", "Control de la educación y de los medios de comunicación", "Elecciones libres con varios partidos", "La ficha lista el control de la educación y los medios; las elecciones libres son lo contrario."),
+   ("abc", "{F} ¿En cuántos continentes hubo frentes de la Segunda Guerra Mundial, según la ficha?", "En varios, entre ellos Europa, Asia y África", "Solo en uno", "En ninguno", "La ficha menciona Europa, Asia, África y el Pacífico."),
+   ("abc", "{F} ¿Qué semejanza tienen ambas guerras mundiales?", "Ambas fueron globales y tuvieron desencadenantes concretos", "Ambas tuvieron el mismo desencadenante", "Ambas terminaron en 1919", "Se comparan en la tabla escala y desencadenante."),
+   ("abc", "{F} ¿Qué diferencia hay entre ambas guerras, según la ficha?", "La primera fue sobre todo en Europa; la segunda tuvo frentes en Europa, Asia, África y el Pacífico", "La primera creó la ONU", "La segunda no tuvo consecuencias", "La tabla muestra diferencias de escenarios y consecuencias."),
+   ("ab", "{F} ¿Cuál de estos hechos se asocia al régimen nazi durante la Segunda Guerra Mundial?", "La persecución y el asesinato sistemático de millones de personas (el Holocausto)", "La firma del tratado de Versalles", "La ficha lo menciona como una de las consecuencias humanas de la guerra; Versalles fue en 1919."),
+   ("abc", "Una compañera dice: «Todos los regímenes totalitarios de la ficha eran iguales en cada detalle». ¿Cuál es la mejor respuesta?", "Compartían rasgos, pero cada caso tuvo su historia y diferencias", "Tiene razón, eran idénticos", "Ninguno compartía rasgos", "Una comparación reconoce rasgos comunes sin borrar diferencias."),
+   ("abc", "{F} ¿Qué se puede afirmar con los rasgos totalitarios de la ficha?", "Que un régimen así restringe las libertades de la oposición y controla la información", "Que garantiza la libertad de prensa", "Que permite varios partidos", "Los rasgos listados son opuestos a las libertades políticas."),
+   ("abc", "{F} Una persona escribe: «La guerra fue un espectáculo emocionante». ¿Qué observación respetuosa corresponde?", "Fue un hecho doloroso para millones de personas y se habla de él con respeto", "Tiene razón", "Es un chiste aceptable", "Se recuerda a las víctimas y se evita la trivialización."),
+   ("abc", "{F} ¿Qué dos columnas de la tabla ayudan más a comparar causas de las dos guerras?", "Desencadenante y consecuencias", "Solo el nombre de los países", "Solo la fecha de término", "Permiten ver qué inició cada conflicto y qué dejó.")],
+  ("abc", "Un taller de ejemplo debe comparar dos huelgas en una misma fábrica: la de 2010 y la de 2020. ¿Qué filas conviene usar en la tabla?", "Fecha, causa, partes, desarrollo y consecuencia", "Solo el nombre del gerente", "Solo el clima", "Las mismas filas permiten una comparación justa."),
+  [("¿Para qué se hace una tabla comparativa?", "Para ver semejanzas y diferencias con las mismas filas", "La tabla ordena la información de manera comparable."),
+   ("En Historia: ¿qué hace la ONU, creada en 1945?", "Promueve la paz y la cooperación entre países", "Busca prevenir nuevas guerras mediante la cooperación."),
+   ("¿Qué es un partido único?", "Un sistema en que solo se permite un partido político", "Es un rasgo de los totalitarismos.")],
+  ("Completa una tabla con las dos guerras mundiales usando cuatro filas (fecha, desencadenante, escenarios, consecuencia principal) y escribe dos frases: una semejanza y una diferencia. Usa solo datos de la ficha y un tono respetuoso.",
+   "Primera: 1914 a 1918; asesinato en Sarajevo; sobre todo Europa; cambio de fronteras y desaparición de imperios. Segunda: 1939 a 1945; invasión a Polonia; Europa, Asia, África y el Pacífico; creación de la ONU. Semejanza: ambas fueron globales. Diferencia: la primera fue sobre todo en Europa y la segunda tuvo frentes en cuatro escenarios distintos.",
+   ["completa las cuatro filas para las dos guerras", "escribe una semejanza y una diferencia", "usa solo datos de la ficha", "usa tono respetuoso"],
+   ["tabla y dos frases"],
+   ["decir que fueron iguales", "usar un tono trivial"],
+   "Pregunta: «¿Mi frase describe con respeto a las personas afectadas?»."),
+  "Escribe una pregunta que le harías a alguien de tu entorno sobre cómo se vivió un conflicto en su época, si esa persona quiere contarlo.",
+  "Explica por qué la ONU se creó después de la Segunda Guerra Mundial.")
+
+# ====================================================== clase 5: aplicar a una situación de trabajo, hogar o comunidad
+F = ("Ficha 5 (situación de ejemplo y datos escolares básicos). Un taller de memoria de una biblioteca comunitaria prepara una tabla sobre la Guerra Fría y sus expresiones regionales. "
+     "Datos básicos: la Guerra Fría fue la rivalidad entre dos bloques, uno liderado por Estados Unidos y otro por la Unión Soviética. "
+     "Expresiones: en 1961 se levantó el Muro de Berlín, que dividió una ciudad; en 1959 triunfó la Revolución cubana y en octubre de 1962 hubo una crisis por misiles en Cuba; "
+     "en varios países de América del Sur, en los años 1970 y 1980, hubo regímenes militares. En Chile, el golpe de Estado fue el 11 de septiembre de 1973 y el régimen militar duró hasta 1990. "
+     "En esos temas existen distintas memorias y valoraciones dentro de la sociedad; un taller de memoria las escucha con respeto, sin imponer una sola.")
+K(O, 5, F,
+  "Hoy aplico lo aprendido a una situación de comunidad: ordenar con respeto las expresiones regionales de la Guerra Fría y reconocer las distintas memorias.",
+  ["La Guerra Fría no se vivió igual en todos lados. En Europa se expresó con la división entre un bloque occidental y uno oriental; el Muro de Berlín, levantado en 1961, fue un símbolo de esa división. En América Latina, la Revolución cubana de 1959 y la crisis de los misiles de 1962 mostraron cómo la rivalidad entre las potencias influía en la región.",
+   "En varios países de América del Sur hubo regímenes militares en los años 1970 y 1980. En Chile, el golpe de Estado del 11 de septiembre de 1973 inició un régimen militar que duró hasta 1990. Es un tema que despierta recuerdos y valoraciones distintas. Un taller de memoria no impone una sola mirada: escucha con respeto a todas las personas, cuida los datos personales y distingue lo que dicen las fuentes de lo que cada persona opina.",
+   "Para trabajar este tema en comunidad conviene ordenar los hechos en una tabla con fecha, lugar, hecho y tipo de conflicto (revolución, golpe de Estado, crisis internacional). También es importante usar un lenguaje que no humille ni acuse sin evidencia y que permita a cada persona participar con tranquilidad."],
+  [("bloque", "grupo de países alineados con una potencia"), ("golpe de Estado", "toma del poder por la fuerza, fuera de los procedimientos legales"), ("régimen militar", "gobierno dirigido por las fuerzas armadas"), ("memoria", "recuerdo que una persona o comunidad guarda de hechos del pasado"), ("símbolo", "hecho u objeto que representa una idea")],
+  [("Ordenar en una tabla", "{F} ¿Qué ocurrió en 1961, según la ficha?", ["Se busca 1961 entre los hechos.", "Se levantó el Muro de Berlín."], "Se levantó el Muro de Berlín"),
+   ("Calcular un período", "{F} ¿Cuántos años duró el régimen militar en Chile?", ["Años: 1973 y 1990.", "1990 − 1973 = 17."], "17 años")],
+  [("Sostener que hay una sola memoria correcta de estos hechos.", "En la sociedad existen recuerdos y valoraciones distintas.", "Escucha y registra las distintas memorias, y verifica los hechos con fuentes."),
+   ("Insultar o acusar sin evidencia a personas o grupos.", "No ayuda a comprender y puede herir.", "Usa un lenguaje respetuoso y datos comprobables.")],
+  [("abc", "{F} ¿Qué ocurrió en octubre de 1962, según la ficha?", "Una crisis por misiles en Cuba", "El levantamiento del Muro de Berlín", "El triunfo de la Revolución cubana", "La ficha ubica la crisis de los misiles en octubre de 1962; el muro es de 1961 y la revolución de 1959."),
+   ("ab", "{F} ¿Cuándo triunfó la Revolución cubana, según la ficha?", "En 1959", "En 1973", "La ficha lo ubica en 1959."),
+   ("=", "{F} ¿Cuántos años pasaron entre el triunfo de la Revolución cubana y la crisis de los misiles?", "1962-1959", "Se restan los años de ambos hechos de la ficha.", " años"),
+   ("abc", "{F} ¿Cuál fue la fecha del golpe de Estado en Chile?", "11 de septiembre de 1973", "12 de febrero de 1818", "1 de septiembre de 1939", "La ficha lo indica con esa fecha."),
+   ("ab", "En Chile y América Latina: ¿qué es un golpe de Estado?", "La toma del poder por la fuerza, fuera de los procedimientos legales", "Una elección con varios candidatos", "Se caracteriza por ocupar el poder fuera de las vías legales."),
+   ("abc", "{F} ¿Qué dos hechos de la ficha ocurrieron en la década de 1960?", "El Muro de Berlín y la crisis de los misiles", "El golpe de Chile y el fin del régimen militar", "La Revolución cubana y la ONU", "1961 y 1962 son fechas de la década de 1960."),
+   ("abc", "{F} ¿Hasta cuándo duró el régimen militar en Chile, según la ficha?", "Hasta 1990", "Hasta 1973", "Hasta 2000", "La ficha indica que duró hasta 1990."),
+   ("abc", "{F} ¿Qué es una expresión regional de la Guerra Fría?", "Un hecho local ligado a la rivalidad entre los bloques", "Una guerra mundial con combates entre las dos potencias", "Un tratado de paz firmado en 1919", "Estas expresiones se relacionan con la rivalidad entre las potencias."),
+   ("ab", "{F} ¿Qué actitud de un taller de memoria respeta mejor a la comunidad?", "Escuchar las distintas memorias sin imponer una sola", "Prohibir que alguien hable", "El taller propone escuchar y registrar con respeto."),
+   ("abc", "Una persona dice: «Tu recuerdo está mal porque yo viví otra cosa». ¿Cuál es una respuesta respetuosa?", "Cada persona vivió esos años de manera distinta; escuchemos ambos relatos y revisemos las fuentes", "Tienes razón, el otro miente", "Mejor no hablar nunca más", "Se reconoce la diversidad de vivencias y se contrasta con evidencia."),
+   ("abc", "{F} ¿Qué dato personal conviene proteger en el taller?", "Nombres y direcciones de quienes cuentan su historia, salvo que den permiso", "El año de la crisis de los misiles", "El nombre del Muro de Berlín", "Los datos de personas requieren autorización."),
+   ("abc", "{F} Se quiere escribir una frase neutral sobre 1973. ¿Cuál corresponde?", "«El 11 de septiembre de 1973 hubo un golpe de Estado en Chile y un régimen militar hasta 1990»", "«Fue lo mejor que pudo pasar»", "«Fue lo peor y todos lo saben»", "La frase describe hechos con fechas sin imponer una valoración."),
+   ("abc", "{F} ¿Qué combinación de fuentes enriquece más el taller?", "Una tabla de hechos, testimonios de distintas personas y documentos de la época", "Solo un rumor", "Solo una opinión", "Combinar fuentes distintas reduce errores y muestra diversidad.")],
+  ("abc", "Una junta de vecinos de ejemplo organiza un conversatorio sobre su historia local en los años 1970 y 1980. Una vecina no quiere hablar de lo que vivió. ¿Cuál es la mejor actitud?", "Respetar su decisión y ofrecerle otras formas de participar", "Insistir hasta que hable", "Excluirla del grupo", "Cada persona decide si cuenta su historia."),
+  [("En Chile y América Latina: ¿qué es un golpe de Estado?", "Una toma del poder por la fuerza, fuera de los procedimientos legales", "Es un cambio de gobierno por vías no legales."),
+   ("¿Qué es un taller de memoria?", "Un espacio para escuchar y registrar recuerdos con respeto", "Un taller así no impone una versión única."),
+   ("¿Qué se hace con los datos personales en un taller?", "Se protegen y se usan solo con permiso", "Son información que identifica a personas concretas.")],
+  ("Prepara una tabla con cuatro filas de la ficha (año, lugar, hecho, tipo de conflicto) y escribe tres reglas de respeto para un conversatorio comunitario sobre estos temas. Usa solo los datos de la ficha.",
+   "1961, Berlín, se levantó el Muro, división de una ciudad. 1959, Cuba, triunfo de la Revolución, revolución. 1962, Cuba, crisis de los misiles, crisis internacional. 1973, Chile, golpe de Estado, régimen militar. Reglas: escuchar sin interrumpir, no acusar sin evidencia, respetar si alguien no quiere hablar.",
+   ["completa cuatro filas con datos de la ficha", "escribe tres reglas de respeto", "no impone una sola valoración", "protege datos personales"],
+   ["tabla de cuatro filas y tres reglas"],
+   ["imponer una sola memoria", "usar lenguaje ofensivo"],
+   "Pregunta: «¿Esta regla permite que todas las personas participen con tranquilidad?»."),
+  "Piensa en cómo se habla de temas difíciles en tu familia o trabajo y anota una regla de respeto que ayudaría.",
+  "Explica por qué conviene tener documentos y testimonios para estudiar un hecho reciente.")
+
+# ====================================================== clase 6: revisar lo logrado y decidir los pasos siguientes
+F = ("Ficha 6 (síntesis de ejemplo). Tabla de conflictos del siglo XX: A) Revolución rusa, 1917, revolución. B) Primera Guerra Mundial, 1914 a 1918, guerra global. C) Alemania nazi, desde 1933, totalitarismo. D) Primer gobierno de Perón en Argentina, desde 1946, caso que muchos especialistas llaman populismo (término debatido). "
+     "E) Guerra Fría, desde 1947 aproximadamente hasta 1991, enfrentamiento de bloques. F) Golpe de Estado en Chile, 1973, régimen militar hasta 1990. "
+     "Frase de un texto de ejemplo: «La Guerra Fría fue una guerra directa entre Estados Unidos y la Unión Soviética». Otro texto de ejemplo: «La Segunda Guerra Mundial comenzó en 1939 con la invasión a Polonia».")
+K(O, 6, F,
+  "Hoy reviso lo logrado: caracterizo conflictos del siglo XX con una tabla, corrijo una afirmación errónea y decido qué reforzar.",
+  ["En este módulo aprendiste a caracterizar conflictos del siglo XX: ubicarlos en el tiempo y en el espacio, nombrar las partes, distinguir causas y desencadenante, describir el desarrollo y anotar las consecuencias. También aprendiste vocabulario clave: revolución, guerra mundial, totalitarismo, populismo, dictadura y Guerra Fría.",
+   "Una forma de revisar lo aprendido es corregir afirmaciones con evidencia. En la ficha hay un texto que dice que la Guerra Fría fue una guerra directa entre Estados Unidos y la Unión Soviética. Eso es incorrecto: fue una rivalidad sin enfrentamiento militar directo entre ambos, aunque se expresó en conflictos en distintas regiones. Otro texto, sobre la Segunda Guerra Mundial, es correcto.",
+   "Para decidir tus próximos pasos, anota qué te resultó claro, qué confundes y qué harás. Puedes repasar con tarjetas de fechas y conceptos, explicar a otra persona un conflicto y practicar el uso de tablas. Mantener el respeto con las personas que sufrieron estos hechos es parte del aprendizaje."],
+  [("síntesis", "resumen de lo más importante"), ("afirmación", "frase que sostiene que algo es cierto"), ("corregir", "cambiar un error por un dato verificado"), ("caracterizar", "describir un hecho con sus rasgos principales")],
+  [("Corregir una afirmación", "{F} ¿Es correcta la frase sobre la Guerra Fría?", ["La Guerra Fría fue una rivalidad entre bloques.", "No hubo guerra directa entre Estados Unidos y la Unión Soviética."], "No: fue una rivalidad sin guerra directa entre las dos potencias"),
+   ("Verificar otra frase", "{F} ¿Es correcta la frase sobre la Segunda Guerra Mundial?", ["Se compara con el dato: invasión a Polonia en 1939.", "Coincide."], "Sí, es correcta")],
+  [("Dar por correcta una frase solo porque aparece escrita.", "Puede tener errores.", "Compárala con datos y tablas."),
+   ("Confundir tipos de conflicto, como llamar guerra a una revolución.", "Cada tipo tiene rasgos distintos.", "Revisa la definición antes de clasificar.")],
+  [("abc", "{F} ¿Qué tipo de conflicto es el A de la tabla?", "Revolución", "Guerra global", "Populismo", "La ficha clasifica la Revolución rusa como revolución."),
+   ("ab", "{F} Según la tabla de ejemplo, ¿cómo se clasifica el caso C?", "Totalitarismo", "Revolución", "La tabla clasifica a la Alemania nazi como totalitarismo, categoría que los textos escolares usan para este caso."),
+   ("=", "{F} ¿Cuántos años duró la Primera Guerra Mundial?", "1918-1914", "Se resta el año de inicio al de fin que da la tabla.", " años"),
+   ("abc", "{F} Según la tabla de ejemplo, ¿cómo se clasifica el caso D, aclarando que es un término debatido?", "Populismo", "Guerra global", "Revolución", "La tabla lo clasifica como populismo, con la aclaración de que los especialistas debaten el término."),
+   ("ab", "{F} ¿Cuál es el período aproximado de la Guerra Fría, según la tabla?", "Desde 1947 hasta 1991", "Desde 1914 hasta 1918", "La tabla indica ese período aproximado de la Guerra Fría."),
+   ("{F} ¿Hasta qué año duró el régimen militar en Chile?", "1990", "La tabla lo indica como año de término."),
+   ("abc", "{F} ¿Cuál de estas frases sobre la tabla es correcta?", "La Revolución rusa (1917) ocurrió mientras se desarrollaba la Primera Guerra Mundial", "El golpe de Estado en Chile fue anterior al primer gobierno de Perón", "La Alemania nazi llegó al poder antes que la Revolución rusa", "1917 está dentro del período 1914 a 1918; las otras frases invierten el orden de las fechas."),
+   ("abc", "{F} ¿Qué hecho de la tabla es posterior a la Segunda Guerra Mundial?", "El primer gobierno de Perón", "La Primera Guerra Mundial", "La Revolución rusa", "1946 es posterior al término de la guerra en 1945."),
+   ("ab", "En Historia: ¿cuál de estos hechos es un golpe de Estado?", "La toma del poder en Chile en 1973", "La elección de un presidente con votos", "La ficha lo ubica como golpe de Estado, no como elección."),
+   ("abc", "Una persona dice: «Todos los conflictos del siglo XX fueron guerras mundiales». ¿Cuál es la mejor corrección?", "Hubo guerras mundiales, revoluciones, totalitarismos, populismos y conflictos regionales", "Tiene razón", "Solo hubo una guerra", "La tabla muestra distintos tipos de conflicto."),
+   ("abc", "{F} ¿Qué paso del método usarías para explicar por qué se produjo la Primera Guerra Mundial?", "Separar las causas de fondo y el desencadenante", "Copiar la fecha", "Elegir un bando", "El paso de causas y desencadenante explica el origen."),
+   ("abc", "{F} Al comparar el conflicto A con el B, ¿qué diferencia aparece en la tabla?", "A es una revolución en un país y B es una guerra global", "Ambos son populismos", "Ambos son guerras mundiales", "La tabla los ubica como tipos distintos de conflicto."),
+   ("abc", "Al terminar el módulo, ¿qué muestra mejor que aprendiste a caracterizar un conflicto?", "Explicar partes, causas, desarrollo y consecuencias con datos de una tabla", "Decir que todo es parecido", "Memorizar un nombre", "Aplica el método completo con evidencia.")],
+  ("abc", "Un círculo de lectura de ejemplo comenta un artículo que dice que la Guerra Fría fue una guerra entre dos países. Una participante revisó datos sobre el tema. ¿Qué aporte respetuoso puede hacer?", "Explicar con calma que fue una rivalidad entre bloques sin guerra directa entre las potencias", "Decir que el artículo no sirve, sin dar razones", "Callarse siempre", "Se corrige con datos y buen trato."),
+  [("¿Qué es caracterizar un conflicto?", "Describir sus partes, causas, desarrollo y consecuencias", "Es una forma ordenada de entenderlo."),
+   ("En Historia: ¿qué es la Guerra Fría?", "Una rivalidad entre dos bloques sin guerra directa", "No hubo enfrentamiento directo de las potencias."),
+   ("¿Cómo se corrige una afirmación?", "Se compara con datos verificados y se cambia el error", "La corrección se apoya en evidencia y no en opinión.")],
+  ("Haz tu cierre del módulo en cinco a ocho líneas: (a) caracteriza con cuatro datos un conflicto de la tabla de la ficha; (b) corrige la frase sobre la Guerra Fría; (c) anota qué te cuesta más (fechas, vocabulario o método) y cómo lo practicarás.",
+   "(a) Primera Guerra Mundial: 1914 a 1918; sobre todo en Europa; desencadenante: asesinato en Sarajevo; consecuencia: cambio de fronteras. (b) La Guerra Fría fue una rivalidad entre bloques sin guerra directa. (c) Me cuestan las fechas; haré tarjetas y las repasaré tres días.",
+   ["caracteriza un conflicto con cuatro datos correctos", "corrige la frase con evidencia", "identifica una dificultad y un plan", "mantiene el respeto"],
+   ["texto de cinco a ocho líneas"],
+   ["dar fechas equivocadas", "no explicar cómo seguirá practicando"],
+   "Pregunta: «¿Qué haría distinto para que mi explicación sea más clara?»."),
+  "Repasa con tarjetas las seis fechas de la tabla de la ficha durante tres días.",
+  "Explica a otra persona la diferencia entre guerra mundial, revolución y totalitarismo.")
