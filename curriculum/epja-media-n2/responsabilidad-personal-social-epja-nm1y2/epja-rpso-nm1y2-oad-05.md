@@ -177,7 +177,7 @@ Respuesta: La frase de Pablo
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es la proactividad?
+- **E1.** En la vida personal y social, ¿qué es la proactividad?
 - **E2.** ¿La responsabilidad es solo obedecer?
 - **E3.** ¿Qué es gestionar un proyecto?
 
