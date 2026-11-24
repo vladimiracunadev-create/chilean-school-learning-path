@@ -3187,6 +3187,1493 @@
      ]
     }
    ]
+  },
+  "MATE_NM1": {
+   "course_slug": "epja-media-n1",
+   "sigla": "MATE",
+   "asignatura": "Matemática",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-1-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Matem%C3%A1tica%20NM1.pdf",
+   "oa_texto": {
+    "2": "Contrastar información entre distintos niveles de representación para un mismo contenido matemático, valorando las TIC como una oportunidad. (Representar)",
+    "3": "Usar modelos matemáticos dados para comprender fenómenos, asumiendo posturas razonadas. (Modelar)",
+    "4": "Expresar acciones y situaciones cotidianas en lenguaje matemático, asumiendo posturas razonadas. (Modelar)",
+    "5": "Explicar soluciones propias, procedimientos utilizados, definiciones y reglas, trabajando con empatía y respeto. (Argumentar y comunicar)",
+    "6": "Seleccionar estrategias, y transferir a nuevas situaciones pensando con perseverancia y proactividad para encontrar soluciones. (Resolución de problemas)",
+    "1": "Expresar ideas matemáticas mediante diferentes representaciones, aprovechando las herramientas disponibles. (Representar)",
+    "7": "Variar parámetros o condiciones y comparar los cambios en los resultados obtenidos, pensando con perseverancia y proactividad. (Resolver problemas)",
+    "8": "Evaluar el proceso y comprobar resultados y soluciones dadas de un problema matemático, pensando con flexibilidad para reelaborar. (Resolver problemas)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "El trabajo con los números reales permite analizar información numérica de mayor complejidad y ampliar el ámbito de resolución de problemas.",
+     "oa": [
+      "1",
+      "3",
+      "5",
+      "7",
+      "8"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Representan raíces y sus propiedades de forma pictórica o simbólica para ampliar el ámbito numérico y expresar situaciones laborales específicas relacionadas con el teorema de Pitágoras o el orden de números irracionales.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Operaciones con números racionales, potencias, raíces y sus propiedades."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Seleccionan y ajustan modelos que requieren de las raíces para su aplicación, variando parámetros y condiciones iniciales para comprar los cambios en los resultados obtenidos, en contextos de salud, como el índice de masa corporal o en contextos de diseño.",
+       "oa": [
+        "3",
+        "7"
+       ],
+       "ce": [
+        "Raíces y sus propiedades."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Representan grandes distancias y situaciones científicas utilizando potencias y la escritura científica para calcular de manera más directa y resolver problemas evaluando el proceso.",
+       "oa": [
+        "1",
+        "8"
+       ],
+       "ce": [
+        "Operaciones con números racionales, potencias, raíces y sus propiedades."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Fundamentan conjeturas utilizando los conocimientos de números racionales y de potencias para construir las propiedades de potencias y su relación con las raíces.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Potencias y sus propiedades.",
+        "Raíces y potencias."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "Las funciones, las expresiones algebraicas y procedimientos permiten construir modelos y encontrar soluciones a situaciones de cambio en diferentes ámbitos de nuestra realidad.",
+     "oa": [
+      "2",
+      "3",
+      "4",
+      "7",
+      "8"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Seleccionan y ajustan modelos asociados a la función cuadrática según diferentes fenómenos, transitando entre los diferentes niveles de representación.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Función cuadrática; Expresiones del tipo 𝑓(𝑥)=𝑥2 y 𝑓(𝑥)=𝑎 · 𝑥2."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Varían los parámetros de la función cuadrática, amplificando 𝑎𝑥2, sumando una constante 𝑎𝑥2+𝑐 o bien (𝑥+𝑏)2 ; (𝑥−𝑏)2 para visualizar los efectos gráficamente y evaluar los modelos según la situación.",
+       "oa": [
+        "4",
+        "7"
+       ],
+       "ce": [
+        "Función cuadrática; Expresiones del tipo 𝑓(𝑥) = a 𝑥2 ; 𝑔(𝑥) = 𝑥2+𝑐 y ℎ(𝑥) = (𝑥+𝑏)2"
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Representan y evalúan modelos comparándolos entre sí para resolver problemas y determinar soluciones utilizando los productos notables.",
+       "oa": [
+        "2",
+        "4",
+        "8"
+       ],
+       "ce": [
+        "Productos notables.",
+        "Función cuadrática."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Resuelven problemas evaluando el proceso de ecuaciones cuadráticas y comprobando resultados.",
+       "oa": [
+        "7"
+       ],
+       "ce": [
+        "Función cuadrática.",
+        "Ecuación cuadrática."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "Las propiedades y relaciones geométricas entre objetos y sus distancias permiten resolver problemas que involucran destrezas de visualización espacial.",
+     "oa": [
+      "1",
+      "3",
+      "6",
+      "7",
+      "8"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Expresar situaciones utilizando el plano cartesiano y ecuaciones lineales, para resolver sistemas de ecuaciones lineales 2x2 y dar respuestas a los problemas planteados.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Sistema de ecuaciones lineales (2 x 2)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Resolver problemas expresando situaciones en el plano cartesiano y ecuaciones lineales, para resolver sistemas de ecuaciones lineales 2x2 y dar respuestas a los problemas planteados.",
+       "oa": [
+        "3",
+        "8"
+       ],
+       "ce": [
+        "Sistema de ecuaciones (2 x 2)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Variar parámetros o condiciones iniciales para descubrir las propiedades homotéticas.",
+       "oa": [
+        "7"
+       ],
+       "ce": [
+        "Homotecias."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Realizar demostraciones simples sobre el teorema de Thales y otras propiedades de la homotecia, identificando en una demostración, si hay saltos o errores.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Teoremas de Thales."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "La probabilidad permite interpretar, predecir fenómenos, caracterizar situaciones, simular posibilidades y estudiar situaciones de incerteza.",
+     "oa": [
+      "1",
+      "7",
+      "8"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Representan y varían parámetros o condiciones iniciales de situaciones aleatorias aplicando la regla de Laplace, para comparar los cambios en los resultados.",
+       "oa": [
+        "7"
+       ],
+       "ce": [
+        "Probabilidades (Regla de Laplace)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Evalúan el proceso y comprueban resultados asociados a la regla multiplicativa, usando árboles de probabilidad.",
+       "oa": [
+        "1",
+        "8"
+       ],
+       "ce": [
+        "Regla multiplicativa."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Evalúan el proceso y comprueban resultados asociados a la regla aditiva, usando árboles de probabilidad.",
+       "oa": [
+        "1",
+        "8"
+       ],
+       "ce": [
+        "Regla aditiva."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Transfieren las reglas aditiva y multiplicativa a otros contextos, elaborando diagramas de árbol y diferenciando cuál se debe usar en cada situación.",
+       "oa": [
+        "8"
+       ],
+       "ce": [
+        "Regla aditiva.",
+        "Regla multiplicativa."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "LELI_NM1": {
+   "course_slug": "epja-media-n1",
+   "sigla": "LELI",
+   "asignatura": "Lengua y Literatura",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lengua-literatura-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Lengua%20y%20Literatura%20NM1.pdf",
+   "oa_texto": {
+    "1": "Evaluar textos no literarios analizando la veracidad y consistencia de la información, los propósitos explícitos e implícitos, los recursos lingüísticos y no lingüísticos y estrategias de persuasión. (Lectura)",
+    "2": "Formular una interpretación de los textos literarios leídos, a partir del análisis de la obra. (Lectura)",
+    "3": "Producir textos (orales, escritos o audiovisuales) aplicando procesos de planificación y redacción para crear textos coherentes y cohesionados para una variedad de propósitos y audiencias. (Escritura)",
+    "4": "Evaluar textos orales y audiovisuales: diferentes puntos de vista, considerando la relación que se establece entre imagen, sonido y texto, formulando una postura frente a lo escuchado. (Comunicación oral)",
+    "5": "Realizar investigaciones para responder interrogantes propias de la asignatura en páginas web y otras fuentes, evaluando la validez y confiabilidad de estas. (Investigación)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "La literatura nos permite explorar cómo el lenguaje construye identidades personales y culturales.",
+     "oa": [
+      "2",
+      "3"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Utilizan la información sobre el contexto de producción y de recepción de la obra para profundizar en la comprensión de un texto literario.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Contexto de producción y recepción de un texto literario."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Analizan un poema a partir de los significados o efectos del lenguaje en sentido figurado y los elementos sonoros como el ritmo y la rima.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Contexto de producción y recepción de un texto literario.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Construyen una interpretación de la obra a partir de su análisis.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Contexto de producción y recepción de un texto literario.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Elaboran un comentario literario para comunicar su interpretación de la obra.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Contexto de producción y recepción de un texto literario.",
+        "Recursos de coherencia y cohesión del texto.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "Los textos se construyen social, cultural, geográfica e históricamente.",
+     "oa": [
+      "1",
+      "3"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Analizan un texto no literario a partir de la situación comunicativa en que fue escrito, para determinar su consistencia y veracidad.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Veracidad y consistencia de la información.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Analizan los recursos lingüísticos de un texto para identificar sus propósitos comunicativos explícitos e inferir los implícitos, con el fin de evaluar el texto.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Estrategias de persuasión.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Evalúan un texto utilizando los criterios de análisis de veracidad, consistencia y propósito comunicativo.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Estrategias de persuasión.",
+        "Veracidad y consistencia de la información.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Escriben un texto no literario para comunicar su postura de forma coherente y cohesionada.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Estrategias de persuasión.",
+        "Recursos de coherencia y cohesión del texto."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "El compromiso con los procesos de escritura favorece el desarrollo de la creatividad y la capacidad de expresión. La escritura es una práctica social y cultural que permite construir, ampliar e intercambiar ideas.",
+     "oa": [
+      "3",
+      "5"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Investigan sobre una persona de la cultura chilena o latinoamericana, evaluando la validez y confiabilidad de las fuentes.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Normas de citación."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Organizan la información recopilada sobre una persona de la cultura chilena o latinoamericana.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Recursos de coherencia y cohesión del texto.",
+        "Normas de citación."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Planifican y escriben un reportaje aplicando criterios de coherencia textual.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Recursos de coherencia y cohesión del texto."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Evalúan su texto y lo reescriben, aplicando criterios de coherencia y cohesión textual para comunicarlo.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Recursos de coherencia y cohesión del texto."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "La investigación nos permite profundizar en la comprensión de ideas complejas. Cuestionar lo que escuchamos con empatía contribuye a nuestra capacidad de desarrollar relaciones humanas sanas.",
+     "oa": [
+      "2",
+      "4",
+      "5"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Leen y analizan dos obras literarias que mantienen una relación de intertextualidad, para comprender la literatura como una actividad cultural que trasciende el tiempo.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Intertextualidad a través de personajes, temas y símbolos de textos clásicos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Investigan una obra literaria para identificar relaciones de intertextualidad literaria.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Intertextualidad a través de personajes, temas y símbolos de textos clásicos.",
+        "Recursos no lingüísticos en los textos: diseño, imágenes, disposición gráfica y efectos de audio."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Escriben una interpretación de una obra literaria a partir del análisis intertextual de esta.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Intertextualidad a través de personajes, temas y símbolos de textos clásicos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Analizan los puntos de vista expresados en un texto audiovisual, a partir de la relación entre imagen, texto y sonido, y comunican oralmente sus conclusiones.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Recursos no lingüísticos en los textos: diseño, imágenes, disposición gráfica y efectos de audio."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "CNAT_NM1": {
+   "course_slug": "epja-media-n1",
+   "sigla": "CNAT",
+   "asignatura": "Ciencias Naturales",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ciencias-naturales-nivel-1-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Ciencias%20Naturales%20NM1.pdf",
+   "oa_texto": {
+    "1": "Formular preguntas y/o problemas, a partir de la observación y el conocimiento científico que puedan ser resueltos mediante una investigación científica. (Observar y plantear preguntas)",
+    "2": "Diseñar y desarrollar investigaciones experimentales, no experimentales y/o documentales, para dar respuesta a una pregunta o problema sobre la base de diversas fuentes de información científica trabajando con honestidad, autonomía y proactividad, considerando: y La relación entre las variables del estudio. y El uso adecuado de instrumentos y materiales para obtener datos confiables. y La medición y el registro de evidencias usando herramientas tecnológicas y/o digitales. (Planificar y conducir una investigación)",
+    "3": "Organizar y presentar datos cuantitativos y/o cualitativos, fundamentando su confiabilidad en tablas, gráficos, modelos u otras representaciones, con ayuda de las TIC actuando responsablemente con las posibilidades que ofrece la tecnología. (Procesar y analizar la evidencia)",
+    "4": "Analizar los resultados de una investigación científica planteando conclusiones e identificando conexiones entre variables y usando vocabulario disciplinar pertinente pensando con flexibilidad para reelaborar las propias ideas, puntos de vista y creencias. (Procesar y analizar la evidencia)",
+    "5": "Evaluar el proceso de investigación científica asumiendo posturas razonadas y de respeto por uno mismo y por los demás con el fin de perfeccionarla, considerando: y La validez y confiabilidad de los resultados. y La replicabilidad de los procedimientos. y Las posibles aplicaciones tecnológicas. (Evaluar y comunicar)",
+    "6": "Evaluar procesos, resultados y conclusiones con apoyo de herramientas digitales y otros soportes pertinentes. (Evaluar y comunicar)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "La formación y expansión del universo pueden ser explicadas a través de teorías como el Big Bang y cosmovisiones de pueblos originarios. El material genético y la selección natural explican la diversidad y sobrevivencia de los seres vivos a través del tiempo.",
+     "oa": [],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Formulan preguntas sobre el origen y la evolución del universo, considerando la perspectiva científica actual y cosmovisiones de pueblos originarios.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "La creación y evolución del universo según teorías científicas y cosmovisiones de los pueblos originarios."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Elaboran modelos para explicar la estructura y función del ADN y su relación con el origen y la diversidad de organismos.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Estructura y función del ADN."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Desarrollan investigaciones presentando evidencias sobre el origen y la evolución de las especies, considerando la diversidad de organismos, poblaciones, comunidades y ecosistemas.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Evolución, teorías asociadas y sus evidencias, y su impacto en el desarrollo de la vida. Relación entre organismo, población, comunidad y ecosistema."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Formulan preguntas sobre los principios básicos de la herencia, sobre la base de los resultados de investigaciones realizadas por Mendel.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Principios básicos de herencia genética en plantas y animales propuestos por Mendel. Estructura y función del ADN."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "Las reacciones químicas implican reorganizar átomos para formar nuevas sustancias; durante una reacción química, la materia no se crea ni se destruye.",
+     "oa": [
+      "5"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Diseñan y desarrollan investigaciones sobre reacciones químicas que ocurren en el hogar y sus consecuencias en la salud y los riesgos, enfatizando las leyes que explican estos procesos.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Leyes de conservación de la materia. Reacciones químicas y formación de compuestos útiles para los seres vivos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Organizan y presentan información relacionada con las propiedades de compuestos orgánicos utilizados en la vida cotidiana.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Química orgánica y los grupos funcionales (haluros, éteres, alcoholes, entre otros). Propiedades y características del carbono y su relación en la formación de moléculas orgánicas."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Explican cómo ocurre la formación de compuestos orgánicos presentes en diversas sustancias de la vida cotidiana.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Química orgánica y los grupos funcionales (haluros, éteres, alcoholes, entre otros). Propiedades y características del carbono y su relación en la formación de moléculas orgánicas."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Evalúan investigaciones sobre el origen de nutrientes de uso diario.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Fotosíntesis y la respiración celular y ciclo del Carbono."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "El material genético y la selección natural explican la diversidad y sobrevivencia de los seres vivos a través del tiempo.",
+     "oa": [
+      "1",
+      "4",
+      "6"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Observan la estructura y función del sistema nervioso y formulan preguntas para explicar cómo el organismo responde, coordina y se adapta frente a los estímulos del medio.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Características y estructuras básicas del sistema nervioso: nervios y cerebro."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Analizan, por medio de investigaciones, el rol de las principales estructuras del sistema endocrino presentes en el organismo.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Características y estructuras básicas del sistema endocrino: páncreas, hormonas sexuales y pancreáticas."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Analizan, por medio de investigaciones, el proceso de la homeostasis, considerando la regulación en el organismo de las hormonas sexuales y de las hormonas pancreáticas.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Características y estructuras básicas del sistema endocrino: páncreas, hormonas sexuales y pancreáticas."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Investigan los efectos del consumo de drogas en el sistema nervioso, evaluando la importancia de las medidas de prevención y autocuidado con una campaña de divulgación.",
+       "oa": [
+        "4",
+        "6"
+       ],
+       "ce": [
+        "Efectos del consumo de drogas en el sistema nervioso, medidas de protección y autocuidado."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "La transferencia de energía a través de diferentes medios puede explicarse utilizando modelos de onda y partículas.",
+     "oa": [
+      "1",
+      "2",
+      "6"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Reflexionan sobre la presencia y la importancia de la energía en la vida diaria, mediante la observación y la formulación de preguntas.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Características y propiedades del sonido y la luz, y su impacto en la vida cotidiana."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Planifican investigaciones acerca de fenómenos y situaciones cotidianas relacionadas con la energía.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "Características y propiedades del sonido y la luz, y su impacto en la vida cotidiana.",
+        "Movimiento, ley de conservación de la energía mecánica y conceptos de trabajo y potencia mecánica."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Desarrollan investigaciones sobre la energía en lo cotidiano (sonido, luz y mecánica), usando técnicas, materiales e instrumentos apropiados para la medición y el registro de evidencias.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Características y propiedades del sonido y la luz, y su impacto en la vida cotidiana.",
+        "Movimiento, ley de conservación de la energía mecánica y conceptos de trabajo y potencia mecánica."
+       ],
+       "horas": 8
+      },
+      {
+       "num": 4,
+       "frase": "Evalúan el proceso y los resultados de la investigación, considerando el objetivo y la pregunta de investigación, las decisiones metodológicas, la organización de las evidencias y las relaciones establecidas, y los comunican.",
+       "oa": [
+        "2",
+        "6"
+       ],
+       "ce": [
+        "Características y propiedades del sonido y la luz, y su impacto en la vida cotidiana.",
+        "Movimiento, ley de conservación de la energía mecánica y conceptos de trabajo y potencia mecánica."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "HGCS_NM1": {
+   "course_slug": "epja-media-n1",
+   "sigla": "HGCS",
+   "asignatura": "Historia, Geografía y Ciencias Sociales",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-historia-geografia-ciencias-sociales-nivel-1-educacion-media-0",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Historia%20Geograf%C3%ADa%20y%20Ciencias%20Sociales%20NM1.pdf",
+   "oa_texto": {
+    "1": "Analizar elementos de continuidad y cambio entre periodos y procesos, valorando las TIC como una oportunidad para informarse e investigar. (Pensamiento temporal y espacial)",
+    "2": "Analizar datos e información geográfica, por medio del uso de herramientas geográficas y digitales, para reconocer variables y patrones, actuando de acuerdo con los principios de la ética en el uso de la información y la tecnología. (Pensamiento temporal y espacial)",
+    "3": "Analizar distintas fuentes sobre un tema, trabajando con empatía y respeto. (Análisis y trabajo con fuentes)",
+    "4": "Evaluar los fenómenos estudiados considerando la multicausalidad, pensando con apertura a distintas perspectivas y contextos. (Pensamiento crítico)",
+    "5": "Elaborar y comunicar explicaciones, aplicando la multicausalidad y la multidimensionalidad, para comprender los fenómenos estudiados, con honestidad y responsabilidad por las propias acciones y decisiones. (Comunicación)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "La historia de occidente entre los siglos XVIII y XX estuvo marcada por procesos que transformaron las formas de pensar, la concepción del Estado y la naturaleza de los conflictos locales y globales.",
+     "oa": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Analiza elementos de continuidad y cambio en procesos políticos y económicos globales y locales durante el siglo XIX.",
+       "oa": [
+        "1",
+        "3"
+       ],
+       "ce": [
+        "Procesos políticos y económicos globales y locales durante el siglo XIX (por ej., imperialismo, industrialización, consolidación del Estado-nación)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Analiza datos e información geográfica para reconocer variables y patrones en relación con procesos políticos y económicos, globales y locales, durante el siglo XIX.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Procesos políticos y económicos globales y locales durante el siglo XIX (por ej., imperialismo, industrialización, consolidación del Estado-nación)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Caracteriza el desarrollo político, económico, social y medioambiental en Chile durante el siglo XIX y primera mitad del siglo XX.",
+       "oa": [
+        "1",
+        "3"
+       ],
+       "ce": [
+        "Visión general sobre el desarrollo político, económico, social y medioambiental en Chile durante el siglo XIX y primera mitad del siglo XX, incluyendo la perspectiva de los pueblos indígenas y las mujeres."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Evalúa la multicausalidad de algunos procesos globales y locales del siglo XIX y XX, y su relación con la configuración del presente.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Procesos políticos y económicos globales y locales durante el siglo XIX (por ej., imperialismo, industrialización, consolidación del Estado-nación)."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "Los conflictos globales y regionales han sido una fuerza poderosa en la configuración del territorio y la identidad contemporánea.",
+     "oa": [
+      "2",
+      "3"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Analiza distintas fuentes sobre las revoluciones del siglo XVIII e inicios del siglo XIX en Europa y América, incluyendo la Independencia de Chile.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Revoluciones del siglo XVIII e inicios del siglo XIX en Europa y América, incluyendo la Independencia de Chile."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Analiza datos e información geográfica sobre algunos procesos políticos y económicos globales y locales en los siglos XVIII y XIX, reconociendo variables y patrones.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Procesos políticos y económicos globales y locales durante el siglo XIX (por ej., imperialismo, industrialización, consolidación del Estado-nación)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Caracteriza conflictos globales y regionales del siglo XX y sus consecuencias, a partir del análisis de datos e información geográfica.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Conflictos globales y regionales del siglo XX y sus consecuencias (por ej., revoluciones, guerras, totalitarismos y populismos)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Analiza distintas fuentes para explicar de qué manera los conflictos globales y regionales configuraron el territorio y la identidad contemporáneas.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Conflictos globales y regionales del siglo XX y sus consecuencias (por ej., revoluciones, guerras, totalitarismos y populismos)."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "Conocer distintas perspectivas sobre un fenómeno nos permite enriquecer nuestra visión de mundo, hacernos nuevas preguntas y comprender nuestro presente.",
+     "oa": [
+      "3",
+      "4",
+      "5"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Compara, en fuentes primarias y secundarias, distintas perspectivas de los pueblos indígenas y de mujeres, sobre los principales procesos que marcaron el desarrollo político, económico, social y medioambiental en Chile durante el siglo XIX y primera mitad del siglo XX.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Visión general sobre el desarrollo político, económico, social y medioambiental en Chile durante el siglo XIX y primera mitad del siglo XX, incluyendo la perspectiva de los pueblos indígenas y las mujeres (perspectivas desde distintas dimensiones y desde distintos actores)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Explica, considerando distintas perspectivas, la multicausalidad y la multidimensionalidad de algunos procesos políticos, económicos, sociales y/o medioambientales ocurridos en Chile durante el siglo XIX y primera mitad del siglo XX.",
+       "oa": [
+        "3",
+        "5"
+       ],
+       "ce": [
+        "Visión general sobre el desarrollo político, económico, social y medioambiental en Chile durante el siglo XIX y primera mitad del siglo XX, incluyendo la perspectiva de los pueblos indígenas y las mujeres (perspectivas desde distintas dimensiones y desde distintos actores)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Contrasta distintas perspectivas sobre los conflictos internos en Chile en la segunda mitad del siglo XX, considerando la multicausalidad y la multidimensionalidad.",
+       "oa": [
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Conflictos internos en Chile en la segunda mitad del siglo XX, incluyendo el quiebre de la democracia y la Dictadura militar, la transición política y los Derechos Humanos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Elabora y comunica explicaciones sobre conflictos internos en Chile en la segunda mitad del siglo XX aplicando la multicausalidad y la multidimensionalidad, y con apertura a distintas perspectivas y contextos.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Conflictos internos en Chile en la segunda mitad del siglo XX, incluyendo el quiebre de la democracia y la Dictadura militar, la transición política y los Derechos Humanos."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "Nuestra identidad colectiva se construye a partir de aportes de distintos pueblos y comunidades y puede cambiar en el tiempo.",
+     "oa": [
+      "1",
+      "4",
+      "5"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Analiza elementos de continuidad y cambio entre conflictos internos en Chile, en la segunda mitad del siglo XX.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Conflictos internos en Chile en la segunda mitad del siglo XX, incluyendo el quiebre de la democracia y la Dictadura militar, la transición política y los Derechos Humanos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Evalúa, considerando la multicausalidad, distintos conflictos internos en Chile, en la segunda mitad del siglo XX, incluyendo el quiebre de la democracia y la dictadura militar, la transición política y los derechos humanos.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Conflictos internos en Chile en la segunda mitad del siglo XX, incluyendo el quiebre de la democracia y la Dictadura militar, la transición política y los Derechos Humanos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Elaborar y comunicar explicaciones, aplicando la multicausalidad y la multidimensionalidad sobre la importancia y los cambios en el multiculturalismo, las identidades y el patrimonio material e inmaterial en Chile.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Multiculturalismo, identidades y patrimonio material e inmaterial en Chile."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Analiza elementos de continuidad y cambio en relación con el multiculturalismo, identidades y patrimonio material e inmaterial en Chile.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Multiculturalismo, identidades y patrimonio material e inmaterial en Chile."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "AVIS_NM1y2": {
+   "course_slug": "epja-media-n1",
+   "sigla": "AVIS",
+   "asignatura": "Artes Visuales",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-artes-visuales-nivel-1-2-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Artes%20Visuales%20NM1-NM2.pdf",
+   "oa_texto": {
+    "1": "Crear obras y proyectos visuales y audiovisuales, con autonomía y proactividad para expresar sensaciones, emociones e ideas, a partir de la apreciación de referentes artísticos y culturales diversos. (Expresar y crear)",
+    "2": "Analizar e interpretar propósitos expresivos de obras visuales y audiovisuales, a partir de criterios estéticos, planteando posturas razonadas y mostrando flexibilidad para reelaborar sus ideas, puntos de vista y creencias. (Apreciar y responder)",
+    "3": "Diseñar y gestionar colaborativamente proyectos de difusión de obras visuales y audiovisuales propios, empleando diversidad de medios o TIC de acuerdo con los principios de la ética. (Comunicar y difundir)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 12,
+     "gran_idea": "Las Artes Visuales constituyen un lenguaje para la expresión personal y social en diversos medios.",
+     "oa": [],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Experimentan diferentes posibilidades de aplicación de un procedimiento gráfico (dibujo, collage y técnicas de impresión) y uno pictórico (tierras de color, anilinas, témpera y pinturas industriales).",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine."
+       ],
+       "horas": 2
+      },
+      {
+       "num": 2,
+       "frase": "Desarrollan y evalúan ideas para sus creaciones visuales con temas de problemas sociales actuales, planteando un propósito expresivo y seleccionando procedimientos, materiales y soportes.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine."
+       ],
+       "horas": 2
+      },
+      {
+       "num": 3,
+       "frase": "Realizan trabajos visuales basándose en una idea, en el propósito expresivo y en la aplicación de los materiales y procedimientos seleccionados.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Presentan sus trabajos, explicitando y argumentando sus ideas, el proceso creativo, los resultados y las principales decisiones tomadas.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine."
+       ],
+       "horas": 2
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 12,
+     "gran_idea": "La Artes Visuales permiten conocer y comprender culturas, contextos y visiones de mundo del pasado y el presente.",
+     "oa": [],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Analizan obras de arte de diferentes épocas e interpretan sus propósitos expresivos a partir de criterios estéticos, fundamentando sus interpretaciones.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine.",
+        "Lenguaje visual: elementos y conceptos como: línea, forma, color, textura, volumen."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Desarrollan y evalúan ideas para murales a partir de un propósito expresivo y de la selección de procedimientos, materiales y soportes, con temas relacionados con problemáticas propias.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine.",
+        "Lenguaje visual: elementos y conceptos como: línea, forma, color, textura, volumen."
+       ],
+       "horas": 2
+      },
+      {
+       "num": 3,
+       "frase": "Llevan a cabo sus ideas de trabajos de arte, utilizando el propósito expresivo y los procedimientos planteados.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine.",
+        "Lenguaje visual: elementos y conceptos como: línea, forma, color, textura, volumen."
+       ],
+       "horas": 5
+      },
+      {
+       "num": 4,
+       "frase": "Presentan sus trabajos y analizan los de sus pares, interpretando sus propósitos expresivos a partir de criterios estéticos.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine.",
+        "Lenguaje visual: elementos y conceptos como: línea, forma, color, textura, volumen."
+       ],
+       "horas": 2
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 12,
+     "gran_idea": "Las Artes Visuales constituyen un lenguaje para la expresión personal y social en diversos medios. Las Artes Visuales son un medio para crear en múltiples dimensiones de la vida actual.",
+     "oa": [],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Crean nanometrajes a partir de experiencias personales, experimentando con elementos del lenguaje audiovisual.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine.",
+        "Lenguaje audiovisual: elementos visuales y sonoros, elementos sintácticos: escena, secuencia, movimientos de cámara, planos y ángulos de filmación, composición e iluminación."
+       ],
+       "horas": 4
+      },
+      {
+       "num": 2,
+       "frase": "Analizan una obra cinematográfica e interpretan su propósito expresivo a partir de criterios estéticos como sensaciones, emociones e ideas que genera, tema, elementos contextuales y lenguaje audiovisual.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine.",
+        "Lenguaje audiovisual: elementos visuales y sonoros, elementos sintácticos: escena, secuencia, movimientos de cámara, planos y ángulos de filmación, composición e iluminación."
+       ],
+       "horas": 2
+      },
+      {
+       "num": 3,
+       "frase": "Crean un cortometraje, un documental o una performance en que se explicita una visión personal acerca de un tema o problema social, usando elementos del lenguaje audiovisual y corporal en función del propósito expresivo.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine."
+       ],
+       "horas": 4
+      },
+      {
+       "num": 4,
+       "frase": "Presentan y evalúan sus creaciones audiovisuales y performances usando criterios de propósito expresivo, utilización de elementos del lenguaje audiovisual y corporal y relación entre ellos.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "Procedimientos análogos y digitales para la creación y expresión visual y audiovisual: gráfica, pintura, escultura, fotografía, video y cine."
+       ],
+       "horas": 2
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 12,
+     "gran_idea": "Las Artes Visuales son un medio para crear en múltiples dimensiones de la vida actual. Las Artes Visuales permiten conocer y comprender culturas, contextos y visiones de mundo del pasado y el presente.",
+     "oa": [],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Seleccionan y evalúan, como curadores, obras y proyectos propios aplicando criterios estéticos, para una muestra de artes visuales.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Difusión de trabajos y proyectos de Artes Visuales y Audiovisuales: planificación y organización de muestras, selección de obras, diseño y elaboración de recursos para la difusión, presentaciones en diferentes formatos y medios, diseño y elaboración de material de difusión."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Diseñan y planifican proyectos de difusión considerando aspectos de gestión, tipos de trabajos, espacios y recursos materiales.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Difusión de trabajos y proyectos de Artes Visuales y Audiovisuales: planificación y organización de muestras, selección de obras, diseño y elaboración de recursos para la difusión, presentaciones en diferentes formatos y medios, diseño y elaboración de material de difusión."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Gestionan e implementan un proyecto para la muestra de artes visuales.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Difusión de trabajos y proyectos de Artes Visuales y Audiovisuales: planificación y organización de muestras, selección de obras, diseño y elaboración de recursos para la difusión, presentaciones en diferentes formatos y medios, diseño y elaboración de material de difusión."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Presentan una muestra de artes visuales y la evalúan usando criterios estéticos y funcionales.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Difusión de trabajos y proyectos de Artes Visuales y Audiovisuales: planificación y organización de muestras, selección de obras, diseño y elaboración de recursos para la difusión, presentaciones en diferentes formatos y medios, diseño y elaboración de material de difusión."
+       ],
+       "horas": 3
+      }
+     ]
+    }
+   ]
+  },
+  "FILO_NM1y2": {
+   "course_slug": "epja-media-n1",
+   "sigla": "FILO",
+   "asignatura": "Filosofía",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-filosofia-nivel-1-2-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Filosof%C3%ADa%20NM1-NM2.pdf",
+   "oa_texto": {
+    "1": "Analizar problemas presentes en textos filosóficos, considerando conceptos, métodos de razonamiento e implicancias para la vida cotidiana pensando con flexibilidad para reelaborar las propias ideas y puntos de vista. (Pensamiento analítico)",
+    "2": "Elaborar preguntas a partir del análisis de conceptos y teorías filosóficas para pensar con autorreflexión y autonomía. (Pensamiento analítico)",
+    "3": "Participar en diálogos sobre problemas filosóficos pertinentes para sus contextos, aplicando principios y herramientas de argumentación con empatía hacia otros.(Pensamiento crítico)",
+    "4": "Elaborar visiones personales a partir de las perspectivas de diversos filósofos pensando con apertura a distintos contextos, asumiendo riesgos y responsabilidades. (Pensamiento crítico)",
+    "5": "Perseverar en torno a las metas propuestas, considerando la construcción de proyectos de vida personal y laboral, y el aporte a la sociedad, con autonomía y conciencia de que los aprendizajes enriquecen la experiencia. (Evaluación y ejecución)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 12,
+     "gran_idea": "La filosofía es una actividad de búsqueda racional inherente al ser humano.",
+     "oa": [
+      "1",
+      "2"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Reconocen características principales de la filosofía, sus preguntas y algunas de sus problemáticas.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "El saber filosófico. Origen, métodos, problemas de estudio."
+       ],
+       "horas": 2
+      },
+      {
+       "num": 2,
+       "frase": "Comprenden el asombro y los métodos filosóficos como elementos indispensables para filosofar.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "El saber filosófico. Origen, métodos, problemas de estudio."
+       ],
+       "horas": 4
+      },
+      {
+       "num": 3,
+       "frase": "Representan la alegoría de la caverna como un ejemplo de problematización filosófica de la realidad.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "El problema filosófico del ser: perspectivas filosóficas sobre la realidad y la verdad."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Analizan el concepto de verdad como un problema filosófico, y son capaces de relacionarlo con la vida cotidiana y experiencias personales.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "El problema filosófico del ser: perspectivas filosóficas sobre la realidad y la verdad."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 12,
+     "gran_idea": "La filosofía es una guía para la reflexión crítica acerca de la realidad, el hombre y el mundo en que vivimos.",
+     "oa": [
+      "1",
+      "3",
+      "4"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Reflexionan en torno al sentido de las acciones humanas, a partir de la lectura de textos filosóficos, y la elaboración de una visión personal en la que aplican conceptos disciplinares.",
+       "oa": [
+        "1",
+        "4"
+       ],
+       "ce": [
+        "El problema filosófico del ser humano: esencia y sentido de la vida humana."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Elaboran visiones personales y preguntas sobre el sentido de la vida a partir de una perspectiva filosófica.",
+       "oa": [
+        "1",
+        "3",
+        "4"
+       ],
+       "ce": [
+        "El problema filosófico del ser humano: esencia y sentido de la vida humana."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Dialogan sobre perspectivas filosóficas respecto de la naturaleza humana, vinculando esta problemática con experiencias de la vida cotidiana y sus visiones personales.",
+       "oa": [
+        "1",
+        "3",
+        "4"
+       ],
+       "ce": [
+        "El problema filosófico del ser humano: esencia y sentido de la vida humana."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Elaboran una posición respecto del problema filosófico de la libertad, considerando diversas perspectivas filosóficas y fortaleciendo sus argumentos con experiencias o ejemplos.",
+       "oa": [
+        "1",
+        "3",
+        "4"
+       ],
+       "ce": [
+        "El problema filosófico del ser humano: esencia y sentido de la vida humana."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 12,
+     "gran_idea": "La filosofía es una guía para la reflexión crítica acerca de la realidad, el hombre y el mundo en que vivimos.",
+     "oa": [
+      "1",
+      "2",
+      "3"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Distinguen los conceptos de ética y moral en situaciones de la vida cotidiana, a partir de la lectura de textos filosóficos.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "El problema filosófico ético moral: problemas actuales y perspectivas ético-morales."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Participan en un diálogo sobre un problema moral, aplicando conceptos disciplinares de diversas perspectivas éticas, así como principios y herramientas para la construcción colaborativa de conocimiento.",
+       "oa": [
+        "1",
+        "2",
+        "3"
+       ],
+       "ce": [
+        "El problema filosófico ético moral: problemas actuales y perspectivas ético-morales."
+       ],
+       "horas": 4
+      },
+      {
+       "num": 3,
+       "frase": "Reelaboran su punto de vista sobre el bien común, resguardando los marcos de un diálogo riguroso y respetuoso, así como el uso de conceptos disciplinares.",
+       "oa": [
+        "1",
+        "2",
+        "3"
+       ],
+       "ce": [
+        "El problema filosófico ético moral: problemas actuales y perspectivas ético-morales."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Participan en un diálogo y comparten visiones personales sobre una controversia contemporánea, basados en perspectivas filosóficas.",
+       "oa": [
+        "1",
+        "3"
+       ],
+       "ce": [
+        "El problema filosófico ético moral: problemas actuales y perspectivas ético-morales."
+       ],
+       "horas": 2
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 12,
+     "gran_idea": "El ejercicio filosófico nos permite construir visiones de mundo.",
+     "oa": [
+      "1",
+      "2",
+      "4"
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Elaboran preguntas filosóficas relacionadas con epistemología, considerando el marco disciplinar y sus experiencias personales.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "El problema filosófico del conocimiento humano: límites y posibilidades."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Argumentan una visión respecto de un problema epistemológico, aplicando conceptos disciplinares.",
+       "oa": [
+        "1",
+        "4"
+       ],
+       "ce": [
+        "El problema filosófico del conocimiento humano: límites y posibilidades."
+       ],
+       "horas": 5
+      },
+      {
+       "num": 3,
+       "frase": "Discuten en torno al problema de la inducción en la teoría del conocimiento, aplicando conceptos disciplinares.",
+       "oa": [
+        "1",
+        "2",
+        "4"
+       ],
+       "ce": [
+        "El problema filosófico del conocimiento humano: límites y posibilidades."
+       ],
+       "horas": 2
+      },
+      {
+       "num": 4,
+       "frase": "Reelaboran una posición personal respecto de un problema filosófico del conocimiento, aplicando conceptos disciplinares y habilidades desarrolladas durante el módulo.",
+       "oa": [
+        "1",
+        "4"
+       ],
+       "ce": [
+        "El problema filosófico del conocimiento humano: límites y posibilidades."
+       ],
+       "horas": 2
+      }
+     ]
+    }
+   ]
   }
  }
 }
