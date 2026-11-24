@@ -315,4 +315,12 @@ Estado: planes docentes generados por el proyecto desde los programas de estudio
 - **Docentes de EPJA necesarios:** una persona de la modalidad debe revisar el lenguaje, el nivel de exigencia y que nada resulte infantilizante, y probar los apoyos de lectura y escritura.
 - **Lenguaje y Comunicación · EPJA Básica N1:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/lenguaje-comunicacion-epja-nb1.md).
 - **Matemática · EPJA Básica N1:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/matematica-epja-nb1.md).
+- **Pensamiento Computacional · EPJA Media N1 y N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/pensamiento-computacional-epja-nm1y2.md).
+- **Responsabilidad Personal y Social · EPJA Media N1 y N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/responsabilidad-personal-social-epja-nm1y2.md).
+- **Emprendimiento y Empleabilidad · EPJA Media N1 y N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/emprendimiento-empleabilidad-epja-nm1y2.md).
+- **Educación Financiera · EPJA Media N1 y N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/educacion-financiera-epja-nm1y2.md).
+- **Lenguaje y Comunicación · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/lenguaje-comunicacion-epja-nb2.md).
+- **Matemática · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/matematica-epja-nb2.md).
+- **Ciencias Naturales · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/ciencias-naturales-epja-nb2.md).
+- **Historia, Geografía y Ciencias Sociales · EPJA Básica N2:** ver la sección «Para revisión de especialista» de su [guía](formacion-epja/historia-geografia-ciencias-sociales-epja-nb2.md).
 <!-- /EPJA:rev -->

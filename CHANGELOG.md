@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-23 · Fase C (EPJA): Bloques 3 y 4: instrumentales y Nivel 2 basico
+
+- Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 18.308 registros (14.152 clases y 4.156 integradas) y 4.008 OA. Total EPJA publicado: 1.006 clases en 10 asignaturas; cuaderno del estudiante escrito en 1.006 de 1.006 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.
+- Límites: escrito y leído por IA, sin revisión profesional humana; no se contrastó con el Currículum Nacional más allá del sitio oficial; los módulos electivos de proyecto o problemas no suman clases; el bloque de clase de 90 minutos se puede partir o acortar. Detalle en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md) y en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
+
 ## 2026-11-23 · Fase C (EPJA): Bloque 2: Lenguaje y Matematica de Nivel 1 basico
 
 - Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 17.540 registros (13.384 clases y 4.156 integradas) y 3.816 OA. Total EPJA publicado: 238 clases en 2 asignaturas; cuaderno del estudiante escrito en 238 de 238 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.

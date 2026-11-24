@@ -4,13 +4,13 @@ Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.jso
 
 | Estado | Clases | Significado |
 |---|---:|---|
-| Inventariada | 17.540 | OA, nivel, asignatura, eje y fuente oficial identificados |
-| Secuenciada | 17.540 | posición, fase y duración propuestas dentro del OA |
+| Inventariada | 18.308 | OA, nivel, asignatura, eje y fuente oficial identificados |
+| Secuenciada | 18.308 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores |
-| Desarrollada | 13.384 | contenido disciplinar específico validado contra el contrato estructural |
+| Desarrollada | 14.152 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
-| Publicada | 17.540 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
+| Publicada | 18.308 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
@@ -302,18 +302,26 @@ Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación
 |---|---|---:|---:|---:|
 | EPJA | Lenguaje y Comunicación · EPJA Básica N1 | 16 | 118 | 118 |
 | EPJA | Matemática · EPJA Básica N1 | 16 | 120 | 120 |
-| **Total** | **2 asignaturas** | **32** | **238** | **238** |
+| EPJA | Ciencias Naturales · EPJA Básica N2 | 16 | 96 | 96 |
+| EPJA | Historia, Geografía y Ciencias Sociales · EPJA Básica N2 | 16 | 96 | 96 |
+| EPJA | Lenguaje y Comunicación · EPJA Básica N2 | 16 | 96 | 96 |
+| EPJA | Matemática · EPJA Básica N2 | 16 | 96 | 96 |
+| EPJA | Educación Financiera · EPJA Media N1 y N2 | 16 | 96 | 96 |
+| EPJA | Emprendimiento y Empleabilidad · EPJA Media N1 y N2 | 16 | 96 | 96 |
+| EPJA | Pensamiento Computacional · EPJA Media N1 y N2 | 16 | 96 | 96 |
+| EPJA | Responsabilidad Personal y Social · EPJA Media N1 y N2 | 16 | 96 | 96 |
+| **Total** | **10 asignaturas** | **160** | **1006** | **1006** |
 
-Los objetivos son las actividades de desempeño de los programas de estudio EPJA oficiales (4 módulos obligatorios con 4 actividades cada uno); las clases de cada objetivo son las horas pedagógicas que el programa le asigna. Las clases con cuaderno del estudiante son 238 de 238; el resto figura como pendiente en [docs/COBERTURA_ESTUDIANTE.md](docs/COBERTURA_ESTUDIANTE.md). Los módulos electivos de proyecto o de problemas reutilizan los mismos conocimientos y no suman clases. Tono de persona adulta o joven, sin infantilizar. Escrito por IA, revisión humana pendiente. Índice en [docs/formacion-epja/README.md](docs/formacion-epja/README.md) e [inventario](docs/EPJA_INVENTARIO.md).
+Los objetivos son las actividades de desempeño de los programas de estudio EPJA oficiales (4 módulos obligatorios con 4 actividades cada uno); las clases de cada objetivo son las horas pedagógicas que el programa le asigna. Las clases con cuaderno del estudiante son 1006 de 1006; el resto figura como pendiente en [docs/COBERTURA_ESTUDIANTE.md](docs/COBERTURA_ESTUDIANTE.md). Los módulos electivos de proyecto o de problemas reutilizan los mismos conocimientos y no suman clases. Tono de persona adulta o joven, sin infantilizar. Escrito por IA, revisión humana pendiente. Índice en [docs/formacion-epja/README.md](docs/formacion-epja/README.md) e [inventario](docs/EPJA_INVENTARIO.md).
 
 <!-- /EPJA:estado -->
 ## Cobertura publicada
 
 - 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC, especialidades técnico-profesionales de 3° y 4° medio y asignaturas de EPJA.
-- 117 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC, 53 de formación técnico-profesional contando las menciones como denominaciones propias, y 2 de EPJA).
-- 3.816 Objetivos de Aprendizaje.
+- 125 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC, 53 de formación técnico-profesional contando las menciones como denominaciones propias, y 10 de EPJA).
+- 4.008 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 3.816 páginas HTML de OA con anclas estables para 17.540 registros pedagógicos: 13.384 clases y 4.156 experiencias integradas.
+- 4.008 páginas HTML de OA con anclas estables para 18.308 registros pedagógicos: 14.152 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

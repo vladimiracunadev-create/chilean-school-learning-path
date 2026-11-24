@@ -176,6 +176,16 @@ _VERBS = {
 }
 _CUTS = re.compile(r"[;:]|, | por medio de| mediante| a partir de| con el fin| de acuerdo| según| considerando| aplicando| utilizando")
 _FUNCTION_WORDS = {"de", "del", "la", "el", "los", "las", "y", "o", "a", "en", "con", "para", "un", "una", "que", "su", "sus", "al", "por", "como"}
+_VERBS.update({
+    "caracterizan": "caracterizar", "construye": "construir", "definen": "definir", "diseña": "diseñar",
+    "formula": "formular", "indaga": "indagar", "internalizan": "internalizar", "investiga": "investigar",
+    "modelan": "modelar", "plantea": "plantear", "propone": "proponer", "proyectan": "proyectar",
+    "reconoce": "reconocer",
+})
+_VERBS.update({
+    "comunica": "comunicar", "distingue": "distinguir", "expresarse": "expresarse",
+    "infiere": "inferir", "presentarse": "presentarse", "relaciona": "relacionar", "selecciona": "seleccionar",
+})
 _UNKNOWN_VERBS: set[str] = set()
 
 

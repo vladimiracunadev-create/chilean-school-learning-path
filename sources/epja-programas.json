@@ -614,6 +614,2579 @@
      ]
     }
    ]
+  },
+  "PECO_NM1y2": {
+   "course_slug": "epja-media-n1",
+   "sigla": "PECO",
+   "asignatura": "Pensamiento Computacional",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-pensamiento-computacional-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Pensamiento%20Computacional%20NM.pdf",
+   "oa_texto": {
+    "1": "Formular problemas a partir de un contexto o situación específica, con apertura a distintas perspectivas, identificando las partes que lo componen. (Descomponer)",
+    "2": "Organizar datos de una situación problemática estableciendo secuencias e identificando fallos y defectos, trabajando con honestidad y considerando criterios de usabilidad, funcionamiento y función. (Evaluar)",
+    "3": "Modelar datos de una situación problemática mediante representaciones, simulaciones simples, bloques de programación y diagramas, aprovechando las herramientas disponibles. (Modelar)",
+    "4": "Establecer conexiones y semejanzas entre las partes del problema para caracterizar patrones en una situación problemática dada. (Generalizar y Transferir)",
+    "5": "Aplicar flexiblemente las soluciones elaboradas e implementadas a otras situaciones problemáticas, integrando con honestidad diferentes ideas y puntos de vista. (Generalizar y Transferir)",
+    "6": "Elaborar e implementar soluciones a una situación problemática mediante la formulación de algoritmos, actuando de acuerdo con los principios de la ética. (Pensar de forma algorítmica)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 12,
+     "gran_idea": "Los problemas pueden descomponerse en partes más pequeñas y manejables, organizarse siguiendo patrones y solucionarse en base a reglas, modelos y algoritmos.",
+     "oa": [
+      "1",
+      "2",
+      "3"
+     ],
+     "ruta": [
+      "Construyen algoritmos en base a la descomposición de los problemas que surgen en la cotidianidad, al tiempo que evalúan las respuestas y toman decisiones respecto de si son las más acertadas.",
+      "Evalúan las mejores opciones al momento de resolver un problema teniendo en cuenta el algoritmo y seudocódigo. Además, aprovechan oportunidades para poder utilizar códigos para resolver situaciones-problema.",
+      "Modelan bases de datos en contextos que plantean la necesidad de soluciones con apertura a diferentes perspectivas, y clasifican y descomponen objetos cotidianos haciendo una relación simple entre ellos.",
+      "Resuelven problemas en base a la entidad-relación entre tablas de acuerdo con el modelamiento de bases de datos, fundamentando cada atributo en base al dato que almacenará."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Construyen algoritmos en base a la descomposición de los problemas que surgen en la cotidianidad, al tiempo que evalúan las respuestas y toman decisiones respecto de si son las más acertadas.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "Procesos y funcionamiento de las cosas para resolver problemas cotidianos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Evalúan las mejores opciones al momento de resolver un problema teniendo en cuenta el algoritmo y seudocódigo. Además, aprovechan oportunidades para poder utilizar códigos para resolver situaciones-problema.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Procesos y funcionamiento de las cosas para resolver problemas cotidianos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Modelan bases de datos en contextos que plantean la necesidad de soluciones con apertura a diferentes perspectivas, y clasifican y descomponen objetos cotidianos haciendo una relación simple entre ellos.",
+       "oa": [
+        "1",
+        "3"
+       ],
+       "ce": [
+        "Modelos entidad-relación y simulación de sistemas."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Resuelven problemas en base a la entidad-relación entre tablas de acuerdo con el modelamiento de bases de datos, fundamentando cada atributo en base al dato que almacenará.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Modelos entidad-relación y simulación de sistemas."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 12,
+     "gran_idea": "El comportamiento de un sistema computacional (dispositivos, hardware y software) depende de la secuencia de instrucciones dadas por el usuario que automatizarán el desempeño de una tarea para ejecutar una acción o resolver un problema.",
+     "oa": [
+      "2",
+      "3"
+     ],
+     "ruta": [
+      "Construyen modelos de base de datos mediante el uso de entidades, atributos y relaciones, para obtener diferentes formas de resolver problemas.",
+      "Resuelven problemas utilizando los condicionales, mientras, repetir y para, aprovechando las herramientas para analizar y evaluar un problema.",
+      "Modelan y evalúan subprocesos, implementando e implementan las funcionalidades ya conocidas de acuerdo con las necesidades del problema.",
+      "Modelan y evalúan formas para programar mediante el uso 1, 2 y 3 dimensiones, y la resolución de problemas de algoritmos."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Construyen modelos de base de datos mediante el uso de entidades, atributos y relaciones, para obtener diferentes formas de resolver problemas.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Modelos entidad-relación y simulación de sistemas."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Resuelven problemas utilizando los condicionales, mientras, repetir y para, aprovechando las herramientas para analizar y evaluar un problema.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Sistemas computacionales: dispositivos, hardware y software, y resolución de problemas."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Modelan y evalúan subprocesos, implementando e implementan las funcionalidades ya conocidas de acuerdo con las necesidades del problema.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Modelos entidad-relación y simulación de sistemas.",
+        "Sistemas computacionales: dispositivos, hardware y software y resolución de problemas."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Modelan y evalúan formas para programar mediante el uso 1, 2 y 3 dimensiones, y la resolución de problemas de algoritmos.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Modelos entidad-relación y simulación de sistemas.",
+        "Sistemas computacionales: dispositivos, hardware y software, y resolución de problemas."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 12,
+     "gran_idea": "El comportamiento de un sistema computacional (dispositivos, hardware y software) depende de la secuencia de instrucciones dadas por el usuario que automatizarán el desempeño de una tarea para ejecutar una acción o resolver un problema.",
+     "oa": [
+      "4",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Resolver problemas computacionales relacionados con la funcionalidad de un objeto relevando la función de programación “hasta que”.",
+      "Resolver problemas computacionales relacionados con la funcionalidad de un objeto relevando la función de programación “hasta que”.",
+      "Utilizar las oportunidades que pueden ofrecer las bases de datos en ámbitos de desempeño profesional o cotidiano.",
+      "Aplicar soluciones computacionales de forma flexible a diferentes problemas, transfiriendo los conocimientos asociados al uso de base de datos en estructuras informacionales más complejas."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Resolver problemas computacionales relacionados con la funcionalidad de un objeto relevando la función de programación “hasta que”.",
+       "oa": [
+        "5",
+        "6"
+       ],
+       "ce": [
+        "Algoritmos y programación: lenguajes, métodos y entornos de programación."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Resolver problemas computacionales relacionados con la funcionalidad de un objeto relevando la función de programación “hasta que”.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Algoritmos y programación: lenguajes, métodos y entornos de programación."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Utilizar las oportunidades que pueden ofrecer las bases de datos en ámbitos de desempeño profesional o cotidiano.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Redes e Internet: sitios web, aplicaciones móviles, seguridad cibernética y objetos controlados digitalmente."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Aplicar soluciones computacionales de forma flexible a diferentes problemas, transfiriendo los conocimientos asociados al uso de base de datos en estructuras informacionales más complejas.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Redes e Internet: sitios web, aplicaciones móviles, seguridad cibernética y objetos controlados digitalmente."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 12,
+     "gran_idea": "El pensamiento algorítmico permite organizar pasos y reglas para diseñar soluciones y resolver una diversidad de problemas cuya comprensión se favorece al integrar conceptos matemáticos como variables, funciones, ecuaciones o gráficos, entre otros.",
+     "oa": [
+      "4",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Evaluar las herramientas necesarias para poder trabajar con información requerida de forma eficiente y precisa.",
+      "Implementar algoritmos que permitan trabajar con los datos necesarios para lograr obtener una solución a una problemática específica.",
+      "Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje de programación determinando.",
+      "Elaborar e implementar una variedad de algoritmos para resolver un problema con un lenguaje de programación profesional."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Evaluar las herramientas necesarias para poder trabajar con información requerida de forma eficiente y precisa.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Representación y análisis de datos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Implementar algoritmos que permitan trabajar con los datos necesarios para lograr obtener una solución a una problemática específica.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Representación y análisis de datos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Aplicar un proceso lógico que vincule el sistema de un algoritmo con un lenguaje de programación determinando.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Algoritmos y programación: lenguajes, métodos y entornos de programación.",
+        "Representación y análisis de datos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Elaborar e implementar una variedad de algoritmos para resolver un problema con un lenguaje de programación profesional.",
+       "oa": [
+        "5",
+        "6"
+       ],
+       "ce": [
+        "Algoritmos y programación: lenguajes, métodos y entornos de programación.",
+        "Representación y análisis de datos.",
+        "Impacto social de la computación: interacciones, cultura, seguridad y ética.",
+        "Lenguaje de programación: Python.",
+        "Sintaxis básicas (tipos, operadores, variables, funciones, listas, tuplas, diccionarios).",
+        "Condicionales (if y else)."
+       ],
+       "horas": 3
+      }
+     ]
+    }
+   ]
+  },
+  "RPSO_NM1y2": {
+   "course_slug": "epja-media-n1",
+   "sigla": "RPSO",
+   "asignatura": "Responsabilidad Personal y Social",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-responsabilidad-personal-social-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Responsabilidad%20Personal%20y%20Social%20NM.pdf",
+   "oa_texto": {
+    "1": "Reconocer recursos personales y del contexto que favorecen la consolidación de su identidad y autoestima, considerando su trayectoria de vida personal, intereses, capacidades y habilidades personales. (Reflexión y comunicación)",
+    "2": "Solucionar los conflictos mediante un diálogo constructivo, con una comunicación efectiva, escuchando con respeto a los demás y promoviendo la colaboración en la búsqueda de alternativas de solución al problema. (Reflexión y comunicación)",
+    "3": "Promover acciones que contribuyan al desarrollo de planes de vida y proyectos personales, sociales y laborales, demostrando compromiso y responsabilidad, y una acción sustentada en valores y orientada al logro del bien común. (Autonomía y proactividad)",
+    "4": "Establecer propósitos y metas significativas y congruentes que propicien el desarrollo personal, social y laboral, reconociendo fortalezas y debilidades, identificando las acciones a seguir, con disposición a evaluar el logro y adecuar sus planes. (Planificación y evaluación)",
+    "5": "Gestionar en forma autónoma y colaborativa su propio proceso de aprendizaje con actitud perseverante, reconociendo cuando necesita apoyo y gestionando las ayudas necesarias. (Planificación y evaluación)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 12,
+     "gran_idea": "El proceso de desarrollo personal y profesional es permanente durante toda la vida y requiere ser gestionado con autonomía, flexibilidad y adaptabilidad.",
+     "oa": [
+      "1"
+     ],
+     "ruta": [
+      "Reconocen y enumeran características personales que pueden ser consideradas fortalezas y recursos individuales.",
+      "Identifican y enumeran las características del contexto sociocultural en el que se desenvuelven y de las personas significativas de su entorno cercano.",
+      "Internalizan y valoran los recursos individuales y de contexto en el logro de una identidad personal construida sobre la base de una autoestima positiva.",
+      "Proyectan su crecimiento personal, analizando su historia y recursos individuales con el propósito de soñar una autoeducación permanente."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Reconocen y enumeran características personales que pueden ser consideradas fortalezas y recursos individuales.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Conocimiento de sí mismo y gestión de una sana autoestima.",
+        "Concepto de recursos personales y de contexto. Recursos de afrontamiento."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Identifican y enumeran las características del contexto sociocultural en el que se desenvuelven y de las personas significativas de su entorno cercano.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Conocimiento de sí mismo y gestión de una sana autoestima.",
+        "Concepto de recursos personales y de contexto. Recursos de afrontamiento."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Internalizan y valoran los recursos individuales y de contexto en el logro de una identidad personal construida sobre la base de una autoestima positiva.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Conocimiento de sí mismo y gestión de una sana autoestima.",
+        "Concepto de recursos personales y de contexto. Recursos de afrontamiento."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Proyectan su crecimiento personal, analizando su historia y recursos individuales con el propósito de soñar una autoeducación permanente.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Conocimiento de sí mismo y gestión de una sana autoestima.",
+        "Concepto de recursos personales y de contexto. Recursos de afrontamiento."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 12,
+     "gran_idea": "La responsabilidad es un compromiso que exige acciones concretas, y que se adquiere con uno mismo, la familia, el trabajo y la sociedad en general.",
+     "oa": [
+      "3"
+     ],
+     "ruta": [
+      "Reconocen la relación entre responsabilidad, gestión y proactividad, y su incidencia en los proyectos personales.",
+      "Identifican y aplican los pasos que deben seguir en la gestión de un proyecto de participación.",
+      "Internalizan y valoran el enfoque de género y la importancia de la igualdad de oportunidades entre hombres y mujeres.",
+      "Comunican sus proyectos explicitando y argumentando sus ideas y sus expectativas de logro, así como el rediseño si es necesario."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Reconocen la relación entre responsabilidad, gestión y proactividad, y su incidencia en los proyectos personales.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Enfoque de género, equidad entre hombres y mujeres en la gestión de proyectos, en la participación y en la concreción de metas personales."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Identifican y aplican los pasos que deben seguir en la gestión de un proyecto de participación.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Enfoque de género, equidad entre hombres y mujeres en la gestión de proyectos, la participación y en la concreción de metas personales."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Internalizan y valoran el enfoque de género y la importancia de la igualdad de oportunidades entre hombres y mujeres.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Enfoque de género, equidad entre hombres y mujeres en la gestión de proyectos, la participación y en la concreción de metas personales."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Comunican sus proyectos explicitando y argumentando sus ideas y sus expectativas de logro, así como el rediseño si es necesario.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Enfoque de género, equidad entre hombres y mujeres en la gestión de proyectos, en la participación y en la concreción de metas personales."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 12,
+     "gran_idea": "El compromiso con la propia formación permite mejorar la calidad de las relaciones interpersonales y contribuye a potenciarlas.",
+     "oa": [
+      "4",
+      "5"
+     ],
+     "ruta": [
+      "Reconocen y formulan metas personales en los diferentes ámbitos, analizando fortalezas y debilidades.",
+      "Identifican acciones que deben seguir en la consecución de metas.",
+      "Internalizan y valoran la importancia de su formación personal y profesional, y de las redes de apoyo disponibles.",
+      "Proyectan un liderazgo colaborativo en la consecución de metas de otros o del grupo."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Reconocen y formulan metas personales en los diferentes ámbitos, analizando fortalezas y debilidades.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Estrategias para el fortalecimiento de redes y participación en organizaciones de base (familia, barrio, junta de vecinos, etc.)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Identifican acciones que deben seguir en la consecución de metas.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Estrategias para el fortalecimiento de redes y participación en organizaciones de base (familia, barrio, junta de vecinos, etc.)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Internalizan y valoran la importancia de su formación personal y profesional, y de las redes de apoyo disponibles.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Estrategias para el fortalecimiento de redes y participación en organizaciones de base (familia, barrio, junta de vecinos, etc.)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Proyectan un liderazgo colaborativo en la consecución de metas de otros o del grupo.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Estrategias para el fortalecimiento de redes y participación en organizaciones de base (familia, barrio, junta de vecinos, etc.).",
+        "Habilidades sociales y de comunicación."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 12,
+     "gran_idea": "El proceso de desarrollo personal y profesional es permanente durante toda la vida y requiere gestionarlo con autonomía, flexibilidad y adaptabilidad.",
+     "oa": [
+      "2"
+     ],
+     "ruta": [
+      "Observan e identifican elementos de un diálogo constructivo que conlleva a comunicarse asertivamente con otras personas.",
+      "Reconocen la bilateralidad del diálogo como un elemento clave de la comunicación asertiva, introduciendo el concepto de escucha empática como la clave para el éxito en la comunicación verbal.",
+      "Proyectan las estrategias de comunicación anteriormente mencionadas en una situación de desacuerdos con un otro, para utilizarlas en favor de resolver un conflicto de manera asertiva.",
+      "Internalizan y valoran la resolución de conflictos como una responsabilidad social."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Observan e identifican elementos de un diálogo constructivo que conlleva a comunicarse asertivamente con otras personas.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Relaciones interpersonales, habilidades sociales y estrategias de comunicación.",
+        "Estrategias de inserción social positiva.",
+        "Gestión colaborativa y estrategias de resolución de conflictos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Reconocen la bilateralidad del diálogo como un elemento clave de la comunicación asertiva, introduciendo el concepto de escucha empática como la clave para el éxito en la comunicación verbal.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Relaciones interpersonales, habilidades sociales y estrategias de comunicación."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Proyectan las estrategias de comunicación anteriormente mencionadas en una situación de desacuerdos con un otro, para utilizarlas en favor de resolver un conflicto de manera asertiva.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Estrategias para el fortalecimiento de redes y participación en organizaciones de base (familia, barrio, junta de vecinos, etc.)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Internalizan y valoran la resolución de conflictos como una responsabilidad social.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Estrategias para el fortalecimiento de redes y participación en organizaciones de base (familia, barrio, junta de vecinos, etc.).",
+        "Estrategias de inserción social positiva."
+       ],
+       "horas": 3
+      }
+     ]
+    }
+   ]
+  },
+  "EMEM_NM1y2": {
+   "course_slug": "epja-media-n1",
+   "sigla": "EMEM",
+   "asignatura": "Emprendimiento y Empleabilidad",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-emprendimiento-empleabilidad-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Emprendimiento%20y%20Empleabilidad%20NM.pdf",
+   "oa_texto": {
+    "1": "Investigar e identificar necesidades y potenciales usuarios de un determinado emprendimiento u oportunidad de innovación, con pensamiento crítico, empatía y proactividad. (Investigación y diseño de ideas)",
+    "2": "Proponer soluciones innovadoras que enriquezcan otras existentes, con una visión crítica que incorpore criterios y restricciones sociales, éticas y de sustentabilidad, y apertura a distintas perspectivas y contextos, evaluando los riesgos y asumiendo responsabilidades. (Investigación y Diseño)",
+    "3": "Planificar el diseño de emprendimientos o soluciones, considerando las distintas etapas y la selección y el uso de recursos y herramientas, las necesidades, eficiencia e impacto, y las posibilidades que ofrece la tecnología. (Planificación)",
+    "4": "Desarrollar estrategias para poner a prueba, evaluar y hacer ajustes a prototipos de emprendimiento, soluciones o proyectos de empleabilidad, trabajando con honestidad, responsabilidad y liderazgo en la realización de tareas colaborativas. (Evaluación y ejecución)",
+    "5": "Perseverar en torno a las metas propuestas, considerando la construcción de proyectos de vida personal y laboral, y el aporte a la sociedad, con autonomía y conciencia de que los aprendizajes enriquecen la experiencia. (Evaluación y ejecución)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 12,
+     "gran_idea": "Las consideraciones sociales, éticas y de sustentabilidad son determinantes para el diseño de iniciativas y la toma de decisiones para innovar o emprender.",
+     "oa": [
+      "1",
+      "2"
+     ],
+     "ruta": [
+      "Indaga sobre las características de los emprendimientos y emprendedores, como modelos para el mejoramiento personal, social, ambiental y económico.",
+      "Investiga necesidades y problemas de su entorno social y laboral, en temáticas de su interés.",
+      "Formula soluciones creativas e innovadoras que representen oportunidades para la innovación y emprendimiento considerando aspectos sociales, éticos y medioambientales.",
+      "Diseña el modelo de negocio de producto o servicio innovador para responder a necesidades de usuarios y resolver problemas."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Indaga sobre las características de los emprendimientos y emprendedores, como modelos para el mejoramiento personal, social, ambiental y económico.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Proceso de decisión y generación de un emprendimiento o innovación (etapas, características, fortalezas y riesgos)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Investiga necesidades y problemas de su entorno social y laboral, en temáticas de su interés.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Proceso de decisión y generación de un emprendimiento o innovación (etapas, características, fortalezas y riesgos)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Formula soluciones creativas e innovadoras que representen oportunidades para la innovación y emprendimiento considerando aspectos sociales, éticos y medioambientales.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Proceso de decisión y generación de un emprendimiento o innovación (etapas, características, fortalezas y riesgos).",
+        "Herramientas digitales y estrategias para crear, diseñar y construir soluciones o proyectos innovadores."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Diseña el modelo de negocio de producto o servicio innovador para responder a necesidades de usuarios y resolver problemas.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Proceso de decisión y generación de un emprendimiento o innovación (etapas, características, fortalezas y riesgos).",
+        "Herramientas digitales y estrategias para crear, diseñar y construir soluciones o proyectos innovadores."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 12,
+     "gran_idea": "Las consideraciones sociales, éticas y de sustentabilidad son determinantes para el diseño de iniciativas y la toma de decisiones para innovar o emprender.",
+     "oa": [
+      "3"
+     ],
+     "ruta": [
+      "Elabora la planificación de proyectos identificando las etapas, los recursos y herramientas requeridos, gestionando con responsabilidad el tiempo y los recursos involucrados.",
+      "Evalúa las implicancias de las regulaciones asociadas a la creación y operación de empresas, y las normativas laborales para el desarrollo de proyectos, utilizando las TIC para el acceso a la información y la investigación.",
+      "Elabora presupuesto de proyectos considerando las normativas laborales y de las actividades económicas, aplicando principios éticos de uso de información.",
+      "Evalúa el plan del proyecto buscando la eficiencia en el uso de recursos financieros e identificado los impactos en las comunidades, utilizando las herramientas tecnológicas disponibles."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Elabora la planificación de proyectos identificando las etapas, los recursos y herramientas requeridos, gestionando con responsabilidad el tiempo y los recursos involucrados.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Gestión de proyectos y técnicas de evaluación financiera y social.",
+        "Género y diversidad en la gestión de innovación y proyectos enfocados en solución de problemas sociales y laborales."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Evalúa las implicancias de las regulaciones asociadas a la creación y operación de empresas, y las normativas laborales para el desarrollo de proyectos, utilizando las TIC para el acceso a la información y la investigación.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Normativa laboral y regulaciones para la iniciación de actividades, creación y operación de empresas y personas en Chile.",
+        "Fundamentos de la protección social, derechos laborales y leyes de seguridad en la empresa."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Elabora presupuesto de proyectos considerando las normativas laborales y de las actividades económicas, aplicando principios éticos de uso de información.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Gestión de proyectos y técnicas de evaluación financiera y social.",
+        "Género y diversidad en la gestión de innovación y proyectos enfocados en solución de problemas sociales y laborales."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Evalúa el plan del proyecto buscando la eficiencia en el uso de recursos financieros e identificado los impactos en las comunidades, utilizando las herramientas tecnológicas disponibles.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Gestión de proyectos y técnicas de evaluación financiera y social.",
+        "Género y diversidad en la gestión de innovación y proyectos enfocados en solución de problemas sociales y laborales."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 12,
+     "gran_idea": "Las iniciativas de emprendimiento, sociales o laborales, favorecen la consolidación de la identidad personal, laboral, y comunitaria para la construcción de proyectos de vida en el tiempo.",
+     "oa": [
+      "4"
+     ],
+     "ruta": [
+      "Investiga diversas estrategias para el diseño de prototipos de emprendimiento, soluciones o proyectos de empleabilidad, utilizando información de forma ética y responsable.",
+      "Construye un prototipo de emprendimiento, solución o proyecto de empleabilidad, basado en una problemática local, trabajando de forma colaborativa con otros.",
+      "Evalúa un prototipo de emprendimiento, solución o proyecto de empleabilidad, utilizando distintos puntos de vista con los actores que conforman una organización, de forma responsable.",
+      "Propone ajustes al prototipo de emprendimiento, solución o proyecto de empleabilidad, de acuerdo con la evaluación, basado en un diálogo constructivo y comprensivo hacia los demás."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Investiga diversas estrategias para el diseño de prototipos de emprendimiento, soluciones o proyectos de empleabilidad, utilizando información de forma ética y responsable.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Cultura organizacional, incluyendo: liderazgo y competencia laboral, trabajo en equipo y comunicación, manejo del tiempo y visión crítica sobre la brecha de género (brecha salarial, índices de participación de las mujeres, políticas discriminatorias, entre otros)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Construye un prototipo de emprendimiento, solución o proyecto de empleabilidad, basado en una problemática local, trabajando de forma colaborativa con otros.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Cultura organizacional, incluyendo liderazgo y competencia laboral, trabajo en equipo y comunicación, manejo del tiempo y visión crítica sobe la brecha de género (brecha salarial, índices de participación de las mujeres, políticas discriminatorias, entre otros)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Evalúa un prototipo de emprendimiento, solución o proyecto de empleabilidad, utilizando distintos puntos de vista con los actores que conforman una organización, de forma responsable.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Cultura organizacional, incluyendo liderazgo y competencia laboral, trabajo en equipo y comunicación, manejo del tiempo y visión crítica sobe la brecha de género (brecha salarial, índices de participación de las mujeres, políticas discriminatorias, entre otros)."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Propone ajustes al prototipo de emprendimiento, solución o proyecto de empleabilidad, de acuerdo con la evaluación, basado en un diálogo constructivo y comprensivo hacia los demás.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Cultura organizacional, incluye: liderazgo y competencia laboral, trabajo en equipo y comunicación, manejo del tiempo y visión crítica sobe la brecha de género (brecha salarial, índices de participación de las mujeres, políticas discriminatorias, entre otros)."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 12,
+     "gran_idea": "Las elecciones de la vida profesional se realizan en un ciclo recurrente de planificación, reflexión, adaptación y decisión.",
+     "oa": [
+      "5"
+     ],
+     "ruta": [
+      "Reconoce cómo sus características personales contribuyen al desarrollo de su proyecto de vida fortaleciendo la autoconfianza y la conciencia sobre sus desafíos y oportunidades.",
+      "Investiga alternativas de ocupaciones, formación y otras áreas de desarrollo personal, en función de sus intereses, motivaciones, valores y proyección personal.",
+      "Plantea una meta personal que responda a sus proyecciones, intereses y motivaciones en su proyecto de vida, fortaleciendo la autoconfianza, perseverancia y proactividad.",
+      "Diseña un plan de acción para alcanzar la meta planteada en su proyecto personal, promoviendo la perseverancia, autoconfianza y eficiencia."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Reconoce cómo sus características personales contribuyen al desarrollo de su proyecto de vida fortaleciendo la autoconfianza y la conciencia sobre sus desafíos y oportunidades.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Proceso de elección y desarrollo de un proyecto de vida profesional y/o laboral sin sesgos de género u otros factores de discriminación, incluyendo propósito, fortalezas personales, intereses y oportunidades."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Investiga alternativas de ocupaciones, formación y otras áreas de desarrollo personal, en función de sus intereses, motivaciones, valores y proyección personal.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Proceso de elección y desarrollo de un proyecto de vida profesional y/o laboral sin sesgos de género, y otros factores de discriminación, incluyendo: propósito, fortalezas personales, intereses y oportunidades."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Plantea una meta personal que responda a sus proyecciones, intereses y motivaciones en su proyecto de vida, fortaleciendo la autoconfianza, perseverancia y proactividad.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Proceso de elección y desarrollo de un proyecto de vida profesional o laboral sin sesgos de género, y otros factores de discriminación, incluyendo propósito, fortalezas personales, intereses y oportunidades."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Diseña un plan de acción para alcanzar la meta planteada en su proyecto personal, promoviendo la perseverancia, autoconfianza y eficiencia.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Proceso de elección y desarrollo de un proyecto de vida profesional y/o laboral sin sesgos de género, y otros factores de discriminación, incluyendo: propósito, fortalezas personales, intereses y oportunidades."
+       ],
+       "horas": 3
+      }
+     ]
+    }
+   ]
+  },
+  "EFIN_NM1y2": {
+   "course_slug": "epja-media-n1",
+   "sigla": "EFIN",
+   "asignatura": "Educación Financiera",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-educacion-financiera-educacion-media",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Educaci%C3%B3n%20Financiera%20NM.pdf",
+   "oa_texto": {
+    "1": "Planificar y desarrollar un presupuesto, considerando las distintas etapas de la vida y la selección y el uso de recursos y herramientas, tomando decisiones razonadas. (Planificación)",
+    "2": "Fundamentar, a partir de un análisis crítico, decisiones financieras, con autorreflexión y autonomía. (Toma de decisiones)",
+    "3": "Identificar patrones y tendencias en los sistemas y variables financieras globales y locales. (Toma de decisiones)",
+    "4": "Tomar decisiones estratégicas de inversión y ahorro, considerando deberes y derechos que asumen los distintos agentes económicos, y actuando con honestidad responsabilizándose por las propias acciones y decisiones. (Toma de decisiones)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 12,
+     "gran_idea": "Los conocimientos y la cultura financiera son determinantes para la toma de decisiones que permiten invertir y ahorrar.",
+     "oa": [
+      "1",
+      "2"
+     ],
+     "ruta": [
+      "Definen la escasez como el problema base de la economía y analizan decisiones económicas para incluirlas dentro de una planificación.",
+      "Clasifican y jerarquizan necesidades para identificar beneficios que se pueden obtener del intercambio, como manera de hacer una planificación razonada del presupuesto.",
+      "Caracterizan los distintos tipos de dinero que existen y los relacionan con sus funciones para incluirlos dentro de la planificación de su presupuesto.",
+      "Fundamentan decisiones económicas en situaciones concretas, según los costos y los tipos de dinero."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Definen la escasez como el problema base de la economía y analizan decisiones económicas para incluirlas dentro de una planificación.",
+       "oa": [
+        "1",
+        "2"
+       ],
+       "ce": [
+        "El problema económico, endeudamiento y riesgos asociados; escasez y costo alternativo; morosidad."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Clasifican y jerarquizan necesidades para identificar beneficios que se pueden obtener del intercambio, como manera de hacer una planificación razonada del presupuesto.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Ingreso y consumo responsable. Implicancias del género en las finanzas. Transacciones monetarias simples, como pagos diarios y gastos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Caracterizan los distintos tipos de dinero que existen y los relacionan con sus funciones para incluirlos dentro de la planificación de su presupuesto.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Distintas formas y propósitos del dinero, valor del dinero, tarjetas de pago, cheques, cuentas bancarias y monedas."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Fundamentan decisiones económicas en situaciones concretas, según los costos y los tipos de dinero.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "El problema económico, endeudamiento y riesgos asociados; escasez y costo alternativo; morosidad.",
+        "Distintas formas y propósitos del dinero, valor del dinero, tarjetas de pago, cheques, cuentas bancarias y monedas."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 12,
+     "gran_idea": "Las iniciativas de ahorro e inversión permiten el desarrollo de proyectos en el tiempo, favoreciendo la vida personal y social.",
+     "oa": [
+      "1",
+      "3",
+      "4"
+     ],
+     "ruta": [
+      "Fundamentan la importancia de una planificación financiera que permita ahorrar de acuerdo a las distintas etapas de la vida.",
+      "Caracterizan los distintos mecanismos de ahorro e inversión que existen, utilizando fuentes confiables, y recopilan la información en una tabla que permite visualizar riesgos y beneficios.",
+      "Definen los indicadores económicos que reflejan patrones y tendencias económicas y los relacionan con situaciones de su vida.",
+      "Aplican lo aprendido en la planificación de su ahorro e inversión."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Fundamentan la importancia de una planificación financiera que permita ahorrar de acuerdo a las distintas etapas de la vida.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Ahorro e inversión: activos financieros, créditos y seguros. Impacto del ahorro en la vida de las personas y de los países.",
+        "Indicadores económicos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Caracterizan los distintos mecanismos de ahorro e inversión que existen, utilizando fuentes confiables, y recopilan la información en una tabla que permite visualizar riesgos y beneficios.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Ahorro e inversión: activos financieros, créditos y seguros. Impacto del ahorro en la vida de las personas y de los países.",
+        "Indicadores económicos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Definen los indicadores económicos que reflejan patrones y tendencias económicas y los relacionan con situaciones de su vida.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Indicadores económicos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Aplican lo aprendido en la planificación de su ahorro e inversión.",
+       "oa": [
+        "1",
+        "4"
+       ],
+       "ce": [
+        "Ahorro e inversión: activos financieros, créditos y seguros. Impacto del ahorro en la vida de las personas y de los países.",
+        "Indicadores económicos."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 12,
+     "gran_idea": "Las iniciativas de ahorro e inversión permiten el desarrollo de proyectos en el tiempo, favoreciendo la vida personal y social.",
+     "oa": [
+      "2",
+      "4"
+     ],
+     "ruta": [
+      "Analizan las deudas, distinguen los agentes que participan y los elementos que las componen.",
+      "Calculan los costos reales de distintos tipos de deudas, utilizando herramientas informáticas de fuentes confiables.",
+      "Evalúan, a partir de ejemplos, la necesidad o conveniencia de distintas deudas.",
+      "Fundamentan decisiones económicas sobre endeudamiento en situaciones concretas, considerando los costos y facilidades de pago."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Analizan las deudas, distinguen los agentes que participan y los elementos que las componen.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "El problema económico: endeudamiento y riesgos asociados; escasez y costo alternativo; morosidad."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Calculan los costos reales de distintos tipos de deudas, utilizando herramientas informáticas de fuentes confiables.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "El problema económico: endeudamiento y riesgos asociados; escasez y costo alternativo; morosidad.",
+        "Herramientas de protección al consumidor."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Evalúan, a partir de ejemplos, la necesidad o conveniencia de distintas deudas.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "El problema económico: endeudamiento y riesgos asociados; escasez y costo alternativo; morosidad.",
+        "Herramientas de protección al consumidor."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Fundamentan decisiones económicas sobre endeudamiento en situaciones concretas, considerando los costos y facilidades de pago.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "El problema económico: endeudamiento y riesgos asociados; escasez y costo alternativo; morosidad.",
+        "Herramientas de protección al consumidor."
+       ],
+       "horas": 3
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 12,
+     "gran_idea": "La educación financiera y económica contribuye al bienestar tanto de las personas como de las empresas y la sociedad.",
+     "oa": [
+      "1",
+      "2"
+     ],
+     "ruta": [
+      "Explican, utilizando ejemplos, la relación entre la economía y la vida cotidiana de las personas.",
+      "Analizan situaciones cotidianas para descifrar las decisiones económicas que implican.",
+      "Construyen un presupuesto mensual y semanal, que considera sus fuentes de ingreso y las necesidades clasificadas.",
+      "Fundamentan la importancia de mecanismos de protección al consumidor en sus interacciones económicas."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Explican, utilizando ejemplos, la relación entre la economía y la vida cotidiana de las personas.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Ingreso y consumo responsable."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 2,
+       "frase": "Analizan situaciones cotidianas para descifrar las decisiones económicas que implican.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Ingreso y consumo responsable. Implicancias del género en las finanzas. Transacciones monetarias simples, como pagos diarios y gastos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 3,
+       "frase": "Construyen un presupuesto mensual y semanal, que considera sus fuentes de ingreso y las necesidades clasificadas.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Ingreso y consumo responsable. Implicancias del género en las finanzas. Transacciones monetarias simples, como pagos diarios y gastos."
+       ],
+       "horas": 3
+      },
+      {
+       "num": 4,
+       "frase": "Fundamentan la importancia de mecanismos de protección al consumidor en sus interacciones económicas.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Herramientas de protección al consumidor."
+       ],
+       "horas": 3
+      }
+     ]
+    }
+   ]
+  },
+  "LECO_NB2": {
+   "course_slug": "epja-basica-n2",
+   "sigla": "LECO",
+   "asignatura": "Lenguaje y Comunicación",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-lenguaje-comunicacion-nivel-2-educacion-basica",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Lenguaje%20y%20Comunicaci%C3%B3n%20NB2.pdf",
+   "oa_texto": {
+    "1": "Leer textos no literarios, relacionando la información y evaluando lo que se lee a partir de los conocimientos previos. (Lectura)",
+    "2": "Comparar textos literarios, justificando su preferencia por alguno. (Lectura)",
+    "3": "Escribir textos con distintos propósitos, utilizando un vocabulario variado y preciso, y desarrollando el proceso de escritura. (Escritura)",
+    "4": "Expresarse frente a una audiencia de manera clara y efectiva para comunicar temas, presentando información fidedigna, siguiendo una progresión temática clara, y utilizando un vocabulario variado y preciso. (Comunicación oral)",
+    "5": "Sintetizar ideas de una variedad de fuentes para generar comprensión. (Investigación)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "La literatura nos permite reflexionar sobre nosotros mismos, nuestras ideas e intereses para comprendernos y valorarnos.",
+     "oa": [
+      "2",
+      "3",
+      "4"
+     ],
+     "ruta": [
+      "Caracterizan el cuento como género narrativo a través de la comparación y seleccionan su preferido.",
+      "Comparan textos literarios aplicando criterios.",
+      "Justifican sus preferencias literarias.",
+      "Comunican sus preferencias literarias."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Caracterizan el cuento como género narrativo a través de la comparación y seleccionan su preferido.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Comparan textos literarios aplicando criterios.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Justifican sus preferencias literarias.",
+       "oa": [
+        "2",
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Normas ortográficas literal, acentual y puntual.",
+        "Normas gramaticales básicas: conjugaciones de verbos.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Comunican sus preferencias literarias.",
+       "oa": [
+        "2",
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Normas ortográficas literal, acentual y puntual.",
+        "Normas gramaticales básicas: conjugaciones de verbos.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "Cuestionar los mensajes que recibimos contribuye a nuestra capacidad de ser ciudadanos comprometidos.",
+     "oa": [
+      "1",
+      "3",
+      "4"
+     ],
+     "ruta": [
+      "Relacionan información del texto con sus conocimientos, realizando inferencias.",
+      "Distinguen hechos y opiniones en textos de los medios de comunicación.",
+      "Escriben un párrafo para las redes sociales en el que expresen hechos y opiniones.",
+      "Exponen oralmente ideas respaldadas de forma clara y efectiva."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Relacionan información del texto con sus conocimientos, realizando inferencias.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Textos no literarios: informativos, explicativos y argumentativos.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Distinguen hechos y opiniones en textos de los medios de comunicación.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Textos no literarios: informativos, explicativos y argumentativos.",
+        "Contenido de textos: distinción entre hechos y opiniones, información relevante y accesoria.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Escriben un párrafo para las redes sociales en el que expresen hechos y opiniones.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Contenido de textos: distinción entre hechos y opiniones, información relevante y accesoria.",
+        "Normas ortográficas literal, acentual y puntual.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Exponen oralmente ideas respaldadas de forma clara y efectiva.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Textos no literarios: informativos, explicativos y argumentativos.",
+        "Contenido de textos: distinción entre hechos y opiniones, información relevante y accesoria.",
+        "Textos orales cotidianos y sus características: tono, volumen, inflexión, ritmo y gestos.",
+        "Registro de habla formal e informal.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "Expresarse oralmente requiere la selección de recursos para cumplir nuestros propósitos comunicativos. Intercambiar ideas en situaciones comunicativas cotidianas nos permite construir con otros.",
+     "oa": [
+      "1",
+      "4",
+      "5"
+     ],
+     "ruta": [
+      "Relacionan elementos verbales y no verbales en un texto audiovisual.",
+      "Evalúan textos audiovisuales a partir de su contenido y su forma.",
+      "Sintetizan ideas construyendo un mapa conceptual.",
+      "Comunican por medio de una presentación oral de manera clara y efectiva."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Relacionan elementos verbales y no verbales en un texto audiovisual.",
+       "oa": [
+        "1",
+        "5"
+       ],
+       "ce": [
+        "Textos no literarios: informativos, explicativos y argumentativos.",
+        "Textos orales cotidianos y sus características: tono, volumen, inflexión, ritmo y gestos.",
+        "Registro de habla formal e informal.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia.",
+        "Estrategias de comprensión lectora y de comprensión oral. Normas de citación."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Evalúan textos audiovisuales a partir de su contenido y su forma.",
+       "oa": [
+        "1",
+        "5"
+       ],
+       "ce": [
+        "Textos no literarios: informativos, explicativos y argumentativos.",
+        "Textos orales cotidianos y sus características: tono, volumen, inflexión, ritmo y gestos.",
+        "Registro de habla formal e informal.",
+        "Normas ortográficas literal, acentual y puntual.",
+        "Normas gramaticales básicas: conjugaciones de verbos.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Sintetizan ideas construyendo un mapa conceptual.",
+       "oa": [
+        "1",
+        "5"
+       ],
+       "ce": [
+        "Textos no literarios: informativos, explicativos y argumentativos.",
+        "Normas ortográficas literal, acentual y puntual.",
+        "Normas gramaticales básicas: conjugaciones de verbos.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Comunican por medio de una presentación oral de manera clara y efectiva.",
+       "oa": [
+        "1",
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Textos no literarios: informativos, explicativos y argumentativos.",
+        "Textos orales cotidianos y sus características: tono, volumen, inflexión, ritmo y gestos.",
+        "Registro de habla formal e informal.",
+        "Normas ortográficas literal, acentual y puntual.",
+        "Normas gramaticales básicas: conjugaciones de verbos.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "Al investigar podemos establecer nuevas conexiones con los demás y el mundo.",
+     "oa": [
+      "2",
+      "4",
+      "5"
+     ],
+     "ruta": [
+      "Sintetizan en una ficha bibliográfica información sobre textos dramáticos seleccionados.",
+      "Comparan el conflicto expresado y las características de los personajes en dos obras dramáticas.",
+      "Justifican por escrito su preferencia por una obra dramática.",
+      "Comunican oralmente sus preferencias al conocer la obra dramática."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Sintetizan en una ficha bibliográfica información sobre textos dramáticos seleccionados.",
+       "oa": [
+        "2",
+        "5"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Comparan el conflicto expresado y las características de los personajes en dos obras dramáticas.",
+       "oa": [
+        "2",
+        "5"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Estrategias de comprensión lectora y de comprensión oral."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Justifican por escrito su preferencia por una obra dramática.",
+       "oa": [
+        "2",
+        "5"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Normas ortográficas literal, acentual y puntual.",
+        "Normas gramaticales básicas: conjugaciones de verbos.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Comunican oralmente sus preferencias al conocer la obra dramática.",
+       "oa": [
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Géneros literarios: poesía, narrativa y textos dramáticos.",
+        "Vocabulario: uso de nuevas palabras relacionadas con ámbitos científicos, históricos, sociales y de actualidad; relaciones de sinonimia y antonimia."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "MATE_NB2": {
+   "course_slug": "epja-basica-n2",
+   "sigla": "MATE",
+   "asignatura": "Matemática",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-matematica-nivel-2-educacion-basica",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Matem%C3%A1tica%20NB2.pdf",
+   "oa_texto": {
+    "1": "Expresar matemáticamente información del entorno y de problemas utilizando diversas representaciones e interesándose por las posibilidades que ofrece la tecnología. (Representar)",
+    "2": "Contrastar información entre distintos niveles de representación para un mismo contenido matemático aprovechando las herramientas disponibles. (Representar)",
+    "3": "Seleccionar un modelo pertinente a una situación real, asumiendo una postura razonada. (Modelar)",
+    "4": "Modelar acciones y situaciones cotidianas en lenguaje matemático asumiendo posturas razonadas. (Modelar)",
+    "5": "Explicar soluciones propias, procedimientos utilizados, definiciones y reglas trabajando con empatía y respeto. (Argumentar y Comunicar)",
+    "6": "Identificar los datos, seleccionando estrategias, y aplicando los procedimientos a situaciones idénticas, pensando con perseverancia y proactividad para encontrar soluciones. (Resolver problemas)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "Los números naturales, las fracciones y su operatoria son un medio para describir cantidades y relaciones que permiten resolver problemas en contextos cotidianos.",
+     "oa": [
+      "1",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Expresar fracciones como decimales, identificando la parte del todo en situaciones cotidianas.",
+      "Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales para aplicar los procedimientos a situaciones idénticas.",
+      "Explicar soluciones propias de multiplicaciones y divisiones de fracciones y decimales para aplicar los procedimientos a situaciones idénticas o similares.",
+      "Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada de adicion, sustracción, multiplicación o división de fracciones y decimales aplicando los procedimientos a situaciones idénticas."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Expresar fracciones como decimales, identificando la parte del todo en situaciones cotidianas.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Fracciones.",
+        "Decimales.",
+        "Transferencia de fracciones a decimales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Explicar soluciones propias de adiciones y sustracciones de fracciones y decimales para aplicar los procedimientos a situaciones idénticas.",
+       "oa": [
+        "5",
+        "6"
+       ],
+       "ce": [
+        "Adición y sustracción de fracciones.",
+        "Adición y sustracción de decimales.",
+        "Uso de calculadora.",
+        "Transformación de fracciones a decimales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Explicar soluciones propias de multiplicaciones y divisiones de fracciones y decimales para aplicar los procedimientos a situaciones idénticas o similares.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Multiplicación de fracciones.",
+        "Multiplicación de decimales.",
+        "Uso de calculadora para multiplicar fracciones y decimales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Identificar datos, seleccionar una estrategia de cálculo de operatoria combinada de adicion, sustracción, multiplicación o división de fracciones y decimales aplicando los procedimientos a situaciones idénticas.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Operatoria de fracciones y decimales.",
+        "Uso de calculadora."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "Los patrones están presentes en comportamientos de crecimiento y pueden ser identificados, representados y descritos matemáticamente.",
+     "oa": [
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Explicar definiciones y reglas asociadas a los patrones y sucesiones.",
+      "Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos a situaciones idénticas para generar nuevas secuencias.",
+      "Buscar y seleccionar estrategias para identificar y generalizar el comportamiento de una secuencia numérica.",
+      "Aplicar procedimientos de identificacion de patrones y selección de estrategias para resolver problemas asociados a patrones numéricos."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Explicar definiciones y reglas asociadas a los patrones y sucesiones.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Sucesión de números.",
+        "Patrón numérico."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Identificar patrones en secuencias numéricas con o sin contexto y aplicarlos a situaciones idénticas para generar nuevas secuencias.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Expresiones algebraicas.",
+        "Patrón de una secuencia.",
+        "Regla de formación."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Buscar y seleccionar estrategias para identificar y generalizar el comportamiento de una secuencia numérica.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Expresiones algebraicas.",
+        "Patrón de una secuencia.",
+        "Regla de formación."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Aplicar procedimientos de identificacion de patrones y selección de estrategias para resolver problemas asociados a patrones numéricos.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Crecimiento aditivo.",
+        "Patrones."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "El movimiento de figuras 2D permite describir, medir y comparar características invariantes de los objetos.",
+     "oa": [
+      "1",
+      "4",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Expresar acciones e información del entorno utilizando reflexiones y traslaciones para ampliar el lenguaje matemático.",
+      "Explicar la rotación y la medida de ángulos utilizados en soluciones propias, procedimientos, definiciones y reglas, para describir acciones e información del entorno.",
+      "Identificar los datos, seleccionar estrategias y aplicar procedimientos a la resolución de problemas relacionados con el área y el perímetro.",
+      "Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar figuras resultantes de un movimiento de rotación, traslación y reflexión."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Expresar acciones e información del entorno utilizando reflexiones y traslaciones para ampliar el lenguaje matemático.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Reflexiones de figuras 2D.",
+        "Traslaciones de figuras 2D."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Explicar la rotación y la medida de ángulos utilizados en soluciones propias, procedimientos, definiciones y reglas, para describir acciones e información del entorno.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Medida de ángulos.",
+        "Rotaciones de figuras 2D."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Identificar los datos, seleccionar estrategias y aplicar procedimientos a la resolución de problemas relacionados con el área y el perímetro.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Perímetro.",
+        "Área."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Identificar los datos, seleccionar estrategias y aplicar procedimientos para comparar figuras resultantes de un movimiento de rotación, traslación y reflexión.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Reflexiones.",
+        "Traslaciones.",
+        "Rotaciones.",
+        "Medidas de ángulos.",
+        "Perímetro y área."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "Los conceptos estadísticos permiten describir y caracterizar a personas o a una población.",
+     "oa": [
+      "2",
+      "3",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Explicar el razonamiento matemático utilizado para determinar, calcular media, moda y mediana.",
+      "Seleccionar entre media, moda o mediana según las necesidades de la situación.",
+      "Identificar los datos, seleccionar estrategias y aplicar procedimientos a la resolución de problemas relacionados con el cálculo de la media y la determinación de la moda y mediana.",
+      "Contrastar utilizando los criterios de moda, media y mediana dos poblaciones y sus características representadas de diversas maneras."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Explicar el razonamiento matemático utilizado para determinar, calcular media, moda y mediana.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Media",
+        "Mediana",
+        "Moda"
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Seleccionar entre media, moda o mediana según las necesidades de la situación.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Media",
+        "Mediana",
+        "Moda"
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Identificar los datos, seleccionar estrategias y aplicar procedimientos a la resolución de problemas relacionados con el cálculo de la media y la determinación de la moda y mediana.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Media",
+        "Mediana",
+        "Moda"
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Contrastar utilizando los criterios de moda, media y mediana dos poblaciones y sus características representadas de diversas maneras.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Media",
+        "Mediana",
+        "Moda"
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "CNAT_NB2": {
+   "course_slug": "epja-basica-n2",
+   "sigla": "CNAT",
+   "asignatura": "Ciencias Naturales",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ciencias-naturales-nivel-2-educacion-basica",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Ciencias%20Naturales%20NB2.pdf",
+   "oa_texto": {
+    "1": "Observar y describir objetos, procesos y fenómenos del mundo natural usando los sentidos y pensando con flexibilidad para reelaborar las propias ideas, puntos de vista y creencias. (Observar y plantear preguntas)",
+    "2": "Formular preguntas que puedan ser resueltas mediante una investigación científica a partir de la observación. (Observar y plantear preguntas)",
+    "3": "Desarrollar investigaciones científicas guiadas de tipo experimental y no experimental, de forma individual y/o colaborativa actuando según los principios de la ética, considerando: La pregunta de investigación y predicción de los resultados. La identificación de variables. La selección de instrumentos y materiales a usar de acuerdo a las variables de estudio. La medida y registro de datos con instrumentos de medición, especificando las unidades de medida y haciendo uso de la tecnología digital cuando corresponda. (Planificar y conducir una investigación)",
+    "4": "Organizar y presentar datos cuantitativos y/o cualitativos en tablas, gráficos u otras representaciones, con la ayuda de las TIC actuando responsablemente con las posibilidades que ofrece la tecnología. (Procesar y analizar la evidencia)",
+    "5": "Formular explicaciones y conclusiones a partir de la comparación entre los resultados obtenidos durante la investigación científica y sus predicciones. (Procesar y analizar la evidencia)",
+    "6": "Reflexionar, comunicar y proponer mejoras en sus investigaciones científicas identificando errores y aspectos a mejorar en sus procedimientos con honestidad, responsabilizándose por las implicancias que estas tienen sobre uno mismo y los otros. (Evaluar y comunicar)",
+    "7": "Evaluar el procedimiento científico y resultados, utilizando modelos, presentaciones, TIC e informes, entre otros. (Evaluar y comunicar)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "Los organismos multicelulares poseen sistemas de órganos que les permiten interactuar con su entorno.",
+     "oa": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+     ],
+     "ruta": [
+      "Describen, a partir de la observación, los distintos niveles de organización de los seres vivos.",
+      "Desarrollan investigaciones sobre la estructura y función de los sistemas digestivo y respiratorio evaluando los procedimientos y sus resultados.",
+      "Investigan enfermedades que afectan a los sistemas digestivos, respiratorio y circulatorio, considerando medidas de prevención y autocuidado.",
+      "Analizan datos sobre enfermedades que afectan el sistema reproductor humano, describiendo tendencias y considerando medidas de prevención y autocuidado."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Describen, a partir de la observación, los distintos niveles de organización de los seres vivos.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Niveles de organización de los seres vivos, incluyendo célula, tejido, órgano y sistema."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Desarrollan investigaciones sobre la estructura y función de los sistemas digestivo y respiratorio evaluando los procedimientos y sus resultados.",
+       "oa": [
+        "2",
+        "3",
+        "7"
+       ],
+       "ce": [
+        "Sistemas del cuerpo humano: funciones, estructuras básicas (sistemas digestivo, respiratorio, circulatorio y reproductor; tubo digestivo, pulmones y bronquios, vasos sanguíneos y corazón, y gónadas), considerando medidas de prevención y autocuidado."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Investigan enfermedades que afectan a los sistemas digestivos, respiratorio y circulatorio, considerando medidas de prevención y autocuidado.",
+       "oa": [
+        "3",
+        "7"
+       ],
+       "ce": [
+        "Sistemas del cuerpo humano: funciones, estructuras básicas (sistemas digestivo, respiratorio, circulatorio y reproductor; tubo digestivo, pulmones y bronquios, vasos sanguíneos y corazón, y gónadas), considerando medidas de prevención y autocuidado."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Analizan datos sobre enfermedades que afectan el sistema reproductor humano, describiendo tendencias y considerando medidas de prevención y autocuidado.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Sistemas del cuerpo humano: funciones, estructuras básicas (sistema reproductor) considerando medidas de prevención y autocuidado."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "La materia y sus propiedades pueden explicarse en términos del movimiento y la disposición de las partículas.",
+     "oa": [
+      "2",
+      "3",
+      "5"
+     ],
+     "ruta": [
+      "Desarrollan investigaciones de tipo experimental y no experimental, para analizar críticamente información entregada en noticias sobre los riesgos químicos en la alimentación.",
+      "Evalúan el etiquetado y la composición química de materiales y productos del entorno, pensando con flexibilidad para reelaborar sus propias ideas y creencias.",
+      "Formulan preguntas investigables sobre el uso de conceptos químicos en la publicidad.",
+      "Formulan explicaciones sobre el funcionamiento de materiales y productos del entorno, identificando los cambios físicos asociados."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Desarrollan investigaciones de tipo experimental y no experimental, para analizar críticamente información entregada en noticias sobre los riesgos químicos en la alimentación.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Materia: características y cambios de estado; clasificación de la materia, mezclas (homogéneas y heterogéneas), propiedades de la materia (masa, volumen, densidad, temperatura)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Evalúan el etiquetado y la composición química de materiales y productos del entorno, pensando con flexibilidad para reelaborar sus propias ideas y creencias.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Materia: características y cambios de estado; clasificación de la materia, mezclas (homogéneas y heterogéneas), propiedades de la materia (masa, volumen, densidad, temperatura)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Formulan preguntas investigables sobre el uso de conceptos químicos en la publicidad.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Materia: características y cambios de estado; clasificación de la materia, mezclas (homogéneas y heterogéneas), propiedades de la materia (masa, volumen, densidad, temperatura)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Formulan explicaciones sobre el funcionamiento de materiales y productos del entorno, identificando los cambios físicos asociados.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Materia: características y cambios de estado; clasificación de la materia, mezclas (homogéneas y heterogéneas), propiedades de la materia (masa, volumen, densidad, temperatura)."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "La energía se puede transferir de un cuerpo a otro y provocar cambios en los seres vivos y el ambiente.",
+     "oa": [
+      "1",
+      "3",
+      "5"
+     ],
+     "ruta": [
+      "Observan y describen procesos energéticos del entorno, reflexionando sobre las manifestaciones y las fuentes de energía, considerando el cuidado del ambiente.",
+      "Formulan explicaciones sobre posibles cambios del agua producto de la energía térmica, a través del análisis de tablas y gráficos, utilizando conceptos como temperatura y calor.",
+      "Describen los flujos de materia y energía en los ecosistemas, a partir del análisis de diagramas.",
+      "Investigan el impacto de la actividad humana en los ecosistemas, reflexionando sobre las acciones de prevención y mitigación frente a posibles deterioros."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Observan y describen procesos energéticos del entorno, reflexionando sobre las manifestaciones y las fuentes de energía, considerando el cuidado del ambiente.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Energía: Propiedades y manifestaciones de la energía y efectos en los objetos y seres vivos. Recursos energéticos en Chile."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Formulan explicaciones sobre posibles cambios del agua producto de la energía térmica, a través del análisis de tablas y gráficos, utilizando conceptos como temperatura y calor.",
+       "oa": [
+        "5"
+       ],
+       "ce": [
+        "Energía: Propiedades y manifestaciones de la energía y efectos en los objetos y seres vivos. Recursos energéticos en Chile."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Describen los flujos de materia y energía en los ecosistemas, a partir del análisis de diagramas.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Flujos al interior del ecosistema (cadenas y tramas tróficas), considerando medidas de prevención y mitigación frente a posibles deterioros."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Investigan el impacto de la actividad humana en los ecosistemas, reflexionando sobre las acciones de prevención y mitigación frente a posibles deterioros.",
+       "oa": [
+        "3"
+       ],
+       "ce": [
+        "Flujos al interior del ecosistema (cadenas y tramas tróficas), considerando medidas de prevención y mitigación frente a posibles deterioros."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "Los cambios en la composición de la Tierra y de la atmósfera y los fenómenos que ocurren en ellas son resultado de los procesos naturales, de la actividad humana y de movimientos astronómicos.",
+     "oa": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Desarrollan investigaciones y organizan información sobre las características, fenómenos y recursos que se encuentran en las capas de la Tierra.",
+      "Explican los efectos de la contaminación en las capas de la Tierra a partir del análisis de datos.",
+      "Observan y describen los movimientos de rotación y traslación terrestre mediante el uso de modelos.",
+      "Reflexionan y proponen mejoras a los procedimientos y resultados sobre los movimientos de la Tierra y la Luna, y sus efectos en los objetos y seres vivos."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Desarrollan investigaciones y organizan información sobre las características, fenómenos y recursos que se encuentran en las capas de la Tierra.",
+       "oa": [
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Características de las capas de la Tierra (atmósfera, litosfera e hidrósfera) y prevención de la contaminación."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Explican los efectos de la contaminación en las capas de la Tierra a partir del análisis de datos.",
+       "oa": [
+        "3",
+        "5"
+       ],
+       "ce": [
+        "Características de las capas de la Tierra (atmósfera, litosfera e hidrósfera) y prevención de la contaminación."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Observan y describen los movimientos de rotación y traslación terrestre mediante el uso de modelos.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Movimientos de la Tierra y la Luna y sus efectos en los objetos y seres vivos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Reflexionan y proponen mejoras a los procedimientos y resultados sobre los movimientos de la Tierra y la Luna, y sus efectos en los objetos y seres vivos.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Movimientos de la Tierra y la Luna, y sus efectos en los objetos y seres vivos."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "HGCS_NB2": {
+   "course_slug": "epja-basica-n2",
+   "sigla": "HGCS",
+   "asignatura": "Historia, Geografía y Ciencias Sociales",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-historia-geografia-ciencias-sociales-nivel-2-educacion-basica",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-07/Historia%2C%20Geograf%C3%ADa%20y%20Ciencias%20Sociales%20NB2.pdf",
+   "oa_texto": {
+    "1": "Caracterizar distintos periodos históricos, considerando principales hitos y procesos, utilizando las herramientas disponibles para aprender y resolver problemas. (Pensamiento temporal y espacial).",
+    "2": "Leer representaciones gráficas, fotográficas y computacionales del espacio geográfico, interesándose por las posibilidades que ofrece la tecnología. (Pensamiento temporal y espacial).",
+    "3": "Representar secuencias cronológicas mediante líneas de tiempo, aplicando conceptos relacionados con el tiempo (años, décadas, siglos, períodos, hitos), utilizando las herramientas disponibles para aprender y resolver problemas. (Pensamiento temporal y espacial).",
+    "4": "Seleccionar fuentes y obtener información relevante sobre el pasado y el presente a partir de éstas, trabajando con autonomía y proactividad. (Análisis y trabajo con fuentes).",
+    "5": "Evaluar la fiabilidad de las fuentes a partir de criterios históricos y de las Ciencias Sociales, actuando con perseverancia y proactividad. (Pensamiento crítico).",
+    "6": "Comunicar ideas de forma oral, escrita u otros, de manera clara y efectiva, asumiendo posturas razonadas. (Comunicación)."
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "El estudio de la Historia, la Geografía y las Ciencias Sociales nos permite conocer y comprender el pasado y el presente, y nuestra propia experiencia de vida",
+     "oa": [
+      "1",
+      "3",
+      "4"
+     ],
+     "ruta": [
+      "Obtener información a partir de la selección de fuentes sobre el pasado y el presente y utilizarla para caracterizar determinados periodos históricos.",
+      "Diseñar secuencias cronológicas relacionando hechos históricos conocidos o de su propia vida con periodos de la Historia de Chile y de la humanidad.",
+      "Distingue características de algunos periodos de la Historia de Chile y de la humanidad identificando sus principales hitos, procesos y los rasgos que le dan particularidad a través del análisis de fuentes.",
+      "Relaciona hitos de su vida personal con la historia de Chile y el mundo considerando cómo se construye el conocimiento histórico y qué nos permite conocer y comprender, a través de un conversatorio."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Obtener información a partir de la selección de fuentes sobre el pasado y el presente y utilizarla para caracterizar determinados periodos históricos.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Características del conocimiento de la Historia, la Geografía y las Ciencias Sociales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Diseñar secuencias cronológicas relacionando hechos históricos conocidos o de su propia vida con periodos de la Historia de Chile y de la humanidad.",
+       "oa": [
+        "1",
+        "3"
+       ],
+       "ce": [
+        "Características del conocimiento de la Historia, la Geografía y las Ciencias Sociales.",
+        "Principales hitos y periodos de la historia de la Humanidad y de Chile."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Distingue características de algunos periodos de la Historia de Chile y de la humanidad identificando sus principales hitos, procesos y los rasgos que le dan particularidad a través del análisis de fuentes.",
+       "oa": [
+        "1"
+       ],
+       "ce": [
+        "Características del conocimiento de la Historia, la Geografía y las Ciencias Sociales.",
+        "Principales hitos y periodos de la historia de la Humanidad y de Chile."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Relaciona hitos de su vida personal con la historia de Chile y el mundo considerando cómo se construye el conocimiento histórico y qué nos permite conocer y comprender, a través de un conversatorio.",
+       "oa": [
+        "1",
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Características del conocimiento de la Historia, la Geografía y las Ciencias Sociales.",
+        "Principales hitos y periodos de la historia de la Humanidad y de Chile."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "El estudio de la Historia, la Geografía y las Ciencias Sociales nos permite conocer y comprender el pasado y el presente, y nuestra propia experiencia de vida",
+     "oa": [
+      "2",
+      "4",
+      "6"
+     ],
+     "ruta": [
+      "Caracteriza el espacio geográfico de su localidad a través de una presentación oral que considera la observación, la lectura de información geográfica y otras fuentes.",
+      "Explica, a partir de la elaboración de un poema, las particularidades de las macrozonas de Chile, considerando la relación ser humano-medio.",
+      "Analizar distintos paisajes de Chile, a partir de una investigación basada en distintas fuentes, considerando el dinamismo del espacio geográfico.",
+      "Comunica a través de un debate ideas sobre posibles relaciones entre los principales riesgos socio-naturales de su localidad y las particularidades de las regiones y los paisajes de Chile."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Caracteriza el espacio geográfico de su localidad a través de una presentación oral que considera la observación, la lectura de información geográfica y otras fuentes.",
+       "oa": [
+        "2",
+        "6"
+       ],
+       "ce": [
+        "Macrozonas y sus paisajes; Principales zonas naturales, recursos significativos y trabajo humano que le da valor. Riesgos socio-naturales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Explica, a partir de la elaboración de un poema, las particularidades de las macrozonas de Chile, considerando la relación ser humano-medio.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Macrozonas y sus paisajes; Principales zonas naturales, recursos significativos y trabajo humano que le da valor. Riesgos socio-naturales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Analizar distintos paisajes de Chile, a partir de una investigación basada en distintas fuentes, considerando el dinamismo del espacio geográfico.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Macrozonas y sus paisajes; Principales zonas naturales, recursos significativos y trabajo humano que le da valor. Riesgos socio-naturales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Comunica a través de un debate ideas sobre posibles relaciones entre los principales riesgos socio-naturales de su localidad y las particularidades de las regiones y los paisajes de Chile.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Macrozonas y sus paisajes; Principales zonas naturales, recursos significativos y trabajo humano que le da valor. Riesgos socio-naturales."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "La sociedad y la cultura de los pueblos y los países se desarrollan en un espacio geográfico específico con el cual interactúan permanentemente, afectándolo positiva y negativamente.",
+     "oa": [
+      "2",
+      "4"
+     ],
+     "ruta": [
+      "Caracteriza, a partir de la información obtenida en fuentes, a los pueblos originarios de Chile, considerando su cosmovisión, rasgos culturales y ubicación geográfica.",
+      "Caracteriza a través de una investigación el espacio geográfico que habitaron los pueblos originarios de Chile, a partir de representaciones gráficas, fotográficas y computacionales del espacio geográfico.",
+      "Selecciona fuentes y obtiene información para realizar presentación oral donde debe identificar algunas características de la relación entre los pueblos originarios en Chile y el espacio geográfico en el que se desenvolvieron.",
+      "Infiere, a través del diseño de un afiche representaciones gráficas, fotográficas y computacionales del espacio geográfico, cómo las características de los distintos paisajes de Chile se relacionan con la cultura y cosmovisión de los pueblos originarios en Chile."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Caracteriza, a partir de la información obtenida en fuentes, a los pueblos originarios de Chile, considerando su cosmovisión, rasgos culturales y ubicación geográfica.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Pueblos originarios en Chile: ubicación geográfica, uso y dominio de recursos naturales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Caracteriza a través de una investigación el espacio geográfico que habitaron los pueblos originarios de Chile, a partir de representaciones gráficas, fotográficas y computacionales del espacio geográfico.",
+       "oa": [
+        "2"
+       ],
+       "ce": [
+        "Pueblos originarios en Chile: ubicación geográfica, uso y dominio de recursos naturales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Selecciona fuentes y obtiene información para realizar presentación oral donde debe identificar algunas características de la relación entre los pueblos originarios en Chile y el espacio geográfico en el que se desenvolvieron.",
+       "oa": [
+        "4",
+        "6"
+       ],
+       "ce": [
+        "Pueblos originarios en Chile: ubicación geográfica, uso y dominio de recursos naturales."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Infiere, a través del diseño de un afiche representaciones gráficas, fotográficas y computacionales del espacio geográfico, cómo las características de los distintos paisajes de Chile se relacionan con la cultura y cosmovisión de los pueblos originarios en Chile.",
+       "oa": [
+        "2",
+        "4",
+        "6"
+       ],
+       "ce": [
+        "Pueblos originarios en Chile: ubicación geográfica, uso y dominio de recursos naturales."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "El estado de Derecho está a la base de una sociedad democrática, y su respeto permite crear comunidades cohesionadas y buenas relaciones de convivencia con los demás.",
+     "oa": [
+      "4",
+      "5",
+      "6"
+     ],
+     "ruta": [
+      "Comunica ideas a través del diseño de un afiche sobre los Derechos Humanos basándose en información de fuentes confiables.",
+      "Selecciona fuentes y obtiene información relevante, evaluando su fiabilidad, para caracterizar el funcionamiento de la democracia, formas de participación y representación y la organización político-administrativa en Chile a través de un debate.",
+      "Identifica, a través de un comic donde considera la información obtenida en fuentes seleccionadas, los deberes del Estado y los derechos y responsabilidades de las personas en una democracia.",
+      "Relaciona a través de un conversatorio los Derechos Humanos con el funcionamiento de la democracia y los deberes del Estado, comunicándose de manera clara y efectiva."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Comunica ideas a través del diseño de un afiche sobre los Derechos Humanos basándose en información de fuentes confiables.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Deberes del Estado y derechos y responsabilidades de las personas; Derechos Humanos y actitudes cívicas."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Selecciona fuentes y obtiene información relevante, evaluando su fiabilidad, para caracterizar el funcionamiento de la democracia, formas de participación y representación y la organización político-administrativa en Chile a través de un debate.",
+       "oa": [
+        "4",
+        "5"
+       ],
+       "ce": [
+        "Funcionamiento de la democracia, formas de participación y representación y la organización político-administrativa en Chile.",
+        "Deberes del Estado y derechos y responsabilidades de las personas; Derechos Humanos y actitudes cívicas."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Identifica, a través de un comic donde considera la información obtenida en fuentes seleccionadas, los deberes del Estado y los derechos y responsabilidades de las personas en una democracia.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Deberes del Estado y derechos y responsabilidades de las personas; Derechos Humanos y actitudes cívicas."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Relaciona a través de un conversatorio los Derechos Humanos con el funcionamiento de la democracia y los deberes del Estado, comunicándose de manera clara y efectiva.",
+       "oa": [
+        "6"
+       ],
+       "ce": [
+        "Funcionamiento de la democracia, formas de participación y representación y la organización político-administrativa en Chile.",
+        "Deberes del Estado y derechos y responsabilidades de las personas; Derechos Humanos y actitudes cívicas."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
+  },
+  "INGL_NB2": {
+   "course_slug": "epja-basica-n2",
+   "sigla": "INGL",
+   "asignatura": "Inglés",
+   "pagina": "https://www.curriculumnacional.cl/recursos/programa-estudio-epja-ingles-nivel-2-educacion-basica-0",
+   "pdf": "https://www.curriculumnacional.cl/sites/default/files/adjuntos/recursos/2026-10/EPJA%20Ingl%C3%A9s%20NB2.pdf",
+   "oa_texto": {
+    "1": "Identificar tema, ideas principales, y vocabulario en textos orales, exposiciones y diálogos. (Comprensión auditiva)",
+    "2": "Identificar propósito, idea o tema general, vocabulario temático, palabras y expresiones de uso común en textos simples, literarios y no literarios, vinculados con sus contextos e intereses. (Comprensión lectora)",
+    "3": "Escribir textos breves y simples de acuerdo con un modelo, utilizando el vocabulario y la gramática que corresponde, con actitud proactiva. (Expresión escrita)",
+    "4": "Expresarse oralmente utilizando un vocabulario y el conocimiento gramatical adecuados a la situación comunicativa con respeto. (Expresión oral)"
+   },
+   "modulos": [
+    {
+     "modulo": 1,
+     "horas": 24,
+     "gran_idea": "Cuando ampliamos nuestro vocabulario, mejoramos nuestra forma de hacernos entender.",
+     "oa": [
+      "1",
+      "2",
+      "4"
+     ],
+     "ruta": [
+      "Saludar y entregar información básica sobre sí mismos y otras personas.",
+      "Preguntar por información personal, describirse y describir a otros física y emocionalmente.",
+      "Describir y preguntar por intereses propios y de otras personas.",
+      "Presentarse y presentar a una persona cercana frente a la clase."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Saludar y entregar información básica sobre sí mismos y otras personas.",
+       "oa": [
+        "1",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, tales como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Funciones tales como saludar, presentarse y presentar a otros.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Preguntar por información personal, describirse y describir a otros física y emocionalmente.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Adjetivos calificativos, posesivos y demostrativos.",
+        "Números cardinales y ordinales.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Describir y preguntar por intereses propios y de otras personas.",
+       "oa": [
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple, con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; y hacer predicciones."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Presentarse y presentar a una persona cercana frente a la clase.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Números cardinales y ordinales.",
+        "Adjetivos calificativos, posesivos y demostrativos."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 2,
+     "horas": 24,
+     "gran_idea": "Expresarse oralmente en inglés permite explorar y conocer nuestro entorno y el mundo.",
+     "oa": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "ruta": [
+      "Comprender y discutir un texto escrito, para luego presentar sus hábitos alimentarios y los de alguien cercano.",
+      "Comprender un video, y describir sus ciudades de origen y desafíos climáticos.",
+      "Conversar sobre el transporte en su comunidad, y dar instrucciones a sus compañeros, para llegar desde sus hogares al establecimiento.",
+      "Presentar a su familia, hogar, barrio y reglas de la casa. Acordar reglas para la clase e imaginar otras para la comunidad del futuro."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Comprender y discutir un texto escrito, para luego presentar sus hábitos alimentarios y los de alguien cercano.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Comprender un video, y describir sus ciudades de origen y desafíos climáticos.",
+       "oa": [
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Adjetivos calificativos, posesivos y demostrativos.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Conversar sobre el transporte en su comunidad, y dar instrucciones a sus compañeros, para llegar desde sus hogares al establecimiento.",
+       "oa": [
+        "3",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Presentar a su familia, hogar, barrio y reglas de la casa. Acordar reglas para la clase e imaginar otras para la comunidad del futuro.",
+       "oa": [
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Números cardinales y ordinales.",
+        "Adjetivos calificativos, posesivos y demostrativos."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 3,
+     "horas": 24,
+     "gran_idea": "Cada idioma tiene un sistema de reglas que lo distingue de otras lenguas.",
+     "oa": [
+      "1",
+      "2",
+      "4"
+     ],
+     "ruta": [
+      "Entregar información personal respecto de qué tan a menudo realizan ciertas acciones.",
+      "Preguntar y entregar información personal respecto de proyectos personales.",
+      "Describir y preguntar por rutinas diarias propias y de otros.",
+      "Presentar un referente personal frente a la clase, incluyendo rutina, proyectos e información básica."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Entregar información personal respecto de qué tan a menudo realizan ciertas acciones.",
+       "oa": [
+        "1",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Adverbios de tiempo como now, at the moment, always, generally, etcétera."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Preguntar y entregar información personal respecto de proyectos personales.",
+       "oa": [
+        "1",
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Describir y preguntar por rutinas diarias propias y de otros.",
+       "oa": [
+        "1",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Adverbios de tiempo como now, at the moment, always, generally, etcétera."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Presentar un referente personal frente a la clase, incluyendo rutina, proyectos e información básica.",
+       "oa": [
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Adverbios de tiempo como now, at the moment, always, generally, etcétera.",
+        "Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones."
+       ],
+       "horas": 6
+      }
+     ]
+    },
+    {
+     "modulo": 4,
+     "horas": 24,
+     "gran_idea": "Los lectores con un nivel de lectura adecuado pueden comprender el significado de un texto.",
+     "oa": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "ruta": [
+      "Entregar información y consejos sobre hábitos y diferentes generaciones.",
+      "Expresarse sobre actividades relajantes. Crear una actividad inusual y relajante.",
+      "Expresarse e investigar sobre nuevas maneras de alimentarse.",
+      "Comprender un video y crear un texto acerca de trabajos inusuales."
+     ],
+     "desempenos": [
+      {
+       "num": 1,
+       "frase": "Entregar información y consejos sobre hábitos y diferentes generaciones.",
+       "oa": [
+        "2",
+        "4"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones",
+        "Adjetivos calificativos, posesivos y demostrativos."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 2,
+       "frase": "Expresarse sobre actividades relajantes. Crear una actividad inusual y relajante.",
+       "oa": [
+        "1",
+        "3"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones.",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 3,
+       "frase": "Expresarse e investigar sobre nuevas maneras de alimentarse.",
+       "oa": [
+        "2",
+        "3"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be)."
+       ],
+       "horas": 6
+      },
+      {
+       "num": 4,
+       "frase": "Comprender un video y crear un texto acerca de trabajos inusuales.",
+       "oa": [
+        "1",
+        "3"
+       ],
+       "ce": [
+        "Funciones básicas, como saludar; presentarse y presentar a otros; dar y solicitar información personal; describir el clima, acciones cotidianas y del momento; preguntar y señalar la hora; dar instrucciones; expresar cantidad.",
+        "Estrategias de comprensión y localización de información, como destacar palabras clave, subrayar y responder preguntas para identificar tema e ideas generales; hacer predicciones",
+        "Estructura básica oracional afirmativa, negativa e interrogativa en presente continuo y simple con verbos regulares e irregulares; verbo ser, estar (to be).",
+        "Adverbios de tiempo como now, at the moment, always, generally, etcétera.",
+        "Preposiciones de lugar como to, on, inside, next to, at, etcétera."
+       ],
+       "horas": 6
+      }
+     ]
+    }
+   ]
   }
  }
 }

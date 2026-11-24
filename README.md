@@ -33,9 +33,9 @@
 [![Formación técnico-profesional](https://img.shields.io/badge/formaci%C3%B3n%20t%C3%A9cnico--profesional-2.745%20clases%20%C2%B7%2035%20especialidades-b45309?style=for-the-badge)](docs/formacion-tp/README.md)
 <!-- /TP:badge -->
 <!-- EPJA:badge -->
-[![Educación de Personas Jóvenes y Adultas](https://img.shields.io/badge/EPJA-238%20clases%20%C2%B7%202%20asignaturas-0369a1?style=for-the-badge)](docs/formacion-epja/README.md)
+[![Educación de Personas Jóvenes y Adultas](https://img.shields.io/badge/EPJA-1.006%20clases%20%C2%B7%2010%20asignaturas-0369a1?style=for-the-badge)](docs/formacion-epja/README.md)
 <!-- /EPJA:badge -->
-[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-13.384%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-14.152%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -91,10 +91,10 @@ Este repositorio ofrece hoy los siguientes recorridos, expresados sin mezclar cl
 - **Usar la formación técnico-profesional de 3° y 4° medio:** publica 2.745 clases (1.281 en 3° y 1.464 en 4° medio) de 35 especialidades de los sectores Administración, Agropecuario, Alimentación, Confección, Construcción, Electricidad, Gráfico, Hotelería y Turismo, Maderero, Marítimo, Metalmecánica, Minero, Química e Industria, Salud y Educación, Tecnología y Comunicaciones, Transversal, con los objetivos de aprendizaje de las Bases Curriculares (Decreto Supremo de Educación N.º 452/2013 según el propio documento) y cuaderno del estudiante en cada clase; solo conceptos y casos en papel, sin taller ni práctica, y no habilita para trabajar. Ver el [índice de especialidades](docs/formacion-tp/README.md) y el [avance de las asignaturas nuevas](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
 <!-- /TP:bullet -->
 <!-- EPJA:bullet -->
-- **Usar la Educación de Personas Jóvenes y Adultas (EPJA):** publica 238 clases en 2 asignaturas (Lenguaje y Comunicación, Matemática) de Educación Básica Nivel 1 (1.º a 4.º básico), con los objetivos de los programas de estudio oficiales (cada actividad de desempeño es un objetivo y sus clases son sus horas pedagógicas) y tono de persona adulta; cuaderno del estudiante escrito en 238 de 238 clases (el resto figura como pendiente). Ver el [índice de asignaturas EPJA](docs/formacion-epja/README.md) y el [inventario de la fase](docs/EPJA_INVENTARIO.md).
+- **Usar la Educación de Personas Jóvenes y Adultas (EPJA):** publica 1.006 clases en 10 asignaturas (Ciencias Naturales, Educación Financiera, Emprendimiento y Empleabilidad, Historia, Geografía y Ciencias Sociales, Lenguaje y Comunicación, Matemática, Pensamiento Computacional, Responsabilidad Personal y Social) de Educación Básica Nivel 1 (1.º a 4.º básico), Educación Básica Nivel 2 (5.º y 6.º básico), Educación Media Nivel 1 (1.º y 2.º medio), Educación Media Nivel 2 (3.º y 4.º medio), con los objetivos de los programas de estudio oficiales (cada actividad de desempeño es un objetivo y sus clases son sus horas pedagógicas) y tono de persona adulta; cuaderno del estudiante escrito en 1.006 de 1.006 clases (el resto figura como pendiente). Ver el [índice de asignaturas EPJA](docs/formacion-epja/README.md) y el [inventario de la fase](docs/EPJA_INVENTARIO.md).
 <!-- /EPJA:bullet -->
-- **Consultar el currículo:** organiza 3.816 OA oficiales desde 1° básico hasta 4° medio.
-- **Recorrer la trayectoria completa:** los 17.540 registros están desarrollados o integrados; no quedan propuestas solo secuenciadas ni borradores.
+- **Consultar el currículo:** organiza 4.008 OA oficiales desde 1° básico hasta 4° medio.
+- **Recorrer la trayectoria completa:** los 18.308 registros están desarrollados o integrados; no quedan propuestas solo secuenciadas ni borradores.
 
 Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)**, **[7°](docs/7-basico/README.md)**, **[8° básico completo](docs/8-basico/README.md)**, **[1° medio](docs/1-medio/README.md)**, **[2° medio](docs/2-medio/README.md)**, **[3° medio](docs/3-medio/README.md)** o **[4° medio](docs/4-medio/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas revisar el alcance, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
 
@@ -186,9 +186,9 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **4° medio completo:** las diecisiete denominaciones tienen sus 91 OA resueltos en 466 clases. Sus guías explican cada OA en lenguaje pedagógico —significado para la enseñanza, punto de entrada, conceptos, progresión, evidencia y fuente oficial—. Cada clase incluye recursos, evaluación, apoyos, profundización y continuidad desde 3° medio. Quedan **0 propuestas pendientes** en toda la trayectoria.
 
-### Lo que significa “17.540”
+### Lo que significa “18.308”
 
-Es la suma de todos los **espacios de clase e integración inventariados** del mapa curricular. Están resueltos como 13.384 clases disciplinares y 4.156 experiencias transversales integradas; estas últimas no constituyen clases independientes. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
+Es la suma de todos los **espacios de clase e integración inventariados** del mapa curricular. Están resueltos como 14.152 clases disciplinares y 4.156 experiencias transversales integradas; estas últimas no constituyen clases independientes. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
 
 ## 🧒 1° básico · desarrollo OA por OA
 
@@ -512,7 +512,7 @@ La entrada recomendada para una persona docente es la [guía de competencias, di
 | Ciclo de evidencia | Un ejemplo sintético completo | [Ciclo de evidencia](docs/EVIDENCE_CYCLE.md) | Separa observación, patrón, hipótesis, intervención, práctica y reevaluación. |
 | Marcos de evaluación | PAES, SIMCE, PISA, TIMSS, PIRLS e interno | [Qué se hizo con cada marco](docs/ASSESSMENT_FRAMEWORKS.md) | Son vistas desacopladas; nunca modifican los OA ni se presentan como currículo. |
 
-Los siete dominios son **competencia lectora** (20 habilidades), **matemática** (14), **científica** (11), **pensamiento crítico** (11), **alfabetización de datos** (10), **escritura y comunicación** (10) y **competencia digital e informacional** (10). La primera versión desarrolla seis trayectorias demostrativas: inferencia y evidencia, resolución matemática, evidencia científica, alfabetización de datos, escritura argumentativa y evaluación de fuentes digitales. Esto es una base extensible, **no un mapeo exhaustivo de los 3.816 OA**.
+Los siete dominios son **competencia lectora** (20 habilidades), **matemática** (14), **científica** (11), **pensamiento crítico** (11), **alfabetización de datos** (10), **escritura y comunicación** (10) y **competencia digital e informacional** (10). La primera versión desarrolla seis trayectorias demostrativas: inferencia y evidencia, resolución matemática, evidencia científica, alfabetización de datos, escritura argumentativa y evaluación de fuentes digitales. Esto es una base extensible, **no un mapeo exhaustivo de los 4.008 OA**.
 
 ### Cómo se conecta realmente con una clase existente
 
@@ -634,7 +634,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia, abre el 
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio de Formación General, y 780 de 3° medio y 780 de 4° medio de electivos HC, y 1.281 de 3° medio y 1.464 de 4° medio de especialidades técnico-profesionales, y 238 de EPJA: 13.384 en total.
+- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio de Formación General, y 780 de 3° medio y 780 de 4° medio de electivos HC, y 1.281 de 3° medio y 1.464 de 4° medio de especialidades técnico-profesionales, y 1.006 de EPJA: 14.152 en total.
 - **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3°, 384 de 4°, 420 de 5°, 422 de 6°, 515 de 7°, 430 de 8°, 456 de 1° medio y 456 de 2° medio: 4.156 en total; no constituyen clases independientes.
 - **Contenido pendiente:** 0 propuestas desde 1° básico hasta 4° medio.
 
@@ -676,7 +676,7 @@ Los workflows verificables están en [Calidad](.github/workflows/ci.yml), [Pages
 
 ### ✅ Sí es
 
-- un desarrollo pedagógico interno transparente desde 1° básico hasta 4° medio, con 13.384 clases disciplinares;
+- un desarrollo pedagógico interno transparente desde 1° básico hasta 4° medio, con 14.152 clases disciplinares;
 - 4.156 experiencias de integración transversal incorporadas en las secuencias; no son clases adicionales;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;

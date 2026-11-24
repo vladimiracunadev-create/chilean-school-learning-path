@@ -152,5 +152,13 @@ Fuente: [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum
 |---|---:|---:|---:|---:|---:|
 | Lenguaje y Comunicación · EPJA Básica N1 | 16 | 118 | 118 | 0 | 100 % |
 | Matemática · EPJA Básica N1 | 16 | 120 | 120 | 0 | 100 % |
+| Ciencias Naturales · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
+| Historia, Geografía y Ciencias Sociales · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
+| Lenguaje y Comunicación · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
+| Matemática · EPJA Básica N2 | 16 | 96 | 96 | 0 | 100 % |
+| Educación Financiera · EPJA Media N1 y N2 | 16 | 96 | 96 | 0 | 100 % |
+| Emprendimiento y Empleabilidad · EPJA Media N1 y N2 | 16 | 96 | 96 | 0 | 100 % |
+| Pensamiento Computacional · EPJA Media N1 y N2 | 16 | 96 | 96 | 0 | 100 % |
+| Responsabilidad Personal y Social · EPJA Media N1 y N2 | 16 | 96 | 96 | 0 | 100 % |
 
 <!-- /EPJA:avance -->

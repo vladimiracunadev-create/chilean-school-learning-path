@@ -1,6 +1,6 @@
 # Matemática · EPJA Básica N1
 
-[⬅️ Índice de asignaturas EPJA](README.md) · [← Lenguaje y Comunicación · EPJA Básica N1](lenguaje-comunicacion-epja-nb1.md)
+[⬅️ Índice de asignaturas EPJA](README.md) · [← Lenguaje y Comunicación · EPJA Básica N1](lenguaje-comunicacion-epja-nb1.md) · [Ciencias Naturales · EPJA Básica N2 →](ciencias-naturales-epja-nb2.md)
 
 **16 actividades de desempeño (objetivos) · 120 clases · cuaderno del estudiante escrito en 120 de 120 clases · revisión humana pendiente**
 
