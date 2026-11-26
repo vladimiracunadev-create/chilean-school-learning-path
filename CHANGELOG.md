@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-26 · 1.º básico: 24 preguntas del cuaderno del estudiante corregidas
+
+- Se reescriben 24 preguntas de 1.º básico que entregaban su propia respuesta, la tenían resuelta en un ejemplo o actividad del mismo cuaderno, o pedían ordenar palabras ya ordenadas: Ciencias Naturales 7, Lenguaje y Comunicación 5, Historia, Geografía y Ciencias Sociales 4, Inglés (propuesta) 2, Música 2, Artes Visuales 1, Educación Física y Salud 1, Matemática 1 y Tecnología 1.
+- Los casos salieron del informe de limpieza de [learning-path-datasets](https://github.com/vladimiracunadev-create/learning-path-datasets), salvo uno detectado al redactar. Cambian pregunta, respuesta y razón; los objetivos de aprendizaje y las clases no cambian.
+- Límites: redactadas por IA y leídas a ciegas por otros agentes de IA; el mantenedor autorizó aplicarlas, lo que no es una revisión profesional ni cambia el estado editorial. Quedan 4 preguntas señaladas sin cambiar por tener dudas abiertas, y las reglas de búsqueda no detectan todos los casos.
+
 ## 2026-11-24 · Datasets, skills y agentes para crear datasets de conocimiento
 
 - Se incorporan a este repositorio 4 skills generales (`dataset-conocimiento-extraer`, `dataset-verificar`, `dataset-construir-publicar`, `dataset-pack-nuevo`) y 4 agentes (`extractor-conocimiento`, `verificador-independiente`, `curador-datasets`, `auditor-derechos-datos`) en `.claude/`, copiados del repositorio [learning-path-datasets](https://github.com/vladimiracunadev-create/learning-path-datasets).

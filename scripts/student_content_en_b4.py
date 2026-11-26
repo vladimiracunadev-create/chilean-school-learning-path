@@ -147,7 +147,7 @@ register(
         M("Olvidar la mayúscula inicial.", "Se escribe rápido.", "Revisa la primera letra de cada oración."),
     ],
     tiers=T(
-        [ex("Ordena: I / like / red. Escribe la oración.", "I like red.", "I like red es el orden correcto."),
+        [ex("Ordena: red / I / like. Escribe la oración.", "I like red.", "Primero va quién, luego lo que hace y al final con qué."),
          ex("Ordena: have / I / a / dog. Escribe la oración.", "I have a dog.", "I have a dog es la oración completa."),
          ex("¿Con qué palabra empieza la oración I have a cat?", "I", "Empieza con I.")],
         [ex("¿Qué va primero en una oración: quién o con qué?", "Quién", "La persona o cosa va primero."),

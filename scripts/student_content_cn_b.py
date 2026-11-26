@@ -84,7 +84,7 @@ register(
             ex("¿Para qué sirve el tallo además de llevar agua?", "Para sostener la planta", "Mantiene las hojas arriba."),
         ],
         "understand": [
-            ex("¿Qué dos trabajos hace la raíz?", "Sujeta la planta y absorbe agua", "Son sus dos funciones."),
+            ex("Ana acaba de poner un apio en agua con colorante. Todavía no ve hojas con color. ¿Por qué?", "Porque el agua con color todavía no sube por el tallo hasta las hojas; hay que esperar", "El tallo lleva el agua hasta las hojas y eso toma tiempo."),
             ex("En el experimento del apio, ¿qué muestra el color?", "Por dónde sube el agua", "El colorante viaja con el agua."),
             ex("¿Qué significa transportar?", "Llevar de un lugar a otro", "El tallo lleva agua de la raíz a las hojas."),
         ],

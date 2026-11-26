@@ -145,7 +145,7 @@ register(
         "recovery": [
             ex("¿En qué mes son las Fiestas Patrias?", "septiembre", "Se celebran el 18 y el 19 de septiembre."),
             ex("¿En qué mes se recuerda el Combate Naval de Iquique?", "mayo", "Fue el 21 de mayo de 1879."),
-            ex("¿En qué mes es el 12 de octubre?", "octubre", "El mes aparece en el nombre de la fecha."),
+            ex("En un mismo año, ¿qué se conmemora primero: el Combate Naval de Iquique o las Fiestas Patrias?", "El Combate Naval de Iquique", "Se recuerda en mayo y las Fiestas Patrias en septiembre."),
         ],
         "understand": [
             ex("¿Qué es una conmemoración?", "Un día en que se recuerda un hecho importante", "Se hace para no olvidar lo que pasó."),
@@ -484,7 +484,7 @@ register(
             ex("¿Una sola persona habla por todo un lugar?", "No", "Cada voz cuenta lo que conoce."),
         ],
         "apply": [
-            ex("Reescribe bien: «Todos hacen mingas». Usa «según Elena».", "Según Elena, en Chiloé se hacen mingas", "Se cita la fuente y el lugar."),
+            ex("Rosa, de Valdivia, cuenta: «En mi barrio hacemos una feria». Reescribe bien la frase «Todos hacen ferias». Usa «según Rosa».", "Según Rosa, en su barrio de Valdivia hacen una feria", "Dice quién lo contó y no habla por todos."),
             ex("Reescribe bien: «Todos celebran con empanadas». Usa «según Camila».", "Según Camila, en su casa celebran con empanadas", "Se limita a lo que Camila dijo."),
             ex("Reescribe bien: «Todos bailan el 16 de julio». Usa «según Pedro».", "Según Pedro, su familia baila el 16 de julio", "Se limita a su familia."),
         ],

@@ -1,8 +1,17 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-11-24",
+  "latest_date": "2026-11-26",
   "updates": [
+    {
+      "date": "2026-11-26",
+      "title": "1.º básico: 24 preguntas del cuaderno del estudiante corregidas",
+      "summary": [
+        "Se reescriben 24 preguntas de 1.º básico que entregaban su propia respuesta, la tenían resuelta en un ejemplo o actividad del mismo cuaderno, o pedían ordenar palabras ya ordenadas: Ciencias Naturales 7, Lenguaje y Comunicación 5, Historia, Geografía y Ciencias Sociales 4, Inglés (propuesta) 2, Música 2, Artes Visuales 1, Educación Física y Salud 1, Matemática 1 y Tecnología 1.",
+        "Los casos salieron del informe de limpieza de [learning-path-datasets](https://github.com/vladimiracunadev-create/learning-path-datasets), salvo uno detectado al redactar. Cambian pregunta, respuesta y razón; los objetivos de aprendizaje y las clases no cambian.",
+        "Límites: redactadas por IA y leídas a ciegas por otros agentes de IA; el mantenedor autorizó aplicarlas, lo que no es una revisión profesional ni cambia el estado editorial. Quedan 4 preguntas señaladas sin cambiar por tener dudas abiertas, y las reglas de búsqueda no detectan todos los casos."
+      ]
+    },
     {
       "date": "2026-11-24",
       "title": "Datasets, skills y agentes para crear datasets de conocimiento",
@@ -18,15 +27,6 @@
       "summary": [
         "Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 18.982 registros (14.826 clases y 4.156 integradas) y 4.152 OA. Total EPJA publicado: 1.680 clases en 17 asignaturas; cuaderno del estudiante escrito en 1.680 de 1.680 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.",
         "Bloque 7: **Educación Media Nivel 1** con 482 clases cerradas en 6 asignaturas (Matemática 96, Lengua y Literatura 96, Ciencias Naturales 98, Historia, Geografía y Ciencias Sociales 96, y las diferenciadas Artes Visuales 48 y Filosofía 48, estas dos con el mismo código en Nivel 1 y Nivel 2). Cada clase lleva 13 ejercicios cerrados, ejemplos resueltos y actividad abierta con rúbrica; escritas por IA y leídas por otra instancia que resolvió cada ejercicio. Ciencias Naturales suma 98 y no 96 porque las actividades del módulo 4 suman 26 horas y no las 24 declaradas. Sin mapas, audio, video, laboratorio ni producción artística real: se reemplazan por tablas, guiones y descripciones escritas.",
-        "Límites: escrito y leído por IA, sin revisión profesional humana; no se contrastó con el Currículum Nacional más allá del sitio oficial; los módulos electivos de proyecto o problemas no suman clases; el bloque de clase de 90 minutos se puede partir o acortar. Detalle en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md) y en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
-      ]
-    },
-    {
-      "date": "2026-11-23",
-      "title": "Fase C (EPJA): bloque 6: Inglés optativo de Educación Básica Nivel 2 y su diccionario",
-      "summary": [
-        "Bloque 6: **Inglés · EPJA Básica N2** con 96 clases cerradas (4 módulos de 24 horas, 16 desempeños de 6 clases), cuaderno del estudiante de nivel A1 para personas adultas escrito por IA y leído por otra instancia de IA que resolvió cada ejercicio; nuevo **diccionario de inglés EPJA** (273 palabras y 51 verbos, vocabulario adulto que no repite los 12 diccionarios escolares) en [docs/diccionarios/epja-basica-n2/ingles.md](docs/diccionarios/epja-basica-n2/ingles.md). Con cuaderno escrito y leído: 910 de 1.390 clases únicas (65 %). Límites: sin audio ni video (los «videos» del programa se trabajan como transcripción escrita), pronunciación aproximada y sin revisión de un especialista en inglés.",
-        "Se publica la modalidad de Educación de Personas Jóvenes y Adultas (cursos `epja-basica-n1`, `epja-basica-n2`, `epja-media-n1` y `epja-media-n2`, cobertura `formacion-epja`) con los objetivos de los [programas de estudio EPJA](https://www.curriculumnacional.cl/Curriculum/Bases_Curriculares/epja): cada actividad de desempeño es un objetivo y sus clases son las horas pedagógicas del programa. Catálogo: 18.404 registros (14.248 clases y 4.156 integradas) y 4.024 OA. Total EPJA publicado: 1.102 clases en 11 asignaturas; cuaderno del estudiante escrito en 1.102 de 1.102 (el resto figura como pendiente). Tono de persona adulta o joven, guía propia por asignatura y navegación entre objetivos.",
         "Límites: escrito y leído por IA, sin revisión profesional humana; no se contrastó con el Currículum Nacional más allá del sitio oficial; los módulos electivos de proyecto o problemas no suman clases; el bloque de clase de 90 minutos se puede partir o acortar. Detalle en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md) y en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
       ]
     }

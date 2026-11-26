@@ -39,7 +39,7 @@ register(
             ex("¿Qué haces en la segunda escucha?", "Buscar la pista que respalda mi idea", "La segunda escucha confirma lo que noté."),
         ],
         "apply": [
-            ex("Un adulto toca una pandereta rápida y fuerte. Escribe qué observarías sobre su rapidez y su fuerza.", "Rápida y fuerte", "Esas son dos pistas que se pueden oír."),
+            ex("Un adulto golpea la mesa: da muchos golpes muy seguidos y hace mucho ruido. ¿Cómo son los golpes en rapidez y en fuerza?", "Rápidos y fuertes", "Muchos golpes seguidos son rápidos y mucho ruido es fuerte."),
             ex("Escoge tres cosas para observar en una música con voz. Usa estas opciones: instrumentos, voz, rapidez, fuerza, silencio, repetición.", "Cualquier tres de las seis opciones, por ejemplo voz, rapidez y repetición", "Todas se pueden observar al escuchar."),
             ex("Un adulto tararea una melodía lenta y suave y luego la repite igual. ¿Qué se repitió?", "La melodía", "Volvió a sonar igual."),
         ],

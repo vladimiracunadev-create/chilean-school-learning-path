@@ -578,7 +578,7 @@ register(
         ],
     },
     context=[ex("El curso hace un acto el 18 de septiembre. Si hoy es 15 de septiembre, ¿cuántos días faltan?", "3", "16, 17 y 18.")],
-    selfcheck=[ex("¿Qué mes es el 1 de enero?", "Enero", "Es el primer mes."), ex("¿Qué fecha es Navidad?", "25 de diciembre", "Es el último mes."), ex("¿Se ordena primero por día o por mes?", "Por mes", "El mes decide la época del año.")],
+    selfcheck=[ex("En la fecha «8 de agosto», ¿cuál es el día y cuál es el mes?", "El día es 8 y el mes es agosto", "El número dice el día y el nombre dice el mes."), ex("¿Qué fecha es Navidad?", "25 de diciembre", "Es el último mes."), ex("¿Se ordena primero por día o por mes?", "Por mes", "El mes decide la época del año.")],
     open_task=task("Dibuja un calendario con las cuatro fechas (1 de enero, 21 de mayo, 18 de septiembre y 25 de diciembre) en orden. Escribe al lado de cada fecha qué se celebra y cuántos meses hay entre cada una y la siguiente, sin contar los extremos.", "1 de enero: Año Nuevo. Entre el 1 de enero y el 21 de mayo hay 3 meses (febrero, marzo y abril). 21 de mayo: Glorias Navales. Entre el 21 de mayo y el 18 de septiembre hay 3 meses. 18 de septiembre: Fiestas Patrias. Entre el 18 de septiembre y el 25 de diciembre hay 2 meses. 25 de diciembre: Navidad.", ["cuatro fechas en orden", "dice qué se celebra", "cuenta los meses que hay entre fechas"], ["calendario", "frases", "diferencias"], ["ordenar por el día", "contar mal los meses"], "Pide recitar las fechas y contar los meses con los dedos."),
     reinforce="Lee en voz alta cinco fechas de tu calendario.",
     extend="Averigua otra fecha significativa de tu familia o tu comunidad y ubícala.",

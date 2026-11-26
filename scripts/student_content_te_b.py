@@ -297,7 +297,7 @@ reg(
     A=[
         ("Un marcador debe mantenerse en su lugar. Escribe un criterio observable que lo diga.", "Se mantiene en su lugar al dar vuelta el libro", "Se puede ver si se cae."),
         ("¿Cuál es observable: «el vaso aguanta 3 lápices de pie» o «el vaso es especial»?", "El vaso aguanta 3 lápices de pie", "Se puede contar."),
-        ("Un portalápices debe quedar derecho. Escribe un criterio observable.", "Queda derecho al poner 5 lápices", "Se puede mirar."),
+        ("Pía dice: «Mi puente de papel funciona bien». Cambia esa frase por un criterio que se pueda mirar y contar. Usa monedas.", "Por ejemplo: el puente sostiene 5 monedas sin caerse", "Se puede mirar si el puente se cae y contar las monedas. Vale cualquier número de monedas."),
     ],
     Z=[
         ("Ema escribe: «el marcador es lindo». Tomás dice que ese criterio no sirve para probar. ¿Tiene razón? Responde sí o no.", "Sí", "No se puede comprobar con claridad."),

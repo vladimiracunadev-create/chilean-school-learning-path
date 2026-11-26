@@ -365,7 +365,7 @@ reg(
     [
         E("¿Qué es un no ejemplo?", "Un caso que no cumple el significado", "Sirve para distinguir."),
         E("¿Por qué conviene dar ejemplos?", "Para que otros entiendan cómo se usa la palabra", "Los ejemplos aclaran."),
-        E("¿Qué tres partes tiene una buena explicación de una palabra?", "Palabra, significado y ejemplo", "Es una forma clara de explicar."),
+        E("Luz dice: «La palabra es valiente y significa que actúa aunque tenga miedo». ¿Qué parte le falta a su explicación?", "Un ejemplo", "Una buena explicación dice la palabra, su significado y un ejemplo."),
     ],
     [
         E("Explica «curioso» con la forma palabra, significado y ejemplo.", "Por ejemplo: La palabra es curioso, significa que quiere saber, y un ejemplo es mi hermano que pregunta por todo", "Tiene las tres partes."),

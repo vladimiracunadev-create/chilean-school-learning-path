@@ -113,7 +113,7 @@ lesson(
     ],
     [
         E("Completa con quién: «____ ladra fuerte.»", "El perro", "Es quien ladra."),
-        E("Completa con qué hace: «El niño ____.» (por ejemplo, juega)", "Por ejemplo: juega", "Debe ser una acción."),
+        E("Completa con qué hace: «El caballo ____.»", "Por ejemplo: corre", "La palabra debe ser una acción que el caballo pueda hacer."),
         E("Escribe una oración con quién «la abuela» y qué hace «teje».", "La abuela teje.", "Se unen las dos partes."),
     ],
     [

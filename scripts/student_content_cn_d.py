@@ -233,9 +233,9 @@ register(
     ],
     tiers={
         "recovery": [
-            ex("Una botella de vidrio. ¿Cuál es el material?", "Vidrio", "Es de lo que está hecha."),
+            ex("Una llave que abre una puerta, ¿está hecha de metal o de tela?", "De metal", "La llave es dura y fría, como el metal."),
             ex("Un lápiz de madera. ¿Cuál es el objeto?", "El lápiz", "Es lo que uso para escribir."),
-            ex("Una pelota de goma. ¿Cuál es el material?", "Goma", "Es lo que la forma."),
+            ex("Un calcetín, ¿está hecho de tela o de madera?", "De tela", "La tela es blanda y se puede doblar para poner el pie."),
         ],
         "understand": [
             ex("¿Qué es un material?", "De lo que está hecho un objeto", "El objeto se hace con él."),
@@ -257,7 +257,7 @@ register(
         ],
     },
     context=[ex("En la cocina hay una olla de metal, un plato de plástico, un vaso de vidrio y una cuchara de madera. ¿Cuántos objetos hay y cuántos materiales distintos?", "4 objetos y 4 materiales", "Cada objeto es de un material distinto.")],
-    selfcheck=[ex("¿La silla es un objeto o un material?", "Un objeto", "Es una cosa que uso."), ex("¿La madera es un objeto o un material?", "Un material", "Se usa para hacer objetos."), ex("¿De qué material es un vaso de vidrio?", "Vidrio", "Es lo que lo forma.")],
+    selfcheck=[ex("¿La silla es un objeto o un material?", "Un objeto", "Es una cosa que uso."), ex("¿La madera es un objeto o un material?", "Un material", "Se usa para hacer objetos."), ex("Es un material duro que viene de los árboles. ¿Qué material es?", "La madera", "La madera viene de los árboles.")],
     open_task=task("Mira esta lista de seis objetos: tijera (metal y plástico), mesa (madera), ventana (vidrio), polera (tela), pelota (goma), cuaderno (papel). Haz una tabla con objeto y material y dibuja un objeto con dos materiales.", "Tabla: tijera-metal y plástico, mesa-madera, ventana-vidrio, polera-tela, pelota-goma, cuaderno-papel. Dibujo: la tijera con metal y plástico.", ["une cada objeto con su material", "dibuja un objeto con dos materiales", "usa una tabla"], ["tabla", "dibujo"], ["confundir objeto y material", "olvidar un objeto"], "Reconoce la diferencia y pide revisar los dos materiales de la tijera."),
     reinforce="Mira cinco objetos de tu cocina y escribe de qué material están hechos.",
     extend="Explica por qué la madera sirve para hacer muchos objetos distintos.",
@@ -335,9 +335,9 @@ register(
     ],
     tiers={
         "recovery": [
-            ex("Tabla: la pelota es flexible. ¿A qué grupo va: flexible o rígido?", "Flexible", "La pelota se dobla sin quebrarse."),
-            ex("Tabla: el vaso es transparente. ¿A qué grupo va: transparente u opaco?", "Transparente", "Se ve a través."),
-            ex("Tabla: la mesa es rígida. ¿A qué grupo va: flexible o rígido?", "Rígido", "No se dobla."),
+            ex("Un lápiz de madera no se dobla con la mano. ¿A qué grupo va: flexible o rígido?", "Rígido", "Lo que no se dobla es rígido."),
+            ex("Miras una caja de cartón cerrada y no ves lo que hay dentro. ¿El cartón es transparente u opaco?", "Opaco", "Si no se ve a través, es opaco."),
+            ex("La plastilina se dobla sin romperse. ¿A qué grupo va: flexible o rígido?", "Flexible", "Lo que se dobla sin romperse es flexible."),
         ],
         "understand": [
             ex("¿Qué es un criterio de clasificación?", "Una regla para formar grupos", "Es una propiedad."),

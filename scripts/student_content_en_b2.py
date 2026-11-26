@@ -460,7 +460,7 @@ register(
         [ex("Un niño dice This is my ball. Hello! I am Tom. ¿Qué error hay en el orden?", "Debe saludar primero", "Hello va al comienzo."),
          ex("Ana presenta su libro pero no lo muestra. ¿Qué falta?", "Mostrar el objeto", "Mostrar ayuda a entender.")],
         [ex("Completa la presentación con tu libro verde y el nombre Ana: Hello! I am ___. This is my ___. It is ___. Thank you!", "Ana; book; green", "Se usan los datos dados."),
-         ex("Escribe en inglés la presentación completa de tu pelota roja con el nombre Tom: saludo, nombre, objeto, color y agradecimiento.", "Hello! I am Tom. This is my ball. It is red. Thank you!", "Se usan las cinco frases del modelo en orden.")],
+         ex("Escribe en inglés una presentación de cinco frases: te llamas Leo y muestras tu lápiz (pencil) amarillo (yellow).", "Hello! I am Leo. This is my pencil. It is yellow. Thank you!", "Se usan las cinco frases del modelo en orden y se cambian el nombre, el objeto y el color.")],
     ),
     context=[ex("En la reunión de curso tu profesora te pide presentar un juguete. Tienes un oso café (bear, brown). Escribe tu presentación con el nombre Lia.", "Hello! I am Lia. This is my bear. It is brown. Thank you!", "Se usa el modelo con bear y brown.")],
     selfcheck=[ex("¿Qué dices cuando terminas de presentar?", "Thank you", "Se cierra agradeciendo al público."),

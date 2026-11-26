@@ -622,7 +622,7 @@ register(
         ],
         "apply": [
             ex("Reescribe sin datos privados: «Mi amigo Tomás Rojos tocó guitarra en la plaza Italia».", "Un amigo tocó guitarra en una plaza", "Se quitan nombres y lugar exacto."),
-            ex("Describe una lluvia que sonaba suave y larga con dos cualidades.", "Suave y larga", "Intensidad y duración."),
+            ex("Un trueno sonó tanto que te tapaste los oídos, y terminó enseguida. Descríbelo: ¿cómo fue su fuerza y cuánto duró?", "Fue fuerte y corto", "Taparse los oídos muestra que fue fuerte; terminar enseguida, que fue corto."),
             ex("Entre «el teléfono de mi mamá» y «mi mamá canta», ¿cuál es un dato privado?", "El teléfono de mi mamá", "Un teléfono es información personal."),
         ],
         "reason": [

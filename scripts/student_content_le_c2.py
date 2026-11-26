@@ -145,7 +145,7 @@ reg(
     ],
     [("Mirar para otro lado mientras alguien habla.", "Se pierde la atención.", "Mira a la persona y muestra interés."), ("Repetir mal lo que dijo.", "No se prestó atención.", "Escucha con calma y repite solo lo que dijo.")],
     [
-        E("Ana dijo: «Me gusta el patio». ¿Qué frase muestra que escuché: «Tú dijiste que te gusta el patio» o «Yo tengo un perro»?", "Tú dijiste que te gusta el patio", "Repite lo que dijo Ana."),
+        E("Leo dijo: «Hoy comí una manzana». ¿Qué frase muestra que escuché: «Tú dijiste que comiste una manzana» o «Me gusta pintar»?", "Tú dijiste que comiste una manzana", "Repite lo que dijo Leo."),
         E("¿Qué hago con mi mirada cuando alguien habla?", "Lo miro", "Mirar muestra atención."),
         E("¿Decir con mis palabras lo que dijo otra persona muestra que escuché?", "Sí", "Así se ve que entendí."),
     ],

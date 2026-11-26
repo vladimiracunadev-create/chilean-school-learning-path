@@ -504,7 +504,7 @@ register(
             ex("Mismo plano. Escribe un recorrido de la sala (C1) al patio (B2).", "Baja 1 casilla y avanza 1 a la izquierda", "C1 a C2 y luego B2."),
         ],
     },
-    context=[ex("Un niño nuevo llega a la entrada (A3) y debe llegar a la sala (C1). La profesora le da un papel con el plano. ¿Qué recorrido escribe ella?", "Sube 2 casillas y avanza 2 a la derecha", "A3 a A1 y luego C1.")],
+    context=[ex("Plano de la escuela: entrada A3, patio B2, sala C1, baño D3. Un niño sale del baño y quiere volver a la sala. Escribe su recorrido.", "Avanza 1 casilla a la izquierda y sube 2 casillas", "Desde D3 se llega a C3 y desde ahí se sube hasta C1. También vale subir 2 y avanzar 1 a la izquierda.")],
     selfcheck=[
         ex("¿Qué es una instrucción de un recorrido?", "Un paso que dice qué hacer", "Por ejemplo: avanza 2 casillas."),
         ex("Plano de la escuela: entrada A3, patio B2, sala C1, baño D3. ¿Dónde está el patio?", "B2", "Así lo dice el plano."),

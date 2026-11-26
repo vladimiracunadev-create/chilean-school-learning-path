@@ -287,7 +287,7 @@ register(
         ],
         "challenge": [
             ex("Tres situaciones: sin jabón, sin fruta, sin toalla. Si propones una alternativa para cada una, ¿cuántas alternativas escribes?", "3", "Una por situación."),
-            ex("Haces tu propia alternativa: sin agua para tomar en la plaza. Respuesta posible: avisar a un adulto y pedir agua segura. ¿A quién avisas?", "A un adulto", "Es quien puede conseguirla."),
+            ex("Vas a jugar con mucho sol y no tienes gorro. Propón una alternativa posible y segura, y di a quién pides ayuda.", "Por ejemplo: juego en la sombra y le pido ayuda a un adulto", "Es algo que se puede hacer, cuida la salud e incluye pedir ayuda."),
         ],
     },
     context=[ex("En la plaza se acaba tu agua. Hay una pileta de decoración. ¿Qué haces: A) tomas de la pileta, B) pides ayuda a un adulto, C) corres?", "B", "El agua de una pileta puede no ser segura.")],

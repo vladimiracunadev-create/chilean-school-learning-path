@@ -235,7 +235,7 @@ lesson(
         E("«El mar está ___: no hay olas.» A) sereno B) hambriento", "A) sereno", "Sin olas es tranquilo."),
     ],
     [
-        E("Completa con una palabra: «La torta estaba ___.» (por ejemplo, rica)", "Por ejemplo: rica", "La palabra debe describir una torta."),
+        E("Completa con una palabra que calce: «La torta estaba ___.»", "Por ejemplo: rica", "La palabra debe describir una torta."),
         E("Completa con «veloz»: «El guepardo es muy ___.»", "veloz", "El guepardo corre rápido."),
         E("Completa con «diminuto»: «La semilla era ___.»", "diminuta", "Una semilla suele ser pequeña."),
     ],
@@ -495,7 +495,7 @@ lesson(
     [
         E("Rima con «sol»: A) farol B) luna", "A) farol", "Sol y farol terminan igual."),
         E("Rima con «mar»: A) cantar B) nube", "A) cantar", "Mar y cantar terminan en «ar»."),
-        E("Completa con una rima de «luna»: «Brilla la luna / en la ___.» (por ejemplo, laguna)", "Por ejemplo: laguna", "Debe terminar parecido a luna."),
+        E("Completa con una rima de «luna»: «Brilla la luna / en la ___.»", "Por ejemplo: laguna", "Debe terminar parecido a luna."),
     ],
     [
         E(f"Escucha: {POEMA} ¿Por qué el poema compara la lluvia con la música?", "Porque la lluvia también suena", "Ambas tienen sonido."),

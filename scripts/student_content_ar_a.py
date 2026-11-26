@@ -32,7 +32,7 @@ register(
     ],
     tiers={
         "recovery": [
-            ex("Una concha es redonda, tiene rayitas que salen desde un punto y es de color crema. ¿Qué forma tiene?", "Redonda", "La descripción dice que es redonda."),
+            ex("Observas una hoja: es larga, termina en punta y es verde. ¿Qué dos cosas de esa frase hablan de su forma?", "Que es larga y que termina en punta", "El largo y la punta dicen cómo es su contorno; verde es el color."),
             ex("En la frase «una concha de color crema», ¿la palabra crema habla de la forma o del color?", "Del color", "Crema nombra un tono, no una figura."),
             ex("Antes de dibujar una hoja, ¿qué haces primero: mirarla con atención o dibujar enseguida?", "Mirarla con atención", "Observar viene antes de dibujar."),
         ],
