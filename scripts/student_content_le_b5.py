@@ -39,7 +39,7 @@ lesson(
         "Para escuchar bien, mira a quien habla, guarda silencio y piensa en las palabras importantes: horas, lugares, cosas que llevar. Puedes repetir los datos en tu mente o anotarlos con un dibujo o una palabra.",
         "Si algo no lo entendiste, levanta la mano y pide que lo repitan. Es mejor preguntar que quedarse con una duda. Al final, repasa los datos que escuchaste para comprobar que los recuerdas.",
     ],
-    [("escuchar", "poner atención para entender"), ("propósito", "para qué escucho"), ("dato", "información importante"), ("aviso", "mensaje que informa algo"), ("repetir", "decir otra vez")],
+    [("escuchar", "poner atención para entender"), ("propósito", "para qué escucho"), ("dato", "información que se escucha o se lee y se puede comprobar"), ("aviso", "mensaje que informa algo"), ("repetir", "decir otra vez")],
     [
         ("Hora del aviso", f"{AVISO} ¿A qué hora salen?", ["Busco la hora de salida.", "Dice: salimos a las nueve."], "A las nueve"),
         ("Qué traer", f"{AVISO} ¿Qué deben traer?", ["Busco «traigan».", "Una botella con agua y un sombrero."], "Una botella con agua y un sombrero"),

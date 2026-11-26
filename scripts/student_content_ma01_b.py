@@ -544,7 +544,7 @@ register(
         "El orden de las partes no cambia el total: 3 + 5 y 5 + 3 dan lo mismo. Así que a veces se cuentan como una sola manera. Si cuentas las dos, hay más parejas.",
         "Una tabla ayuda: en una columna la primera parte, en otra la segunda, y en la tercera el todo. Mira el patrón: cuando una parte sube, la otra baja y el total no cambia.",
     ],
-    vocab=[("todas las maneras", "todas las parejas que forman el número"), ("patrón", "algo que se repite con una regla"), ("tabla", "cuadro con columnas"), ("orden", "ir de a uno sin saltarse"), ("pareja", "dos números que forman el total")],
+    vocab=[("todas las maneras", "todas las parejas que forman el número"), ("patrón", "algo que se repite con una regla"), ("tabla", "cuadro con columnas"), ("orden", "forma de avanzar uno por uno sin saltarse ninguno"), ("pareja", "dos números que forman el total")],
     worked=[
         {"title": "Todas las maneras del 6", "problem": "Escribe todas las parejas que forman 6, sin repetir el orden.", "steps": ["Empiezo con 0: 0 + 6.", "Sigo 1 + 5, 2 + 4, 3 + 3.", "Después se repiten al revés.", "Son 4 parejas."], "answer": "0 + 6, 1 + 5, 2 + 4, 3 + 3"},
         {"title": "Ver el patrón", "problem": "En 1 + 7, 2 + 6, 3 + 5, ¿qué pasa?", "steps": ["La primera parte sube de 1 en 1.", "La segunda baja de 1 en 1.", "El total siempre es 8."], "answer": "Una sube y la otra baja; el total es 8"},

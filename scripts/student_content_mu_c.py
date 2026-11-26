@@ -446,7 +446,7 @@ register(
             ex("¿Cuándo se habla en la conversación?", "En el turno propio", "Se respeta a los demás."),
         ],
         "apply": [
-            ex("Completa: Me gustó que ___ porque se oyó ___. Usa «tocaste suave» y «el silencio».", "Me gustó que tocaras suave porque se oyó el silencio", "Une lo que gustó con la pista."),
+            ex("Tu compañera cantó muy rápido al comienzo y lento al final. Completa con tus palabras: «Me gustó cuando ___ porque se oyó ___».", "Por ejemplo: Me gustó cuando cantaste lento al final porque se oyó cada palabra", "Dice qué gustó y qué se oyó, sin juzgar a la persona. Valen otras frases que cumplan eso."),
             ex("Escribe una pregunta respetuosa sobre cómo se hizo el patrón.", "¿Cómo lo practicaste?", "La pregunta pide información sin juzgar."),
             ex("Tocas el patrón TA – ti-ti – TA – SIL tres veces. ¿Cuántos pulsos tocas?", "12", "4 pulsos × 3 veces = 12."),
         ],

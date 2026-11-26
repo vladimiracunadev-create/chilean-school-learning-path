@@ -215,7 +215,7 @@ lesson(
         "Para elegir, lee la oración y prueba cada palabra. Pregúntate: ¿tiene sentido?, ¿dice lo que yo quiero decir? Así descartas las que no encajan.",
         "Cuando escribes, usa las palabras nuevas que ya conoces, pero sólo cuando calcen. Es mejor usar bien una palabra sencilla que usar mal una palabra nueva, porque lo más importante es que el lector te entienda sin confundirse.",
     ],
-    [("pertinente", "que calza con lo que se quiere decir"), ("encajar", "calzar bien"), ("probar", "intentar cada opción"), ("descartar", "dejar fuera lo que no sirve"), ("sentido", "que se entiende")],
+    [("pertinente", "que calza con lo que se quiere decir"), ("encajar", "calzar bien"), ("probar", "intentar cada opción"), ("descartar", "dejar fuera lo que no sirve"), ("sentido", "lo que una frase quiere decir y se puede entender")],
     [
         ("Elegir", "«El cielo estaba ___.» A) estrellado B) diminuto. ¿Cuál encaja?", ["Estrellado describe un cielo.", "Diminuto no calza."], "A) estrellado"),
         ("Descartar", "«La hormiga es ___.» A) enorme B) diminuta. ¿Cuál no calza?", ["Una hormiga es chica.", "Enorme no calza."], "A) enorme no calza"),
@@ -613,7 +613,7 @@ lesson(
         ("Decir «me gustó» sin razón.", "No se piensa por qué.", "Usa «porque» y una parte del texto."),
     ],
     [
-        E(f"Escucha: {CUENTO_ZORRO} ¿Cómo terminó el cuento?", "El zorro miró dos veces antes de saltar", "Es el final."),
+        E("Un adulto lee: «Un gato quiso atrapar una mariposa. Saltó, no la alcanzó y se quedó dormido en el pasto». ¿Cómo terminó el cuento?", "El gato se quedó dormido en el pasto", "Es lo último que pasa."),
         E("Mía dice: «Sentí pena cuando el zorro cayó al agua». ¿Qué sintió?", "Pena", "Lo dice en su comentario."),
         E("¿Qué se hace cuando otro habla?", "Escucharlo y esperar mi turno", "Es parte de conversar."),
     ],

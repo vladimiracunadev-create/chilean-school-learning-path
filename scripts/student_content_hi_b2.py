@@ -211,7 +211,7 @@ register(
          ex("¿Cuál es la capital de Noruega?", "Oslo", "Es la ciudad principal de Noruega.")],
         [ex("Sofía vive en México. ¿En qué continente está su país: América del Norte o Europa?", "América del Norte", "México queda en el mismo continente que Chile, pero en la parte norte."),
          ex("¿En qué parte del mapamundi buscas Kenia: en Asia, en África o en Oceanía?", "En África", "Kenia es un país africano."),
-         ex("Para llegar desde Chile a Japón por mar se cruza el océano Pacífico. ¿Qué país de la lista está al otro lado de ese océano: Noruega o Japón?", "Japón", "Japón está al otro lado del Pacífico.")],
+         ex("Quieres encontrar un país en el globo terráqueo. ¿Qué buscas primero: el continente o el país?", "Primero el continente", "Primero se busca el continente y después el país dentro de él.")],
         [ex("Paz dice que los niños de Japón no juegan. ¿Qué error comete?", "Todos los niños juegan", "El juego es una necesidad de la niñez."),
          ex("Tomás dice que Noruega y Kenia están en el mismo continente. ¿Es cierto?", "No; Noruega está en Europa y Kenia en África", "Son continentes distintos.")],
         [ex("Ordena por continente: Kenia, Noruega, Japón. Escribe África, Europa o Asia para cada país.", "Kenia, África; Noruega, Europa; Japón, Asia", "Cada país está en uno de esos continentes."),

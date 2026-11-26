@@ -135,7 +135,7 @@ register(
          ex("¿En qué región está la capital de Chile?", "En la Región Metropolitana", "Santiago está en la Región Metropolitana."),
          ex("¿Qué quiere decir «localidad»?", "El lugar donde viven las personas", "Puede ser una ciudad, un pueblo o una aldea.")],
         [ex("Viña del Mar y Valparaíso están en la misma región. ¿En cuál?", "Región de Valparaíso", "Las dos ciudades están en esa región."),
-         ex("Puerto Natales es una localidad de Magallanes y de la Antártica Chilena. ¿Es una región o una localidad?", "Una localidad", "Es un lugar con casas y personas dentro de la región."),
+         ex("Copiapó está dentro de Atacama. Completa con «localidad» o «región»: Atacama es una ___ y Copiapó es una ___.", "región; localidad", "La localidad es el lugar donde viven personas y está dentro de una región, que es una parte grande del país."),
          ex("Pichilemu es una localidad de la Región de O'Higgins. Si vivo en Pichilemu, ¿en qué región vivo?", "Región de O'Higgins", "La localidad está dentro de esa región.")],
         [ex("Rosa dice que Santiago es una región de Chile. ¿Qué es en realidad?", "La capital, una ciudad", "Santiago es una ciudad; la región es la Metropolitana."),
          ex("Tomás dice que su región cabe dentro de su localidad. ¿Está bien?", "No; la localidad cabe dentro de la región", "La región es más grande que la localidad.")],

@@ -111,7 +111,7 @@ register(
         "Puedes usar la balanza para comprobarlo: en un platillo pones 3 + 4 y en el otro 5 + 2. Si queda en equilibrio, son equivalentes. Si no, uno de los lados vale más.",
         "Para encontrar una expresión equivalente, calcula el valor y busca otra suma con el mismo resultado. Si 3 + 4 = 7, entonces 6 + 1 = 7 y 2 + 5 = 7 son equivalentes.",
     ],
-    vocab=[("expresión", "una suma o resta escrita con números"), ("equivalente", "que vale lo mismo"), ("valor", "el resultado de calcular"), ("lado", "la expresión a la izquierda o a la derecha"), ("comprobar", "calcular los dos lados")],
+    vocab=[("expresión", "una suma o resta escrita con números"), ("equivalente", "que vale lo mismo"), ("valor", "el resultado de calcular"), ("lado", "la expresión a la izquierda o a la derecha"), ("comprobar", "revisar calculando los dos lados")],
     worked=[
         {"title": "Comprobar equivalencia", "problem": "¿Son equivalentes 3 + 4 y 5 + 2?", "steps": ["3 + 4 = 7.", "5 + 2 = 7.", "Los dos valen 7."], "answer": "Sí; 3 + 4 = 5 + 2"},
         {"title": "Encontrar una equivalente", "problem": "Encuentra una suma equivalente a 8 + 2.", "steps": ["8 + 2 = 10.", "Busco otra con resultado 10: 6 + 4.", "6 + 4 = 10."], "answer": "6 + 4"},
@@ -357,7 +357,7 @@ register(
         {"wrong": "Contar desde la esquina equivocada.", "why": "No se fija el inicio.", "fix": "Cuenta desde la esquina de arriba a la izquierda."},
     ],
     tiers={
-        "recovery": [ex("¿Qué es una fila en un plano?", "Una línea horizontal de cuadrados", "Va de lado a lado."), ex("¿Qué es una columna en un plano?", "Una línea vertical de cuadrados", "Va de arriba a abajo."), ex("¿Desde dónde parto a contar?", "Desde la esquina de arriba a la izquierda", "Es el inicio acordado.")],
+        "recovery": [ex("¿Qué es una fila en un plano?", "Una línea horizontal de cuadrados", "Va de lado a lado."), ex("¿Qué es una columna en un plano?", "Una línea vertical de cuadrados", "Va de arriba a abajo."), ex("Un plano tiene 3 filas. La estrella está en la fila de más abajo. ¿Qué número tiene esa fila?", "La fila 3", "Las filas se cuentan desde arriba.")],
         "understand": [
             ex("Mesa: fila 2, columna 3. ¿Qué número va primero al describir la ubicación?", "La fila", "Es el orden acordado."),
             ex("¿Dos objetos pueden estar en la misma fila?", "Sí", "Con distintas columnas."),

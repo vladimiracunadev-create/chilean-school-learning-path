@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-26 · 1.º básico: 13 preguntas y 22 definiciones del cuaderno del estudiante
+
+- Se reescriben 13 preguntas que se respondían copiando, tenían redacción confusa o quedaban adelantadas en el mismo cuaderno, o repetían un ejemplo, en Historia, Geografía y Ciencias Sociales (5), Matemática (3), Lenguaje y Comunicación (2), Música (2) y Tecnología (1).
+- Se precisan 22 definiciones del glosario («palabras importantes») que eran imprecisas para 6 años, en Artes Visuales, Educación Física y Salud, Historia, Geografía y Ciencias Sociales, Lenguaje y Comunicación, Matemática y Música. Solo cambian las clases señaladas.
+- Los casos salieron del informe de limpieza de [learning-path-datasets](https://github.com/vladimiracunadev-create/learning-path-datasets). No cambian objetivos ni clases.
+- Límites: redactados por IA y leídos a ciegas por otros agentes de IA; el mantenedor autorizó aplicarlos, lo que no es una revisión profesional ni cambia el estado editorial. Algunas definiciones conservan observaciones de lectura registradas en el repositorio de datasets.
+
 ## 2026-11-26 · 1.º básico: 24 preguntas del cuaderno del estudiante corregidas
 
 - Se reescriben 24 preguntas de 1.º básico que entregaban su propia respuesta, la tenían resuelta en un ejemplo o actividad del mismo cuaderno, o pedían ordenar palabras ya ordenadas: Ciencias Naturales 7, Lenguaje y Comunicación 5, Historia, Geografía y Ciencias Sociales 4, Inglés (propuesta) 2, Música 2, Artes Visuales 1, Educación Física y Salud 1, Matemática 1 y Tecnología 1.

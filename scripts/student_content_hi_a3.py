@@ -383,7 +383,7 @@ register(
             ex("Dos amigos opinan distinto sobre el rodeo. ¿Cómo deben conversar?", "Con respeto, escuchando al otro", "Cada persona puede tener otra opinión."),
         ],
         "challenge": [
-            ex("Santiago se fundó el 12 de febrero de 1541. Si la ciudad celebra su aniversario cada 12 de febrero, ¿en qué mes cae el aniversario?", "febrero", "El mes aparece en la fecha."),
+            ex("Santiago se fundó el 12 de febrero y ese día celebra su aniversario. ¿Qué se celebra antes en el año: el aniversario de Santiago o la Fiesta de San Pedro?", "El aniversario de Santiago", "Es en febrero y San Pedro es en junio."),
             ex("¿Cuál de estas tradiciones es de caballos: carreras a la chilena, vendimia, procesión de San Pedro?", "carreras a la chilena", "Dos caballos corren en pista recta."),
         ],
     },

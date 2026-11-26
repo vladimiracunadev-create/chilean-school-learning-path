@@ -65,7 +65,7 @@ register(
         "Una forma de registrar es una lista con el nombre y la respuesta: Ana, manzana; Beto, plátano. Otra forma es usar bloques o fichas: un bloque por cada respuesta, del color de la opción. Así cada persona es un bloque.",
         "Al terminar, revisa: ¿preguntaste a todos? ¿Cada persona tiene una sola respuesta? Cuenta el total de respuestas y compáralo con el número de personas. Deben coincidir.",
     ],
-    vocab=[("recolectar", "juntar datos"), ("registrar", "anotar lo que se averigua"), ("una por persona", "cada persona da una respuesta"), ("total", "cuántas respuestas hay en todo"), ("repetir", "contar dos veces la misma respuesta")],
+    vocab=[("recolectar", "juntar datos"), ("registrar", "anotar lo que se averigua"), ("una por persona", "cada persona da una respuesta"), ("total", "cuántas respuestas hay en todo"), ("repetir", "anotar dos veces la respuesta de una misma persona")],
     worked=[
         {"title": "Registrar", "problem": "Ana, manzana; Beto, plátano; Carla, manzana. Registra con bloques.", "steps": ["Un bloque por persona.", "Manzana: 2 bloques.", "Plátano: 1 bloque."], "answer": "Manzana 2, plátano 1"},
         {"title": "Revisar", "problem": "Pregunté a 5 personas y tengo 6 respuestas. ¿Qué pasó?", "steps": ["Debería haber 5.", "Hay 6, entonces repetí una."], "answer": "Se repitió una respuesta"},

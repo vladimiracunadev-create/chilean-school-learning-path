@@ -551,7 +551,7 @@ register(
         "La trayectoria es el camino que sigues. En esta clase, tu trayectoria es la línea del suelo. Si cambias de velocidad, tus pies deben seguir en la línea. Ir rápido no significa salirse del camino ni empujar.",
         "Para controlar el cambio de velocidad, escucha el ritmo y ajusta tus pasos poco a poco. Si el cambio es brusco, te puedes tambalear. Un paso lento dura 2 segundos y uno rápido dura 1 segundo. Cuenta en voz baja para medirlo.",
     ],
-    vocab=[("rápido", "algo que tarda poco"), ("lento", "algo que tarda mucho"), ("ritmo", "la velocidad de los sonidos o pasos"), ("trayectoria", "el camino que sigo"), ("control", "ir donde quiero y detenerme cuando quiero")],
+    vocab=[("rápido", "algo que tarda poco"), ("lento", "algo que tarda mucho"), ("ritmo", "lo rápido o lento que van los sonidos o los pasos"), ("trayectoria", "el camino que sigo"), ("control", "ir donde quiero y detenerme cuando quiero")],
     worked=[
         W("Pasos lentos y rápidos", "Haces 6 pasos lentos de 2 segundos cada uno. ¿Cuánto tardas? Luego haces 6 pasos rápidos de 1 segundo. ¿Cuánto tardas?", ["Lentos: 6 × 2 = 12 segundos.", "Rápidos: 6 × 1 = 6 segundos.", "Comparo: 12 es más que 6."], "12 segundos lento y 6 segundos rápido."),
         W("Seguir la línea", "El aplauso empieza lento y luego rápido. ¿Qué haces con los pies?", ["Camino por la línea con pasos lentos.", "Al oír el aplauso rápido, acelero poco a poco.", "Mis pies siguen sobre la línea y miro al frente."], "Cambio de lento a rápido sin salirme de la línea."),

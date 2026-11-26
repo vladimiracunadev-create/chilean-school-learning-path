@@ -594,7 +594,7 @@ register(
         "Para descubrir la regla, resta el número siguiente al anterior: 20 − 18 = 2, 18 − 16 = 2. Si la diferencia siempre es la misma, ésa es la regla. El patrón 15, 10, 5 resta 5 y se acerca a 0.",
         "Un patrón decreciente tiene un final natural: si llegas a 0 ya no puedes restar. Por eso hay que mirar si la regla permite seguir sin pasar de 0.",
     ],
-    vocab=[("patrón decreciente", "los números disminuyen"), ("restar", "bajar con la regla"), ("regla", "lo que se resta cada vez"), ("cero", "el número más pequeño al contar"), ("continuar", "seguir aplicando la regla")],
+    vocab=[("patrón decreciente", "los números disminuyen"), ("restar", "quitar una cantidad a un número"), ("regla", "lo que se resta cada vez"), ("cero", "el número que dice que no queda ninguno"), ("continuar", "seguir aplicando la regla")],
     worked=[
         {"title": "Descubrir la regla", "problem": "Descubre la regla de 20, 18, 16, 14.", "steps": ["20 − 18 = 2.", "18 − 16 = 2.", "16 − 14 = 2.", "La regla es restar 2."], "answer": "Restar 2; sigue 12"},
         {"title": "Completar", "problem": "Completa 15, __, 5, 0.", "steps": ["5 − 0 = 5, la regla es restar 5.", "15 − 5 = 10."], "answer": "10"},

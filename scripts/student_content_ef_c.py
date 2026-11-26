@@ -145,7 +145,7 @@ register(
         "El esfuerzo vigoroso es nivel 4: solo dices palabras sueltas. No dura mucho; por eso viene un descanso. " + SCALE + " Si llegas a 5, paras al instante, caminas despacio y bebes agua.",
         "Recuperar es volver a respirar tranquilo. Sabes que te recuperaste cuando puedes hablar con frases cortas o conversar. Mientras te recuperas, camina, no te sientes de golpe y no pares quieto de inmediato.",
     ],
-    vocab=[("intervalo", "tramo de esfuerzo y tramo de descanso"), ("vigoroso", "esfuerzo en que solo digo palabras sueltas"), ("recuperar", "volver a respirar tranquilo"), ("pausa", "descanso entre esfuerzos"), ("repetir", "hacer de nuevo")],
+    vocab=[("intervalo", "tramo de esfuerzo y tramo de descanso"), ("vigoroso", "esfuerzo fuerte en que solo digo palabras sueltas"), ("recuperar", "volver a respirar tranquilo"), ("pausa", "descanso entre esfuerzos"), ("repetir", "hacer de nuevo")],
     worked=[
         W("Tiempo total", "Haces 3 intervalos de 50 segundos de acción y 50 de pausa. ¿Cuántos segundos dura todo?", ["Un intervalo: 50 + 50 = 100.", "Tres intervalos: 100 × 3.", "100 × 3 = 300."], "300 segundos (5 minutos)."),
         W("Reconocer vigoroso", "Durante el tramo fuerte solo puedes decir «sí» y «no». ¿Qué nivel es y qué sigue?", ["Palabras sueltas es nivel 4, vigoroso.", "Termina el tramo y comienza la pausa.", "Camino despacio hasta poder hablar frases cortas."], "Nivel 4; sigue la pausa con caminata."),

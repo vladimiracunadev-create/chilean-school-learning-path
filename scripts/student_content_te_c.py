@@ -162,7 +162,7 @@ reg(
     ],
     R=[
         ("En la leyenda, verde es leer. Una zona verde es para ¿leer o guardar?", "Leer", "Verde significa leer."),
-        ("Una mesa grande se dibuja ¿grande o muy pequeña?", "Grande", "Se respeta el tamaño."),
+        ("En un plano dibujas una mesa y el lápiz que está encima. ¿Cuál de los dos dibujas más grande?", "La mesa", "En el plano se respeta qué cosa es más grande."),
         ("Si el estante está a la derecha de la mesa, ¿lo dibujas a la derecha o a la izquierda?", "A la derecha", "Se respeta la posición."),
     ],
     C=[

@@ -32,7 +32,7 @@ lesson(
         "Al escribir una oración, empieza con letra mayúscula y termina con punto. «La niña canta.» tiene esa forma. Las palabras van en un orden que se entiende.",
         "Para comprobar si una oración está completa, léela en voz alta y pregúntate: ¿se entiende sola?, ¿me deja esperando más palabras? Si te quedas esperando, falta algo.",
     ],
-    [("oración", "palabras que dicen algo completo"), ("mayúscula", "letra grande con que empieza la oración"), ("punto", "signo que se pone al terminar"), ("completa", "que no le falta nada para entenderse"), ("sentido", "que se entiende")],
+    [("oración", "palabras que dicen algo completo"), ("mayúscula", "letra grande con que empieza la oración"), ("punto", "signo que se pone al terminar"), ("completa", "que no le falta nada para entenderse"), ("sentido", "lo que una frase quiere decir y se puede entender")],
     [
         ("Oración o no", "«El perro duerme.» ¿Es una oración completa?", ["Dice quién: el perro.", "Dice qué hace: duerme."], "Sí, es una oración completa"),
         ("Falta algo", "«La niña.» ¿Es una oración completa?", ["Dice quién, pero no qué hace.", "Me quedo esperando."], "No, falta decir qué hace"),

@@ -93,7 +93,7 @@ register(
             ex("Nombra dos pueblos originarios de Chile.", "mapuche y aymara", "Son dos de los pueblos originarios de Chile (también está el rapa nui)."),
         ],
         "apply": [
-            ex("Arica está al norte, Valparaíso al centro y Punta Arenas al sur. Ordena de norte a sur: Valparaíso, Arica, Punta Arenas.", "Arica, Valparaíso, Punta Arenas", "El norte va primero y el sur último."),
+            ex("Un compañero todavía no quiere contar de dónde viene su familia. ¿Quién decide si eso se cuenta?", "El compañero", "Cada persona decide qué quiere contar."),
             ex("Ana nació en Puerto Montt, en el sur. Su abuela nació en Santiago, en el centro. ¿Quién nació más al sur?", "Ana", "Puerto Montt está más al sur que Santiago."),
             ex("Ordena las personas por lugar de nacimiento de norte a sur: Luz (Antofagasta, norte), Ema (Punta Arenas, extremo sur), Iván (Concepción, sur-centro).", "Luz, Iván, Ema", "Antofagasta está más al norte; Punta Arenas, más al sur."),
         ],
@@ -293,7 +293,7 @@ register(
         "Las preguntas que se responden solo con sí o no dan poca información. Es mejor preguntar «¿Cómo celebraban tu cumpleaños cuando eras niña?» que «¿Celebraban tu cumpleaños?». Así la persona cuenta una historia y yo aprendo más.",
         "Pregunta con respeto: pide permiso, saluda, escucha sin interrumpir y agradece. No hagas preguntas que puedan entristecer o que sean demasiado privadas. Si la persona no quiere contestar, se acepta.",
     ],
-    vocab=[("pregunta", "lo que digo para saber algo"), ("entrevista", "conversación en que hago preguntas a alguien"), ("respeto", "tratar bien a los demás y escucharlos"), ("permiso", "decir primero «¿puedo preguntarte algo?»"), ("recuerdo", "algo del pasado que una persona tiene en la memoria")],
+    vocab=[("pregunta", "lo que digo para saber algo"), ("entrevista", "conversación en que hago preguntas a alguien"), ("respeto", "tratar bien a los demás y escucharlos"), ("permiso", "el sí que pido antes de hacer preguntas"), ("recuerdo", "algo del pasado que una persona tiene en la memoria")],
     worked=[
         {"title": "Elegir la mejor pregunta", "problem": "¿Cuál pregunta da más información: «¿Había juguetes?» o «¿Con qué jugabas cuando eras niño?»?", "steps": ["La primera se responde con sí o no.", "La segunda pide contar con qué jugaba."], "answer": "«¿Con qué jugabas cuando eras niño?»"},
         {"title": "Pregunta respetuosa", "problem": "¿Es respetuoso preguntar «¿Por qué eres tan viejo?»?", "steps": ["La pregunta puede ofender.", "Una pregunta respetuosa sería: «¿Qué recuerdas de tu infancia?»."], "answer": "No es respetuoso"},
@@ -458,7 +458,7 @@ register(
         "Antes de contar algo sobre una persona, pregúntale si te da permiso. Si dice que no, se respeta. También puedes contar sin decir nombres: «Mi tía hace unas sopaipillas muy ricas» sin dar su nombre completo.",
         "Un buen relato familiar dice qué pasó, quién lo cuenta y cuándo. Por ejemplo: «Mi abuela me contó, el 5 de abril de 2025, que de niña jugaba a la rayuela en el patio». Así quien escucha sabe que es una fuente oral y de dónde viene la información.",
     ],
-    vocab=[("permiso", "decir primero si puedo contar algo de otra persona"), ("dato delicado", "información que puede entristecer o poner en riesgo"), ("relato", "historia que se cuenta"), ("compartir", "mostrar o contar a otros"), ("respetar", "aceptar lo que otra persona decide")],
+    vocab=[("permiso", "el sí que pido antes de contar algo de otra persona"), ("dato delicado", "información que puede entristecer o poner en riesgo"), ("relato", "historia que se cuenta"), ("compartir", "mostrar o contar a otros"), ("respetar", "aceptar lo que otra persona decide")],
     worked=[
         {"title": "Elegir qué compartir", "problem": "Mi abuela me contó que de niña jugaba a la rayuela y que su casa quedaba en una calle con nombre y número. ¿Qué parte cuento a mi curso?", "steps": ["Los juegos son seguros.", "La dirección es privada."], "answer": "Cuento que jugaba a la rayuela; no digo la dirección"},
         {"title": "Pedir permiso", "problem": "Mi tío me contó una anécdota divertida. ¿Qué hago antes de contarla en el curso?", "steps": ["La historia es de mi tío.", "Le pregunto si me deja contarla."], "answer": "Le pido permiso a mi tío"},

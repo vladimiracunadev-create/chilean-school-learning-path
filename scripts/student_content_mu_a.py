@@ -204,7 +204,7 @@ register(
         f"En este cuaderno usaremos tres símbolos. El círculo lleno ● es un TA: un sonido en un pulso. Los dos círculos vacíos ○○ son un ti-ti: dos sonidos rápidos en un pulso. El cuadrado vacío □ es un silencio. Así {P(TA, TT, TA, SIL)} se dibuja ● ○○ ● □.",
         "También podemos dibujar fuerza y duración. Un círculo grande puede significar fuerte y uno pequeño, suave. Una línea larga puede mostrar un sonido largo. Lo importante es escribir una leyenda: la lista que dice qué significa cada símbolo, para que cualquiera pueda leerla.",
     ],
-    vocab=[("partitura", "dibujo que guarda una música"), ("símbolo", "dibujo que representa un sonido"), ("leyenda", "lista que explica qué significa cada símbolo"), ("no convencional", "inventada y explicada por uno mismo"), ("leer", "tocar lo que dice el dibujo")],
+    vocab=[("partitura", "dibujo que guarda una música"), ("símbolo", "dibujo que representa un sonido"), ("leyenda", "lista que explica qué significa cada símbolo"), ("no convencional", "hecha a mi manera, con símbolos que invento y explico"), ("leer", "tocar lo que dice el dibujo")],
     worked=[
         {"title": "De palabras a dibujo", "problem": f"Dibuja el patrón {P(TA, TT, TA, SIL)} con los símbolos de la clase.", "steps": ["TA es ●.", "ti-ti es ○○.", "SIL es □.", "Pongo uno por pulso, de izquierda a derecha."], "answer": "● ○○ ● □"},
         {"title": "De dibujo a sonido", "problem": "Lee este dibujo: ○○ ● □ ●", "steps": ["○○ es ti-ti: dos sonidos rápidos.", "● es TA.", "□ es silencio.", "● es TA otra vez."], "answer": f"{P(TT, TA, SIL, TA)}"},
@@ -401,7 +401,7 @@ register(
         ],
         "apply": [
             ex("Suenan cinco golpes cortos. ¿Cuántos puntos dibujas?", "5", "Un punto por cada sonido corto."),
-            ex("Suena una nota que sube de grave a aguda. ¿Cómo es tu línea: sube o baja?", "Sube", "Agudo se dibuja arriba."),
+            ex("Un sonido empieza grave y termina agudo. Si lo dibujas con una línea, ¿la línea sube o baja?", "Sube", "Lo agudo se dibuja arriba."),
             ex("Suena un cascabel muy rápido y suave. ¿Qué dibujas: puntos pequeños juntos o una línea gruesa?", "Puntos pequeños juntos", "Rápido y suave se muestra con marcas chicas y cercanas."),
         ],
         "reason": [

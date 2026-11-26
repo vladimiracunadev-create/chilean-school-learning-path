@@ -229,7 +229,7 @@ lesson(
         E("¿Qué haces si tienes una duda mientras alguien lee?", "La anoto o la digo al final", "Así no se interrumpe."),
     ],
     [
-        E("Escuchaste el cuento de la hormiga. ¿Quién es el personaje?", "La hormiga", "Es quien hace la acción."),
+        E("Un adulto lee: «Dio un salto a la laguna, se sentó en una hoja y cantó: croac, croac». ¿Qué animal es el personaje?", "Una rana", "Salta a la laguna y canta croac. También vale un sapo."),
         E("¿Cuándo se comenta lo que escuchamos?", "Al final de la lectura", "Primero se escucha todo."),
         E("¿Cuál es el turno de hablar? Cuando A) yo quiero B) me toca", "B) me toca", "Se espera el turno."),
     ],
@@ -335,7 +335,7 @@ lesson(
         "Puedes escribir una palabra, como «sol», o una frase, como «Me gusta el sol». No importa si algunas letras todavía te cuestan: primero se escribe lo que se quiere decir y se usan las letras que conoces. Con la práctica se escriben cada vez mejor.",
         "Cuando termines, lee en voz alta lo que escribiste. Si lo que lees dice lo que querías decir, tu escritura funciona. Después puedes mejorar las letras o agregar más palabras.",
     ],
-    [("escribir", "dejar mis ideas con letras"), ("comunicar", "hacer que otro entienda lo que quiero decir"), ("palabra", "letras juntas que significan algo"), ("frase", "palabras que dicen una idea"), ("leer", "decir en voz alta lo que está escrito")],
+    [("escribir", "dejar mis ideas con letras"), ("comunicar", "hacer que otro entienda lo que quiero decir"), ("palabra", "letras juntas que significan algo"), ("frase", "palabras que dicen una idea"), ("leer", "entender lo que está escrito, en voz alta o en silencio")],
     [
         ("Escribir una palabra", "Quieres escribir la palabra «sol». ¿Con qué letra empieza?", ["Digo la palabra despacio: s-o-l.", "Empieza con la s."], "Con la letra s"),
         ("Escribir una frase", "Quieres decir que te gusta el sol. ¿Qué escribes?", ["Digo qué quiero decir.", "Escribo: Me gusta el sol."], "Me gusta el sol"),

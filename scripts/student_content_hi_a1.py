@@ -36,7 +36,7 @@ register(
             ex("¿Qué día de la semana está justo antes del domingo?", "sábado", "El sábado está justo antes del domingo."),
         ],
         "understand": [
-            ex("Ordena de primero a último: viernes, lunes, jueves, martes, miércoles.", "lunes, martes, miércoles, jueves, viernes", "Es el orden en que ocurren dentro de la semana."),
+            ex("Ordena de primero a último: domingo, jueves, sábado.", "jueves, sábado, domingo", "Así ocurren dentro de la semana."),
             ex("¿Qué dos días forman el fin de semana?", "sábado y domingo", "Son los dos últimos días de la semana."),
             ex("Explica con tus palabras por qué decimos que la semana se repite.", "Porque después del domingo viene otra vez el lunes", "Los siete días vuelven a empezar en el mismo orden."),
         ],

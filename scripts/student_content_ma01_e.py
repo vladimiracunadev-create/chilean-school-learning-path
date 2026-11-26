@@ -75,7 +75,7 @@ register(
         "Para buscar líneas, recorre un objeto con el dedo y pregúntate si cambia de dirección. Si va derecho, es recta; si va girando, es curva. Algunos objetos tienen ambos tipos: un paraguas abierto tiene varillas rectas y un borde curvo.",
         "Anota lo que encuentras en una tabla de dos columnas: rectas y curvas. Al final cuenta cuántas encontraste de cada tipo y compara.",
     ],
-    vocab=[("entorno", "lo que me rodea"), ("borde", "el límite de un objeto"), ("recorrer", "seguir con el dedo"), ("tabla", "cuadro con columnas para ordenar"), ("clasificar", "ordenar según un criterio")],
+    vocab=[("entorno", "lo que me rodea"), ("borde", "el límite de un objeto"), ("recorrer", "seguir con el dedo"), ("tabla", "cuadro con columnas para ordenar"), ("clasificar", "formar grupos con las cosas que se parecen en algo")],
     worked=[
         {"title": "Buscar líneas", "problem": "Busca líneas en una puerta.", "steps": ["Los lados de la puerta son rectas verticales.", "El borde de arriba es una recta horizontal.", "La manilla puede tener una curva."], "answer": "Rectas: lados y borde; curva: manilla"},
         {"title": "Clasificar en una tabla", "problem": "Clasifica: borde de mesa, plato, cuaderno, reloj redondo.", "steps": ["Borde de mesa: recta.", "Plato: curva.", "Cuaderno: recta.", "Reloj redondo: curva."], "answer": "Rectas: mesa y cuaderno. Curvas: plato y reloj"},
@@ -746,7 +746,7 @@ register(
         {"wrong": "No marcar el largo en la cinta.", "why": "Se pierde la medida.", "fix": "Marca el extremo con un lápiz."},
     ],
     tiers={
-        "recovery": [ex("La cinta marcada con la puerta sobra al llegar a la mesa. ¿Cuál es más corto?", "La mesa", "La cinta cubre más que la mesa."), ex("La cinta marcada con la puerta falta al llegar a la ventana. ¿Cuál mide más, la puerta o la ventana?", "La ventana", "Necesita más cinta."), ex("La cinta calza justo con ambos. ¿Qué concluyes?", "Son igual de largos", "Miden lo mismo.")],
+        "recovery": [ex("Marcas en un cordel el largo de tu cama. Al ponerlo junto al estante, sobra cordel. ¿Qué es más corto: la cama o el estante?", "El estante", "Si el cordel sobra, el segundo objeto es más corto."), ex("Marcas en una cinta el ancho de un cuadro. Al ponerla en la ventana, la cinta no alcanza. ¿Qué es más ancho: el cuadro o la ventana?", "La ventana", "Si la cinta no alcanza, el segundo objeto es más ancho."), ex("La cinta calza justo con ambos. ¿Qué concluyes?", "Son igual de largos", "Miden lo mismo.")],
         "understand": [
             ex("¿Para qué sirve un intermediario?", "Para comparar objetos que no se pueden mover", "Pasa la medida."),
             ex("¿Qué hago después de medir con la cinta?", "La llevo al otro objeto y comparo", "Veo si sobra o falta."),
